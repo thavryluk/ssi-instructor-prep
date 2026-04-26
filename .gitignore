@@ -27,3 +27,7 @@ Thumbs.db
 
 # Dropbox conflict files (if any get committed)
 *conflict*
+
+# Intermediate translation chunks (reproducible via data/translate_split.py + agents)
+data/cs/source/
+data/cs/translated/
