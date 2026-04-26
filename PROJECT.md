@@ -250,6 +250,7 @@ Netlify Functions (`netlify/functions/`):
 Endpoint: `GET /version.json` na produkci vrací `{ "commit": "abc1234", "built_at": "2026-04-26T22:03:31+00:00" }`. Užitečné taky pro debugging: ověř, že nasazená verze je ta očekávaná.
 
 ### AKTIVNÍ TODO (po session 2026-04-26/27)
+- [ ] **BUG: V Help screenu se zobrazují HTML tagy jako text** (`<strong>`, `<span style=...>`). Položky v `#help-screen` používají `data-i18n` (které volá `textContent` a escapuje HTML), ale i18n stringy obsahují `<strong>` markup. Fix: změnit `data-i18n="help.foo"` → `data-i18n-html="help.foo"` na ~20 položkách v `index.html`. Stejná oprava pro `dash.help.sources`, `dash.help.accuracy` (už používají `data-i18n-html` u `<dd>`, takže OK).
 - [ ] Ověřit zbývající `mssi-inst-022` (Group D + 2:45 SI → ?)
 - [ ] Pokračovat s mySSI Lesson Reviews (zatím jen Lesson 1.1)
 - [ ] Pokračovat s mySSI Pretest pokud SSI vydá další Parts
