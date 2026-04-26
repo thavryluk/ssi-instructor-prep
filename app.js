@@ -1,5 +1,594 @@
 "use strict";
 
+// ───────── i18n ─────────
+
+const I18N = {
+  en: {
+    // Topbar
+    "topbar.dashboard": "Dashboard",
+    "topbar.browse": "Browse",
+    "topbar.settings": "Settings",
+    "topbar.log": "Log",
+    "topbar.theme": "Toggle theme (light/dark)",
+    "topbar.logout": "Log out",
+    "stats.pool": "Pool",
+    "stats.total": "Total",
+    "stats.active": "active",
+    "stats.seen": "seen",
+    "stats.acc": "acc",
+    "stats.answered": "answered",
+    "stats.correct": "correct",
+    "stats.wrong": "wrong",
+    "stats.mastered": "mastered",
+
+    // Login
+    "login.title": "Sign in",
+    "login.intro": "Each user has their own progress (drill log, mastered, dashboard). Pick a username — register first time, then log in.",
+    "login.username": "Username",
+    "login.password": "Password",
+    "login.password_placeholder": "anything (or empty)",
+    "login.username_placeholder": "e.g. honza",
+    "login.signin": "Log in",
+    "login.register": "Create account",
+    "login.warning": "Soft auth — passwords are stored in plaintext on the server. Don't reuse a real password.",
+    "login.err.username_format": "Username must be 2-32 chars: a-z, 0-9, . _ -",
+    "login.err.username_taken": "That username is already taken",
+    "login.err.no_user": "No such user",
+    "login.err.wrong_password": "Wrong password",
+
+    // Setup
+    "setup.title": "Choose your areas",
+    "setup.intro": "Pick what to drill. You can change anytime in Settings.",
+    "setup.start": "Start drilling",
+    "setup.include_mastered": "Include questions I marked as mastered (reset)",
+
+    // Areas
+    "area.science_of_diving": "Science of Diving",
+    "area.divemaster": "Divemaster / Dive Guide",
+    "area.assistant_instructor": "Assistant Instructor",
+    "area.instructor": "Instructor",
+
+    // Quiz
+    "quiz.dont_know": "I don't know — explain",
+    "quiz.study_more": "📚 Study more",
+    "quiz.study_more_active": "📚 Study more (click to clear)",
+    "quiz.dispute": "⚐ Dispute",
+    "quiz.dispute_active": "⚐ Disputed (click to clear)",
+    "quiz.know_50": "I know this ~50%",
+    "quiz.know_100": "I know this 100%",
+    "quiz.next": "Next question →",
+    "quiz.correct": "Correct ✓",
+    "quiz.wrong_correct_is": "Wrong — correct answer is",
+    "quiz.correct_answer": "Correct answer:",
+    "quiz.no_explanation": "(No explanation provided.)",
+    "quiz.first_time": "First time you see this question",
+    "quiz.seen": "Seen",
+    "quiz.times": "×",
+    "quiz.from_review_pool": "↻ from 50% review pool",
+    "quiz.disputed": "⚐ Disputed",
+    "quiz.study_flag": "📚 Study more",
+    "quiz.source": "Source:",
+    "quiz.source_compiled": "compiled from dive theory (agent-authored)",
+    "quiz.flag_100": "100%",
+    "quiz.flag_50": "~50%",
+    "quiz.flag_reset": "↻ reset",
+    "quiz.pre_reset_in_total": "pre-reset in Total",
+    "quiz.badge_personal": "🔒 Personal",
+    "quiz.badge_mssi": "★ mySSI",
+    "quiz.badge_web": "● web source",
+    "quiz.badge_compiled": "○ compiled (theory)",
+    "quiz.compiled_title": "Authored by agent from public SSI standards / dive theory — not a verbatim citation.",
+
+    // Settings
+    "settings.title": "Settings",
+    "settings.areas": "Areas",
+    "settings.subareas": "Subareas (advanced)",
+    "settings.subareas_intro": "Empty = all subareas of the area are drilled. Tick to narrow down.",
+    "settings.personal_section": "🔒 Personal questions",
+    "settings.personal_locked": "🔒 Locked. Personal questions are hidden from the pool.",
+    "settings.personal_unlocked": "🔓 Unlocked. Personal questions are visible in the pool.",
+    "settings.unlock": "Unlock…",
+    "settings.lock_again": "Lock again",
+    "settings.source_filter": "Source filter",
+    "settings.source_filter_intro": "Limit drill to questions from real web sources, agent-compiled-from-theory, or both.",
+    "settings.src_all": "All sources",
+    "settings.src_mssi": "★ mySSI only",
+    "settings.src_personal": "🔒 Personal only",
+    "settings.src_web": "● Web (other) only",
+    "settings.src_compiled": "○ Compiled only",
+    "settings.reset_pool": "Reset pool stats",
+    "settings.reset_pool_intro": "Marks all current pool answers as \"reset\" — they stop counting toward Pool stats, Dashboard and weighted picking, but stay in Total. Useful when you want a fresh accuracy reading after a study session.",
+    "settings.reset_pool_count": "Currently:",
+    "settings.reset_pool_marked": "questions in pool have a reset mark.",
+    "settings.btn_reset_pool": "Reset current pool stats",
+    "settings.btn_clear_resets": "Clear all reset marks",
+    "settings.confidence_pools": "Confidence pools",
+    "settings.marked_100": "marked",
+    "settings.excluded": "(excluded from drills).",
+    "settings.marked_50": "marked",
+    "settings.review_only": "(occasional review only).",
+    "settings.btn_reset_100": "Reset 100% pool",
+    "settings.btn_reset_50": "Reset 50% pool",
+    "settings.btn_reset_both": "Reset both",
+    "settings.disputed": "Disputed questions",
+    "settings.disputed_count": "questions flagged as disputed.",
+    "settings.skip_disputed": "Skip disputed questions in drills",
+    "settings.btn_clear_disputed": "Clear all dispute flags",
+    "settings.study_more": "Study more",
+    "settings.study_count": "questions flagged for further review.",
+    "settings.btn_clear_study": "Clear all study-more flags",
+    "settings.log": "Log",
+    "settings.log_count": "answers logged.",
+    "settings.btn_export_log": "Export log (JSON)",
+    "settings.btn_clear_log": "Clear log",
+    "settings.back": "Back to drilling",
+
+    // Dashboard
+    "dash.title": "Dashboard",
+    "dash.intro": "Progress and accuracy per area. Mastered/disputed counts per confidence level.",
+    "dash.view_user": "View user:",
+    "dash.refresh": "↻ Refresh users",
+    "dash.viewing_your": "(your data)",
+    "dash.viewing_loading": "(loading…)",
+    "dash.viewing_failed": "(failed to load)",
+    "dash.viewing": "(viewing {user})",
+    "dash.user_me_suffix": "(me)",
+    "dash.col_area": "Area",
+    "dash.col_total": "Total",
+    "dash.col_mssi": "★ mySSI",
+    "dash.col_web": "● Web",
+    "dash.col_compiled": "○ Compiled",
+    "dash.col_seen": "Seen",
+    "dash.col_attempts": "Attempts",
+    "dash.col_accuracy": "Accuracy",
+    "dash.col_100": "100%",
+    "dash.col_50": "~50%",
+    "dash.col_study": "📚 Study",
+    "dash.col_disputed": "Disputed",
+    "dash.row_total": "Total",
+    "dash.disputed_section": "Disputed questions",
+    "dash.disputed_none": "None.",
+    "dash.q_not_found": "(not found in current question set)",
+
+    // Browse
+    "browse.title": "Browse questions",
+    "browse.intro": "Full pool with status. Click any question to expand.",
+    "browse.area": "Area:",
+    "browse.subarea": "Subarea:",
+    "browse.source": "Source:",
+    "browse.mssi_section": "mySSI Section:",
+    "browse.status": "Status:",
+    "browse.search_placeholder": "Search question text or ID…",
+    "browse.sort.id": "Sort: ID",
+    "browse.sort.seen": "Sort: Last seen",
+    "browse.sort.accuracy": "Sort: Accuracy (low → high)",
+    "browse.sort.attempts": "Sort: Most attempts",
+    "browse.all": "All",
+    "browse.count_of": "of",
+    "browse.back": "Back to drilling",
+    "browse.status.unanswered": "Unanswered",
+    "browse.status.answered": "Answered",
+    "browse.status.last_correct": "Last correct",
+    "browse.status.last_wrong": "Last wrong",
+    "browse.status.disputed": "Disputed",
+    "browse.status.study": "📚 Study more",
+    "browse.src.mssi": "mySSI (verbatim)",
+    "browse.src.personal": "🔒 Personal",
+    "browse.src.web": "Web (other)",
+    "browse.src.compiled": "Compiled (theory)",
+    "browse.badge.web": "● web",
+    "browse.badge.compiled": "○ compiled",
+    "browse.badge.mssi": "★ mySSI",
+    "browse.badge.personal": "🔒 personal",
+    "browse.badge.unanswered": "unanswered",
+    "browse.badge.last_correct": "last: correct",
+    "browse.badge.last_wrong": "last: wrong",
+    "browse.badge.last_unknown": "last: unknown",
+    "browse.badge.100": "100%",
+    "browse.badge.50": "~50%",
+    "browse.badge.disputed": "⚐ disputed",
+    "browse.badge.study": "📚 study",
+    "browse.compiled_title": "Authored by agent from public SSI standards / dive theory",
+    "browse.accuracy": "accuracy:",
+    "browse.last_seen": "last seen:",
+    "browse.detail.explanation": "Explanation:",
+    "browse.detail.source": "Source:",
+    "browse.detail.none": "(none)",
+    "browse.detail.btn_unmark_100": "Unmark 100%",
+    "browse.detail.btn_mark_100": "Mark 100%",
+    "browse.detail.btn_unmark_50": "Unmark ~50%",
+    "browse.detail.btn_mark_50": "Mark ~50%",
+    "browse.detail.btn_clear_dispute": "Clear dispute",
+    "browse.detail.btn_mark_dispute": "Mark disputed",
+    "browse.detail.btn_clear_study": "Clear study-more",
+    "browse.detail.btn_study": "📚 Study more",
+    "browse.detail.btn_drill": "Drill this question",
+
+    // Log
+    "log.title": "Answer log",
+    "log.intro": "Most recent first. Right/wrong/unknown breakdown per question.",
+    "log.total": "Total:",
+    "log.correct": "Correct:",
+    "log.wrong": "Wrong:",
+    "log.unknown": "Unknown:",
+    "log.col_time": "Time",
+    "log.col_id": "ID",
+    "log.col_area": "Area / Subarea",
+    "log.col_source": "Source",
+    "log.col_question": "Question",
+    "log.col_result": "Result",
+    "log.click_to_open": "Click to open in Browse",
+    "log.question_removed": "(question removed —",
+    "log.back": "Back to drilling",
+    "log.result.correct": "correct",
+    "log.result.wrong": "wrong",
+    "log.result.unknown": "unknown",
+    "log.result.mastered_100": "→ 100%",
+    "log.result.mastered_50": "→ 50%",
+    "log.result.disputed": "⚐ disputed",
+    "log.result.dispute_clear": "⚐ cleared",
+    "log.result.study_more": "📚 study",
+    "log.result.study_clear": "📚 study cleared",
+
+    // Empty pool
+    "empty.title": "No questions in pool",
+    "empty.intro": "Either no areas are selected or you've mastered everything in the selected areas. 🎉",
+    "empty.back": "Open settings",
+
+    // Footer
+    "footer": "Built for instructor exam prep · Local-only · Data persists in your browser",
+
+    // Confirms
+    "confirm.reset_100": "Reset {n} questions from the 100% pool?",
+    "confirm.reset_50": "Reset {n} questions from the 50% pool?",
+    "confirm.reset_both": "Reset both pools — {n} questions back into rotation?",
+    "confirm.clear_disputed": "Clear dispute flags from {n} questions?",
+    "confirm.clear_study": "Clear study-more flags from {n} questions?",
+    "confirm.clear_log": "Clear all {n} log entries? This can't be undone.",
+    "confirm.reset_pool_no_data": "No answered questions in current pool to reset.",
+    "confirm.reset_pool": "Reset stats for {n} answered questions in current pool? Existing answers will move to TOTAL only — Pool/Dashboard/picking will treat them as unseen.",
+    "confirm.reset_pool_done": "Marked {n} questions as reset.",
+    "confirm.no_resets": "No reset marks to clear.",
+    "confirm.clear_resets": "Clear {n} reset marks? Old answers will be re-counted toward Pool stats.",
+    "confirm.logout": "Log out? Your progress is saved on the server — you can log back in anytime.",
+    "confirm.unlock_personal": "Hint: \"{hint}\"\n\nEnter password to unlock Personal questions:",
+    "confirm.unlocked": "🔓 Unlocked.",
+    "confirm.wrong_password": "Wrong password.",
+  },
+  cs: {
+    // Topbar
+    "topbar.dashboard": "Přehled",
+    "topbar.browse": "Procházet",
+    "topbar.settings": "Nastavení",
+    "topbar.log": "Záznam",
+    "topbar.theme": "Přepnout vzhled (světlý/tmavý)",
+    "topbar.logout": "Odhlásit",
+    "stats.pool": "VÝBĚR",
+    "stats.total": "CELKEM",
+    "stats.active": "aktivní",
+    "stats.seen": "viděno",
+    "stats.acc": "úsp.",
+    "stats.answered": "odpovězeno",
+    "stats.correct": "správně",
+    "stats.wrong": "špatně",
+    "stats.mastered": "naučené",
+
+    // Login
+    "login.title": "Přihlášení",
+    "login.intro": "Každý uživatel má vlastní postup (záznam odpovědí, naučené otázky, statistiky). Vyber si jméno — poprvé Vytvoř účet, pak Přihlás se.",
+    "login.username": "Jméno",
+    "login.password": "Heslo",
+    "login.password_placeholder": "cokoliv (může být i prázdné)",
+    "login.username_placeholder": "např. honza",
+    "login.signin": "Přihlásit se",
+    "login.register": "Vytvořit účet",
+    "login.warning": "Měkká autentizace — hesla jsou na serveru v plaintextu. Nepoužívej skutečné heslo.",
+    "login.err.username_format": "Jméno musí mít 2-32 znaků: a-z, 0-9, . _ -",
+    "login.err.username_taken": "Toto jméno je už zabrané",
+    "login.err.no_user": "Takový uživatel neexistuje",
+    "login.err.wrong_password": "Špatné heslo",
+
+    // Setup
+    "setup.title": "Vyber oblasti",
+    "setup.intro": "Z čeho chceš zkoušet. Můžeš změnit kdykoliv v Nastavení.",
+    "setup.start": "Začít zkoušení",
+    "setup.include_mastered": "Zahrnout otázky, které jsem označil jako naučené (reset)",
+
+    // Areas
+    "area.science_of_diving": "Věda o potápění",
+    "area.divemaster": "Divemaster",
+    "area.assistant_instructor": "Asistent instruktora",
+    "area.instructor": "Instruktor",
+
+    // Quiz
+    "quiz.dont_know": "Nevím — vysvětli",
+    "quiz.study_more": "📚 Studovat víc",
+    "quiz.dispute": "⚐ Rozporovat",
+    "quiz.dispute_active": "⚐ Rozporováno (klik = zrušit)",
+    "quiz.know_50": "Znám asi na 50 %",
+    "quiz.know_100": "Znám na 100 %",
+    "quiz.next": "Další otázka →",
+    "quiz.correct": "Správně ✓",
+    "quiz.wrong_correct_is": "Špatně — správná odpověď je",
+    "quiz.correct_answer": "Správná odpověď:",
+    "quiz.no_explanation": "(Žádné vysvětlení.)",
+    "quiz.first_time": "Tuto otázku vidíš poprvé",
+    "quiz.seen": "Viděno",
+    "quiz.times": "×",
+    "quiz.from_review_pool": "↻ z 50 % review",
+    "quiz.disputed": "⚐ Rozporováno",
+    "quiz.study_flag": "📚 Studovat víc",
+    "quiz.source": "Zdroj:",
+    "quiz.source_compiled": "vytvořeno z teorie potápění (autor: agent)",
+    "quiz.flag_100": "100%",
+    "quiz.flag_50": "~50%",
+    "quiz.flag_reset": "↻ reset",
+    "quiz.pre_reset_in_total": "před resetem v Celkem",
+    "quiz.study_more_active": "📚 Studovat víc (klik = zrušit)",
+    "quiz.badge_personal": "🔒 Osobní",
+    "quiz.badge_mssi": "★ mySSI",
+    "quiz.badge_web": "● web",
+    "quiz.badge_compiled": "○ vytvořené (z teorie)",
+    "quiz.compiled_title": "Vytvořeno agentem z veřejných SSI standardů / teorie potápění — není doslovná citace.",
+
+    // Settings
+    "settings.title": "Nastavení",
+    "settings.areas": "Oblasti",
+    "settings.subareas": "Podoblasti (pokročilé)",
+    "settings.subareas_intro": "Prázdné = zkouší všechny podoblasti dané oblasti. Zaškrtni pro zúžení.",
+    "settings.personal_section": "🔒 Osobní otázky",
+    "settings.personal_locked": "🔒 Zamčeno. Osobní otázky jsou skryté.",
+    "settings.personal_unlocked": "🔓 Odemčeno. Osobní otázky jsou ve výběru.",
+    "settings.unlock": "Odemknout…",
+    "settings.lock_again": "Znovu zamknout",
+    "settings.source_filter": "Filtr zdroje",
+    "settings.source_filter_intro": "Omez zkoušení na konkrétní zdroje.",
+    "settings.src_all": "Všechny zdroje",
+    "settings.src_mssi": "★ Pouze mySSI",
+    "settings.src_personal": "🔒 Pouze osobní",
+    "settings.src_web": "● Pouze web (ostatní)",
+    "settings.src_compiled": "○ Pouze vytvořené (z teorie)",
+    "settings.reset_pool": "Resetovat statistiku výběru",
+    "settings.reset_pool_intro": "Označí všechny dosavadní odpovědi v aktuálním výběru jako „resetované\" — přestanou se počítat do statistik výběru, do Přehledu a do váženého výběru otázek, ale zůstanou v Celkové statistice. Užitečné, pokud chceš čistou bilanci po další studijní seance.",
+    "settings.reset_pool_count": "Aktuálně:",
+    "settings.reset_pool_marked": "otázek ve výběru má reset značku.",
+    "settings.btn_reset_pool": "Resetovat statistiku aktuálního výběru",
+    "settings.btn_clear_resets": "Smazat všechny reset značky",
+    "settings.confidence_pools": "Skupiny dle jistoty",
+    "settings.marked_100": "označeno",
+    "settings.excluded": "(vyřazeno z výběru)",
+    "settings.marked_50": "označeno",
+    "settings.review_only": "(jen občasný review)",
+    "settings.btn_reset_100": "Resetovat 100 % skupinu",
+    "settings.btn_reset_50": "Resetovat 50 % skupinu",
+    "settings.btn_reset_both": "Resetovat obě",
+    "settings.disputed": "Rozporované otázky",
+    "settings.disputed_count": "otázek označeno jako rozporované.",
+    "settings.skip_disputed": "Přeskočit rozporované otázky ve zkoušení",
+    "settings.btn_clear_disputed": "Smazat všechny rozpory",
+    "settings.study_more": "Studovat víc",
+    "settings.study_count": "otázek označeno k dalšímu prostudování.",
+    "settings.btn_clear_study": "Smazat všechny značky studovat víc",
+    "settings.log": "Záznam odpovědí",
+    "settings.log_count": "odpovědí v záznamu.",
+    "settings.btn_export_log": "Export záznamu (JSON)",
+    "settings.btn_clear_log": "Smazat záznam",
+    "settings.back": "Zpět ke zkoušení",
+
+    // Dashboard
+    "dash.title": "Přehled",
+    "dash.intro": "Postup a úspěšnost dle oblastí. Počty naučených/rozporovaných dle skupiny jistoty.",
+    "dash.view_user": "Zobrazit uživatele:",
+    "dash.refresh": "↻ Obnovit uživatele",
+    "dash.viewing_your": "(tvoje data)",
+    "dash.viewing_loading": "(načítání…)",
+    "dash.viewing_failed": "(načtení selhalo)",
+    "dash.viewing": "(zobrazuji uživatele",
+    "dash.col_area": "Oblast",
+    "dash.col_total": "Celkem",
+    "dash.col_mssi": "★ mySSI",
+    "dash.col_web": "● Web",
+    "dash.col_compiled": "○ Vytvořené",
+    "dash.col_seen": "Viděno",
+    "dash.col_attempts": "Pokusy",
+    "dash.col_accuracy": "Úspěšnost",
+    "dash.col_100": "100%",
+    "dash.col_50": "~50%",
+    "dash.col_study": "📚 Studovat",
+    "dash.col_disputed": "Rozpory",
+    "dash.row_total": "Celkem",
+    "dash.disputed_section": "Rozporované otázky",
+    "dash.disputed_none": "Žádné.",
+    "dash.user_me_suffix": "(já)",
+    "dash.q_not_found": "(nenalezeno v aktuální sadě otázek)",
+
+    // Browse
+    "browse.title": "Procházet otázky",
+    "browse.intro": "Celý fond otázek se stavem. Klikni na otázku pro detail.",
+    "browse.area": "Oblast:",
+    "browse.subarea": "Podoblast:",
+    "browse.source": "Zdroj:",
+    "browse.mssi_section": "Sekce mySSI:",
+    "browse.status": "Stav:",
+    "browse.search_placeholder": "Hledat text otázky nebo ID…",
+    "browse.sort.id": "Řadit: ID",
+    "browse.sort.seen": "Řadit: Naposledy viděno",
+    "browse.sort.accuracy": "Řadit: Úspěšnost (nejhorší první)",
+    "browse.sort.attempts": "Řadit: Nejvíc pokusů",
+    "browse.all": "Vše",
+    "browse.count_of": "z",
+    "browse.back": "Zpět ke zkoušení",
+    "browse.status.unanswered": "Nezodpovězeno",
+    "browse.status.answered": "Zodpovězeno",
+    "browse.status.last_correct": "Naposledy správně",
+    "browse.status.last_wrong": "Naposledy špatně",
+    "browse.status.disputed": "Rozporované",
+    "browse.status.study": "📚 Studovat víc",
+    "browse.src.mssi": "mySSI (doslovně)",
+    "browse.src.personal": "🔒 Osobní",
+    "browse.src.web": "Web (ostatní)",
+    "browse.src.compiled": "Vytvořené (z teorie)",
+    "browse.badge.web": "● web",
+    "browse.badge.compiled": "○ vytvořené",
+    "browse.badge.mssi": "★ mySSI",
+    "browse.badge.personal": "🔒 osobní",
+    "browse.badge.unanswered": "nezodpovězeno",
+    "browse.badge.last_correct": "naposledy: správně",
+    "browse.badge.last_wrong": "naposledy: špatně",
+    "browse.badge.last_unknown": "naposledy: nevěděl",
+    "browse.badge.100": "100%",
+    "browse.badge.50": "~50%",
+    "browse.badge.disputed": "⚐ rozporováno",
+    "browse.badge.study": "📚 studovat",
+    "browse.accuracy": "úspěšnost:",
+    "browse.last_seen": "naposledy:",
+    "browse.detail.explanation": "Vysvětlení:",
+    "browse.detail.source": "Zdroj:",
+    "browse.detail.none": "(žádné)",
+    "browse.compiled_title": "Vytvořeno agentem z veřejných SSI standardů / teorie potápění",
+    "browse.detail.btn_unmark_100": "Zrušit 100%",
+    "browse.detail.btn_mark_100": "Označit 100%",
+    "browse.detail.btn_unmark_50": "Zrušit ~50%",
+    "browse.detail.btn_mark_50": "Označit ~50%",
+    "browse.detail.btn_clear_dispute": "Zrušit rozpor",
+    "browse.detail.btn_mark_dispute": "Označit rozporované",
+    "browse.detail.btn_clear_study": "Zrušit studovat víc",
+    "browse.detail.btn_study": "📚 Studovat víc",
+    "browse.detail.btn_drill": "Zkoušet tuto otázku",
+
+    // Log
+    "log.title": "Záznam odpovědí",
+    "log.intro": "Nejnovější nahoře. Rozpis správně/špatně/nevěděl podle otázky.",
+    "log.total": "Celkem:",
+    "log.correct": "Správně:",
+    "log.wrong": "Špatně:",
+    "log.unknown": "Nevěděl:",
+    "log.col_time": "Čas",
+    "log.col_id": "ID",
+    "log.col_area": "Oblast / Podoblast",
+    "log.col_source": "Zdroj",
+    "log.col_question": "Otázka",
+    "log.col_result": "Výsledek",
+    "log.click_to_open": "Kliknutím otevřít v Procházet",
+    "log.question_removed": "(otázka odstraněna —",
+    "log.back": "Zpět ke zkoušení",
+    "log.result.correct": "správně",
+    "log.result.wrong": "špatně",
+    "log.result.unknown": "nevěděl",
+    "log.result.mastered_100": "→ 100%",
+    "log.result.mastered_50": "→ ~50%",
+    "log.result.disputed": "⚐ rozporováno",
+    "log.result.dispute_clear": "⚐ rozpor zrušen",
+    "log.result.study_more": "📚 studovat",
+    "log.result.study_clear": "📚 studovat zrušeno",
+
+    // Empty pool
+    "empty.title": "Ve výběru nejsou žádné otázky",
+    "empty.intro": "Buď nemáš vybrané žádné oblasti, nebo jsi naučil všechno z vybraných oblastí. 🎉",
+    "empty.back": "Otevři nastavení",
+
+    // Footer
+    "footer": "Postaveno pro přípravu na instruktorské zkoušky · Lokální · Data v tvém prohlížeči",
+
+    // Confirms
+    "confirm.reset_100": "Resetovat {n} otázek z 100 % skupiny zpět do výběru?",
+    "confirm.reset_50": "Resetovat {n} otázek z 50 % skupiny zpět do výběru?",
+    "confirm.reset_both": "Resetovat obě skupiny — {n} otázek zpět do výběru?",
+    "confirm.clear_disputed": "Vyčistit rozpory u {n} otázek?",
+    "confirm.clear_study": "Vyčistit značky „studovat víc\" u {n} otázek?",
+    "confirm.clear_log": "Smazat všech {n} záznamů? Nelze vrátit zpět.",
+    "confirm.reset_pool_no_data": "Žádné zodpovězené otázky ve výběru k resetu.",
+    "confirm.reset_pool": "Resetovat statistiku {n} zodpovězených otázek v aktuálním výběru? Stávající odpovědi se přesunou jen do Celkové statistiky — Výběr/Přehled/výběr otázek je budou ignorovat.",
+    "confirm.reset_pool_done": "Označeno {n} otázek jako resetovaných.",
+    "confirm.no_resets": "Žádné reset značky k smazání.",
+    "confirm.clear_resets": "Smazat {n} reset značek? Staré odpovědi se znovu započítají do statistiky výběru.",
+    "confirm.logout": "Odhlásit? Postup je uložený na serveru — můžeš se přihlásit kdykoliv zpátky.",
+    "confirm.unlock_personal": "Hint: \"{hint}\"\n\nZadej heslo pro odemčení osobních otázek:",
+    "confirm.unlocked": "🔓 Odemčeno.",
+    "confirm.wrong_password": "Špatné heslo.",
+  },
+};
+
+let currentLang = "en";
+
+function getCurrentLang() {
+  try { return localStorage.getItem("ssi.language") || "en"; }
+  catch { return "en"; }
+}
+
+function setLang(lang) {
+  currentLang = lang;
+  try { localStorage.setItem("ssi.language", lang); } catch {}
+  applyTranslations();
+  // Update visible button label
+  const btn = document.getElementById("btn-lang");
+  if (btn) btn.textContent = lang === "cs" ? "EN" : "CS";
+  // If app is fully booted, reload questions in chosen language
+  if (typeof state !== "undefined" && state.questions && state.questions.length) {
+    loadQuestions().then(() => {
+      buildSubareaIndex();
+      buildMssiSectionIndex();
+      refreshStats();
+      // Re-render current quiz card if visible
+      const quizVisible = !document.querySelector("#quiz-screen").classList.contains("hidden");
+      if (quizVisible && state.current) {
+        const fresh = state.questions.find((q) => q.id === state.current.id);
+        if (fresh) renderQuestion(fresh);
+      }
+    });
+  }
+}
+
+function t(key, fallback) {
+  const dict = I18N[currentLang] || I18N.en;
+  if (dict[key] != null) return dict[key];
+  // Fallback to EN dictionary if missing in current language
+  if (currentLang !== "en" && I18N.en[key] != null) return I18N.en[key];
+  return fallback != null ? fallback : key;
+}
+
+function tFmt(key, params) {
+  let s = t(key);
+  if (params) {
+    for (const [k, v] of Object.entries(params)) {
+      s = s.replace(new RegExp("\\{" + k + "\\}", "g"), String(v));
+    }
+  }
+  return s;
+}
+
+function applyTranslations() {
+  // Text content
+  document.querySelectorAll("[data-i18n]").forEach((el) => {
+    const key = el.dataset.i18n;
+    el.textContent = t(key, el.textContent);
+  });
+  // Attributes — format: data-i18n-attr="placeholder:login.username_placeholder"
+  document.querySelectorAll("[data-i18n-attr]").forEach((el) => {
+    const spec = el.dataset.i18nAttr;
+    const colonIdx = spec.indexOf(":");
+    if (colonIdx === -1) return;
+    const attr = spec.slice(0, colonIdx);
+    const key = spec.slice(colonIdx + 1);
+    el.setAttribute(attr, t(key));
+  });
+  // HTML content (for entries with inner spans etc.)
+  document.querySelectorAll("[data-i18n-html]").forEach((el) => {
+    const key = el.dataset.i18nHtml;
+    el.innerHTML = t(key, el.innerHTML);
+  });
+}
+
+function initLang() {
+  currentLang = getCurrentLang();
+  applyTranslations();
+  const btn = document.getElementById("btn-lang");
+  if (btn) {
+    btn.textContent = currentLang === "cs" ? "EN" : "CS";
+    btn.addEventListener("click", () => setLang(currentLang === "cs" ? "en" : "cs"));
+  }
+}
+
 const STORAGE_KEYS = {
   selectedAreas: "ssi.selectedAreas",
   selectedSubareas: "ssi.selectedSubareas", // Set of "area:group" strings
@@ -15,12 +604,31 @@ const STORAGE_KEYS = {
   legacyMastered: "ssi.mastered",
 };
 
-const AREA_LABELS = {
+const AREA_LABELS_EN = {
   science_of_diving: "Science of Diving",
   divemaster: "Divemaster",
   assistant_instructor: "Assistant Instructor",
   instructor: "Instructor",
 };
+
+// Proxy that translates on access AND iterates correctly via Object.keys/entries.
+// Target = AREA_LABELS_EN, so own keys/has work; get + getOwnPropertyDescriptor
+// route through t() so iteration sees translated values.
+const AREA_LABELS = new Proxy(AREA_LABELS_EN, {
+  get(target, key) {
+    if (typeof key !== "string" || !(key in target)) return target[key];
+    return t("area." + key, target[key]);
+  },
+  getOwnPropertyDescriptor(target, key) {
+    if (!(key in target)) return undefined;
+    return {
+      enumerable: true,
+      configurable: true,
+      writable: false,
+      value: t("area." + key, target[key]),
+    };
+  },
+});
 
 // Probability that a draw pulls from the 50% pool instead of the active pool
 const REVIEW_50_PROBABILITY = 0.1;
@@ -72,12 +680,9 @@ function sourceKeysVisible() {
   return isPersonalUnlocked() ? SOURCE_KEYS_ALL : SOURCE_KEYS_LOCKED;
 }
 const SOURCE_KEYS = SOURCE_KEYS_ALL; // legacy alias for code that doesn't gate
-const SOURCE_LABELS = {
-  mssi: "mySSI (verbatim)",
-  personal: "🔒 Personal",
-  web: "Web (other)",
-  compiled: "Compiled (theory)",
-};
+function sourceLabel(k) {
+  return t("browse.src." + k);
+}
 
 // All subareas grouped by area, sorted, computed once after questions load
 let subareaIndex = {}; // { area: [{ group, count }] }
@@ -359,7 +964,11 @@ async function hasCloudApi() {
 // ───────── Questions loading ─────────
 
 async function loadQuestions() {
-  for (const path of ["data/questions.json", "data/questions.seed.json"]) {
+  // If language=cs, prefer questions.cs.json (translated bank); fall back to English on error.
+  const paths = currentLang === "cs"
+    ? ["data/questions.cs.json", "data/questions.json", "data/questions.seed.json"]
+    : ["data/questions.json", "data/questions.seed.json"];
+  for (const path of paths) {
     try {
       const res = await fetch(path, { cache: "no-store" });
       if (!res.ok) continue;
@@ -591,21 +1200,21 @@ function renderQuestion(q) {
   const srcEl = $("#q-source");
   const k = sourceTypeKey(q);
   if (k === "personal") {
-    srcEl.textContent = "🔒 Personal";
+    srcEl.textContent = t("quiz.badge_personal");
     srcEl.className = "badge badge-personal";
     srcEl.title = q.source;
   } else if (k === "mssi") {
-    srcEl.textContent = "★ mySSI";
+    srcEl.textContent = t("quiz.badge_mssi");
     srcEl.className = "badge badge-mssi";
     srcEl.title = q.source;
   } else if (k === "web") {
-    srcEl.textContent = "● web source";
+    srcEl.textContent = t("quiz.badge_web");
     srcEl.className = "badge badge-web";
     srcEl.title = q.source;
   } else {
-    srcEl.textContent = "○ compiled (theory)";
+    srcEl.textContent = t("quiz.badge_compiled");
     srcEl.className = "badge badge-compiled";
-    srcEl.title = "Authored by agent from public SSI standards / dive theory — not a verbatim citation.";
+    srcEl.title = t("quiz.compiled_title");
   }
   $("#q-id").textContent = q.id;
   $("#q-text").textContent = q.question;
@@ -639,7 +1248,7 @@ function renderQuestion(q) {
   // Sync dispute button visual state
   const disputeBtn = $("#btn-dispute");
   disputeBtn.classList.toggle("active", state.disputed.has(q.id));
-  disputeBtn.textContent = state.disputed.has(q.id) ? "⚐ Disputed (click to clear)" : "⚐ Dispute";
+  disputeBtn.textContent = state.disputed.has(q.id) ? t("quiz.dispute_active") : t("quiz.dispute");
   // Sync study-more button visual state
   syncStudyButton(q);
 }
@@ -663,23 +1272,23 @@ function renderQuestionStatsLine(q) {
     if (!lastTs || e.ts > lastTs) { lastTs = e.ts; lastResult = e.result; }
   }
   const flags = [];
-  if (state.mastered100.has(q.id)) flags.push(`<span class="qs-flag flag-100">100%</span>`);
-  if (state.mastered50.has(q.id)) flags.push(`<span class="qs-flag flag-50">~50%</span>`);
-  if (state.studyMore.has(q.id)) flags.push(`<span class="qs-flag flag-study">📚 study</span>`);
-  if (state.disputed.has(q.id)) flags.push(`<span class="qs-flag flag-disputed">⚐ disputed</span>`);
-  if (state.resetMarks[q.id]) flags.push(`<span class="qs-flag flag-reset">↻ reset</span>`);
+  if (state.mastered100.has(q.id)) flags.push(`<span class="qs-flag flag-100">${t("quiz.flag_100")}</span>`);
+  if (state.mastered50.has(q.id)) flags.push(`<span class="qs-flag flag-50">${t("quiz.flag_50")}</span>`);
+  if (state.studyMore.has(q.id)) flags.push(`<span class="qs-flag flag-study">${t("quiz.study_flag")}</span>`);
+  if (state.disputed.has(q.id)) flags.push(`<span class="qs-flag flag-disputed">${t("quiz.disputed")}</span>`);
+  if (state.resetMarks[q.id]) flags.push(`<span class="qs-flag flag-reset">${t("quiz.flag_reset")}</span>`);
 
   const parts = [];
   if (seen === 0 && totalSeen === 0) {
-    parts.push(`<span class="muted">First time you see this question</span>`);
+    parts.push(`<span class="muted">${t("quiz.first_time")}</span>`);
   } else {
     const acc = seen ? Math.round((correct / seen) * 100) : null;
-    let line = `Seen ${seen}× — `;
+    let line = `${t("quiz.seen")} ${seen}${t("quiz.times")} — `;
     line += `<span class="ok">✓${correct}</span> · `;
     line += `<span class="bad">✗${wrong}</span>`;
     if (unknown) line += ` · <span class="warn">? ${unknown}</span>`;
     if (acc !== null) line += ` · <strong>${acc}%</strong>`;
-    if (totalSeen > seen) line += ` <span class="muted">(+${totalSeen - seen} pre-reset in Total)</span>`;
+    if (totalSeen > seen) line += ` <span class="muted">(+${totalSeen - seen} ${t("quiz.pre_reset_in_total")})</span>`;
     parts.push(line);
   }
   if (flags.length) parts.push(flags.join(" "));
@@ -690,7 +1299,7 @@ function syncStudyButton(q) {
   const sBtn = $("#btn-study-more");
   const on = state.studyMore.has(q.id);
   sBtn.classList.toggle("active", on);
-  sBtn.textContent = on ? "📚 Study more (click to clear)" : "📚 Study more";
+  sBtn.textContent = on ? t("quiz.study_more_active") : t("quiz.study_more");
 }
 
 function renderFlagsRow() {
@@ -698,13 +1307,13 @@ function renderFlagsRow() {
   const flags = $("#q-flags");
   if (!q) { flags.innerHTML = ""; return; }
   const parts = [];
-  if (state.mastered50.has(q.id)) parts.push(`<span>↻ from 50% review pool</span>`);
-  if (state.disputed.has(q.id)) parts.push(`<span class="flag-disputed">⚐ Disputed</span>`);
-  if (state.studyMore.has(q.id)) parts.push(`<span class="flag-study">📚 Study more</span>`);
+  if (state.mastered50.has(q.id)) parts.push(`<span>${t("quiz.from_review_pool")}</span>`);
+  if (state.disputed.has(q.id)) parts.push(`<span class="flag-disputed">${t("quiz.disputed")}</span>`);
+  if (state.studyMore.has(q.id)) parts.push(`<span class="flag-study">${t("quiz.study_flag")}</span>`);
   const k = sourceTypeKey(q);
   const srcLabel = k === "compiled"
-    ? `<span>Source: compiled from dive theory (agent-authored)</span>`
-    : `<span>Source: ${escapeHtml(q.source)}</span>`;
+    ? `<span>${t("quiz.source")} ${t("quiz.source_compiled")}</span>`
+    : `<span>${t("quiz.source")} ${escapeHtml(q.source)}</span>`;
   parts.push(srcLabel);
   flags.innerHTML = parts.join(" · ");
 }
@@ -750,10 +1359,10 @@ function onAnswer(letter) {
 
   const correctText = q.options[q.correct];
   const correctLabel = `${q.correct.toUpperCase()}. ${correctText}`;
-  const explanation = q.explanation || "(No explanation provided.)";
+  const explanation = q.explanation || t("quiz.no_explanation");
   showFeedback(
     isCorrect ? "correct" : "wrong",
-    `<strong>${isCorrect ? "Correct ✓" : `Wrong — correct answer is ${correctLabel}`}</strong>${explanation}`
+    `<strong>${isCorrect ? t("quiz.correct") : `${t("quiz.wrong_correct_is")} ${correctLabel}`}</strong>${explanation}`
   );
 
   logAnswer(q.id, q.area, isCorrect ? "correct" : "wrong", letter);
@@ -773,7 +1382,7 @@ function onDontKnow() {
   const correctText = q.options[q.correct];
   showFeedback(
     "unknown",
-    `<strong>Correct answer: ${q.correct.toUpperCase()}. ${correctText}</strong>${q.explanation || "(No explanation provided.)"}`
+    `<strong>${t("quiz.correct_answer")} ${q.correct.toUpperCase()}. ${correctText}</strong>${q.explanation || t("quiz.no_explanation")}`
   );
   logAnswer(q.id, q.area, "unknown", null);
   $("#btn-next").classList.remove("hidden");
@@ -924,11 +1533,11 @@ function renderSettings() {
   const toggleBtn = $("#btn-personal-toggle");
   if (statusEl && toggleBtn) {
     if (isPersonalUnlocked()) {
-      statusEl.textContent = "🔓 Unlocked. Personal questions are visible in the pool.";
-      toggleBtn.textContent = "Lock again";
+      statusEl.textContent = t("settings.personal_unlocked");
+      toggleBtn.textContent = t("settings.lock_again");
     } else {
-      statusEl.textContent = "🔒 Locked. Personal questions are hidden from the pool.";
-      toggleBtn.textContent = "Unlock…";
+      statusEl.textContent = t("settings.personal_locked");
+      toggleBtn.textContent = t("settings.unlock");
     }
   }
 
@@ -952,25 +1561,25 @@ function initSettings() {
   $("#btn-settings").addEventListener("click", () => { renderSettings(); show("settings-screen"); });
   $("#btn-back-from-settings").addEventListener("click", () => next());
   $("#btn-reset-100").addEventListener("click", () => {
-    if (!confirm(`Reset ${state.mastered100.size} questions from the 100% pool?`)) return;
+    if (!confirm(tFmt("confirm.reset_100", { n: state.mastered100.size }))) return;
     state.mastered100 = new Set(); saveMastered100(); renderSettings(); refreshStats();
   });
   $("#btn-reset-50").addEventListener("click", () => {
-    if (!confirm(`Reset ${state.mastered50.size} questions from the 50% pool?`)) return;
+    if (!confirm(tFmt("confirm.reset_50", { n: state.mastered50.size }))) return;
     state.mastered50 = new Set(); saveMastered50(); renderSettings(); refreshStats();
   });
   $("#btn-reset-all-confidence").addEventListener("click", () => {
     const total = state.mastered100.size + state.mastered50.size;
-    if (!confirm(`Reset both pools — ${total} questions back into rotation?`)) return;
+    if (!confirm(tFmt("confirm.reset_both", { n: total }))) return;
     state.mastered100 = new Set(); state.mastered50 = new Set();
     saveMastered100(); saveMastered50(); renderSettings(); refreshStats();
   });
   $("#btn-clear-disputed").addEventListener("click", () => {
-    if (!confirm(`Clear dispute flags from ${state.disputed.size} questions?`)) return;
+    if (!confirm(tFmt("confirm.clear_disputed", { n: state.disputed.size }))) return;
     state.disputed = new Set(); saveDisputed(); renderSettings(); refreshStats();
   });
   $("#btn-clear-study").addEventListener("click", () => {
-    if (!confirm(`Clear study-more flags from ${state.studyMore.size} questions?`)) return;
+    if (!confirm(tFmt("confirm.clear_study", { n: state.studyMore.size }))) return;
     state.studyMore = new Set(); saveStudyMore(); renderSettings(); refreshStats();
   });
   $("#settings-skip-disputed").addEventListener("change", (e) => {
@@ -989,21 +1598,21 @@ function initSettings() {
     const ATTEMPT = new Set(["correct", "wrong", "unknown"]);
     const seenIds = new Set(state.log.filter((e) => ATTEMPT.has(e.result) && inPoolIds.includes(e.qid)).map((e) => e.qid));
     if (!seenIds.size) {
-      alert("No answered questions in current pool to reset.");
+      alert(t("confirm.reset_pool_no_data"));
       return;
     }
-    if (!confirm(`Reset stats for ${seenIds.size} answered questions in current pool? Existing answers will move to TOTAL only — Pool/Dashboard/picking will treat them as unseen.`)) return;
+    if (!confirm(tFmt("confirm.reset_pool", { n: seenIds.size }))) return;
     const now = new Date().toISOString();
     seenIds.forEach((qid) => { state.resetMarks[qid] = now; });
     saveResetMarks();
     renderSettings();
     refreshStats();
-    alert(`Marked ${seenIds.size} questions as reset.`);
+    alert(tFmt("confirm.reset_pool_done", { n: seenIds.size }));
   });
   $("#btn-clear-resets").addEventListener("click", () => {
     const n = Object.keys(state.resetMarks).length;
-    if (!n) { alert("No reset marks to clear."); return; }
-    if (!confirm(`Clear ${n} reset marks? Old answers will be re-counted toward Pool stats.`)) return;
+    if (!n) { alert(t("confirm.no_resets")); return; }
+    if (!confirm(tFmt("confirm.clear_resets", { n }))) return;
     state.resetMarks = {};
     saveResetMarks();
     renderSettings();
@@ -1026,20 +1635,20 @@ function initSettings() {
       renderSettings();
       refreshStats();
     } else {
-      const ans = prompt(`Hint: "${PERSONAL_HINT}"\n\nEnter password to unlock Personal questions:`);
+      const ans = prompt(tFmt("confirm.unlock_personal", { hint: PERSONAL_HINT }));
       if (ans === null) return; // cancelled
       if (ans === PERSONAL_PASSWORD) {
         localStorage.setItem("ssi.personalUnlocked", "1"); scheduleStateSync();
         renderSettings();
         refreshStats();
-        alert("🔓 Unlocked.");
+        alert(t("confirm.unlocked"));
       } else {
-        alert("Wrong password.");
+        alert(t("confirm.wrong_password"));
       }
     }
   });
   $("#btn-clear-log").addEventListener("click", () => {
-    if (!confirm(`Clear all ${state.log.length} log entries? This can't be undone.`)) return;
+    if (!confirm(tFmt("confirm.clear_log", { n: state.log.length }))) return;
     state.log = []; saveLog(); renderSettings(); refreshStats();
   });
   $("#btn-export-log").addEventListener("click", () => {
@@ -1061,13 +1670,13 @@ function initSettings() {
 
 function resultLabel(result) {
   switch (result) {
-    case "correct": return "correct";
-    case "wrong": return "wrong";
-    case "unknown": return "unknown";
-    case "mastered_100": return "→ 100%";
-    case "mastered_50": return "→ 50%";
-    case "disputed": return "⚐ disputed";
-    case "dispute_clear": return "⚐ cleared";
+    case "correct": return t("log.result.correct");
+    case "wrong": return t("log.result.wrong");
+    case "unknown": return t("log.result.unknown");
+    case "mastered_100": return t("log.result.mastered_100");
+    case "mastered_50": return t("log.result.mastered_50");
+    case "disputed": return t("log.result.disputed");
+    case "dispute_clear": return t("log.result.dispute_clear");
     default: return result;
   }
 }
@@ -1082,13 +1691,13 @@ function renderLog() {
     const time = new Date(e.ts).toLocaleString();
     const area = AREA_LABELS[e.area] || e.area;
     const subarea = q?.subarea || "—";
-    const qText = q ? q.question : `(question removed — ${e.qid})`;
+    const qText = q ? q.question : `${t("log.question_removed")} ${e.qid})`;
     const stype = q ? sourceTypeKey(q) : null;
     const sourceBadge = q ? (
-      stype === "personal" ? `<span class="badge badge-personal">🔒 personal</span>` :
-      stype === "mssi" ? `<span class="badge badge-mssi">★ mySSI</span>` :
-      stype === "web" ? `<span class="badge badge-web">● web</span>` :
-      `<span class="badge badge-compiled">○ compiled</span>`
+      stype === "personal" ? `<span class="badge badge-personal">${t("browse.badge.personal")}</span>` :
+      stype === "mssi" ? `<span class="badge badge-mssi">${t("browse.badge.mssi")}</span>` :
+      stype === "web" ? `<span class="badge badge-web">${t("browse.badge.web")}</span>` :
+      `<span class="badge badge-compiled">${t("browse.badge.compiled")}</span>`
     ) : "";
     const resultClass = `result-${e.result.replace(/_/g, "-")}`;
     const resultText = resultLabel(e.result) + (e.chosen ? ` (${e.chosen.toUpperCase()})` : "");
@@ -1102,7 +1711,7 @@ function renderLog() {
       <td class="log-text">${escapeHtml(qText)}</td>
       <td class="${resultClass}">${resultText}</td>`;
     if (q) {
-      tr.title = "Click to open in Browse";
+      tr.title = t("log.click_to_open");
       tr.addEventListener("click", () => {
         browseFilters.expandedId = q.id;
         renderBrowse();
@@ -1222,7 +1831,7 @@ function renderDashboard(viewState) {
   const tfoot = $("#dash-tfoot");
   tfoot.innerHTML = `
     <tr>
-      <td>Total</td>
+      <td>${t("dash.row_total")}</td>
       <td class="num">${totals.total}</td>
       <td class="num good">${totals.mssi}</td>
       <td class="num">${totals.web}</td>
@@ -1239,11 +1848,11 @@ function renderDashboard(viewState) {
   // Disputed list (for the viewed user)
   const dlist = $("#dash-disputed-list");
   if (v.disputed.size === 0) {
-    dlist.innerHTML = `<p class="muted">None.</p>`;
+    dlist.innerHTML = `<p class="muted">${t("dash.disputed_none")}</p>`;
   } else {
     const rows = [...v.disputed].map((id) => {
       const q = state.questions.find((x) => x.id === id);
-      if (!q) return `<li>${id} <span class="muted">(not found in current question set)</span></li>`;
+      if (!q) return `<li>${id} <span class="muted">${t("dash.q_not_found")}</span></li>`;
       return `<li><strong>${q.id}</strong> — <span class="muted">${AREA_LABELS[q.area] || q.area}</span><br>${escapeHtml(q.question)}</li>`;
     });
     dlist.innerHTML = `<ul>${rows.join("")}</ul>`;
@@ -1273,7 +1882,7 @@ async function refreshDashUserList() {
   // Always include "me" at top
   if (me) {
     const opt = document.createElement("option");
-    opt.value = me; opt.textContent = `${me} (me)`;
+    opt.value = me; opt.textContent = `${me} ${t("dash.user_me_suffix")}`;
     sel.appendChild(opt);
   }
   for (const u of users) {
@@ -1290,18 +1899,18 @@ async function loadDashboardForSelectedUser() {
   const me = getCurrentUser();
   const viewing = $("#dash-viewing-as");
   if (!user || user === me) {
-    if (viewing) viewing.textContent = "(your data)";
+    if (viewing) viewing.textContent = t("dash.viewing_your");
     renderDashboard();
     return;
   }
-  if (viewing) viewing.textContent = "(loading…)";
+  if (viewing) viewing.textContent = t("dash.viewing_loading");
   const payload = await apiGetStateForUser(user);
   const vs = viewStateFromPayload(payload);
   if (!vs) {
-    if (viewing) viewing.textContent = "(failed to load)";
+    if (viewing) viewing.textContent = t("dash.viewing_failed");
     return;
   }
-  if (viewing) viewing.textContent = `(viewing ${user})`;
+  if (viewing) viewing.textContent = tFmt("dash.viewing", { user });
   renderDashboard(vs);
 }
 
@@ -1332,16 +1941,18 @@ const browseFilters = {
   expandedId: null,
 };
 
-const STATUS_CHIPS = [
-  { key: "unanswered", label: "Unanswered", cls: "" },
-  { key: "answered",   label: "Answered",   cls: "" },
-  { key: "correct",    label: "Last correct", cls: "status-correct" },
-  { key: "wrong",      label: "Last wrong",   cls: "status-wrong" },
-  { key: "100",        label: "100%",       cls: "status-100" },
-  { key: "50",         label: "~50%",       cls: "status-50" },
-  { key: "disputed",   label: "Disputed",   cls: "status-disputed" },
-  { key: "study",      label: "📚 Study more", cls: "status-study" },
-];
+function getStatusChips() {
+  return [
+    { key: "unanswered", label: t("browse.status.unanswered"), cls: "" },
+    { key: "answered",   label: t("browse.status.answered"),   cls: "" },
+    { key: "correct",    label: t("browse.status.last_correct"), cls: "status-correct" },
+    { key: "wrong",      label: t("browse.status.last_wrong"),   cls: "status-wrong" },
+    { key: "100",        label: "100%",       cls: "status-100" },
+    { key: "50",         label: "~50%",       cls: "status-50" },
+    { key: "disputed",   label: t("browse.status.disputed"),   cls: "status-disputed" },
+    { key: "study",      label: t("browse.status.study"),      cls: "status-study" },
+  ];
+}
 
 function buildQuestionStats() {
   // Per-question stats from log (post-reset only — matches drill weighting + dashboard)
@@ -1392,7 +2003,7 @@ function renderBrowse() {
   // Render area chips
   const areaWrap = $("#browse-areas");
   areaWrap.innerHTML = "";
-  const allAreaChip = chipEl("all-areas", "All", browseFilters.areas.size === 0, () => {
+  const allAreaChip = chipEl("all-areas", t("browse.all"), browseFilters.areas.size === 0, () => {
     browseFilters.areas.clear(); renderBrowse();
   });
   areaWrap.appendChild(allAreaChip);
@@ -1406,7 +2017,7 @@ function renderBrowse() {
   // Subarea chips (limited to currently selected areas if any; else all)
   const subWrap = $("#browse-subareas");
   subWrap.innerHTML = "";
-  subWrap.appendChild(chipEl("all-subareas", "All", browseFilters.subareas.size === 0, () => {
+  subWrap.appendChild(chipEl("all-subareas", t("browse.all"), browseFilters.subareas.size === 0, () => {
     browseFilters.subareas.clear(); renderBrowse();
   }));
   const showAreas = browseFilters.areas.size ? [...browseFilters.areas] : Object.keys(AREA_LABELS);
@@ -1426,11 +2037,11 @@ function renderBrowse() {
   // Source chips
   const srcWrap = $("#browse-sources");
   srcWrap.innerHTML = "";
-  srcWrap.appendChild(chipEl("all-src", "All", browseFilters.sources.size === 0, () => {
+  srcWrap.appendChild(chipEl("all-src", t("browse.all"), browseFilters.sources.size === 0, () => {
     browseFilters.sources.clear(); renderBrowse();
   }));
   for (const k of sourceKeysVisible()) {
-    const chip = chipEl(`src-${k}`, SOURCE_LABELS[k], browseFilters.sources.has(k), () => {
+    const chip = chipEl(`src-${k}`, sourceLabel(k), browseFilters.sources.has(k), () => {
       if (browseFilters.sources.has(k)) browseFilters.sources.delete(k);
       else browseFilters.sources.add(k);
       renderBrowse();
@@ -1446,7 +2057,7 @@ function renderBrowse() {
     mssiGrp.style.display = "";
     const mssiWrap = $("#browse-mssi-sections");
     mssiWrap.innerHTML = "";
-    mssiWrap.appendChild(chipEl("all-mssi-section", "All", browseFilters.mssiSections.size === 0, () => {
+    mssiWrap.appendChild(chipEl("all-mssi-section", t("browse.all"), browseFilters.mssiSections.size === 0, () => {
       browseFilters.mssiSections.clear(); renderBrowse();
     }));
     for (const { label, count, personal } of visibleMssiSections()) {
@@ -1465,10 +2076,10 @@ function renderBrowse() {
   // Status chips
   const stWrap = $("#browse-statuses");
   stWrap.innerHTML = "";
-  stWrap.appendChild(chipEl("all-status", "All", browseFilters.statuses.size === 0, () => {
+  stWrap.appendChild(chipEl("all-status", t("browse.all"), browseFilters.statuses.size === 0, () => {
     browseFilters.statuses.clear(); renderBrowse();
   }));
-  for (const c of STATUS_CHIPS) {
+  for (const c of getStatusChips()) {
     const chip = chipEl(`st-${c.key}`, c.label, browseFilters.statuses.has(c.key), () => {
       if (browseFilters.statuses.has(c.key)) browseFilters.statuses.delete(c.key);
       else browseFilters.statuses.add(c.key);
@@ -1497,7 +2108,7 @@ function renderBrowse() {
     return 0;
   });
 
-  $("#browse-count").textContent = `${items.length} of ${state.questions.length}`;
+  $("#browse-count").textContent = `${items.length} ${t("browse.count_of")} ${state.questions.length}`;
 
   const list = $("#browse-list");
   list.innerHTML = "";
@@ -1521,20 +2132,20 @@ function browseItemEl(q, s) {
 
   const badges = [];
   const stype = sourceTypeKey(q);
-  if (stype === "personal") badges.push(`<span class="badge badge-personal" title="${escapeHtml(q.source)}">🔒 personal</span>`);
-  else if (stype === "mssi") badges.push(`<span class="badge badge-mssi" title="${escapeHtml(q.source)}">★ mySSI</span>`);
-  else if (stype === "web") badges.push(`<span class="badge badge-web" title="${escapeHtml(q.source)}">● web</span>`);
-  else badges.push(`<span class="badge badge-compiled" title="Authored by agent from public SSI standards / dive theory">○ compiled</span>`);
-  if (state.mastered100.has(q.id)) badges.push(`<span class="badge badge-100">100%</span>`);
-  if (state.mastered50.has(q.id)) badges.push(`<span class="badge badge-50">~50%</span>`);
-  if (state.disputed.has(q.id)) badges.push(`<span class="badge badge-disputed">⚐ disputed</span>`);
-  if (state.studyMore.has(q.id)) badges.push(`<span class="badge badge-study">📚 study</span>`);
+  if (stype === "personal") badges.push(`<span class="badge badge-personal" title="${escapeHtml(q.source)}">${t("browse.badge.personal")}</span>`);
+  else if (stype === "mssi") badges.push(`<span class="badge badge-mssi" title="${escapeHtml(q.source)}">${t("browse.badge.mssi")}</span>`);
+  else if (stype === "web") badges.push(`<span class="badge badge-web" title="${escapeHtml(q.source)}">${t("browse.badge.web")}</span>`);
+  else badges.push(`<span class="badge badge-compiled" title="${t("browse.compiled_title")}">${t("browse.badge.compiled")}</span>`);
+  if (state.mastered100.has(q.id)) badges.push(`<span class="badge badge-100">${t("browse.badge.100")}</span>`);
+  if (state.mastered50.has(q.id)) badges.push(`<span class="badge badge-50">${t("browse.badge.50")}</span>`);
+  if (state.disputed.has(q.id)) badges.push(`<span class="badge badge-disputed">${t("browse.badge.disputed")}</span>`);
+  if (state.studyMore.has(q.id)) badges.push(`<span class="badge badge-study">${t("browse.badge.study")}</span>`);
   if (s) {
-    if (s.lastResult === "correct") badges.push(`<span class="badge badge-correct">last: correct</span>`);
-    else if (s.lastResult === "wrong") badges.push(`<span class="badge badge-wrong">last: wrong</span>`);
-    else if (s.lastResult === "unknown") badges.push(`<span class="badge badge-wrong">last: unknown</span>`);
+    if (s.lastResult === "correct") badges.push(`<span class="badge badge-correct">${t("browse.badge.last_correct")}</span>`);
+    else if (s.lastResult === "wrong") badges.push(`<span class="badge badge-wrong">${t("browse.badge.last_wrong")}</span>`);
+    else if (s.lastResult === "unknown") badges.push(`<span class="badge badge-wrong">${t("browse.badge.last_unknown")}</span>`);
   } else {
-    badges.push(`<span class="badge badge-unanswered">unanswered</span>`);
+    badges.push(`<span class="badge badge-unanswered">${t("browse.badge.unanswered")}</span>`);
   }
   const acc = s?.attempts ? `${Math.round((s.correct / s.attempts) * 100)}% (${s.correct}/${s.attempts})` : "—";
 
@@ -1547,8 +2158,8 @@ function browseItemEl(q, s) {
     <div class="qtext">${escapeHtml(q.question)}</div>
     <div class="meta">
       ${badges.join(" ")}
-      <span>· accuracy: ${acc}</span>
-      ${s?.lastTs ? `<span>· last seen: ${new Date(s.lastTs).toLocaleString()}</span>` : ""}
+      <span>· ${t("browse.accuracy")} ${acc}</span>
+      ${s?.lastTs ? `<span>· ${t("browse.last_seen")} ${new Date(s.lastTs).toLocaleString()}</span>` : ""}
     </div>
   `;
 
@@ -1561,14 +2172,14 @@ function browseItemEl(q, s) {
       .join("");
     detail.innerHTML = `
       ${opts}
-      <div class="explanation"><strong>Explanation:</strong> ${escapeHtml(q.explanation || "(none)")}</div>
-      <div class="muted" style="font-size:.82rem;margin-top:.5rem"><strong>Source:</strong> ${escapeHtml(q.source || "(none)")}</div>
+      <div class="explanation"><strong>${t("browse.detail.explanation")}</strong> ${escapeHtml(q.explanation || t("browse.detail.none"))}</div>
+      <div class="muted" style="font-size:.82rem;margin-top:.5rem"><strong>${t("browse.detail.source")}</strong> ${escapeHtml(q.source || t("browse.detail.none"))}</div>
       <div class="actions-row">
-        <button data-act="toggle-100">${state.mastered100.has(q.id) ? "Unmark 100%" : "Mark 100%"}</button>
-        <button data-act="toggle-50">${state.mastered50.has(q.id) ? "Unmark ~50%" : "Mark ~50%"}</button>
-        <button data-act="toggle-dispute">${state.disputed.has(q.id) ? "Clear dispute" : "Mark disputed"}</button>
-        <button data-act="toggle-study">${state.studyMore.has(q.id) ? "Clear study-more" : "📚 Study more"}</button>
-        <button data-act="drill" class="primary">Drill this question</button>
+        <button data-act="toggle-100">${state.mastered100.has(q.id) ? t("browse.detail.btn_unmark_100") : t("browse.detail.btn_mark_100")}</button>
+        <button data-act="toggle-50">${state.mastered50.has(q.id) ? t("browse.detail.btn_unmark_50") : t("browse.detail.btn_mark_50")}</button>
+        <button data-act="toggle-dispute">${state.disputed.has(q.id) ? t("browse.detail.btn_clear_dispute") : t("browse.detail.btn_mark_dispute")}</button>
+        <button data-act="toggle-study">${state.studyMore.has(q.id) ? t("browse.detail.btn_clear_study") : t("browse.detail.btn_study")}</button>
+        <button data-act="drill" class="primary">${t("browse.detail.btn_drill")}</button>
       </div>
     `;
     detail.querySelectorAll("button[data-act]").forEach(btn => {
@@ -1736,7 +2347,7 @@ function initLogout() {
   const btn = $("#btn-logout");
   if (!btn) return;
   btn.addEventListener("click", async () => {
-    if (!confirm("Log out? Your progress is saved on the server — you can log back in anytime.")) return;
+    if (!confirm(t("confirm.logout"))) return;
     // Push final state, then clear local
     await pushStateToServer();
     setCurrentUser(null);
@@ -1760,6 +2371,7 @@ function initLogout() {
 // ───────── Boot ─────────
 
 async function boot() {
+  initLang(); // apply translations to static HTML before anything else
   const cloud = await hasCloudApi();
   if (cloud) {
     // Cloud mode: must be logged in
