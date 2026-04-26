@@ -224,13 +224,51 @@ Netlify Functions (`netlify/functions/`):
 - Every state change → debounce push to `/api/state?user=<currentUser>`.
 - Dashboard has user dropdown — fetches any user's state via `/api/state?user=X` (read-only view).
 
-## Pending / TODO
+## STAV K 2026-04-26 (po dlouhé session) — DEPLOYED + bilingual
 
+### Live deployment
+- 🌐 **Production:** https://ssi-prep-thavryluk.netlify.app
+- 📦 **GitHub repo (PUBLIC):** https://github.com/thavryluk/ssi-instructor-prep
+- 🛠 **Netlify dashboard:** https://app.netlify.com/projects/ssi-prep-thavryluk
+- **Auto-deploy pipeline:** každý `git push origin main` → webhook → build na Netlify Linux → live za ~1-2 min
+- **Repo je PUBLIC** — Netlify free tier omezuje na 1 contributor v private. Personal heslo `jetmouse` je v app.js a tedy public, ale to bylo už předtím (deployed app.js byl vždy stažitelný). Před skutečně serioznějším public použitím promyslet ToS / lepší auth.
+
+### Co bylo přidáno (8 commitů této session)
+1. **i18n framework** — EN + CS dictionary (~200 klíčů), `t()` / `tFmt()` / `applyTranslations()`, language toggle v topbaru s SVG vlajkami (UK + CZ)
+2. **Czech překlad všech 677 otázek** — `data/questions.cs.json` (450KB). Reprodukční pipeline: `data/translate_split.py` + 5 paralelních agentů + `data/translate_assemble.py` (validuje strukturu)
+3. **Subarea translations** — `SUBAREA_GROUPS_CS` mapping pro 14 top-level skupin; storage keys zůstávají v EN (cross-lang filter persistence)
+4. **Login error mapping** — `LOGIN_ERROR_MAP` překládá známé EN errory z `auth.js` na CS klíče
+5. **Cross-platform Netlify build** — `data/build.py` (Python místo unix mkdir/cp)
+6. **Login form fix** — labely měly `<label data-i18n="..."><input/></label>` strukturu, takže `applyTranslations()` mazal input z DOM (`textContent` wipe). Fix: text obalit `<span>`
+7. **Home landing screen** — hero + 4 nav karty + mini progress per area + summary. Brand v topbaru je clickable → home.
+8. **Help screen** — 8 sekcí: workflow, Pool vs Total, tlačítka u otázek, Reset pool stats, 4 zdroje otázek, klávesové zkratky, sdílený dashboard, privacy. Topbar tab "Nápověda".
+9. **SVG vlajky u CS/EN buttonu** (Union Jack + tricolor inline)
+
+### AKTIVNÍ TODO (po session 2026-04-26)
+- [ ] **BUG: logout ikonka (⏻) se na produkci nezobrazuje** — zkontrolovat user-pill visibility (`refreshUserPill` po loginu), CSS, font support pro ⏻ glyph
+- [ ] **Dashboard explanations** — chybí inline vysvětlení sloupců (co je Seen vs Attempts vs ~50% atd.). Tooltips nebo `?` ikonky
+- [ ] **Footer s verzí + datem publishe** — auto-injekce z `data/build.py` (commit hash + ISO timestamp do footer textu nebo `version.json`), aby user viděl, která verze je live
 - [ ] Ověřit zbývající `mssi-inst-022` (Group D + 2:45 SI → ?)
 - [ ] Pokračovat s mySSI Lesson Reviews (zatím jen Lesson 1.1)
 - [ ] Pokračovat s mySSI Pretest pokud SSI vydá další Parts
-- [ ] Veřejný deploy: rozhodnout strategii (build script s public/private flag), Cloudflare Pages
 - [ ] Před public deploy: vyřešit ToS pro Personal a mySSI (compliance)
+
+### Git workflow
+```bash
+cd "C:/Dropbox/Claude Sync/Personal/SSI Instructor Prep"
+git status              # co se změnilo
+git diff                # konkrétní změny
+git add <soubor>        # nebo git add .
+git commit -m "popis"   # author už nakonfigurovaný (Tomas Havryluk <thavryluk@gmail.com>)
+git push                # → GitHub → Netlify auto-build → live za 1-2 min
+```
+
+User je teď přihlášený `gh` (token v keyring) i `netlify` (přes npx, token cached). Na novém stroji budou potřeba `gh auth login` + `netlify login` znovu (tokeny per-machine).
+
+### Známé caveaty deployu
+- **netlify-cli musí být přes `npx netlify-cli ...`** (na Administrator's machine globální install netlify není v PATH user shellu — divnost s OneDrive/AppData redirection)
+- **Build běží na Netlify Linux**, lokální `netlify deploy --build` na Windows funguje díky `data/build.py` (cross-platform)
+- **Co-Authored-By trailer** v commitech je teď OK (repo je public). Pokud user přepne zpět na private, trailer vyhazuje "single contributor" error → buď upgrade Pro, nebo bez trailerů.
 
 ---
 
@@ -258,28 +296,56 @@ Netlify Functions (`netlify/functions/`):
 
 ## Pro Claude v další session
 
-**User nebude nic spouštět ručně — spusť app sám.** Workflow:
+**1. Nejdřív přečti tenhle soubor** (zkráceně: live je `https://ssi-prep-thavryluk.netlify.app`, GitHub `thavryluk/ssi-instructor-prep`, auto-deploy přes git push).
 
-1. Otevři tenhle soubor jako první (právě ho čteš)
-2. Spusť app přes preview tool:
-   ```
-   preview_start("ssi-prep")
-   ```
-   (config je v `C:/Dropbox/Claude Sync/.claude/launch.json`, používá `serve.py` s state syncem na portu 8765)
-3. Tím se otevře v preview panelu a user hned vidí svůj synced progress (state.json se načte z disku)
-4. Pokud user změnil otázky offline (přidal mySSI nebo opravil odpověď), nejdřív `python data/assemble.py` — ale tohle dělej jen na explicitní user request
+**2. Lokální preview pro testování změn:**
+```
+preview_start("ssi-prep")
+```
+(config v `C:/Dropbox/Claude Sync/.claude/launch.json`, používá `serve.py` na :8765 — local single-user mode bez login screenu, protože nemá `/api/users` endpoint)
 
-**Pokud user nahlásí bug nebo požádá o feature:**
-- Edit zdrojáků (app.js / styles.css / index.html) → file watcher není, takže reload preview přes `preview_eval("window.location.reload()")`
-- Pro úpravy questions: edit příslušný JSON nebo build_personal.py → `python data/assemble.py` → reload
+Reload po editu: `preview_eval("window.location.reload()")` — pak verifikace přes `preview_snapshot` / `preview_eval` / `preview_screenshot`.
 
-**Pokud user pošle novou mySSI/lesson otázku:**
-- Append do `data/mssi_inst_part<N>.json` nebo `data/mssi_inst_lessons.json`
-- `python data/assemble.py` + reload
-- ID musí být unikátní (assemble.py validuje)
+### Pokud user chce nasadit změny na produkci (typický workflow):
+```bash
+cd "C:/Dropbox/Claude Sync/Personal/SSI Instructor Prep"
+# edit files
+git add -A
+git commit -m "..."  # bez Co-Authored-By trailer NEBYL by vyhodil error, ale repo je public takže OK
+git push             # → Netlify webhook → Linux build → live za 1-2 min
+```
+Verifikace deploye: `curl -s "https://ssi-prep-thavryluk.netlify.app/app.js?v=$(date +%s)" | grep ...` (cache-bust query, jinak hraje WebFetch tool vlastní cache).
 
-**Pokud user opraví Personal answer:**
-- Přidat override do `data/build_personal.py` `OVERRIDES` dict
-- `python data/build_personal.py` + `python data/assemble.py` + reload
+### Pokud user pošle novou mySSI/lesson otázku
+1. Append do `data/mssi_inst_part<N>.json` nebo `data/mssi_inst_lessons.json`
+2. `python data/assemble.py` (přepíše `questions.json`)
+3. **Pozor:** překlad do CS pak nezahrne novou otázku automaticky. Buď přeložit ručně do `data/questions.cs.json` (najít správné místo), nebo re-spawn překladového agenta na ten chunk.
+4. `git push` → live.
+
+### Pokud user opraví Personal answer
+- Override do `data/build_personal.py` `OVERRIDES` dict → `python data/build_personal.py && python data/assemble.py` → push.
+
+### Re-translation pipeline (bulk)
+```bash
+PYTHONIOENCODING=utf-8 python data/translate_split.py 5
+# → spawn 5 agentů (general-purpose) s glossary v promptu, každý dostane 1 chunk
+# Agenti zapíší do data/cs/translated/chunk_N.json
+PYTHONIOENCODING=utf-8 python data/translate_assemble.py
+# → vyrobí data/questions.cs.json + validuje
+git push
+```
+Glossary diving termínů (BC vesta, automatika, dekomprese/DCI, bezpečnostní zastávka, NDL, atd.) viz prompty v historii — **ZACHOVAT KONZISTENCI** napříč chunky.
+
+### Externí přihlášení na novém stroji
+Aby se dalo pushovat z nového počítače:
+```bash
+gh auth login           # browser flow, vybrat HTTPS + login with browser
+npx netlify-cli login   # browser flow (volitelné, jen pro CLI deploy — běžně netřeba, push stačí)
+```
+Pro git commit identity (jednorázově per repo na novém stroji):
+```bash
+git config user.email "thavryluk@gmail.com"
+git config user.name "Tomas Havryluk"
+```
 
 Vlastní memory pointer (`C:/Users/Administrator/.claude/projects/.../memory/`) → `dropbox_sync_pointer.md` ukazuje na `Claude Sync/PROJECTS.md`. Tam je odkaz na tento PROJECT.md.

@@ -31,3 +31,6 @@ Thumbs.db
 # Intermediate translation chunks (reproducible via data/translate_split.py + agents)
 data/cs/source/
 data/cs/translated/
+
+# Local Netlify folder
+.netlify
