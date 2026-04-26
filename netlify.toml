@@ -1,7 +1,7 @@
 [build]
   publish = "dist"
   functions = "netlify/functions"
-  command = "python3 data/assemble.py && mkdir -p dist/data && cp index.html styles.css app.js dist/ && cp data/questions.json data/questions.cs.json dist/data/"
+  command = "python3 data/build.py"
 
 [build.environment]
   PYTHON_VERSION = "3.11"
