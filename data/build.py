@@ -3,11 +3,14 @@
 1. Re-assembles questions.json from chunk files.
 2. Creates dist/ and dist/data/.
 3. Copies static frontend files + question banks into dist/.
+4. Writes dist/version.json with current commit + build timestamp.
 """
+import json
 import os
 import shutil
-import sys
 import subprocess
+import sys
+from datetime import datetime, timezone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
@@ -37,5 +40,29 @@ for f in ["questions.json", "questions.cs.json"]:
     dst = os.path.join(DIST_DATA, f)
     shutil.copy2(src, dst)
     print(f"[build] copied data/{f}")
+
+
+# 5. Write version.json (commit hash + build timestamp)
+def git_commit():
+    # Try git first (local dev). Netlify exposes COMMIT_REF env var.
+    env_ref = os.environ.get("COMMIT_REF") or os.environ.get("HEAD")
+    if env_ref:
+        return env_ref[:7]
+    try:
+        out = subprocess.check_output(
+            ["git", "rev-parse", "--short", "HEAD"],
+            cwd=ROOT, stderr=subprocess.DEVNULL,
+        )
+        return out.decode().strip()
+    except Exception:
+        return "unknown"
+
+version = {
+    "commit": git_commit(),
+    "built_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+}
+with open(os.path.join(DIST, "version.json"), "w", encoding="utf-8") as f:
+    json.dump(version, f, ensure_ascii=False, indent=2)
+print(f"[build] version.json: {version}")
 
 print(f"[build] OK -> {DIST}")

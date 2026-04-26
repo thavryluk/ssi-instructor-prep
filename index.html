@@ -42,9 +42,15 @@
       <button id="btn-help" class="ghost" data-i18n="topbar.help">Help</button>
       <button id="btn-lang" class="ghost lang-btn" title="Switch language / Přepnout jazyk">CS</button>
       <button id="btn-theme" class="ghost icon-btn" title="Toggle theme (light/dark)" data-i18n-attr="title:topbar.theme">🌙</button>
-      <span class="user-pill" id="user-pill" title="Logged in as">
+      <span class="user-pill hidden" id="user-pill" title="Logged in as">
         <span id="user-name">—</span>
-        <button id="btn-logout" class="icon-btn" title="Log out">⏻</button>
+        <button id="btn-logout" class="icon-btn" title="Log out" data-i18n-attr="title:topbar.logout" aria-label="Log out">
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/>
+            <polyline points="16 17 21 12 16 7"/>
+            <line x1="21" y1="12" x2="9" y2="12"/>
+          </svg>
+        </button>
       </span>
     </div>
   </header>
@@ -220,6 +226,23 @@
     <section id="dashboard-screen" class="screen hidden">
       <h1 data-i18n="dash.title">Dashboard</h1>
       <p class="muted" data-i18n="dash.intro">Progress and accuracy per area. Mastered/disputed counts per confidence level.</p>
+
+      <details class="dash-help">
+        <summary data-i18n="dash.help.summary">Co znamenají sloupce?</summary>
+        <dl class="dash-help-grid">
+          <dt data-i18n="dash.col_total">Total</dt><dd data-i18n="dash.help.total">Počet všech otázek v dané oblasti.</dd>
+          <dt><span data-i18n="dash.col_mssi">★ mySSI</span> / <span data-i18n="dash.col_web">● Web</span> / <span data-i18n="dash.col_compiled">○ Compiled</span></dt>
+          <dd data-i18n-html="dash.help.sources">Rozdělení podle zdroje: mySSI Pretest (doslovně), web (Quizlet/PDFs) a compiled (vygenerované AI z teorie). Detail v <strong>Nápověda</strong>.</dd>
+          <dt data-i18n="dash.col_seen">Seen</dt><dd data-i18n="dash.help.seen">Kolik unikátních otázek jsi alespoň jednou viděl (po posledním resetu pool stats).</dd>
+          <dt data-i18n="dash.col_attempts">Attempts</dt><dd data-i18n="dash.help.attempts">Celkový počet odpovědí (correct/wrong/unknown). Vyšší než Seen, pokud jsi některé otázky odpovídal víckrát.</dd>
+          <dt data-i18n="dash.col_accuracy">Accuracy</dt><dd data-i18n-html="dash.help.accuracy">Úspěšnost = correct / attempts. Barvy: <span style="color:#e74c3c">červená</span> &lt;60%, žlutá 60–79%, <span style="color:#27ae60">zelená</span> ≥80%.</dd>
+          <dt data-i18n="dash.col_100">100%</dt><dd data-i18n="dash.help.m100">Otázky které jsi označil "Znám na 100%" — vyřazené z výběru, dokud je nezrušíš v Nastavení.</dd>
+          <dt data-i18n="dash.col_50">~50%</dt><dd data-i18n="dash.help.m50">Otázky "Znám asi na 50%" — chodí ti jen občas (10% poolu) jako review.</dd>
+          <dt data-i18n="dash.col_study">📚 Study</dt><dd data-i18n="dash.help.study">Otázky označené "📚 Studovat víc" — flag k pozdějšímu prostudování. Neovlivňuje výběr.</dd>
+          <dt data-i18n="dash.col_disputed">Disputed</dt><dd data-i18n="dash.help.disputed">Otázky které jsi označil jako sporné/špatné. V Nastavení můžeš zaškrtnout "Přeskočit rozporované".</dd>
+        </dl>
+      </details>
+
       <div class="card">
         <div class="row" style="gap:.5rem;flex-wrap:wrap;margin-bottom:.75rem">
           <span class="filter-label" data-i18n="dash.view_user">View user:</span>
@@ -417,8 +440,9 @@
     </section>
   </main>
 
-  <footer class="footer muted" data-i18n="footer">
-    Built for instructor exam prep · Local-only · Data persists in your browser
+  <footer class="footer muted">
+    <span data-i18n="footer">Built for instructor exam prep · Local-only · Data persists in your browser</span>
+    <span class="footer-version" id="footer-version"></span>
   </footer>
 
   <script src="app.js"></script>

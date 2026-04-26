@@ -151,6 +151,16 @@ const I18N = {
     "dash.disputed_section": "Disputed questions",
     "dash.disputed_none": "None.",
     "dash.q_not_found": "(not found in current question set)",
+    "dash.help.summary": "What do the columns mean?",
+    "dash.help.total": "Number of all questions in the area.",
+    "dash.help.sources": "Source breakdown: mySSI Pretest (verbatim), web (Quizlet/PDFs) and compiled (AI-generated from theory). Details in <strong>Help</strong>.",
+    "dash.help.seen": "How many unique questions you've seen at least once (after the last pool stats reset).",
+    "dash.help.attempts": "Total number of answers (correct/wrong/unknown). Higher than Seen if you've answered some questions multiple times.",
+    "dash.help.accuracy": "Accuracy = correct / attempts. Colors: <span style=\"color:#e74c3c\">red</span> &lt;60%, yellow 60–79%, <span style=\"color:#27ae60\">green</span> ≥80%.",
+    "dash.help.m100": "Questions you marked \"I know this 100%\" — excluded from drilling until you reset in Settings.",
+    "dash.help.m50": "Questions \"I know this ~50%\" — only appear occasionally (10% of pool) for review.",
+    "dash.help.study": "Questions marked \"📚 Study more\" — flag for later study. Doesn't affect drill picking.",
+    "dash.help.disputed": "Questions you marked as wrong/disputed. In Settings you can check \"Skip disputed questions\".",
 
     // Browse
     "browse.title": "Browse questions",
@@ -238,7 +248,9 @@ const I18N = {
     "empty.back": "Open settings",
 
     // Footer
-    "footer": "Built for instructor exam prep · Local-only · Data persists in your browser · v1",
+    "footer": "Built for instructor exam prep · Local-only · Data persists in your browser",
+    "footer.version": "v {commit} · built {date}",
+    "footer.local": "local dev",
 
     // Home / landing
     "home.title": "SSI Instructor Prep",
@@ -460,6 +472,16 @@ const I18N = {
     "dash.disputed_none": "Žádné.",
     "dash.user_me_suffix": "(já)",
     "dash.q_not_found": "(nenalezeno v aktuální sadě otázek)",
+    "dash.help.summary": "Co znamenají sloupce?",
+    "dash.help.total": "Počet všech otázek v dané oblasti.",
+    "dash.help.sources": "Rozdělení podle zdroje: mySSI Pretest (doslovně), web (Quizlet/PDFs) a compiled (vygenerované AI z teorie). Detail v <strong>Nápověda</strong>.",
+    "dash.help.seen": "Kolik unikátních otázek jsi alespoň jednou viděl (po posledním resetu pool stats).",
+    "dash.help.attempts": "Celkový počet odpovědí (correct/wrong/unknown). Vyšší než Seen, pokud jsi některé otázky odpovídal víckrát.",
+    "dash.help.accuracy": "Úspěšnost = correct / attempts. Barvy: <span style=\"color:#e74c3c\">červená</span> &lt;60%, žlutá 60–79%, <span style=\"color:#27ae60\">zelená</span> ≥80%.",
+    "dash.help.m100": "Otázky které jsi označil „Znám na 100 %\" — vyřazené z výběru, dokud je nezrušíš v Nastavení.",
+    "dash.help.m50": "Otázky „Znám asi na 50 %\" — chodí ti jen občas (10 % poolu) jako review.",
+    "dash.help.study": "Otázky označené „📚 Studovat víc\" — flag k pozdějšímu prostudování. Neovlivňuje výběr.",
+    "dash.help.disputed": "Otázky které jsi označil jako sporné/špatné. V Nastavení můžeš zaškrtnout „Přeskočit rozporované\".",
 
     // Browse
     "browse.title": "Procházet otázky",
@@ -547,7 +569,9 @@ const I18N = {
     "empty.back": "Otevři nastavení",
 
     // Footer
-    "footer": "Postaveno pro přípravu na instruktorské zkoušky · Lokální · Data v tvém prohlížeči · v1",
+    "footer": "Postaveno pro přípravu na instruktorské zkoušky · Lokální · Data v tvém prohlížeči",
+    "footer.version": "v {commit} · build {date}",
+    "footer.local": "lokální dev",
 
     // Home / landing
     "home.title": "SSI Instructor Prep",
@@ -648,6 +672,8 @@ function setLang(lang) {
   // Update visible button (flag + label)
   const btn = document.getElementById("btn-lang");
   if (btn) btn.innerHTML = langButtonHTML(lang);
+  // Footer version line is rendered via JS (not data-i18n), re-translate it
+  if (typeof renderFooterVersion === "function") renderFooterVersion();
   // If app is fully booted, reload questions in chosen language
   if (typeof state !== "undefined" && state.questions && state.questions.length) {
     loadQuestions().then(() => {
@@ -2504,6 +2530,7 @@ async function onLoginSuccess(username) {
   buildSubareaIndex();
   buildMssiSectionIndex();
   refreshUserPill();
+  renderFooterVersion();
   refreshStats();
   renderHome();
   show("home-screen");
@@ -2544,8 +2571,26 @@ function initLogout() {
     state.selectedSubareas = new Set();
     state.sourceFilter = "all";
     refreshUserPill();
+  renderFooterVersion();
     show("login-screen");
   });
+}
+
+// ───────── Footer version (commit + build date from /version.json) ─────────
+
+async function renderFooterVersion() {
+  const el = $("#footer-version");
+  if (!el) return;
+  try {
+    const res = await fetch("/version.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("no version.json");
+    const v = await res.json();
+    const date = (v.built_at || "").replace("T", " ").replace(/:\d\d\+.*$/, "").replace(/Z$/, " UTC");
+    el.textContent = tFmt("footer.version", { commit: v.commit || "?", date });
+  } catch {
+    // Local dev (serve.py) doesn't expose version.json — show a friendly marker
+    el.textContent = t("footer.local");
+  }
 }
 
 // ───────── Home / Help ─────────
@@ -2645,6 +2690,7 @@ async function boot() {
       catch (e) { console.error("Question load failed", e); }
       initSetup(); initSettings(); initLog(); initDashboard(); initBrowse(); initQuiz(); initTheme(); initLogin(); initLogout(); initHome(); initHelp();
       refreshUserPill();
+  renderFooterVersion();
       show("login-screen");
       return;
     }
@@ -2680,6 +2726,7 @@ async function boot() {
   initHome();
   initHelp();
   refreshUserPill();
+  renderFooterVersion();
 
   refreshStats();
   // Always land on home — discoverable nav. User clicks "Start drilling" card to enter quiz.
