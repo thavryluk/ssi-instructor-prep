@@ -244,14 +244,22 @@ Netlify Functions (`netlify/functions/`):
 8. **Help screen** — 8 sekcí: workflow, Pool vs Total, tlačítka u otázek, Reset pool stats, 4 zdroje otázek, klávesové zkratky, sdílený dashboard, privacy. Topbar tab "Nápověda".
 9. **SVG vlajky u CS/EN buttonu** (Union Jack + tricolor inline)
 
-### AKTIVNÍ TODO (po session 2026-04-26)
-- [ ] **BUG: logout ikonka (⏻) se na produkci nezobrazuje** — zkontrolovat user-pill visibility (`refreshUserPill` po loginu), CSS, font support pro ⏻ glyph
-- [ ] **Dashboard explanations** — chybí inline vysvětlení sloupců (co je Seen vs Attempts vs ~50% atd.). Tooltips nebo `?` ikonky
-- [ ] **Footer s verzí + datem publishe** — auto-injekce z `data/build.py` (commit hash + ISO timestamp do footer textu nebo `version.json`), aby user viděl, která verze je live
+### Build-time auto-versioning
+`data/build.py` při každém buildu zapíše `dist/version.json` s aktuálním commit hashem (z `git rev-parse --short HEAD`, fallback na Netlify `COMMIT_REF`/`HEAD` env vars) a ISO timestampem. App při bootu fetchne `/version.json` (cache: no-store) a vykreslí ` · v <commit> · built <date>` ve footeru. Lokální dev (`serve.py` bez `version.json`) → fallback `· local dev` / `· lokální dev`. Re-renderuje se při změně jazyka.
+
+Endpoint: `GET /version.json` na produkci vrací `{ "commit": "abc1234", "built_at": "2026-04-26T22:03:31+00:00" }`. Užitečné taky pro debugging: ověř, že nasazená verze je ta očekávaná.
+
+### AKTIVNÍ TODO (po session 2026-04-26/27)
 - [ ] Ověřit zbývající `mssi-inst-022` (Group D + 2:45 SI → ?)
 - [ ] Pokračovat s mySSI Lesson Reviews (zatím jen Lesson 1.1)
 - [ ] Pokračovat s mySSI Pretest pokud SSI vydá další Parts
 - [ ] Před public deploy: vyřešit ToS pro Personal a mySSI (compliance)
+- [ ] Při přidání nové otázky přeložit i do `data/questions.cs.json` (zatím není auto pipeline pro inkrementální překlad — full re-translation je `translate_split.py + agenti + translate_assemble.py`)
+
+### HOTOVÉ TODO (z 2026-04-27)
+- [x] Logout ikonka — nahrazena inline SVG door+arrow (univerzálně rendrovatelné, žádná font závislost)
+- [x] Dashboard explanations — sbalený `<details class="dash-help">` panel nad tabulkou s vysvětlením 9 sloupců
+- [x] Footer s verzí + datem buildu — auto z `data/build.py` přes `version.json` endpoint (viz výše)
 
 ### Git workflow
 ```bash
