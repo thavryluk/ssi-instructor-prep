@@ -651,10 +651,51 @@ const state = {
 
 // ───────── Helpers: subarea grouping + source type ─────────
 
+// Storage/filter keys ALWAYS use English (canonical) so filter selection
+// migrates across language switches. Display helpers below translate for UI.
 function subareaGroup(q) {
   const s = q?.subarea || "";
   const parts = s.split(/ — | - |:/);
   return (parts[0] || "(uncategorized)").trim();
+}
+
+// Translation table for the 14 top-level subarea groups. Right side of the
+// em-dash (subtopic) stays in English — translating all 454 unique subareas
+// would bloat without much UX gain.
+const SUBAREA_GROUPS_CS = {
+  "AI Standards": "Standardy AI",
+  "AIT": "AIT",
+  "DM Role": "Role DM",
+  "DM Standards": "Standardy DM",
+  "Decompression Theory": "Teorie dekomprese",
+  "Environment": "Prostředí",
+  "Equipment": "Vybavení",
+  "ITC": "ITC",
+  "Methodology": "Metodika",
+  "Physics": "Fyzika",
+  "Physiology": "Fyziologie",
+  "Professional Standards": "Profesní standardy",
+  "Programs": "Programy",
+  "Standards": "Standardy",
+  "(uncategorized)": "(bez kategorie)",
+};
+
+function subareaGroupDisplay(group) {
+  if (currentLang === "cs" && SUBAREA_GROUPS_CS[group]) return SUBAREA_GROUPS_CS[group];
+  return group;
+}
+
+// Translate the group prefix of a full "Group — Subtopic" subarea string.
+function subareaDisplay(s) {
+  if (!s) return "";
+  if (currentLang !== "cs") return s;
+  // Match the same delimiter set as subareaGroup()
+  const m = s.match(/^([^—\-:]+?)( — | - |:)(.*)$/);
+  if (!m) return SUBAREA_GROUPS_CS[s.trim()] || s;
+  const group = m[1].trim();
+  const cs = SUBAREA_GROUPS_CS[group];
+  if (!cs) return s;
+  return `${cs}${m[2]}${m[3]}`;
 }
 
 function sourceTypeKey(q) {
@@ -1196,7 +1237,7 @@ function renderQuestion(q) {
   state.current = q;
   state.answered = false;
   $("#q-area").textContent = AREA_LABELS[q.area] || q.area;
-  $("#q-subarea").textContent = q.subarea || "";
+  $("#q-subarea").textContent = subareaDisplay(q.subarea || "");
   const srcEl = $("#q-source");
   const k = sourceTypeKey(q);
   if (k === "personal") {
@@ -1507,7 +1548,7 @@ function renderSettings() {
       const k = subareaKey(areaKey, group);
       const row = document.createElement("label");
       row.className = "check";
-      row.innerHTML = `<input type="checkbox" data-key="${k}" ${state.selectedSubareas.has(k) ? "checked" : ""} /> ${escapeHtml(group)} <span class="muted" style="margin-left:.4rem">${count}</span>`;
+      row.innerHTML = `<input type="checkbox" data-key="${k}" ${state.selectedSubareas.has(k) ? "checked" : ""} /> ${escapeHtml(subareaGroupDisplay(group))} <span class="muted" style="margin-left:.4rem">${count}</span>`;
       row.querySelector("input").addEventListener("change", (e) => {
         if (e.target.checked) state.selectedSubareas.add(k);
         else state.selectedSubareas.delete(k);
@@ -1706,7 +1747,7 @@ function renderLog() {
     tr.innerHTML = `
       <td class="log-time">${time}</td>
       <td class="log-qid"><code>${e.qid}</code></td>
-      <td class="log-area">${area}<br><span class="muted" style="font-size:.78rem">${escapeHtml(subarea)}</span></td>
+      <td class="log-area">${area}<br><span class="muted" style="font-size:.78rem">${escapeHtml(subareaDisplay(subarea))}</span></td>
       <td class="log-source">${sourceBadge}</td>
       <td class="log-text">${escapeHtml(qText)}</td>
       <td class="${resultClass}">${resultText}</td>`;
@@ -2025,7 +2066,7 @@ function renderBrowse() {
     const groups = subareaIndex[areaKey] || [];
     for (const { group, count } of groups) {
       const k = subareaKey(areaKey, group);
-      const chip = chipEl(`sub-${k}`, `${group} (${count})`, browseFilters.subareas.has(k), () => {
+      const chip = chipEl(`sub-${k}`, `${subareaGroupDisplay(group)} (${count})`, browseFilters.subareas.has(k), () => {
         if (browseFilters.subareas.has(k)) browseFilters.subareas.delete(k);
         else browseFilters.subareas.add(k);
         renderBrowse();
@@ -2153,7 +2194,7 @@ function browseItemEl(q, s) {
     <div class="head">
       <span class="qid">${q.id}</span>
       <span class="area">${AREA_LABELS[q.area] || q.area}</span>
-      <span class="muted" style="font-size:.78rem">· ${escapeHtml(q.subarea || "")}</span>
+      <span class="muted" style="font-size:.78rem">· ${escapeHtml(subareaDisplay(q.subarea || ""))}</span>
     </div>
     <div class="qtext">${escapeHtml(q.question)}</div>
     <div class="meta">
@@ -2287,9 +2328,23 @@ function initQuiz() {
 
 // ───────── Login screen ─────────
 
+// Map known server-side EN error messages to i18n keys for client-side translation.
+const LOGIN_ERROR_MAP = {
+  "username must be 2-32 chars, a-z 0-9 . _ -": "login.err.username_format",
+  "username already taken": "login.err.username_taken",
+  "no such user": "login.err.no_user",
+  "wrong password": "login.err.wrong_password",
+};
+
+function translateLoginError(msg) {
+  if (!msg) return "";
+  const key = LOGIN_ERROR_MAP[msg.toLowerCase().trim()];
+  return key ? t(key) : msg;
+}
+
 function showLoginError(msg) {
   const el = $("#login-error");
-  if (el) el.textContent = msg || "";
+  if (el) el.textContent = translateLoginError(msg);
 }
 
 function initLogin() {
