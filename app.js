@@ -236,7 +236,7 @@ const I18N = {
     "empty.back": "Open settings",
 
     // Footer
-    "footer": "Built for instructor exam prep · Local-only · Data persists in your browser",
+    "footer": "Built for instructor exam prep · Local-only · Data persists in your browser · v1",
 
     // Confirms
     "confirm.reset_100": "Reset {n} questions from the 100% pool?",
@@ -488,7 +488,7 @@ const I18N = {
     "empty.back": "Otevři nastavení",
 
     // Footer
-    "footer": "Postaveno pro přípravu na instruktorské zkoušky · Lokální · Data v tvém prohlížeči",
+    "footer": "Postaveno pro přípravu na instruktorské zkoušky · Lokální · Data v tvém prohlížeči · v1",
 
     // Confirms
     "confirm.reset_100": "Resetovat {n} otázek z 100 % skupiny zpět do výběru?",
