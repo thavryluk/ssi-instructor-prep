@@ -625,6 +625,17 @@ const I18N = {
 
 let currentLang = "en";
 
+// Inline SVG flags for the language toggle. Showing the flag of the OTHER
+// language (the one you'll switch to on click) — same as the text label.
+const FLAG_CS_SVG = '<svg viewBox="0 0 6 4" aria-hidden="true"><rect width="6" height="2" fill="#fff"/><rect y="2" width="6" height="2" fill="#d7141a"/><polygon points="0,0 3,2 0,4" fill="#11457e"/></svg>';
+const FLAG_GB_SVG = '<svg viewBox="0 0 60 30" aria-hidden="true"><rect width="60" height="30" fill="#012169"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#C8102E" stroke-width="2"/><path d="M30,0 V30 M0,15 H60" stroke="#fff" stroke-width="10"/><path d="M30,0 V30 M0,15 H60" stroke="#C8102E" stroke-width="6"/></svg>';
+
+function langButtonHTML(lang) {
+  // Show the flag + label of the language that clicking will switch TO.
+  if (lang === "cs") return `${FLAG_GB_SVG}<span>EN</span>`; // currently CS, click → EN
+  return `${FLAG_CS_SVG}<span>CS</span>`; // currently EN, click → CS
+}
+
 function getCurrentLang() {
   try { return localStorage.getItem("ssi.language") || "en"; }
   catch { return "en"; }
@@ -634,9 +645,9 @@ function setLang(lang) {
   currentLang = lang;
   try { localStorage.setItem("ssi.language", lang); } catch {}
   applyTranslations();
-  // Update visible button label
+  // Update visible button (flag + label)
   const btn = document.getElementById("btn-lang");
-  if (btn) btn.textContent = lang === "cs" ? "EN" : "CS";
+  if (btn) btn.innerHTML = langButtonHTML(lang);
   // If app is fully booted, reload questions in chosen language
   if (typeof state !== "undefined" && state.questions && state.questions.length) {
     loadQuestions().then(() => {
@@ -698,7 +709,7 @@ function initLang() {
   applyTranslations();
   const btn = document.getElementById("btn-lang");
   if (btn) {
-    btn.textContent = currentLang === "cs" ? "EN" : "CS";
+    btn.innerHTML = langButtonHTML(currentLang);
     btn.addEventListener("click", () => setLang(currentLang === "cs" ? "en" : "cs"));
   }
 }

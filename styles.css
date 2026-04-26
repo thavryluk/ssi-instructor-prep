@@ -445,6 +445,21 @@ input[type="text"] { flex: 1; min-width: 200px; }
   .stats { order: 3; flex-basis: 100%; }
 }
 
+/* ───── Language toggle (flag + label) ───── */
+.lang-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.6rem;
+}
+.lang-btn svg {
+  width: 22px;
+  height: auto;
+  display: block;
+  border: 1px solid var(--border);
+  border-radius: 2px;
+}
+
 /* ───── Brand button (clickable home link) ───── */
 .brand-btn {
   background: none;
