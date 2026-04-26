@@ -15,7 +15,7 @@
 </head>
 <body>
   <header class="topbar">
-    <div class="brand">SSI Instructor Prep</div>
+    <button class="brand brand-btn" id="btn-home" title="Home / Domů">SSI Instructor Prep</button>
     <div class="stats" id="stats">
       <div class="stats-line">
         <span class="stats-label" data-i18n="stats.pool">Pool</span>
@@ -39,6 +39,7 @@
       <button id="btn-browse" class="ghost" data-i18n="topbar.browse">Browse</button>
       <button id="btn-settings" class="ghost" data-i18n="topbar.settings">Settings</button>
       <button id="btn-log" class="ghost" data-i18n="topbar.log">Log</button>
+      <button id="btn-help" class="ghost" data-i18n="topbar.help">Help</button>
       <button id="btn-lang" class="ghost icon-btn" title="Switch language / Přepnout jazyk">CS</button>
       <button id="btn-theme" class="ghost icon-btn" title="Toggle theme (light/dark)" data-i18n-attr="title:topbar.theme">🌙</button>
       <span class="user-pill" id="user-pill" title="Logged in as">
@@ -74,8 +75,45 @@
       </div>
     </section>
 
+    <!-- Home / landing screen -->
+    <section id="home-screen" class="screen hidden">
+      <div class="home-hero">
+        <h1 data-i18n="home.title">SSI Instructor Prep</h1>
+        <p class="muted" data-i18n="home.subtitle">Příprava na SSI instruktorské zkoušky — 677 otázek z mySSI Pretestu, oficiálních standardů a kompilátu z teorie potápění. Váženě vybírané podle tvého progresu.</p>
+      </div>
+
+      <div class="home-cards">
+        <button class="home-card" data-go="drill">
+          <div class="home-card-icon">▶</div>
+          <h3 data-i18n="home.card.drill">Začít zkoušení</h3>
+          <p data-i18n="home.card.drill_desc">Náhodné otázky s váženým výběrem podle tvojí historie odpovědí. Otázky, které ses ještě neviděl nebo na které jsi odpověděl špatně, mají větší šanci.</p>
+        </button>
+        <button class="home-card" data-go="browse">
+          <div class="home-card-icon">🔍</div>
+          <h3 data-i18n="home.card.browse">Procházet otázky</h3>
+          <p data-i18n="home.card.browse_desc">Filtrovat všech 677 otázek podle oblasti, zdroje, stavu (nezodpovězené, špatně, naučené…) a hledat v textu.</p>
+        </button>
+        <button class="home-card" data-go="dashboard">
+          <div class="home-card-icon">📊</div>
+          <h3 data-i18n="home.card.dashboard">Přehled</h3>
+          <p data-i18n="home.card.dashboard_desc">Tvůj progres per oblast: úspěšnost, počet pokusů, naučené, rozporované. Můžeš si zobrazit i progres jiných uživatelů (read-only).</p>
+        </button>
+        <button class="home-card" data-go="help">
+          <div class="home-card-icon">?</div>
+          <h3 data-i18n="home.card.help">Nápověda</h3>
+          <p data-i18n="home.card.help_desc">Jak app funguje, co znamenají statistiky, klávesové zkratky a vysvětlení tlačítek.</p>
+        </button>
+      </div>
+
+      <div class="card hidden" id="home-progress-section">
+        <h2 data-i18n="home.progress.title">Tvůj progres</h2>
+        <div id="home-progress-bars"></div>
+        <p class="muted" id="home-progress-summary" style="margin-top:.75rem;font-size:.9rem"></p>
+      </div>
+    </section>
+
     <!-- Setup screen -->
-    <section id="setup-screen" class="screen">
+    <section id="setup-screen" class="screen hidden">
       <h1 data-i18n="setup.title">Choose your areas</h1>
       <p class="muted" data-i18n="setup.intro">Pick what to drill. You can change anytime in Settings.</p>
       <form id="setup-form" class="card">
@@ -299,6 +337,83 @@
         <p data-i18n="empty.intro">Either no areas are selected or you've mastered everything in the selected areas. 🎉</p>
         <button id="btn-empty-back" class="primary" data-i18n="empty.back">Open settings</button>
       </div>
+    </section>
+
+    <!-- Help screen -->
+    <section id="help-screen" class="screen hidden">
+      <h1 data-i18n="help.title">Nápověda</h1>
+
+      <div class="card">
+        <h3 data-i18n="help.workflow_h">Workflow</h3>
+        <ol class="help-list">
+          <li data-i18n="help.workflow_1">V <strong>Nastavení</strong> vyber oblasti, na které se chceš zaměřit (Věda o potápění / Divemaster / AI / Instruktor).</li>
+          <li data-i18n="help.workflow_2">Klikni <strong>Začít zkoušení</strong>. App ti dá náhodnou otázku z poolu, váženě podle toho, jak dobře ji znáš.</li>
+          <li data-i18n="help.workflow_3">Odpověz A/B/C/D. Pokud nevíš, klikni <strong>Nevím — vysvětli</strong>. Po odpovědi vidíš správnou odpověď a vysvětlení.</li>
+          <li data-i18n="help.workflow_4">Označ otázku jako <strong>100 %</strong> (vyřazena z výběru) nebo <strong>~50 %</strong> (občasný review). Po čase otázku přestaneš vidět a soustředíš se na ty obtížné.</li>
+          <li data-i18n="help.workflow_5">V <strong>Přehled</strong> vidíš úspěšnost per oblast a kolik ti zbývá.</li>
+        </ol>
+      </div>
+
+      <div class="card">
+        <h3 data-i18n="help.stats_h">Statistiky — Pool vs Total</h3>
+        <p data-i18n="help.stats_pool"><strong>Pool</strong> = jen aktuálně vybraná oblast a její otázky. Mění se podle Nastavení.</p>
+        <p data-i18n="help.stats_total"><strong>Total</strong> = všechny tvoje odpovědi napříč všemi oblastmi, vše co kdy bylo. Tohle je tvůj historický záznam.</p>
+        <p data-i18n="help.stats_acc">Úspěšnost barvy: <span style="color:#e74c3c">červená</span> &lt; 50 %, <span style="color:#f39c12">žlutá</span> 50–74 %, <span style="color:#27ae60">zelená</span> 75–89 %, <strong style="color:#27ae60">90 %+</strong> = goal badge.</p>
+      </div>
+
+      <div class="card">
+        <h3 data-i18n="help.buttons_h">Tlačítka u otázek</h3>
+        <ul class="help-list">
+          <li data-i18n="help.btn_dont_know"><strong>Nevím — vysvětli</strong> — Nepokoušej se hádat. Hned vidíš správnou odpověď + vysvětlení. Započítá se jako "nevěděl" (bez tečky za nebo proti).</li>
+          <li data-i18n="help.btn_know_100"><strong>Znám na 100 %</strong> — Otázku už nikdy neuvidíš v drillu. Plně naučená. Můžeš zrušit v Nastavení.</li>
+          <li data-i18n="help.btn_know_50"><strong>Znám asi na 50 %</strong> — Otázka přestane být v hlavním poolu, ale občas (10 %) ti ji ještě dá k review.</li>
+          <li data-i18n="help.btn_study"><strong>📚 Studovat víc</strong> — Označí otázku k pozdějšímu prostudování. Neovlivní pool, jen flag.</li>
+          <li data-i18n="help.btn_dispute"><strong>⚐ Rozporovat</strong> — Označíš otázku jako nesprávnou/spornou (např. špatná answer key). Můžeš ji v Nastavení přeskočit nebo si zobrazit seznam.</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3 data-i18n="help.reset_h">Reset pool stats</h3>
+        <p data-i18n="help.reset_p">Někdy chceš začít s "čistou" úspěšností — třeba po dlouhé pauze nebo když chceš vidět, jak se ti daří v "novém kole". <strong>Reset pool stats</strong> v Nastavení označí všechny dosavadní odpovědi v aktuálním výběru jako "resetované". Stávající odpovědi zůstanou v <strong>Total</strong> (historie), ale Pool je začne ignorovat. Pool stats se počítají od resetu znovu od nuly.</p>
+      </div>
+
+      <div class="card">
+        <h3 data-i18n="help.sources_h">Zdroje otázek</h3>
+        <ul class="help-list">
+          <li data-i18n="help.src_mssi"><strong>★ mySSI</strong> — Doslovně z mySSI Instructor Pretestu (Lessons + Pretest Parts). 100% spolehlivé.</li>
+          <li data-i18n="help.src_personal"><strong>🔒 Osobní</strong> — 200 otázek z 4 SSI Pro exam PDFs (AIT-A, AIT-B, ITC-A, ITC-B). Skryté heslem (default <code>jetmouse</code>, hint "Kuk za buk"), nezobrazují se náhodným návštěvníkům.</li>
+          <li data-i18n="help.src_web"><strong>● Web</strong> — Quizlet, dive shop PDFs, ScubaBoard. Veřejné zdroje, ne 100% prověřené.</li>
+          <li data-i18n="help.src_compiled"><strong>○ Vytvořené</strong> — AI agent vytvořil z public SSI standardů a teorie potápění. Užitečné pro coverage, ale check si je sám.</li>
+        </ul>
+        <p data-i18n="help.src_filter">Filtr můžeš nastavit v <strong>Nastavení → Filtr zdroje</strong> nebo v <strong>Procházet</strong>.</p>
+      </div>
+
+      <div class="card">
+        <h3 data-i18n="help.kb_h">Klávesové zkratky (jen na quiz screen)</h3>
+        <table class="help-kb">
+          <tbody>
+            <tr><td><kbd>A</kbd> / <kbd>B</kbd> / <kbd>C</kbd> / <kbd>D</kbd></td><td data-i18n="help.kb.answer">Vybrat odpověď</td></tr>
+            <tr><td><kbd>?</kbd></td><td data-i18n="help.kb.dontknow">Nevím — vysvětli</td></tr>
+            <tr><td><kbd>Enter</kbd></td><td data-i18n="help.kb.next">Další otázka (po odpovědi)</td></tr>
+            <tr><td><kbd>M</kbd></td><td data-i18n="help.kb.know100">Znám na 100 %</td></tr>
+            <tr><td><kbd>N</kbd></td><td data-i18n="help.kb.know50">Znám asi na 50 %</td></tr>
+            <tr><td><kbd>S</kbd></td><td data-i18n="help.kb.study">Studovat víc (toggle)</td></tr>
+            <tr><td><kbd>D</kbd></td><td data-i18n="help.kb.dispute">Rozporovat (toggle)</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="card">
+        <h3 data-i18n="help.dashboard_h">Sdílený dashboard</h3>
+        <p data-i18n="help.dashboard_p">Každý uživatel má vlastní progres (ID/heslo, server-side state). V <strong>Přehled</strong> je dropdown "Zobrazit uživatele" — můžeš se podívat na progres jakéhokoliv jiného registrovaného uživatele (read-only). Užitečné pro instruktory dohlížející na studenty.</p>
+      </div>
+
+      <div class="card">
+        <h3 data-i18n="help.privacy_h">Co je sdílené, co soukromé</h3>
+        <p data-i18n="help.privacy_p"><strong>Sdílené (vidí všichni přes dashboard):</strong> tvoje odpovědi, naučené, rozporované, study-more flagy.<br><strong>Soukromé:</strong> heslo, vybrané filtry, jazyk, téma, Personal unlock state.</p>
+      </div>
+
+      <button id="btn-back-from-help" class="primary" data-i18n="help.back">Zpět na titulku</button>
     </section>
   </main>
 

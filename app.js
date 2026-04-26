@@ -9,8 +9,10 @@ const I18N = {
     "topbar.browse": "Browse",
     "topbar.settings": "Settings",
     "topbar.log": "Log",
+    "topbar.help": "Help",
     "topbar.theme": "Toggle theme (light/dark)",
     "topbar.logout": "Log out",
+    "topbar.home_title": "Home",
     "stats.pool": "Pool",
     "stats.total": "Total",
     "stats.active": "active",
@@ -238,6 +240,61 @@ const I18N = {
     // Footer
     "footer": "Built for instructor exam prep · Local-only · Data persists in your browser · v1",
 
+    // Home / landing
+    "home.title": "SSI Instructor Prep",
+    "home.subtitle": "SSI instructor exam prep — 677 questions from mySSI Pretest, official standards and dive-theory compilation. Weighted picking based on your progress.",
+    "home.card.drill": "Start drilling",
+    "home.card.drill_desc": "Random questions weighted by your answer history. Unseen and previously-wrong questions get higher priority.",
+    "home.card.browse": "Browse questions",
+    "home.card.browse_desc": "Filter all 677 questions by area, source, status (unanswered, wrong, mastered…) and search the text.",
+    "home.card.dashboard": "Dashboard",
+    "home.card.dashboard_desc": "Your progress per area: accuracy, attempts, mastered, disputed. You can also view other users' progress (read-only).",
+    "home.card.help": "Help",
+    "home.card.help_desc": "How the app works, what the stats mean, keyboard shortcuts and button explanations.",
+    "home.progress.title": "Your progress",
+    "home.progress.summary": "{seen} / {total} seen across all areas · {acc}% overall accuracy · {m100} mastered (100%) · {m50} review (~50%)",
+    "home.progress.empty": "No answers yet. Click \"Start drilling\" to begin.",
+
+    // Help
+    "help.title": "Help",
+    "help.workflow_h": "Workflow",
+    "help.workflow_1": "In <strong>Settings</strong>, pick the areas you want to focus on (Science of Diving / Divemaster / AI / Instructor).",
+    "help.workflow_2": "Click <strong>Start drilling</strong>. The app picks a random question from the pool, weighted by how well you know it.",
+    "help.workflow_3": "Answer A/B/C/D. If you don't know, click <strong>I don't know — explain</strong>. After answering you see the correct answer + explanation.",
+    "help.workflow_4": "Mark the question as <strong>100%</strong> (excluded from picking) or <strong>~50%</strong> (occasional review). Over time you stop seeing it and focus on the hard ones.",
+    "help.workflow_5": "In <strong>Dashboard</strong> you see accuracy per area and how much remains.",
+    "help.stats_h": "Stats — Pool vs Total",
+    "help.stats_pool": "<strong>Pool</strong> = just the currently-selected area and its questions. Changes with Settings.",
+    "help.stats_total": "<strong>Total</strong> = all your answers across all areas, ever. This is your historical record.",
+    "help.stats_acc": "Accuracy colors: <span style=\"color:#e74c3c\">red</span> &lt; 50%, <span style=\"color:#f39c12\">yellow</span> 50–74%, <span style=\"color:#27ae60\">green</span> 75–89%, <strong style=\"color:#27ae60\">90%+</strong> = goal badge.",
+    "help.buttons_h": "Question buttons",
+    "help.btn_dont_know": "<strong>I don't know — explain</strong> — Don't guess. You see the correct answer + explanation right away. Counts as \"unknown\" (not for or against).",
+    "help.btn_know_100": "<strong>I know this 100%</strong> — Question never appears in drill again. Fully mastered. You can reset in Settings.",
+    "help.btn_know_50": "<strong>I know this ~50%</strong> — Question leaves the main pool but occasionally (10%) shows for review.",
+    "help.btn_study": "<strong>📚 Study more</strong> — Marks question for later study. Doesn't change pool, just a flag.",
+    "help.btn_dispute": "<strong>⚐ Dispute</strong> — Mark a question as wrong/disputed (e.g. bad answer key). You can skip them in Settings or view the list.",
+    "help.reset_h": "Reset pool stats",
+    "help.reset_p": "Sometimes you want a clean accuracy reading — after a long break or starting a \"new round\". <strong>Reset pool stats</strong> in Settings marks all current pool answers as \"reset\". Existing answers stay in <strong>Total</strong> (history) but Pool ignores them. Pool stats restart from zero.",
+    "help.sources_h": "Question sources",
+    "help.src_mssi": "<strong>★ mySSI</strong> — Verbatim from mySSI Instructor Pretest (Lessons + Pretest Parts). 100% trustworthy.",
+    "help.src_personal": "<strong>🔒 Personal</strong> — 200 questions from 4 SSI Pro exam PDFs (AIT-A, AIT-B, ITC-A, ITC-B). Hidden behind password (default <code>jetmouse</code>, hint \"Kuk za buk\"), invisible to random visitors.",
+    "help.src_web": "<strong>● Web</strong> — Quizlet, dive shop PDFs, ScubaBoard. Public sources, not 100% verified.",
+    "help.src_compiled": "<strong>○ Compiled</strong> — AI agent generated from public SSI standards and dive theory. Useful for coverage but verify yourself.",
+    "help.src_filter": "Set the filter in <strong>Settings → Source filter</strong> or in <strong>Browse</strong>.",
+    "help.kb_h": "Keyboard shortcuts (quiz screen only)",
+    "help.kb.answer": "Pick an answer",
+    "help.kb.dontknow": "I don't know — explain",
+    "help.kb.next": "Next question (after answering)",
+    "help.kb.know100": "I know this 100%",
+    "help.kb.know50": "I know this ~50%",
+    "help.kb.study": "Study more (toggle)",
+    "help.kb.dispute": "Dispute (toggle)",
+    "help.dashboard_h": "Shared dashboard",
+    "help.dashboard_p": "Each user has their own progress (ID/password, server-side state). The Dashboard has a \"View user\" dropdown — you can look at any other registered user's progress (read-only). Useful for instructors monitoring students.",
+    "help.privacy_h": "What's shared, what's private",
+    "help.privacy_p": "<strong>Shared (everyone sees in Dashboard):</strong> your answers, mastered, disputed, study-more flags.<br><strong>Private:</strong> password, selected filters, language, theme, Personal unlock state.",
+    "help.back": "Back to home",
+
     // Confirms
     "confirm.reset_100": "Reset {n} questions from the 100% pool?",
     "confirm.reset_50": "Reset {n} questions from the 50% pool?",
@@ -261,8 +318,10 @@ const I18N = {
     "topbar.browse": "Procházet",
     "topbar.settings": "Nastavení",
     "topbar.log": "Záznam",
+    "topbar.help": "Nápověda",
     "topbar.theme": "Přepnout vzhled (světlý/tmavý)",
     "topbar.logout": "Odhlásit",
+    "topbar.home_title": "Domů",
     "stats.pool": "VÝBĚR",
     "stats.total": "CELKEM",
     "stats.active": "aktivní",
@@ -489,6 +548,61 @@ const I18N = {
 
     // Footer
     "footer": "Postaveno pro přípravu na instruktorské zkoušky · Lokální · Data v tvém prohlížeči · v1",
+
+    // Home / landing
+    "home.title": "SSI Instructor Prep",
+    "home.subtitle": "Příprava na SSI instruktorské zkoušky — 677 otázek z mySSI Pretestu, oficiálních standardů a kompilátu z teorie potápění. Váženě vybírané podle tvého progresu.",
+    "home.card.drill": "Začít zkoušení",
+    "home.card.drill_desc": "Náhodné otázky s váženým výběrem podle tvojí historie odpovědí. Otázky, které ses ještě neviděl nebo na které jsi odpověděl špatně, mají větší šanci.",
+    "home.card.browse": "Procházet otázky",
+    "home.card.browse_desc": "Filtrovat všech 677 otázek podle oblasti, zdroje, stavu (nezodpovězené, špatně, naučené…) a hledat v textu.",
+    "home.card.dashboard": "Přehled",
+    "home.card.dashboard_desc": "Tvůj progres per oblast: úspěšnost, počet pokusů, naučené, rozporované. Můžeš si zobrazit i progres jiných uživatelů (read-only).",
+    "home.card.help": "Nápověda",
+    "home.card.help_desc": "Jak app funguje, co znamenají statistiky, klávesové zkratky a vysvětlení tlačítek.",
+    "home.progress.title": "Tvůj progres",
+    "home.progress.summary": "{seen} / {total} viděno napříč oblastmi · {acc}% celková úspěšnost · {m100} naučeno (100%) · {m50} review (~50%)",
+    "home.progress.empty": "Zatím žádné odpovědi. Klikni „Začít zkoušení\" a začni.",
+
+    // Help
+    "help.title": "Nápověda",
+    "help.workflow_h": "Workflow",
+    "help.workflow_1": "V <strong>Nastavení</strong> vyber oblasti, na které se chceš zaměřit (Věda o potápění / Divemaster / AI / Instruktor).",
+    "help.workflow_2": "Klikni <strong>Začít zkoušení</strong>. App ti dá náhodnou otázku z poolu, váženě podle toho, jak dobře ji znáš.",
+    "help.workflow_3": "Odpověz A/B/C/D. Pokud nevíš, klikni <strong>Nevím — vysvětli</strong>. Po odpovědi vidíš správnou odpověď a vysvětlení.",
+    "help.workflow_4": "Označ otázku jako <strong>100 %</strong> (vyřazena z výběru) nebo <strong>~50 %</strong> (občasný review). Po čase otázku přestaneš vidět a soustředíš se na ty obtížné.",
+    "help.workflow_5": "V <strong>Přehled</strong> vidíš úspěšnost per oblast a kolik ti zbývá.",
+    "help.stats_h": "Statistiky — Pool vs Total",
+    "help.stats_pool": "<strong>Pool</strong> = jen aktuálně vybraná oblast a její otázky. Mění se podle Nastavení.",
+    "help.stats_total": "<strong>Total</strong> = všechny tvoje odpovědi napříč všemi oblastmi, vše co kdy bylo. Tohle je tvůj historický záznam.",
+    "help.stats_acc": "Úspěšnost barvy: <span style=\"color:#e74c3c\">červená</span> &lt; 50 %, <span style=\"color:#f39c12\">žlutá</span> 50–74 %, <span style=\"color:#27ae60\">zelená</span> 75–89 %, <strong style=\"color:#27ae60\">90 %+</strong> = goal badge.",
+    "help.buttons_h": "Tlačítka u otázek",
+    "help.btn_dont_know": "<strong>Nevím — vysvětli</strong> — Nepokoušej se hádat. Hned vidíš správnou odpověď + vysvětlení. Započítá se jako „nevěděl\" (bez tečky za nebo proti).",
+    "help.btn_know_100": "<strong>Znám na 100 %</strong> — Otázku už nikdy neuvidíš v drillu. Plně naučená. Můžeš zrušit v Nastavení.",
+    "help.btn_know_50": "<strong>Znám asi na 50 %</strong> — Otázka přestane být v hlavním poolu, ale občas (10 %) ti ji ještě dá k review.",
+    "help.btn_study": "<strong>📚 Studovat víc</strong> — Označí otázku k pozdějšímu prostudování. Neovlivní pool, jen flag.",
+    "help.btn_dispute": "<strong>⚐ Rozporovat</strong> — Označíš otázku jako nesprávnou/spornou (např. špatná answer key). Můžeš ji v Nastavení přeskočit nebo si zobrazit seznam.",
+    "help.reset_h": "Reset pool stats",
+    "help.reset_p": "Někdy chceš začít s „čistou\" úspěšností — třeba po dlouhé pauze nebo když chceš vidět, jak se ti daří v „novém kole\". <strong>Reset pool stats</strong> v Nastavení označí všechny dosavadní odpovědi v aktuálním výběru jako „resetované\". Stávající odpovědi zůstanou v <strong>Total</strong> (historie), ale Pool je začne ignorovat. Pool stats se počítají od resetu znovu od nuly.",
+    "help.sources_h": "Zdroje otázek",
+    "help.src_mssi": "<strong>★ mySSI</strong> — Doslovně z mySSI Instructor Pretestu (Lessons + Pretest Parts). 100% spolehlivé.",
+    "help.src_personal": "<strong>🔒 Osobní</strong> — 200 otázek z 4 SSI Pro exam PDFs (AIT-A, AIT-B, ITC-A, ITC-B). Skryté heslem (default <code>jetmouse</code>, hint „Kuk za buk\"), nezobrazují se náhodným návštěvníkům.",
+    "help.src_web": "<strong>● Web</strong> — Quizlet, dive shop PDFs, ScubaBoard. Veřejné zdroje, ne 100% prověřené.",
+    "help.src_compiled": "<strong>○ Vytvořené</strong> — AI agent vytvořil z public SSI standardů a teorie potápění. Užitečné pro coverage, ale check si je sám.",
+    "help.src_filter": "Filtr můžeš nastavit v <strong>Nastavení → Filtr zdroje</strong> nebo v <strong>Procházet</strong>.",
+    "help.kb_h": "Klávesové zkratky (jen na quiz screen)",
+    "help.kb.answer": "Vybrat odpověď",
+    "help.kb.dontknow": "Nevím — vysvětli",
+    "help.kb.next": "Další otázka (po odpovědi)",
+    "help.kb.know100": "Znám na 100 %",
+    "help.kb.know50": "Znám asi na 50 %",
+    "help.kb.study": "Studovat víc (toggle)",
+    "help.kb.dispute": "Rozporovat (toggle)",
+    "help.dashboard_h": "Sdílený dashboard",
+    "help.dashboard_p": "Každý uživatel má vlastní progres (ID/heslo, server-side state). V <strong>Přehled</strong> je dropdown „Zobrazit uživatele\" — můžeš se podívat na progres jakéhokoliv jiného registrovaného uživatele (read-only). Užitečné pro instruktory dohlížející na studenty.",
+    "help.privacy_h": "Co je sdílené, co soukromé",
+    "help.privacy_p": "<strong>Sdílené (vidí všichni přes dashboard):</strong> tvoje odpovědi, naučené, rozporované, study-more flagy.<br><strong>Soukromé:</strong> heslo, vybrané filtry, jazyk, téma, Personal unlock state.",
+    "help.back": "Zpět na titulku",
 
     // Confirms
     "confirm.reset_100": "Resetovat {n} otázek z 100 % skupiny zpět do výběru?",
@@ -2373,15 +2487,15 @@ function initLogin() {
 
 async function onLoginSuccess(username) {
   setCurrentUser(username);
-  // Pull this user's state from cloud, refresh, transition to setup
+  // Pull this user's state from cloud, refresh, transition to home
   await loadStateForCurrentUser();
   loadState();
   buildSubareaIndex();
   buildMssiSectionIndex();
   refreshUserPill();
   refreshStats();
-  if (state.selectedAreas.size > 0) next();
-  else show("setup-screen");
+  renderHome();
+  show("home-screen");
 }
 
 function refreshUserPill() {
@@ -2423,6 +2537,89 @@ function initLogout() {
   });
 }
 
+// ───────── Home / Help ─────────
+
+function initHome() {
+  const brand = $("#btn-home");
+  if (brand) {
+    brand.addEventListener("click", () => { renderHome(); show("home-screen"); });
+  }
+  // Wire up the 4 navigation cards
+  document.querySelectorAll(".home-card").forEach((card) => {
+    card.addEventListener("click", () => {
+      const dest = card.dataset.go;
+      if (dest === "drill") {
+        // Same logic as initial boot path
+        if (state.selectedAreas.size > 0) next();
+        else show("setup-screen");
+      } else if (dest === "browse") {
+        renderBrowse(); show("browse-screen");
+      } else if (dest === "dashboard") {
+        // Mirror what btn-dashboard does
+        $("#btn-dashboard").click();
+      } else if (dest === "help") {
+        show("help-screen");
+      }
+    });
+  });
+}
+
+function renderHome() {
+  // Mini progress section: per-area bars + summary line
+  const section = $("#home-progress-section");
+  const bars = $("#home-progress-bars");
+  const summary = $("#home-progress-summary");
+  if (!section || !bars) return;
+
+  const stats = computeAreaStats();
+  let totalSeen = 0, totalQ = 0, totalAttempts = 0, totalCorrect = 0, totalM100 = 0, totalM50 = 0;
+  for (const s of Object.values(stats)) {
+    totalSeen += s.seen.size;
+    totalQ += s.total;
+    totalAttempts += s.attempts;
+    totalCorrect += s.correct;
+    totalM100 += s.m100;
+    totalM50 += s.m50;
+  }
+  if (totalAttempts === 0) {
+    section.classList.remove("hidden");
+    bars.innerHTML = "";
+    summary.textContent = t("home.progress.empty");
+    return;
+  }
+  section.classList.remove("hidden");
+
+  bars.innerHTML = "";
+  for (const [key, label] of Object.entries(AREA_LABELS)) {
+    const s = stats[key];
+    if (!s || !s.total) continue;
+    const masteredPct = Math.round((s.m100 / s.total) * 100);
+    const accPct = s.attempts ? Math.round((s.correct / s.attempts) * 100) : null;
+    const accClass = accPct === null ? "muted" : accPct >= 80 ? "good" : accPct < 60 ? "bad" : "";
+    const accText = accPct === null ? "—" : `${accPct}%`;
+    const row = document.createElement("div");
+    row.className = "home-progress-bar";
+    row.innerHTML = `
+      <div class="hp-label">${escapeHtml(label)}</div>
+      <div class="bar"><div class="fill" style="width:${masteredPct}%"></div></div>
+      <div class="hp-meta"><strong>${s.m100}</strong>/${s.total} · <span class="${accClass}">${accText}</span></div>
+    `;
+    bars.appendChild(row);
+  }
+
+  const overallAcc = totalAttempts ? Math.round((totalCorrect / totalAttempts) * 100) : 0;
+  summary.textContent = tFmt("home.progress.summary", {
+    seen: totalSeen, total: totalQ, acc: overallAcc, m100: totalM100, m50: totalM50,
+  });
+}
+
+function initHelp() {
+  const btn = $("#btn-help");
+  if (btn) btn.addEventListener("click", () => show("help-screen"));
+  const back = $("#btn-back-from-help");
+  if (back) back.addEventListener("click", () => { renderHome(); show("home-screen"); });
+}
+
 // ───────── Boot ─────────
 
 async function boot() {
@@ -2435,7 +2632,7 @@ async function boot() {
       // Show login first; load questions in parallel
       try { const path = await loadQuestions(); buildSubareaIndex(); buildMssiSectionIndex(); console.log("Loaded", path); }
       catch (e) { console.error("Question load failed", e); }
-      initSetup(); initSettings(); initLog(); initDashboard(); initBrowse(); initQuiz(); initTheme(); initLogin(); initLogout();
+      initSetup(); initSettings(); initLog(); initDashboard(); initBrowse(); initQuiz(); initTheme(); initLogin(); initLogout(); initHome(); initHelp();
       refreshUserPill();
       show("login-screen");
       return;
@@ -2469,11 +2666,14 @@ async function boot() {
   initTheme();
   initLogin();
   initLogout();
+  initHome();
+  initHelp();
   refreshUserPill();
 
   refreshStats();
-  if (state.selectedAreas.size > 0) next();
-  else show("setup-screen");
+  // Always land on home — discoverable nav. User clicks "Start drilling" card to enter quiz.
+  renderHome();
+  show("home-screen");
 }
 
 boot();

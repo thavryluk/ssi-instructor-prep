@@ -444,3 +444,143 @@ input[type="text"] { flex: 1; min-width: 200px; }
   .topbar { flex-wrap: wrap; gap: 0.5rem; padding: 0.75rem 1rem; }
   .stats { order: 3; flex-basis: 100%; }
 }
+
+/* ───── Brand button (clickable home link) ───── */
+.brand-btn {
+  background: none;
+  border: none;
+  color: var(--text);
+  font-family: inherit;
+  cursor: pointer;
+  padding: 0;
+  letter-spacing: 0.3px;
+}
+.brand-btn:hover { color: var(--accent); }
+
+/* ───── Home / landing screen ───── */
+.home-hero {
+  text-align: center;
+  padding: 1.5rem 1rem 0.5rem;
+}
+.home-hero h1 {
+  margin: 0 0 0.5rem;
+  font-size: 2rem;
+}
+.home-hero p {
+  max-width: 720px;
+  margin: 0 auto;
+  line-height: 1.55;
+}
+
+.home-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.home-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1.5rem;
+  cursor: pointer;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  text-align: left;
+  color: var(--text);
+  font-family: inherit;
+  transition: border-color 0.15s, transform 0.15s, background 0.15s;
+}
+.home-card:hover {
+  border-color: var(--accent);
+  background: var(--bg-elev);
+  transform: translateY(-2px);
+}
+.home-card-icon {
+  font-size: 1.6rem;
+  line-height: 1;
+}
+.home-card h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+.home-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+/* ───── Home progress bars ───── */
+.home-progress-bar {
+  display: grid;
+  grid-template-columns: 10rem 1fr 8rem;
+  gap: 0.6rem;
+  align-items: center;
+  padding: 0.4rem 0;
+  font-size: 0.92rem;
+}
+.home-progress-bar .hp-label {
+  font-weight: 500;
+  color: var(--text);
+}
+.home-progress-bar .bar {
+  background: var(--bg-elev);
+  height: 0.7rem;
+  border-radius: 0.35rem;
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+.home-progress-bar .bar > .fill {
+  background: var(--accent);
+  height: 100%;
+  transition: width 0.3s;
+}
+.home-progress-bar .hp-meta {
+  text-align: right;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+.home-progress-bar .hp-meta .good { color: var(--success); }
+.home-progress-bar .hp-meta .bad { color: var(--danger); }
+
+@media (max-width: 600px) {
+  .home-progress-bar { grid-template-columns: 7rem 1fr 6rem; font-size: 0.85rem; }
+}
+
+/* ───── Help screen ───── */
+#help-screen .card {
+  margin-bottom: 1rem;
+}
+#help-screen h3 {
+  margin-top: 0;
+}
+.help-list {
+  margin: 0;
+  padding-left: 1.25rem;
+  line-height: 1.55;
+}
+.help-list li { margin-bottom: 0.4rem; }
+.help-kb {
+  width: auto;
+  border-collapse: collapse;
+  margin-top: 0.5rem;
+}
+.help-kb td {
+  padding: 0.3rem 0.75rem 0.3rem 0;
+  vertical-align: top;
+}
+.help-kb td:first-child {
+  white-space: nowrap;
+}
+.help-kb kbd {
+  display: inline-block;
+  padding: 0.1rem 0.4rem;
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: 0.25rem;
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.85rem;
+  color: var(--text);
+}
