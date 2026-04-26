@@ -1,0 +1,26 @@
+# Built artifact (regenerated on Netlify build)
+dist/
+
+# Local-only state sync (per-machine, syncs via Dropbox not Git)
+state/
+
+# Node deps (Netlify installs on build)
+node_modules/
+package-lock.json
+
+# Python build artifacts
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local environment
+.env
+.env.local
+
+# Dropbox conflict files (if any get committed)
+*conflict*

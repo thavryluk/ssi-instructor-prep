@@ -1,0 +1,302 @@
+[
+  {
+    "id": "dm-0021",
+    "area": "divemaster",
+    "subarea": "DM Role — Standards",
+    "question": "Minimum age for SSI Divemaster certification is:",
+    "options": {"a": "15", "b": "16", "c": "18", "d": "21"},
+    "correct": "c",
+    "explanation": "All SSI professional ratings (DM and above) require minimum age 18.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0022",
+    "area": "divemaster",
+    "subarea": "DM Role — Medical",
+    "question": "Each professional candidate must have a medical clearance valid within:",
+    "options": {"a": "1 month", "b": "6 months", "c": "12 months", "d": "5 years"},
+    "correct": "c",
+    "explanation": "SSI requires a current medical valid within 12 months for all professional candidates.",
+    "source": "https://kmstc.org/wp-content/uploads/2018/09/STANDARDS_English-Imperial_IM.pdf"
+  },
+  {
+    "id": "dm-0023",
+    "area": "divemaster",
+    "subarea": "DM Role — CPR/First Aid",
+    "question": "Active SSI Divemasters must hold current training in:",
+    "options": {"a": "Welding", "b": "CPR and First Aid (e.g., React Right or equivalent)", "c": "Marine biology", "d": "Boat captain license"},
+    "correct": "b",
+    "explanation": "CPR and First Aid (e.g., SSI React Right or equivalent) are required for professional renewal.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0024",
+    "area": "divemaster",
+    "subarea": "DM Role — Liability",
+    "question": "Risk-management documentation a DM must ensure is on file includes:",
+    "options": {"a": "Statement of Understanding and Liability Release", "b": "Medical statement", "c": "Diver registration form", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "All paperwork is mandatory before in-water activities.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0025",
+    "area": "divemaster",
+    "subarea": "DM Role — Group control",
+    "question": "When supervising certified divers, the maximum group size for a single DM is generally:",
+    "options": {"a": "20 divers", "b": "8 buddy pairs (with appropriate conditions and policies)", "c": "Unlimited", "d": "1 buddy pair"},
+    "correct": "b",
+    "explanation": "Maximum group ratios depend on conditions; many operators cap at 8 divers per DM in good conditions.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0026",
+    "area": "divemaster",
+    "subarea": "DM Role — Authority",
+    "question": "Within SSI, a Divemaster CAN independently teach which of the following programs?",
+    "options": {"a": "Open Water Diver", "b": "Scuba Skills Update, Try Scuba (Pool), and snorkel programs", "c": "Rescue Diver", "d": "Instructor"},
+    "correct": "b",
+    "explanation": "DMs can conduct Scuba Skills Update, Try Scuba (Pool only), Snorkel and Snorkel Diver under SSI standards.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0027",
+    "area": "divemaster",
+    "subarea": "DM Role — Assistant",
+    "question": "While assisting an instructor, a Divemaster CANNOT:",
+    "options": {"a": "Conduct briefings under the instructor's supervision", "b": "Independently certify Open Water Divers", "c": "Lead navigation drills with certified divers", "d": "Maintain equipment"},
+    "correct": "b",
+    "explanation": "Only an Open Water Instructor (or higher) can certify Open Water Divers. DMs assist but do not certify.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0028",
+    "area": "divemaster",
+    "subarea": "DM Role — Mapping",
+    "question": "Producing a dive-site map (a key DM training task) helps:",
+    "options": {"a": "Plan briefings and identify hazards", "b": "Conduct safer briefings for new divers", "c": "Train navigation skills", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "Site mapping is a foundational DM project that supports planning, briefings, and hazard awareness.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0029",
+    "area": "divemaster",
+    "subarea": "DM Role — Decompression",
+    "question": "Recreational SSI dives are limited to:",
+    "options": {"a": "No-decompression diving", "b": "Mandatory deco stops", "c": "Helium mixes only", "d": "Decompression diving only"},
+    "correct": "a",
+    "explanation": "Recreational programs operate within no-stop limits. Decompression diving is technical training.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0030",
+    "area": "divemaster",
+    "subarea": "DM Role — Maximum depth",
+    "question": "The maximum recreational depth supported by SSI training (without specialty extensions) is:",
+    "options": {"a": "18 m / 60 ft", "b": "30 m / 100 ft", "c": "40 m / 130 ft", "d": "60 m / 200 ft"},
+    "correct": "c",
+    "explanation": "Recreational max depth is 40 m / 130 ft. The Deep Diver specialty trains divers to this limit.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0031",
+    "area": "divemaster",
+    "subarea": "DM Role — Customer service",
+    "question": "Quality customer service in SSI dive operations primarily relies on:",
+    "options": {"a": "Aggressive sales tactics", "b": "Building diver loyalty through quality experiences and ongoing education", "c": "Discounts only", "d": "Selling cheap equipment"},
+    "correct": "b",
+    "explanation": "SSI's diamond philosophy aims at long-term diver development, retention and customer loyalty.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0032",
+    "area": "divemaster",
+    "subarea": "DM Role — Briefing structure",
+    "question": "The recommended order in a pre-dive briefing includes:",
+    "options": {"a": "Site overview, dive objectives, profile and time, hand signals, buddy procedures, environmental concerns, emergency procedures", "b": "Random topics as they come up", "c": "Only emergency procedures", "d": "Only depth and time"},
+    "correct": "a",
+    "explanation": "A structured briefing covers all relevant pre-dive information in a logical order.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0033",
+    "area": "divemaster",
+    "subarea": "DM Role — Boat diving",
+    "question": "When DM-leading on a boat, you should:",
+    "options": {"a": "Conduct a boat orientation including head count, gear stowage and emergency equipment", "b": "Skip the briefing if divers are experienced", "c": "Allow divers to enter without buddy checks", "d": "Stay on the bow only"},
+    "correct": "a",
+    "explanation": "A boat briefing covers safety equipment, boarding, head counts and emergency procedures.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0034",
+    "area": "divemaster",
+    "subarea": "DM Role — Roll call",
+    "question": "A head count after a dive is essential because:",
+    "options": {"a": "It satisfies regulatory requirements", "b": "It confirms all divers are safely back aboard before departure", "c": "It improves dive logs", "d": "It is a tradition"},
+    "correct": "b",
+    "explanation": "Failing to verify all divers returned has cost lives. A confirmed head count is non-negotiable.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0035",
+    "area": "divemaster",
+    "subarea": "DM Role — Currents",
+    "question": "When briefing a drift dive, a DM should emphasize:",
+    "options": {"a": "Stay together as a group with the leader", "b": "Carry an SMB / DSMB and signaling device", "c": "Plan for the boat to follow surface bubbles or SMB", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "Drift dive briefings need group cohesion, surface signaling, and clear pickup procedures.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0036",
+    "area": "divemaster",
+    "subarea": "DM Role — Night diving",
+    "question": "An additional safety item required for night diving is:",
+    "options": {"a": "Spear gun", "b": "A primary and backup dive light, plus a marker / glow stick", "c": "A dive watch only", "d": "A weight belt only"},
+    "correct": "b",
+    "explanation": "Two lights and a personal marker greatly improve safety and group control after dark.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0037",
+    "area": "divemaster",
+    "subarea": "DM Role — Snorkel",
+    "question": "DMs can teach the SSI Snorkel and Snorkel Diver programs but the dives must be conducted:",
+    "options": {"a": "Only in open water below 18 m", "b": "Within stated SSI standards (typically not exceeding 6 m / 20 ft, surface-only for snorkeling)", "c": "Only in the ocean", "d": "Only at altitude"},
+    "correct": "b",
+    "explanation": "Snorkel programs operate at the surface with optional shallow free-dives within standards.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0038",
+    "area": "divemaster",
+    "subarea": "DM Role — Continuing education",
+    "question": "After certification, an SSI Divemaster maintains professional status by:",
+    "options": {"a": "Annual renewal and CPR/First Aid currency", "b": "Active teaching status with a Training Center", "c": "Liability insurance where required", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "Active DM status requires annual renewal, current CPR/First Aid, and a current liability insurance where mandated.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0039",
+    "area": "divemaster",
+    "subarea": "DM Role — Logbook",
+    "question": "A logged dive in SSI is verified by:",
+    "options": {"a": "An SSI Professional's signature in the logbook (or digital MyDiveGuide log)", "b": "A friend's note", "c": "A photograph only", "d": "A receipt"},
+    "correct": "a",
+    "explanation": "Verified dives need an active SSI Professional's signature in the logbook (paper or digital).",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0040",
+    "area": "divemaster",
+    "subarea": "DM Role — Equipment specialist",
+    "question": "If a regulator free-flows underwater, the diver should:",
+    "options": {"a": "Inhale rapidly and ascend", "b": "Breathe gently from the free-flowing reg (with corner of mouth open) and ascend with the buddy", "c": "Hold the breath and descend", "d": "Drop the weights"},
+    "correct": "b",
+    "explanation": "A free-flowing reg can still be breathed from with proper technique while ascending and either ending or sharing the dive.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0041",
+    "area": "divemaster",
+    "subarea": "DM Role — DCS recognition",
+    "question": "When a diver complains of joint pain and fatigue 30 minutes after surfacing, the DM should:",
+    "options": {"a": "Recommend more diving", "b": "Provide 100% surface oxygen, keep them warm and hydrated, and call DAN/EMS", "c": "Give them aspirin and send home", "d": "Wait until symptoms get worse"},
+    "correct": "b",
+    "explanation": "Suspected DCS: O2, fluids, EMS contact, evacuation to a chamber. Do not wait.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0042",
+    "area": "divemaster",
+    "subarea": "DM Role — Group dynamics",
+    "question": "When integrating a less-experienced certified diver into a group, the DM should:",
+    "options": {"a": "Ignore the difference and move on", "b": "Pair them with a more experienced buddy and adjust the dive plan", "c": "Make them dive alone", "d": "Refuse to take them"},
+    "correct": "b",
+    "explanation": "Adjusting plan and buddy pairing keeps the dive safe and inclusive.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0043",
+    "area": "divemaster",
+    "subarea": "DM Role — Pre-dive checks",
+    "question": "BWRAF (or SSI's pre-dive check) checks:",
+    "options": {"a": "BCD, Weights, Releases, Air, Final OK", "b": "Buoyancy, Weights, Records, Atmosphere, Floats", "c": "Boat, Wind, Rescue, Air, Fish", "d": "Bag, Watch, Reg, Anchor, Float"},
+    "correct": "a",
+    "explanation": "BWRAF: BCD/buoyancy, weights, releases, air, final OK — pre-dive buddy check mnemonic.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0044",
+    "area": "divemaster",
+    "subarea": "DM Role — Marine life briefing",
+    "question": "When briefing about marine life, divers should be reminded to:",
+    "options": {"a": "Touch and feed marine life freely", "b": "Look but do not touch; never feed; respect protected species", "c": "Catch lobsters as souvenirs", "d": "Ride large pelagics"},
+    "correct": "b",
+    "explanation": "Look-don't-touch is the SSI ethic. Many marine life injuries result from touching.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0045",
+    "area": "divemaster",
+    "subarea": "DM Role — DSMB",
+    "question": "A delayed surface marker buoy (DSMB) is used to:",
+    "options": {"a": "Mark the safety stop and signal position to surface support", "b": "Carry weights", "c": "Indicate cylinder pressure", "d": "Replace a BCD"},
+    "correct": "a",
+    "explanation": "DSMBs warn boats and mark divers' position during ascents and drift dives.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0046",
+    "area": "divemaster",
+    "subarea": "DM Role — Emergency O2",
+    "question": "Surface oxygen should be administered to a suspected DCS or AGE patient:",
+    "options": {"a": "Only after 30 minutes", "b": "Only by a doctor", "c": "As soon as practicable, ideally at 100% concentration", "d": "Only after they reach the chamber"},
+    "correct": "c",
+    "explanation": "Early 100% O2 reduces bubble size and aids inert-gas elimination — minutes matter.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0047",
+    "area": "divemaster",
+    "subarea": "DM Role — Nitrogen narcosis management",
+    "question": "If a buddy in your group shows signs of narcosis at depth, you should:",
+    "options": {"a": "Continue at depth", "b": "Signal them and ascend to a shallower depth together", "c": "Leave them alone", "d": "Dive deeper to test"},
+    "correct": "b",
+    "explanation": "Ascending a few meters resolves narcosis quickly; proceed only if symptoms clear.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0048",
+    "area": "divemaster",
+    "subarea": "DM Role — Wreck",
+    "question": "When guiding divers near a wreck, the DM should:",
+    "options": {"a": "Encourage penetration without training", "b": "Stay outside the wreck unless properly trained and equipped for penetration", "c": "Remove artifacts", "d": "Lead deep and silty"},
+    "correct": "b",
+    "explanation": "Wreck penetration is a specialty discipline; recreational dives stay outside or in light zone only.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0049",
+    "area": "divemaster",
+    "subarea": "DM Role — Continuing education",
+    "question": "Which is NOT a typical DM continuing education path?",
+    "options": {"a": "Specialty Instructor in non-teaching disciplines (with proper Instructor rating)", "b": "Assistant Instructor", "c": "Marine biologist license issued by SSI", "d": "Open Water Instructor"},
+    "correct": "c",
+    "explanation": "SSI doesn't issue marine-biology licenses; the other paths are valid pro-development steps.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0050",
+    "area": "divemaster",
+    "subarea": "DM Role — Post-dive debrief",
+    "question": "A good post-dive debrief includes:",
+    "options": {"a": "Reviewing what went well and what could be improved", "b": "Logging dive details accurately", "c": "Identifying any safety concerns and addressing them before next dive", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "Debriefs improve future dives and document lessons learned.",
+    "source": "compiled_from_dive_theory"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ai-0031",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Communication",
+    "question": "Underwater communication is most effectively done by:",
+    "options": {"a": "Standardized hand signals supplemented by slates if needed", "b": "Voice only", "c": "Sign language only", "d": "Telepathy"},
+    "correct": "a",
+    "explanation": "Standard hand signals + writing slate cover most teaching communication needs underwater.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0032",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Hand signals",
+    "question": "The 'OK' hand signal is:",
+    "options": {"a": "Thumbs up", "b": "Thumb and forefinger touching to form an O, other fingers extended", "c": "Open palm waving", "d": "Pointing at depth gauge"},
+    "correct": "b",
+    "explanation": "Underwater 'OK' is the classic O sign. 'Thumbs up' means 'go up / end the dive'.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0033",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Hand signals",
+    "question": "A 'thumbs up' signal underwater means:",
+    "options": {"a": "Everything is OK", "b": "Go up / end the dive", "c": "Go down", "d": "Out of air"},
+    "correct": "b",
+    "explanation": "Thumbs up = ascend/end the dive. Use the 'OK' sign for OK status.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0034",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Pre-engagement",
+    "question": "The 'pre-engagement' phase of an SSI active learning session refers to:",
+    "options": {"a": "Activities or prompts that get students thinking about the topic before formal teaching", "b": "Final exam practice", "c": "Equipment cleaning", "d": "Logging dives"},
+    "correct": "a",
+    "explanation": "Pre-engagement primes the brain — questions, scenarios or recall of prior experiences.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0035",
+    "area": "assistant_instructor",
+    "subarea": "AI Standards — Insurance",
+    "question": "Active SSI Professionals are typically required to maintain:",
+    "options": {"a": "Pet insurance", "b": "Professional liability insurance where required by region", "c": "Health insurance only", "d": "No insurance"},
+    "correct": "b",
+    "explanation": "Liability insurance is required in many jurisdictions and strongly recommended in others.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0036",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Affective issues",
+    "question": "If a student demonstrates the skill technically correctly but rolls their eyes about safety briefings, the issue is in the:",
+    "options": {"a": "Cognitive domain", "b": "Psychomotor domain", "c": "Affective domain", "d": "Equipment domain"},
+    "correct": "c",
+    "explanation": "Attitude problems live in the affective domain and must be addressed for safety culture.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0037",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Confined water progression",
+    "question": "When teaching a new skill in confined water, the recommended progression is:",
+    "options": {"a": "Open water -> pool -> classroom", "b": "Classroom theory -> demonstration -> guided practice -> independent practice", "c": "Test first, then teach", "d": "Only practice, no theory"},
+    "correct": "b",
+    "explanation": "Knowledge first, then guided skill acquisition, then independence — a classic pedagogical sequence.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0038",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Visual aids",
+    "question": "Effective visual aids in academic sessions:",
+    "options": {"a": "Are crowded with text and read aloud verbatim", "b": "Reinforce the verbal message and prompt active engagement", "c": "Replace any need for verbal teaching", "d": "Are colored randomly"},
+    "correct": "b",
+    "explanation": "Visuals support and amplify the spoken message; they are not a script.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0039",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Questioning",
+    "question": "Effective use of questioning in teaching:",
+    "options": {"a": "Tests memory only with single-word answers", "b": "Engages higher-order thinking and checks understanding throughout the lesson", "c": "Should only happen at the final exam", "d": "Is rude"},
+    "correct": "b",
+    "explanation": "Open-ended questions push learners up Bloom's taxonomy and reveal misconceptions early.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0040",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Wait time",
+    "question": "After asking a question, instructors should:",
+    "options": {"a": "Answer immediately if no one responds", "b": "Provide adequate wait-time (silence) for students to think and respond", "c": "Move on", "d": "Repeat the question 5 times"},
+    "correct": "b",
+    "explanation": "Wait-time of 3-5 seconds increases response quality and student engagement.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0041",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Check on learning",
+    "question": "An effective 'check on learning' question should:",
+    "options": {"a": "Be answerable from a recall yes/no without thinking", "b": "Probe understanding and application of the material", "c": "Be unrelated to the topic", "d": "Always be true/false"},
+    "correct": "b",
+    "explanation": "Strong checks reveal whether the student can apply, not just recite.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0042",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Modeling",
+    "question": "An instructor's own behavior in the water:",
+    "options": {"a": "Is invisible to students", "b": "Models attitudes, safety practices and skills that students will copy", "c": "Doesn't matter once certified", "d": "Need not follow standards"},
+    "correct": "b",
+    "explanation": "Students learn most from observed behavior; instructors must model the behaviors they want.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0043",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Documentation",
+    "question": "Course paperwork (releases, medical, registration) should be:",
+    "options": {"a": "Optional", "b": "Completed before in-water activities and stored according to standards", "c": "Filed by students themselves only", "d": "Discarded after the course"},
+    "correct": "b",
+    "explanation": "Records must be complete before in-water activities begin; retain per SSI standards.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0044",
+    "area": "assistant_instructor",
+    "subarea": "AI Standards — Authority limits",
+    "question": "An AI may NOT independently:",
+    "options": {"a": "Conduct Try Scuba in the pool", "b": "Conduct Open Water certification dives", "c": "Teach Perfect Buoyancy academic and pool sessions", "d": "Conduct Scuba Skills Update"},
+    "correct": "b",
+    "explanation": "OW certifications require an Open Water Instructor (OWI) or higher. AIs can assist but not certify.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0045",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Equipment intro",
+    "question": "When introducing new equipment to students, the AI should:",
+    "options": {"a": "Hand it over and let them figure it out", "b": "Explain its function, demonstrate use, supervise practice and verify safe use", "c": "Just tell them to read the manual", "d": "Use it themselves to show off"},
+    "correct": "b",
+    "explanation": "Equipment introduction follows EDGE: Explain, Demonstrate, Guide, Enable.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0046",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Safety culture",
+    "question": "A positive safety culture in a class is built by:",
+    "options": {"a": "Punishing every mistake", "b": "Encouraging questions, near-miss reporting, and learning from errors", "c": "Hiding incidents", "d": "Only teaching theory"},
+    "correct": "b",
+    "explanation": "Open communication and learning from errors strengthens safety long-term.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0047",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Time management",
+    "question": "An academic session should be paced:",
+    "options": {"a": "To finish as quickly as possible", "b": "With time for engagement, content, practice and assessment within the planned duration", "c": "To exceed the planned time", "d": "With no plan"},
+    "correct": "b",
+    "explanation": "Pacing is part of professional teaching — staying within time builds trust and respects students.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0048",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Conflict resolution",
+    "question": "If two students argue during a class, the AI should:",
+    "options": {"a": "Ignore it", "b": "Address it calmly and privately, refocusing on the goals and standards", "c": "Take sides immediately", "d": "Cancel the class"},
+    "correct": "b",
+    "explanation": "Calm, professional intervention restores group dynamics without escalation.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0049",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Buddy assignment",
+    "question": "When forming buddy pairs in a class, the AI should:",
+    "options": {"a": "Pair the strongest with the strongest", "b": "Pair students with complementary skills/ comfort and rotate periodically", "c": "Let them dive solo", "d": "Always pair strangers regardless of fit"},
+    "correct": "b",
+    "explanation": "Thoughtful pairing supports learning while ensuring no buddy is overburdened.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0050",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Debriefing skills",
+    "question": "After a skill exercise, the AI should debrief with:",
+    "options": {"a": "Only the best students", "b": "All participants, focusing on what was done well and how to improve specific aspects", "c": "Only criticism", "d": "Silence"},
+    "correct": "b",
+    "explanation": "Inclusive debriefs reinforce learning for everyone in the group.",
+    "source": "compiled_from_dive_theory"
+  }
+]

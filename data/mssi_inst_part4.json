@@ -1,0 +1,152 @@
+[
+  {
+    "id": "mssi-inst-030",
+    "area": "instructor",
+    "subarea": "Equipment — Dive Computer",
+    "question": "How does a gas-integrated dive computer help divers manage their gas?",
+    "options": {
+      "a": "By monitoring and displaying the remaining gas supply in real-time",
+      "b": "By storing historical data about the temperature of the dive",
+      "c": "By automatically adjusting the diver's breathing rate",
+      "d": "All answers are correct"
+    },
+    "correct": "a",
+    "explanation": "A gas-integrated computer reads tank pressure (wired or wirelessly via a transmitter) and shows real-time remaining gas supply, often combined with current SAC/RMV and gas-time-remaining estimates. It does NOT control the diver's breathing.",
+    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+  },
+  {
+    "id": "mssi-inst-031",
+    "area": "instructor",
+    "subarea": "Equipment — Dive Flags",
+    "question": "The most common flags used to show the location of divers underwater are the:",
+    "options": {
+      "a": "Recreational diver flag and the Alpha flag",
+      "b": "Recreational diver's flag and the beta flag",
+      "c": "Alfa flag and the safe boaters flag",
+      "d": "Beta flag and the look-out-below flag"
+    },
+    "correct": "a",
+    "explanation": "Two flags are recognised: the recreational/sport diver flag (red field with diagonal white stripe, mainly North America) and the international maritime Alpha flag (white-and-blue swallow-tail) which signals 'I have a diver down — keep clear at slow speed'.",
+    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+  },
+  {
+    "id": "mssi-inst-032",
+    "area": "instructor",
+    "subarea": "Equipment — Save-a-Dive Kit",
+    "question": "To avoid missing a dive, divers should always be prepared with a:",
+    "options": {
+      "a": "Spare cylinder",
+      "b": "Second Total Diving System",
+      "c": "Complete second delivery system",
+      "d": "Extensive spare parts kit"
+    },
+    "correct": "d",
+    "explanation": "The 'save-a-dive kit' is a small case of common spare parts (mask strap, fin strap, O-rings, mouthpiece, cable ties, batteries, defog, basic tools) that lets you fix the small failures that would otherwise scrub a dive. A whole second TDS is impractical to carry; the kit is the standard SSI recommendation.",
+    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+  },
+  {
+    "id": "mssi-inst-033",
+    "area": "instructor",
+    "subarea": "Equipment — Thermal Protection",
+    "question": "The thermal protection provided by wetsuits and dry suits can be enhanced by the addition of:",
+    "options": {
+      "a": "Hoods, booties, and gloves",
+      "b": "Hot water inside the suit",
+      "c": "Helium as inflation gas",
+      "d": "Back plates and harnesses"
+    },
+    "correct": "a",
+    "explanation": "Heat is lost fastest at the head, hands and feet. Adding a hood, booties and gloves dramatically improves overall thermal protection. Hot-water suits exist (commercial diving) but are not 'add-ons' to a recreational suit; helium is a worse insulator than air; back plates are buoyancy hardware.",
+    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+  },
+  {
+    "id": "mssi-inst-034",
+    "area": "instructor",
+    "subarea": "Equipment — Buoyancy Compensator",
+    "question": "To replace the traditional weight belt, most modern buoyancy compensators have:",
+    "options": {
+      "a": "A harness",
+      "b": "An integrated weight system",
+      "c": "Pockets",
+      "d": "An inflator"
+    },
+    "correct": "b",
+    "explanation": "Modern recreational BCs incorporate an integrated weight system: weights ride in releasable pouches in the BC itself, removing the need for a separate belt. The pouches are designed to be jettisoned with a single handle in an emergency.",
+    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+  },
+  {
+    "id": "mssi-inst-035",
+    "area": "instructor",
+    "subarea": "Equipment — Cylinders",
+    "question": "All cylinders filled with anything other than air must be:",
+    "options": {
+      "a": "Only used once",
+      "b": "Rinsed off before filling",
+      "c": "Clearly marked",
+      "d": "Rented from an SSI Training Center"
+    },
+    "correct": "c",
+    "explanation": "Cylinders containing anything other than standard air (Nitrox, Trimix, oxygen, argon, etc.) must be clearly labelled with contents and analysis — green/yellow Nitrox tape, MOD sticker, max PO2, fill date — so no diver accidentally breathes the wrong gas at the wrong depth.",
+    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+  },
+  {
+    "id": "mssi-inst-036",
+    "area": "instructor",
+    "subarea": "Equipment — Regulator First Stage",
+    "question": "The first-stage of a regulator:",
+    "options": {
+      "a": "Reduces high-pressure air coming from the cylinder to a consistent intermediate pressure",
+      "b": "Reduces high-pressure air coming from the cylinder to an increased intermediate pressure",
+      "c": "Increases the intermediate pressure",
+      "d": "Increases high-pressure air coming from the cylinder"
+    },
+    "correct": "a",
+    "explanation": "The first stage steps cylinder pressure (200–300 bar) down to a consistent intermediate pressure (typically ~9–10 bar above ambient). The second stage then drops it to ambient on-demand for the diver to breathe. Balanced first stages keep IP constant as cylinder pressure drops.",
+    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+  },
+  {
+    "id": "mssi-inst-037",
+    "area": "instructor",
+    "subarea": "Equipment — Total Diving System",
+    "question": "The most comfortable, convenient and enjoyable way to dive is:",
+    "options": {
+      "a": "With your own professionally-fitted Total Diving System",
+      "b": "In warm water",
+      "c": "With your dive buddy",
+      "d": "In clear waters"
+    },
+    "correct": "a",
+    "explanation": "SSI's core philosophy: a diver's own Total Diving System (TDS) — properly fitted mask, fins, exposure suit, BC, regulator, computer, instrumentation — provides comfort, familiarity and reliability that rental gear can't match. (Also a marketing message of the SSI dealer model, but pedagogically grounded.)",
+    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+  },
+  {
+    "id": "mssi-inst-038",
+    "area": "instructor",
+    "subarea": "Equipment — Weight Systems",
+    "question": "What weight systems can divers choose for offsetting buoyancy?",
+    "options": {
+      "a": "Integrated weights",
+      "b": "Trim weights",
+      "c": "All answers are correct",
+      "d": "Traditional weight belts"
+    },
+    "correct": "c",
+    "explanation": "Three common weighting options coexist: traditional weight belt (around the hips), integrated weight pockets in the BC, and trim weights (small ankle/back-mounted weights to fine-tune horizontal trim). Most divers use a combination.",
+    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+  },
+  {
+    "id": "mssi-inst-039",
+    "area": "instructor",
+    "subarea": "Equipment — Information System",
+    "question": "The Information System includes:",
+    "options": {
+      "a": "Submersible pressure gauges and depth gauges",
+      "b": "Dive computers",
+      "c": "Compasses",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "The 'Information System' in SSI's TDS framework groups every instrument that gives the diver data about the dive: SPG, depth gauge, dive computer (which today often subsumes both), timer, compass, and digital extensions like wireless transmitters and HUDs.",
+    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+  }
+]

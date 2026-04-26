@@ -1,0 +1,15 @@
+[build]
+  publish = "dist"
+  functions = "netlify/functions"
+  command = "python3 data/assemble.py && mkdir -p dist/data && cp index.html styles.css app.js dist/ && cp data/questions.json dist/data/"
+
+[build.environment]
+  PYTHON_VERSION = "3.11"
+
+[functions]
+  node_bundler = "esbuild"
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200

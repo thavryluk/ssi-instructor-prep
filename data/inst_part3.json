@@ -1,0 +1,202 @@
+[
+  {
+    "id": "inst-0051",
+    "area": "instructor",
+    "subarea": "Standards — Records",
+    "question": "Training records (rosters, releases, medical, performance documentation) must be kept by the Training Center for:",
+    "options": {"a": "Until end of course", "b": "Per local statutes and SSI standards (typically 7 years or longer)", "c": "Optional", "d": "1 month"},
+    "correct": "b",
+    "explanation": "Retention periods vary by jurisdiction; many regions require 7+ years for civil-liability statutes.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0052",
+    "area": "instructor",
+    "subarea": "Standards — Confined water depth",
+    "question": "Confined water for OWD training must be:",
+    "options": {"a": "Pool-like conditions with sufficient depth for skills (typically 2-4 m for most exercises)", "b": "Open ocean only", "c": "At least 30 m deep", "d": "Salt water only"},
+    "correct": "a",
+    "explanation": "Confined water = pool or pool-like (clear, calm, controlled) water deep enough for skill execution.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0053",
+    "area": "instructor",
+    "subarea": "Standards — Surface skills",
+    "question": "OWD students must demonstrate basic surface watermanship including:",
+    "options": {"a": "200 m swim and 10 minute survival float (no aids)", "b": "Marathon swim", "c": "Free dive to 30 m", "d": "Underwater swim of 200 m"},
+    "correct": "a",
+    "explanation": "Basic watermanship: 200 m surface swim + 10 minutes of float/tread without aids.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0054",
+    "area": "instructor",
+    "subarea": "Methodology — Safety drills",
+    "question": "Air-sharing drills should be practiced:",
+    "options": {"a": "Once at the start", "b": "Repeatedly during training so the response is automatic", "c": "Only on the last dive", "d": "Never"},
+    "correct": "b",
+    "explanation": "Air-sharing must be reflexive in an OOA emergency. Repeated practice is essential.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0055",
+    "area": "instructor",
+    "subarea": "Methodology — Buddy practice",
+    "question": "Effective buddy procedures are best built by:",
+    "options": {"a": "Lecturing once", "b": "Repeatedly performing buddy checks (BWRAF) and pre-dive procedures throughout training", "c": "Skipping the topic", "d": "Reading the manual"},
+    "correct": "b",
+    "explanation": "Habits are built through repetition. Make BWRAF non-negotiable from day one.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0056",
+    "area": "instructor",
+    "subarea": "Methodology — Equipment matching",
+    "question": "When fitting students with equipment, the instructor should:",
+    "options": {"a": "Use whatever is closest in size", "b": "Ensure proper fit (mask seal, BCD size, fin fit, exposure suit) to maximize comfort and safety", "c": "Skip fit check to save time", "d": "Require students to dive without rentals"},
+    "correct": "b",
+    "explanation": "Proper fit is foundational to comfort, safety and skill performance.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0057",
+    "area": "instructor",
+    "subarea": "Methodology — Surface checks",
+    "question": "Before students descend, the instructor should:",
+    "options": {"a": "Verify everyone is OK, has air on, equipment functional, and weighting correct", "b": "Submerge first regardless", "c": "Allow descent without check", "d": "Check only the most experienced"},
+    "correct": "a",
+    "explanation": "Surface check (BWRAF + 'air on') is mandatory before descent.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0058",
+    "area": "instructor",
+    "subarea": "Methodology — Descent control",
+    "question": "On a controlled descent with new students, the instructor should:",
+    "options": {"a": "Race to the bottom", "b": "Descend slowly with students, control buoyancy, ensure equalization, watch for distress", "c": "Drop weights and sink", "d": "Stay on the surface"},
+    "correct": "b",
+    "explanation": "Controlled, group-paced descents allow equalization and let the instructor monitor each student.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0059",
+    "area": "instructor",
+    "subarea": "Methodology — Ascent control",
+    "question": "Ascent procedures during training should include:",
+    "options": {"a": "Slow ascent (max 9 m/min) with hand on inflator and looking up", "b": "Sprint ascent", "c": "Holding the breath", "d": "Dropping weights"},
+    "correct": "a",
+    "explanation": "Slow controlled ascent with hand on the LP inflator and 360-degree visual scan is the standard procedure.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0060",
+    "area": "instructor",
+    "subarea": "Methodology — Stress recognition",
+    "question": "Early signs of stress in a student include:",
+    "options": {"a": "Wide-eyed look, fast breathing, fixation/tension, clinging to objects/instructor", "b": "Smiling and relaxed", "c": "Slow steady breathing", "d": "Following the dive plan"},
+    "correct": "a",
+    "explanation": "Recognizing early stress signs allows intervention before panic develops.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0061",
+    "area": "instructor",
+    "subarea": "Methodology — Stress response",
+    "question": "If a student shows early stress underwater, the instructor should:",
+    "options": {"a": "Continue with the planned skill", "b": "Stop the activity, make eye contact, calm them, and consider ending the dive", "c": "Ignore it", "d": "Force them to perform the skill"},
+    "correct": "b",
+    "explanation": "Eye contact and calm reassurance often prevents escalation. End or modify the dive if needed.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0062",
+    "area": "instructor",
+    "subarea": "Methodology — Counseling out",
+    "question": "If a student cannot meet OWD performance requirements after reasonable remediation, the instructor should:",
+    "options": {"a": "Certify them anyway", "b": "Counsel them out, document the situation, and suggest alternatives such as snorkel or further pre-training", "c": "Punish them", "d": "Hide the failure"},
+    "correct": "b",
+    "explanation": "Not every student is ready to be certified. Document and suggest alternatives. Safety first.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0063",
+    "area": "instructor",
+    "subarea": "Methodology — Repeat dive",
+    "question": "If conditions are unsafe on the day of an OW training dive, the instructor should:",
+    "options": {"a": "Continue and hope for the best", "b": "Postpone or relocate to safer conditions", "c": "Reduce student gear", "d": "Send students alone"},
+    "correct": "b",
+    "explanation": "Schedule pressure must never override safety. Postpone or move dives as needed.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0064",
+    "area": "instructor",
+    "subarea": "Methodology — Demonstration of leadership",
+    "question": "The professionalism of an SSI Instructor is demonstrated through:",
+    "options": {"a": "Punctuality, equipment maintenance, standards adherence, communication and student-centered teaching", "b": "Loud personality only", "c": "Casual approach", "d": "Lack of preparation"},
+    "correct": "a",
+    "explanation": "Professionalism is consistent quality across all aspects of the role.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0065",
+    "area": "instructor",
+    "subarea": "Methodology — Marketing",
+    "question": "Quality SSI training centers attract students by:",
+    "options": {"a": "Aggressive cold calls", "b": "Targeted marketing, expert positioning, welcoming environment and word-of-mouth", "c": "Skipping standards to be cheaper", "d": "Hiding pricing"},
+    "correct": "b",
+    "explanation": "ITC content emphasizes positioning the TC as an expert, targeted marketing, and creating a welcoming environment.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0066",
+    "area": "instructor",
+    "subarea": "Methodology — Customer experience",
+    "question": "Quality customer experience starts with:",
+    "options": {"a": "First contact and the welcoming environment of the dive center", "b": "Only after certification", "c": "Equipment sales", "d": "Insurance offers"},
+    "correct": "a",
+    "explanation": "First impressions and a welcoming environment significantly affect attitude and retention.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0067",
+    "area": "instructor",
+    "subarea": "Methodology — Continuing education",
+    "question": "After OWD certification, the recommended continuing-education path is:",
+    "options": {"a": "Specialty Diver -> Advanced Open Water -> Diver Stress & Rescue -> Master Diver", "b": "Stop diving", "c": "Skip to instructor", "d": "Only one specialty ever"},
+    "correct": "a",
+    "explanation": "SSI's CE pyramid: specialty courses count toward AOW (4 specialties + 24 dives), then Stress & Rescue, etc.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0068",
+    "area": "instructor",
+    "subarea": "Methodology — AOW requirements",
+    "question": "To earn the SSI Advanced Open Water Diver rating, a diver must complete:",
+    "options": {"a": "1 specialty + 6 dives", "b": "4 SSI Specialty courses and a total of 24 logged dives", "c": "10 specialties", "d": "100 dives"},
+    "correct": "b",
+    "explanation": "AOW = 4 specialties + 24 logged dives. The continuing-education-driven AOW model is unique to SSI.",
+    "source": "https://quizlet.com/113032957/ssi-open-water-diver-final-exam-flash-cards/"
+  },
+  {
+    "id": "inst-0069",
+    "area": "instructor",
+    "subarea": "Methodology — Stress & Rescue",
+    "question": "The Diver Stress & Rescue specialty teaches divers to:",
+    "options": {"a": "Avoid all rescues", "b": "Recognize early stress, manage panic, and execute self-rescue and rescue procedures", "c": "Only treat DCS", "d": "Only swim faster"},
+    "correct": "b",
+    "explanation": "Stress & Rescue covers early stress signs, panic management, and self/buddy rescue.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0070",
+    "area": "instructor",
+    "subarea": "Methodology — Master Diver",
+    "question": "SSI Master Diver requires:",
+    "options": {"a": "Just OWD", "b": "AOW, Diver Stress & Rescue, additional specialties (typically four total) and 50 logged dives", "c": "1 dive", "d": "DM card"},
+    "correct": "b",
+    "explanation": "SSI Master Diver is the highest non-professional recreational rating: 4 specialties total, Stress & Rescue, 50 logged dives.",
+    "source": "compiled_from_dive_theory"
+  }
+]

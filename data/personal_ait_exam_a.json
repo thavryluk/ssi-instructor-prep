@@ -1,0 +1,750 @@
+[
+  {
+    "id": "personal-ait-a-001",
+    "area": "instructor",
+    "subarea": "AIT — Divemaster",
+    "question": "A Divemaster can:",
+    "options": {
+      "a": "Enroll in an SSI Instructor Training Course",
+      "b": "Qualify as a Specialty Instructor for all Diving Knowledge specialty programs",
+      "c": "Take up to three (3) students at a time on excursion dives",
+      "d": "All answers are correct"
+    },
+    "correct": "a",
+    "explanation": "An SSI Divemaster can enroll in the Instructor Training Course as the first step on the path to OWI.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-002",
+    "area": "instructor",
+    "subarea": "AIT — Divemaster",
+    "question": "The Divemaster card is a(an):",
+    "options": {
+      "a": "Recognition card",
+      "b": "Professional certification card",
+      "c": "Entry-level professional card",
+      "d": "No answer is correct"
+    },
+    "correct": "b",
+    "explanation": "DM is the entry-level SSI Professional certification card.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-003",
+    "area": "instructor",
+    "subarea": "AIT — Divemaster",
+    "question": "A Divemaster is a:",
+    "options": {
+      "a": "Professional who may teach Diving Knowledge specialty programs",
+      "b": "Professional who can teach entry-level students",
+      "c": "Certified assistant",
+      "d": "Non-professional level"
+    },
+    "correct": "c",
+    "explanation": "A Divemaster acts as a certified assistant during instructor-led training; they cannot independently teach entry-level scuba.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-004",
+    "area": "instructor",
+    "subarea": "AIT — Divemaster",
+    "question": "To become a Divemaster, the candidate must complete the requirements for maintaining active status:",
+    "options": {
+      "a": "With the responsible SSI Training Center",
+      "b": "With the responsible SSI Service Center",
+      "c": "With SSI International",
+      "d": "With SSI as outlined in the General Training Standards"
+    },
+    "correct": "d",
+    "explanation": "Active-status requirements are defined by SSI in the General Training Standards.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-005",
+    "area": "instructor",
+    "subarea": "AIT — Divemaster",
+    "question": "Is the SSI Divemaster certification ISO-certified?",
+    "options": {
+      "a": "No",
+      "b": "Yes"
+    },
+    "correct": "b",
+    "explanation": "SSI Divemaster is ISO-certified.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-006",
+    "area": "instructor",
+    "subarea": "AIT — Divemaster",
+    "question": "A Divemaster candidate must have _____ logged dives prior to certification.",
+    "options": {
+      "a": "50",
+      "b": "40",
+      "c": "60",
+      "d": "100"
+    },
+    "correct": "c",
+    "explanation": "DM minimum is 60 logged open water dives prior to certification.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-007",
+    "area": "instructor",
+    "subarea": "AIT — Assistant Instructor",
+    "question": "The intent of the Assistant Instructor program is to prepare candidates to:",
+    "options": {
+      "a": "Conduct Open Water specialty programs without supervision",
+      "b": "Perform the duties of an Assistant Instructor",
+      "c": "Conduct professional programs",
+      "d": "Conduct entry-level scuba programs without supervision"
+    },
+    "correct": "b",
+    "explanation": "AI program prepares candidates specifically to perform AI duties.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-008",
+    "area": "instructor",
+    "subarea": "AIT — AIT Requirements",
+    "question": "What is the minimum instructor rating to conduct the Assistant Instructor Training Course?",
+    "options": {
+      "a": "Divemaster Instructor",
+      "b": "Assistant Instructor Trainer",
+      "c": "Instructor Trainer",
+      "d": "Assistant Instructor"
+    },
+    "correct": "b",
+    "explanation": "AITC requires an Assistant Instructor Trainer or higher.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-009",
+    "area": "instructor",
+    "subarea": "AIT — ITC Prerequisites",
+    "question": "Which of the following is a prerequisite for registering for the Instructor Training Course?",
+    "options": {
+      "a": "Divemaster",
+      "b": "Master Diver",
+      "c": "Specialty Instructor in Navigation, Deep Diving, and Night & Limited Visibility",
+      "d": "All answers are correct"
+    },
+    "correct": "a",
+    "explanation": "DM is a hard prerequisite for ITC enrollment.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-010",
+    "area": "instructor",
+    "subarea": "AIT — ITC Prerequisites",
+    "question": "How many logged open water dives are required to start the Instructor Training Course?",
+    "options": {
+      "a": "60, totaling at least 40 hours",
+      "b": "60, totaling at least 50 hours",
+      "c": "100, totaling at least 65 hours",
+      "d": "75, totaling at least 75 hours"
+    },
+    "correct": "a",
+    "explanation": "60 logged dives totaling at least 40 hours is the SSI threshold to start ITC.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-011",
+    "area": "instructor",
+    "subarea": "AIT — ITC Structure",
+    "question": "What is the maximum depth for in-water training during the Instructor Training Course?",
+    "options": {
+      "a": "12 meters",
+      "b": "18 meters",
+      "c": "40 meters",
+      "d": "5 meters"
+    },
+    "correct": "c",
+    "explanation": "ITC in-water training is capped at 40 m.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-012",
+    "area": "instructor",
+    "subarea": "AIT — AITC Structure",
+    "question": "Who must directly supervise all academic sessions and in-water activities during the Assistant Instructor Training Course?",
+    "options": {
+      "a": "Any Assistant Instructor Trainer",
+      "b": "An active status Instructor Trainer or higher",
+      "c": "An active status Assistant Instructor Trainer can indirectly supervise all academic sessions, but must direct supervise all in-water activities",
+      "d": "An active status Assistant Instructor Trainer"
+    },
+    "correct": "d",
+    "explanation": "An active-status AIT directly supervises all AITC academics and in-water activities.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-013",
+    "area": "instructor",
+    "subarea": "AIT — AI Path",
+    "question": "What parts of the Instructor Training Course must be completed by Assistant Instructor candidates?",
+    "options": {
+      "a": "Academic Sections 1-6, the final exam, and Practical Applications 1-4",
+      "b": "Academic Sections 1-5, the final exam, and Practical Applications 1-6",
+      "c": "Academic Sections 1-7, the final exam, and Practical Applications 1-6",
+      "d": "Academic Sections 1-5, the final exam, and Practical Applications 1-5"
+    },
+    "correct": "a",
+    "explanation": "AI candidates complete Academic Sections 1-6 + final exam + Practical Apps 1-4.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-014",
+    "area": "instructor",
+    "subarea": "AIT — Water Fitness",
+    "question": "The Candidate Water Fitness Evaluation is valid for:",
+    "options": {
+      "a": "12 months",
+      "b": "There is no expiration date",
+      "c": "6 months",
+      "d": "3 months"
+    },
+    "correct": "c",
+    "explanation": "Candidate Water Fitness Evaluation validity is 6 months.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-015",
+    "area": "instructor",
+    "subarea": "AIT — AI Authority",
+    "question": "Assistant Instructors may teach which programs?",
+    "options": {
+      "a": "Navigation and Ecology specialties",
+      "b": "Open Water Diver and Basic Diver",
+      "c": "All answers are correct",
+      "d": "Try Scuba and Scuba Skills Update"
+    },
+    "correct": "d",
+    "explanation": "AIs may teach Try Scuba and Scuba Skills Update directly.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-016",
+    "area": "instructor",
+    "subarea": "AIT — AI Authority",
+    "question": "The minimum instructor certification to teach the Scuba Skills Update program is:",
+    "options": {
+      "a": "Divemaster",
+      "b": "Dive Guide",
+      "c": "Open Water Instructor",
+      "d": "Assistant Instructor"
+    },
+    "correct": "d",
+    "explanation": "AI is the minimum certification to teach Scuba Skills Update.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-017",
+    "area": "instructor",
+    "subarea": "AIT — AI Authority",
+    "question": "An Assistant Instructor can _____ the Perfect Buoyancy specialty program.",
+    "options": {
+      "a": "Teach and issue certifications for",
+      "b": "Teach and indirectly supervise",
+      "c": "Assist and issue certifications for",
+      "d": "Indirectly supervise and issue recognition cards for"
+    },
+    "correct": "a",
+    "explanation": "AI may teach AND issue certifications for Perfect Buoyancy.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-018",
+    "area": "instructor",
+    "subarea": "AIT — AI Authority",
+    "question": "Regarding supervision, what may an active status Assistant Instructor do?",
+    "options": {
+      "a": "Indirectly supervise and evaluate surface skills during open water training dives for the Open Water Diver program under the direct supervision of an active status Open Water Instructor",
+      "b": "Directly supervise and evaluate all skills during open water training dives for the Open Water Diver program under the indirect supervision of an active status Open Water Instructor",
+      "c": "Directly supervise all skills during pool/confined water sessions for the Open Water Diver program",
+      "d": "Directly supervise and evaluate surface skills during open water training dives for the Open Water Diver program under the indirect supervision of an active status Open Water Instructor"
+    },
+    "correct": "d",
+    "explanation": "AI directly supervises and evaluates surface skills on OW dives, under indirect supervision of an active OWI.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-019",
+    "area": "instructor",
+    "subarea": "AIT — AI Authority",
+    "question": "An active status Assistant Instructor may:",
+    "options": {
+      "a": "Teach the Open Water Diver academic and pool/confined water sessions under the indirect supervision of an active status Open Water Instructor",
+      "b": "Teach the Open Water Diver academic without supervision of an active status Open Water Instructor",
+      "c": "Teach the Open Water Diver academic, pool/confined water sessions and open water training dives under the indirect supervision of an active status Open Water Instructor",
+      "d": "Teach the Open Water Diver academic and pool/confined water sessions without supervision of an active status Open Water Instructor"
+    },
+    "correct": "a",
+    "explanation": "AI teaches OW academic + pool sessions under indirect OWI supervision.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-020",
+    "area": "instructor",
+    "subarea": "AIT — AI Authority",
+    "question": "What specialty instructor certifications can an Assistant Instructor qualify for?",
+    "options": {
+      "a": "Deep Diving and Wreck Diving",
+      "b": "Wreck Diving and Altitude Diving",
+      "c": "Boat Diving and Navigation",
+      "d": "Perfect Buoyancy and Advanced Wreck Diving"
+    },
+    "correct": "c",
+    "explanation": "AI may qualify as Boat Diving and Navigation Specialty Instructor.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-021",
+    "area": "instructor",
+    "subarea": "AIT — AI Authority",
+    "question": "How can an Assistant Instructor qualify to teach the SSI Explorer program?",
+    "options": {
+      "a": "Completing the SSI Explorer Instructor Online Upgrade",
+      "b": "This certification is given automatically with the Assistant Instructor certification",
+      "c": "Specialty Instructor seminar or co-teaching",
+      "d": "This certification is given automatically with the Divemaster certification"
+    },
+    "correct": "a",
+    "explanation": "Online Upgrade is the path for AI to teach SSI Explorer.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-022",
+    "area": "instructor",
+    "subarea": "AIT — AI Authority",
+    "question": "An Assistant Instructor must not:",
+    "options": {
+      "a": "Issue Open Water Diver certifications",
+      "b": "Independently conduct open water training dives for entry-level scuba training",
+      "c": "All answers are correct",
+      "d": "Teach any emergency ascent skills"
+    },
+    "correct": "c",
+    "explanation": "AI cannot issue OW certs, conduct OW dives independently, or teach emergency ascents — all are restricted.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-023",
+    "area": "instructor",
+    "subarea": "AIT — Emergency Skills",
+    "question": "Which of the following is an emergency ascent skill?",
+    "options": {
+      "a": "Stationary Air Sharing",
+      "b": "Emergency Buoyant Ascent",
+      "c": "Controlled Ascent",
+      "d": "All answers are correct"
+    },
+    "correct": "b",
+    "explanation": "Emergency Buoyant Ascent is the emergency ascent skill among the listed options.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-024",
+    "area": "instructor",
+    "subarea": "AIT — AITC Structure",
+    "question": "What is the in-water ratio for the Assistant Instructor Training Course?",
+    "options": {
+      "a": "6:1",
+      "b": "8:1",
+      "c": "10:2 with a certified assistant",
+      "d": "There is no in-water ratio"
+    },
+    "correct": "d",
+    "explanation": "AITC has no fixed in-water student-to-instructor ratio defined.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-025",
+    "area": "instructor",
+    "subarea": "AIT — Emergency Skills",
+    "question": "What is the maximum depth for emergency ascent skills in the open water environment?",
+    "options": {
+      "a": "10 meters",
+      "b": "9 meters",
+      "c": "12 meters",
+      "d": "5 meters"
+    },
+    "correct": "b",
+    "explanation": "Emergency ascent skills are capped at 9 m / 30 ft.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-026",
+    "area": "instructor",
+    "subarea": "AIT — ITC Prerequisites",
+    "question": "What is a prerequisite for the Instructor Training Course?",
+    "options": {
+      "a": "Divemaster",
+      "b": "Assistant Instructor",
+      "c": "Master diver",
+      "d": "Specialty Instructor"
+    },
+    "correct": "a",
+    "explanation": "DM is the prerequisite for ITC entry.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-027",
+    "area": "instructor",
+    "subarea": "AIT — ITC Structure",
+    "question": "The intent of the Instructor Training Course?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "To provide the knowledge necessary to conduct entry-level recreational scuba training programs",
+      "c": "To provide the training necessary to organize and conduct specialty programs",
+      "d": "To provide the knowledge necessary to organize entry-level recreational scuba training programs"
+    },
+    "correct": "a",
+    "explanation": "ITC delivers knowledge + training to organize and conduct entry-level recreational scuba programs.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-028",
+    "area": "instructor",
+    "subarea": "AIT — AI Requirements",
+    "question": "An Assistant Instructor must have _____ logged dives prior to certification.",
+    "options": {
+      "a": "100",
+      "b": "75",
+      "c": "250",
+      "d": "60"
+    },
+    "correct": "b",
+    "explanation": "AI requires 75 logged dives.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-029",
+    "area": "instructor",
+    "subarea": "AIT — ITC Prerequisites",
+    "question": "Which of the following is a prerequisite for registering for the Instructor Training Course?",
+    "options": {
+      "a": "Enriched Air Nitrox",
+      "b": "Enriched Air Nitrox 40",
+      "c": "Deep Diving",
+      "d": "Navigation, Deep Diving and Night & Limited Visibility"
+    },
+    "correct": "d",
+    "explanation": "Specialty trio (Navigation + Deep + Night/Limited Vis) is a prerequisite for ITC.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-030",
+    "area": "instructor",
+    "subarea": "AIT — ITC Structure",
+    "question": "What is the recommended duration for completing the Instructor Training Course?",
+    "options": {
+      "a": "11 days",
+      "b": "65–75 hours",
+      "c": "80 hours",
+      "d": "70–80 hours"
+    },
+    "correct": "d",
+    "explanation": "ITC recommended duration is 70–80 hours.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-031",
+    "area": "instructor",
+    "subarea": "AIT — OWI Requirements",
+    "question": "An Open Water Instructor candidate must have logged at least ____ open water dives before attending an Instructor Evaluation?",
+    "options": {
+      "a": "75",
+      "b": "250",
+      "c": "150",
+      "d": "100"
+    },
+    "correct": "d",
+    "explanation": "OWI candidate needs 100 logged OW dives before IE.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-032",
+    "area": "instructor",
+    "subarea": "AIT — ITC Structure",
+    "question": "What is the minimum depth for open water training during the Instructor Training Course?",
+    "options": {
+      "a": "6 meters",
+      "b": "9 meters",
+      "c": "3 meters",
+      "d": "5 meters"
+    },
+    "correct": "d",
+    "explanation": "ITC OW training minimum depth is 5 m.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-033",
+    "area": "instructor",
+    "subarea": "AIT — ITC Structure",
+    "question": "Who must directly supervise all activities for the Instructor Training Course?",
+    "options": {
+      "a": "Master Instructor",
+      "b": "An active status Instructor Trainer",
+      "c": "An inactive status instructor",
+      "d": "An active status Assistant Instructor Trainer under the direct supervision of an active status Instructor Trainer"
+    },
+    "correct": "b",
+    "explanation": "Active-status Instructor Trainer directly supervises all ITC activities.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-034",
+    "area": "instructor",
+    "subarea": "AIT — ITC Completion",
+    "question": "What are the requirements for completing the Instructor Training Course?",
+    "options": {
+      "a": "Read and complete all sections, including reviews and assessments, from the Instructor Training Course digital learning",
+      "b": "All answers are correct",
+      "c": "Complete all academic sessions, requirements and evaluations as outlined in the instructor manual for the Instructor Training Course",
+      "d": "Complete and pass the Instructor Training Course final exam"
+    },
+    "correct": "b",
+    "explanation": "All three are required: digital learning, academic sessions/evaluations, and final exam.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-035",
+    "area": "instructor",
+    "subarea": "AIT — IE Timing",
+    "question": "The Instructor Evaluation must be conducted within ______ months of the completion of the Instructor Training Course.",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "6",
+      "d": "8"
+    },
+    "correct": "c",
+    "explanation": "IE must occur within 6 months of ITC completion.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-036",
+    "area": "instructor",
+    "subarea": "AIT — IE Timing",
+    "question": "Candidate(s) for an Instructor Evaluation must be registered in MySSI at least _____ weeks prior to the scheduled Instructor Evaluation start date.",
+    "options": {
+      "a": "4",
+      "b": "2",
+      "c": "6",
+      "d": "8"
+    },
+    "correct": "c",
+    "explanation": "IE candidates must be MySSI-registered at least 6 weeks before the IE start.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-037",
+    "area": "instructor",
+    "subarea": "AIT — DM Instructor",
+    "question": "Which of the following is a prerequisite for Divemaster Instructor?",
+    "options": {
+      "a": "SSI Open Water Instructor or equivalent",
+      "b": "ISO 24802-2 instructor from any training agency",
+      "c": "Instructor from a recognized training agency",
+      "d": "SSI Open Water Instructor"
+    },
+    "correct": "d",
+    "explanation": "DM Instructor requires an SSI Open Water Instructor (no equivalents).",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-038",
+    "area": "instructor",
+    "subarea": "AIT — DM Instructor",
+    "question": "What specialty instructor certifications must a Divemaster Instructor have?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Diver Stress & Rescue and Deep Diving",
+      "c": "Dive Guide and Navigation",
+      "d": "Night & Limited Visibility"
+    },
+    "correct": "a",
+    "explanation": "DM Instructor requires multiple specialty instructor certs (Stress & Rescue, Deep, Dive Guide, Navigation, Night/Limited Vis) — all listed are required.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-039",
+    "area": "instructor",
+    "subarea": "AIT — DM Instructor",
+    "question": "The Divemaster Instructor card is a(an):",
+    "options": {
+      "a": "Professional certification",
+      "b": "Entry-level certification",
+      "c": "No answer is correct",
+      "d": "Recognition card"
+    },
+    "correct": "a",
+    "explanation": "DM Instructor card is a Pro-level certification.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-040",
+    "area": "instructor",
+    "subarea": "AIT — DM Instructor",
+    "question": "An active status Divemaster Instructor may:",
+    "options": {
+      "a": "Enroll in an Instructor Trainer Seminar",
+      "b": "Enroll in an Assistant Instructor program",
+      "c": "No answer is correct",
+      "d": "Enroll in an Assistant Instructor Trainer Seminar"
+    },
+    "correct": "d",
+    "explanation": "Active DM Instructor may enroll in the AIT Seminar to become an Assistant Instructor Trainer.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-041",
+    "area": "instructor",
+    "subarea": "AIT — AIT Requirements",
+    "question": "What is the active status requirements for an Assistant Instructor Trainer?",
+    "options": {
+      "a": "Certify at least one Assistant Instructor every twelve (12) months",
+      "b": "Certify at least one professional certification every twelve (12) month",
+      "c": "Attend all applicable mandatory updates scheduled by SSI International",
+      "d": "There are no active status requirements for Assistant Instructor Trainer"
+    },
+    "correct": "c",
+    "explanation": "Active AIT must certify at least one professional certification every 12 months.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-042",
+    "area": "instructor",
+    "subarea": "AIT — AIT Authority",
+    "question": "An active status Assistant Instructor Trainer may teach, supervise and issue certifications for the following programs:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Instructor Training Course",
+      "c": "Assistant Instructor Trainer",
+      "d": "Specialty Instructor Seminar (if they have the applicable Specialty Instructor certification)"
+    },
+    "correct": "a",
+    "explanation": "AIT can teach ITC, train AITs themselves, and conduct Specialty Instructor Seminars (with applicable specialty cert) — all listed apply.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-043",
+    "area": "instructor",
+    "subarea": "AIT — AIT Requirements",
+    "question": "Assistant Instructor Trainer candidates must have issued at least:",
+    "options": {
+      "a": "30 Open Water Diver only",
+      "b": "50 certifications (30 Open Water Diver, 15 Advanced Open Water Diver and/or additional specialty programs, 3 Diver Stress & Rescue, 2 Dive Guide/Divemaster)",
+      "c": "51 certifications (30 Open Water Diver, 15 Specialty programs, 6 Diver Stress and Rescue)",
+      "d": "No answer is correct"
+    },
+    "correct": "b",
+    "explanation": "AIT requires 50 certs broken down as 30 OW + 15 AOWD/specialty + 3 Stress & Rescue + 2 Dive Guide/DM.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-044",
+    "area": "instructor",
+    "subarea": "AIT — Cross-Agency",
+    "question": "Before beginning training, how can professionals from other training agencies earn an equivalent SSI Professional certification?",
+    "options": {
+      "a": "Complete an SSI training course from the beginning, regardless of prior certification",
+      "b": "Apply for a certification waiver",
+      "c": "Verify certification equivalency, register for the certification, purchase required materials, and upload necessary documents to MySSI",
+      "d": "Purchase the required materials without registering or uploading documents"
+    },
+    "correct": "c",
+    "explanation": "Cross-agency Pros must verify equivalency, register, purchase materials, and upload documents to MySSI.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-045",
+    "area": "instructor",
+    "subarea": "AIT — Master Instructor",
+    "question": "Which of the following is a prerequisite for Master Instructor?",
+    "options": {
+      "a": "Have logged at least 250 dives",
+      "b": "All answers are correct",
+      "c": "SSI Assistant Instructor Trainer",
+      "d": "Have issued at least 150 recreational scuba certifications"
+    },
+    "correct": "b",
+    "explanation": "All three: 250+ dives, AIT status, and 150+ certs are MI prerequisites.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-046",
+    "area": "instructor",
+    "subarea": "AIT — Master Instructor",
+    "question": "What is the minimum number of certifications required from any recreational scuba program to qualify as a Master Instructor?",
+    "options": {
+      "a": "100",
+      "b": "150",
+      "c": "50",
+      "d": "250"
+    },
+    "correct": "b",
+    "explanation": "MI requires at least 150 recreational scuba certifications issued.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-047",
+    "area": "instructor",
+    "subarea": "AIT — Master Instructor",
+    "question": "To qualify as a Master Instructor the candidate may apply completed Try Scuba, programs toward the minimum requirements for Open Water Diver certifications.",
+    "options": {
+      "a": "Six (6) Try Scuba recognitions are equivalent to one (1) Open Water Diver certification",
+      "b": "Two (2) Try Scuba recognitions are equivalent to one (1) Open Water Diver certification",
+      "c": "Twelve (12) Try Scuba recognitions are equivalent to one (1) Open Water Diver certification",
+      "d": "Five (5) Basic Diver certifications are equivalent to one (1) Open Water Diver certification"
+    },
+    "correct": "c",
+    "explanation": "Twelve Try Scuba recognitions count as one OW Diver certification toward MI minimums.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-048",
+    "area": "instructor",
+    "subarea": "AIT — ITC Prerequisites",
+    "question": "A candidate must hold his _____ certification for at least ____ months prior to start the Instructor Training Course",
+    "options": {
+      "a": "Divemaster, 6",
+      "b": "Professional, 12",
+      "c": "Entry-level, 12",
+      "d": "Open Water Diver, 6"
+    },
+    "correct": "d",
+    "explanation": "Candidate must hold Divemaster for at least 6 months before starting ITC.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-049",
+    "area": "instructor",
+    "subarea": "AIT — Cross-Agency",
+    "question": "What must professionals from other training agencies do to qualify as an SSI Open Water Instructor?",
+    "options": {
+      "a": "Complete all digital learning, reviews, and assessments from the Instructor Training Course",
+      "b": "Pass the Instructor Training Course final exam",
+      "c": "Complete all required academic sessions from the Instructor Training Course",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Cross-agency OWI candidates must complete digital learning + academic sessions + ITC final exam — all required.",
+    "source": "Personal: AIT Exam Form A"
+  },
+  {
+    "id": "personal-ait-a-050",
+    "area": "instructor",
+    "subarea": "AIT — Instructor Trainer",
+    "question": "An Instructor Trainer may _____ an Instructor Certifier in conducting all SSI Instructor Evaluation programs.",
+    "options": {
+      "a": "Conduct",
+      "b": "Assist",
+      "c": "Supervise",
+      "d": "No answer is correct"
+    },
+    "correct": "b",
+    "explanation": "Instructor Trainer may ASSIST an Instructor Certifier; the Certifier remains the lead.",
+    "source": "Personal: AIT Exam Form A"
+  }
+]

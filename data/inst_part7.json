@@ -1,0 +1,202 @@
+[
+  {
+    "id": "inst-0131",
+    "area": "instructor",
+    "subarea": "Standards — EAN authority",
+    "question": "An OWI with the EAN Specialty Instructor rating may certify divers in:",
+    "options": {"a": "EAN up to 32%", "b": "EAN up to 40% (recreational nitrox)", "c": "Trimix", "d": "100% O2"},
+    "correct": "b",
+    "explanation": "Recreational nitrox tops out at 40% O2; technical training covers higher mixes.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0132",
+    "area": "instructor",
+    "subarea": "Standards — XR programs",
+    "question": "SSI's XR (Extended Range) programs cover:",
+    "options": {"a": "Recreational only", "b": "Technical disciplines including deeper, decompression, trimix and rebreather", "c": "Snorkeling only", "d": "Beach diving only"},
+    "correct": "b",
+    "explanation": "XR is SSI's technical-diving line covering tec-rec through full trimix and CCR.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0133",
+    "area": "instructor",
+    "subarea": "Methodology — Coaching",
+    "question": "Coaching a struggling AI candidate during their training is best done by:",
+    "options": {"a": "Public criticism", "b": "Private, specific feedback with practice opportunities and clear goals", "c": "Removing them silently", "d": "Avoiding feedback"},
+    "correct": "b",
+    "explanation": "Private, specific, practice-oriented feedback respects the candidate and accelerates improvement.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0134",
+    "area": "instructor",
+    "subarea": "Methodology — Adult learner motivation",
+    "question": "Adult learners are typically motivated by:",
+    "options": {"a": "Tests only", "b": "Internal motivators: self-improvement, problem-solving, achieving goals", "c": "External rewards only", "d": "Punishments"},
+    "correct": "b",
+    "explanation": "Adult motivation is largely intrinsic; help them see how training meets their goals.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0135",
+    "area": "instructor",
+    "subarea": "Methodology — Course intro",
+    "question": "At the start of any course, the instructor should:",
+    "options": {"a": "Begin teaching content immediately", "b": "Introduce themselves, the course, expectations, schedule and safety", "c": "Skip introductions", "d": "Hand out manuals only"},
+    "correct": "b",
+    "explanation": "Course introduction sets expectations and reduces student anxiety.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0136",
+    "area": "instructor",
+    "subarea": "Methodology — End of course",
+    "question": "At the end of a course, the instructor should:",
+    "options": {"a": "Walk away", "b": "Conduct a debrief, certify, log and recommend continuing-education paths", "c": "Refuse to certify", "d": "Skip logging"},
+    "correct": "b",
+    "explanation": "End-of-course wrap-up consolidates learning, certifies, and points the student toward next steps.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0137",
+    "area": "instructor",
+    "subarea": "Methodology — Student logbook",
+    "question": "Students should leave a course with:",
+    "options": {"a": "Verified, signed log entries for their training dives", "b": "No record", "c": "Just a certificate", "d": "Only photos"},
+    "correct": "a",
+    "explanation": "Logged dives form the foundation of dive history. Always sign and verify.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0138",
+    "area": "instructor",
+    "subarea": "Methodology — Personal equipment",
+    "question": "Encouraging students to own and dive in their own equipment:",
+    "options": {"a": "Is an SSI core principle (Total Diving System)", "b": "Is irrelevant", "c": "Is discouraged", "d": "Only applies to instructors"},
+    "correct": "a",
+    "explanation": "Own-gear philosophy supports comfort, safety and student retention — central to SSI.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0139",
+    "area": "instructor",
+    "subarea": "Methodology — Sales ethics",
+    "question": "When recommending equipment, instructors should:",
+    "options": {"a": "Sell the most expensive gear regardless of need", "b": "Recommend equipment that fits the student's diving and budget honestly", "c": "Hide alternatives", "d": "Avoid the topic"},
+    "correct": "b",
+    "explanation": "Honest, needs-based recommendations build trust and long-term loyalty.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0140",
+    "area": "instructor",
+    "subarea": "Methodology — IDC content",
+    "question": "Components of the SSI Instructor Training Course (ITC) include:",
+    "options": {"a": "Standards & procedures, teaching academic, teaching in water, evaluation criteria, business of diving", "b": "Only physics", "c": "Only marine biology", "d": "Only OW dives"},
+    "correct": "a",
+    "explanation": "ITC is a comprehensive program preparing candidates for the IE and professional teaching.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0141",
+    "area": "instructor",
+    "subarea": "Methodology — Pool teaching evaluation",
+    "question": "An evaluator scoring an in-water teaching presentation looks for:",
+    "options": {"a": "Briefing quality, demonstration quality, supervision/positioning, communication and debrief", "b": "Speed only", "c": "Underwater music", "d": "Length only"},
+    "correct": "a",
+    "explanation": "All teaching elements are scored; weak demos or supervision drop overall score significantly.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0142",
+    "area": "instructor",
+    "subarea": "Methodology — Hand signals taught",
+    "question": "OWD students must learn standard hand signals including:",
+    "options": {"a": "OK, problem, up, down, low on air, out of air, share air, buddy-up, ear-clear", "b": "Only OK", "c": "None", "d": "Only thumbs-up"},
+    "correct": "a",
+    "explanation": "A complete set of basic signals must be mastered for safe diving.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0143",
+    "area": "instructor",
+    "subarea": "Methodology — Confined water depth",
+    "question": "For some advanced confined-water exercises (e.g., CESA simulation), depth should be:",
+    "options": {"a": "Sufficient to allow the simulation realistically (e.g., 4-5 m where available)", "b": "0.5 m only", "c": "30 m", "d": "Irrelevant"},
+    "correct": "a",
+    "explanation": "Adequate depth makes simulations meaningful; very shallow water can't simulate ascent skills well.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0144",
+    "area": "instructor",
+    "subarea": "Methodology — Open water sequence",
+    "question": "The four OW training dives should be sequenced to:",
+    "options": {"a": "Repeat the same skills only", "b": "Progressively introduce skills, build complexity, and incorporate fun/exploration time", "c": "Avoid all skills", "d": "Be done in random order"},
+    "correct": "b",
+    "explanation": "Progressive sequencing matches the OWD performance requirements while including time to enjoy diving.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0145",
+    "area": "instructor",
+    "subarea": "Methodology — Briefing best practice",
+    "question": "Best practice in briefing is to:",
+    "options": {"a": "Speak in monotone for 30 minutes", "b": "Be clear, concise, structured, with visual aids and check on understanding", "c": "Skip key topics", "d": "Read verbatim from manual"},
+    "correct": "b",
+    "explanation": "Clear, structured briefings respect students' time and ensure understanding.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0146",
+    "area": "instructor",
+    "subarea": "Methodology — Closure of dive",
+    "question": "After every training dive, the instructor must:",
+    "options": {"a": "Verify all divers safely return, log the dive and debrief", "b": "Leave immediately", "c": "Forget about logging", "d": "Avoid debriefs"},
+    "correct": "a",
+    "explanation": "Closure: head count, log dive details, debrief the experience.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0147",
+    "area": "instructor",
+    "subarea": "Methodology — Standards quoting",
+    "question": "When asked by a student about a standard, the instructor should:",
+    "options": {"a": "Make up an answer", "b": "Reference the official SSI Standards / Training Standards documents accurately", "c": "Guess", "d": "Refuse to answer"},
+    "correct": "b",
+    "explanation": "Knowing where to find current standards is part of professional duty.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0148",
+    "area": "instructor",
+    "subarea": "Methodology — Course material accuracy",
+    "question": "If an instructor finds an error in SSI material, they should:",
+    "options": {"a": "Teach the error anyway", "b": "Continue with the correct information and report the issue to SSI for correction", "c": "Cancel the course", "d": "Argue with students"},
+    "correct": "b",
+    "explanation": "Teach correctly, report errors via the proper channels for future updates.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0149",
+    "area": "instructor",
+    "subarea": "Methodology — Skill repetition limits",
+    "question": "If a student cannot master a skill after multiple attempts in one session, the instructor should:",
+    "options": {"a": "Force more attempts", "b": "Take a break, address fatigue/cold, and consider returning to the skill in a fresh session", "c": "Yell", "d": "Cancel the course"},
+    "correct": "b",
+    "explanation": "Fatigue and stress impair learning. Reset and return rather than push through.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0150",
+    "area": "instructor",
+    "subarea": "Methodology — Final certification",
+    "question": "Certification of an OWD student should occur only when:",
+    "options": {"a": "All performance requirements (academic, confined, OW) have been met to standards", "b": "The student has paid", "c": "After 3 days regardless of performance", "d": "After signing only"},
+    "correct": "a",
+    "explanation": "Performance-based: only certify when ALL requirements are met.",
+    "source": "compiled_from_dive_theory"
+  }
+]

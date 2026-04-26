@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ai-0001",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Learning Domains",
+    "question": "The three SSI learning domains are:",
+    "options": {"a": "Cognitive (knowledge), Psychomotor (skill), and Affective (attitude)", "b": "Beginner, Intermediate, Advanced", "c": "Theory, Pool, Open Water", "d": "Read, Watch, Listen"},
+    "correct": "a",
+    "explanation": "SSI organizes training around the three classical learning domains: knowledge, skills, attitude.",
+    "source": "https://quizlet.com/601470092/ssi-assistant-instructor-flash-cards/"
+  },
+  {
+    "id": "ai-0002",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Cognitive domain",
+    "question": "An activity that asks students to describe the effects of pressure changes on body airspaces is in the:",
+    "options": {"a": "Cognitive (knowledge) domain", "b": "Psychomotor (skill) domain", "c": "Affective (attitude) domain", "d": "Cardiovascular domain"},
+    "correct": "a",
+    "explanation": "Knowledge-recall and explanation activities live in the cognitive domain.",
+    "source": "https://quizlet.com/601470092/ssi-assistant-instructor-flash-cards/"
+  },
+  {
+    "id": "ai-0003",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Psychomotor domain",
+    "question": "Removing, replacing and clearing a mask underwater belongs primarily to the:",
+    "options": {"a": "Cognitive domain", "b": "Psychomotor domain", "c": "Affective domain", "d": "Spiritual domain"},
+    "correct": "b",
+    "explanation": "Physical skills — moving the body to perform a task — are psychomotor.",
+    "source": "https://quizlet.com/601470092/ssi-assistant-instructor-flash-cards/"
+  },
+  {
+    "id": "ai-0004",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Affective domain",
+    "question": "Allowing free time at the end of a pool session for students to play underwater games addresses primarily which domain?",
+    "options": {"a": "Cognitive only", "b": "Affective (and supports psychomotor)", "c": "Mathematical", "d": "Bureaucratic"},
+    "correct": "b",
+    "explanation": "Free play builds positive attitude (affective) while informally reinforcing skills (psychomotor).",
+    "source": "https://quizlet.com/601470092/ssi-assistant-instructor-flash-cards/"
+  },
+  {
+    "id": "ai-0005",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Adult learners",
+    "question": "Adults generally learn best when:",
+    "options": {"a": "Material is presented as facts to memorize", "b": "They can connect new content to their existing experience and goals", "c": "They are tested without prior practice", "d": "Lessons last as long as possible"},
+    "correct": "b",
+    "explanation": "Adult learners need relevance — they want to see how training helps them achieve their own goals.",
+    "source": "https://quizlet.com/987462567/ssi-assistant-instructor-module-questions-122024-flash-cards/"
+  },
+  {
+    "id": "ai-0006",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Active learning",
+    "question": "Active learning sessions, compared to traditional lectures, are designed to:",
+    "options": {"a": "Allow longer monologues by the instructor", "b": "Address the short attention span of learners and provide structured engagement", "c": "Replace skill demonstrations", "d": "Eliminate all assessments"},
+    "correct": "b",
+    "explanation": "Active learning breaks lectures into shorter segments separated by engagement activities to keep attention high.",
+    "source": "https://training.divessi.com/index.php?id=22142903"
+  },
+  {
+    "id": "ai-0007",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Attitude",
+    "question": "Learners with more positive attitudes toward training:",
+    "options": {"a": "Forget more quickly", "b": "Tend to learn and retain more than those with negative attitudes", "c": "Need more lectures", "d": "Learn slower"},
+    "correct": "b",
+    "explanation": "Attitude is foundational — engagement and motivation drive better outcomes.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0008",
+    "area": "assistant_instructor",
+    "subarea": "AI Standards — Authority",
+    "question": "An SSI Assistant Instructor (AI) is qualified to teach which programs independently?",
+    "options": {"a": "Open Water Diver", "b": "Scuba Rangers, Try Scuba (pool only), Scuba Skills Update, Perfect Buoyancy (academic and pool)", "c": "Rescue Diver and Divemaster", "d": "Open Water Instructor"},
+    "correct": "b",
+    "explanation": "AI authority covers Try Scuba (pool), Scuba Skills Update, Snorkeling, Scuba Rangers and Perfect Buoyancy academics & pool components.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0009",
+    "area": "assistant_instructor",
+    "subarea": "AI Standards — Prerequisites",
+    "question": "Prerequisites for the SSI Assistant Instructor course typically include:",
+    "options": {"a": "Open Water only", "b": "Active SSI Divemaster (or equivalent), 60+ logged dives, current CPR/First Aid, EAN certification", "c": "Just 10 dives", "d": "Snorkel certification only"},
+    "correct": "b",
+    "explanation": "AI candidates must be active DMs (or cross-over equivalent), with logged dives, current CPR/FA, EAN and a current medical.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0010",
+    "area": "assistant_instructor",
+    "subarea": "AI Standards — Logged dives",
+    "question": "Minimum logged dives commonly required for AI-level training is:",
+    "options": {"a": "20", "b": "40", "c": "60", "d": "100"},
+    "correct": "c",
+    "explanation": "Most AI prerequisites require 60+ logged dives at the time of certification.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0011",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Lesson plan",
+    "question": "A complete academic lesson plan should contain:",
+    "options": {"a": "Learning objectives, content outline, activities, assessment", "b": "Just slides", "c": "Only an exam", "d": "Only a video link"},
+    "correct": "a",
+    "explanation": "Effective plans state objectives, sequence content, define activities and include assessment of learning.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0012",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — SMART objectives",
+    "question": "A SMART learning objective is:",
+    "options": {"a": "Specific, Measurable, Achievable, Relevant, Time-bound", "b": "Simple, Memorable, Active, Repeated, Tested", "c": "Strict, Mechanical, Abstract, Random, Theoretical", "d": "Solid, Mathematical, Awesome, Real, True"},
+    "correct": "a",
+    "explanation": "SMART objectives are observable and assessable — central to instructional design.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0013",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Skill teaching",
+    "question": "An effective in-water skill demonstration should be:",
+    "options": {"a": "Performed quickly so students don't get cold", "b": "Slow, clear, exaggerated, in a stable position, and viewable by all", "c": "Only described verbally", "d": "Performed only by the most experienced student"},
+    "correct": "b",
+    "explanation": "Demos should be deliberate and exaggerated so every student sees the correct technique.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0014",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Skill teaching",
+    "question": "The 'EDGE' approach to teaching a skill stands for:",
+    "options": {"a": "Explain, Demonstrate, Guide, Enable", "b": "Examine, Drill, Grade, Evaluate", "c": "Engage, Discuss, Go, End", "d": "Edit, Drag, Group, Erase"},
+    "correct": "a",
+    "explanation": "EDGE: Explain it, Demonstrate it, Guide practice, Enable independence.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0015",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Demonstration quality",
+    "question": "Demonstration-quality skill performance means:",
+    "options": {"a": "Performing skills without buoyancy control", "b": "Slow, deliberate, controlled neutral-buoyancy execution that students can mimic", "c": "Only described from the surface", "d": "Done at maximum speed"},
+    "correct": "b",
+    "explanation": "Instructors and AIs are expected to perform skills at demonstration quality — neutral, slow, deliberate.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0016",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Assessment",
+    "question": "Formative assessment is:",
+    "options": {"a": "The end-of-course final exam only", "b": "Ongoing checks for understanding during instruction to guide teaching", "c": "Done only by external examiners", "d": "Used only for grading"},
+    "correct": "b",
+    "explanation": "Formative assessment informs the teacher and learner during the course; summative is end-of-course evaluation.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0017",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Bloom's taxonomy",
+    "question": "Bloom's Taxonomy organizes cognitive learning from:",
+    "options": {"a": "Remember -> Understand -> Apply -> Analyze -> Evaluate -> Create", "b": "Watch -> Read -> Test", "c": "Surface -> Pool -> Open water", "d": "Beginner -> Master -> Guru"},
+    "correct": "a",
+    "explanation": "Bloom's revised taxonomy: a hierarchy from lower-order to higher-order thinking.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0018",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Maslow",
+    "question": "'Maslow before Bloom' refers to the principle that:",
+    "options": {"a": "Basic physiological/safety/belonging needs must be met before higher-order learning can take place", "b": "Bloom invented Maslow", "c": "Both are about gas laws", "d": "Maslow's hierarchy is irrelevant to teaching"},
+    "correct": "a",
+    "explanation": "If learners are cold, hungry, anxious or socially uncomfortable, they cannot learn effectively.",
+    "source": "https://www.exploringthecore.com/post/maslow-before-bloom"
+  },
+  {
+    "id": "ai-0019",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Comfort Through Repetition",
+    "question": "SSI's 'Comfort Through Repetition' philosophy implies:",
+    "options": {"a": "Drilling skills until they become automatic and natural", "b": "Skipping skills the student already knows", "c": "Only one repetition per skill", "d": "Practicing only at the surface"},
+    "correct": "a",
+    "explanation": "Repetition of correctly performed skills builds reflexive competence and comfort underwater.",
+    "source": "https://www.divessi.com/en/join-ssi/highlights/training-philosophy"
+  },
+  {
+    "id": "ai-0020",
+    "area": "assistant_instructor",
+    "subarea": "AI Standards — Practice teaching",
+    "question": "During AI training, candidates practice:",
+    "options": {"a": "Academic presentations and pool skill demonstrations under instructor supervision", "b": "Open-water certification dives", "c": "Decompression theory only", "d": "Boat captaincy"},
+    "correct": "a",
+    "explanation": "AIs build presentation and demo skills with instructor guidance before progressing to ITC/IE.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0021",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Active learning",
+    "question": "An example of an SSI active-learning activity is:",
+    "options": {"a": "A 90-minute lecture without breaks", "b": "Small-group discussion of a dive scenario followed by debrief", "c": "Reading the manual silently", "d": "Watching a long video without follow-up"},
+    "correct": "b",
+    "explanation": "Active learning activities require engagement: discussion, problem-solving, role-play, etc.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0022",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Counseling",
+    "question": "When a student fails a skill, the instructor / AI should first:",
+    "options": {"a": "Move on", "b": "Identify the cause (knowledge gap, skill issue, attitude/anxiety) and remediate", "c": "Ask them to leave", "d": "Increase the difficulty"},
+    "correct": "b",
+    "explanation": "Effective remediation diagnoses the underlying cause before adapting the teaching approach.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0023",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Briefing",
+    "question": "A pool-session briefing should include:",
+    "options": {"a": "Objectives, skills to be performed, signals, safety procedures, and order of activities", "b": "Only depth of pool", "c": "Only the dive plan", "d": "Just stretching exercises"},
+    "correct": "a",
+    "explanation": "A complete briefing prepares students mentally and reduces in-water confusion.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0024",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Debrief",
+    "question": "An effective post-session debrief should:",
+    "options": {"a": "Reinforce what went well, address concerns and assign improvement actions", "b": "Only criticize errors", "c": "Be skipped to save time", "d": "Be conducted only privately with the strongest student"},
+    "correct": "a",
+    "explanation": "Constructive debriefs build motivation and clarify next steps.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0025",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Feedback",
+    "question": "Effective feedback to a student is:",
+    "options": {"a": "Specific, behavioral, and timely", "b": "Vague and delayed", "c": "Only positive", "d": "Only negative"},
+    "correct": "a",
+    "explanation": "Feedback that pinpoints observable behaviors, given soon after the event, is most effective.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0026",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Risk management",
+    "question": "When an AI notices a safety risk during an instructor-led session, they should:",
+    "options": {"a": "Continue without comment", "b": "Communicate with the instructor and act under their direction; intervene immediately if life-threatening", "c": "Take over the session", "d": "Send the student home"},
+    "correct": "b",
+    "explanation": "AIs support the instructor but must act directly when imminent danger is present.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0027",
+    "area": "assistant_instructor",
+    "subarea": "AI Standards — Customer service",
+    "question": "Customer loyalty is built primarily through:",
+    "options": {"a": "Discounts only", "b": "Quality experiences, ongoing education, and a sense of community", "c": "Equipment sales pressure", "d": "Avoiding personalized attention"},
+    "correct": "b",
+    "explanation": "SSI emphasizes long-term diver development and community as the engine of loyalty.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0028",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Inclusive teaching",
+    "question": "When a student has anxiety in the water, the AI should:",
+    "options": {"a": "Push them through harder skills", "b": "Slow down, build confidence with simpler skills, and provide reassurance", "c": "Give them a different cylinder", "d": "Skip the skill"},
+    "correct": "b",
+    "explanation": "Building positive associations and gradual exposure addresses the affective domain and overcomes anxiety.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0029",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Class management",
+    "question": "When teaching a small group of varied skill levels, the AI should:",
+    "options": {"a": "Teach to the strongest student", "b": "Teach to the weakest, holding others back", "c": "Differentiate instruction and use peer assistance where appropriate", "d": "Drop weaker students from the course"},
+    "correct": "c",
+    "explanation": "Differentiated instruction maintains pace for stronger learners while supporting weaker ones.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "ai-0030",
+    "area": "assistant_instructor",
+    "subarea": "Methodology — Standards adherence",
+    "question": "Standards exist primarily to:",
+    "options": {"a": "Reduce flexibility for instructors", "b": "Ensure consistent quality, safety and legal defensibility across all programs and centers", "c": "Limit profits", "d": "Generate paperwork"},
+    "correct": "b",
+    "explanation": "Standards protect students, instructors and the agency by setting baseline quality and safety.",
+    "source": "compiled_from_dive_theory"
+  }
+]

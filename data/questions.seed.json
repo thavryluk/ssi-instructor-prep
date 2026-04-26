@@ -1,0 +1,127 @@
+{
+  "version": "0.1-seed",
+  "generated_at": "2026-04-25",
+  "note": "Seed file with hand-written sample questions. Will be replaced by scraped data in questions.json.",
+  "questions": [
+    {
+      "id": "sod-0001",
+      "area": "science_of_diving",
+      "subarea": "Physics — Boyle's Law",
+      "question": "A flexible balloon at the surface has a volume of 12 litres. What is its volume at 30 metres in seawater (assume 1 ATA per 10 m)?",
+      "options": {
+        "a": "6 litres",
+        "b": "4 litres",
+        "c": "3 litres",
+        "d": "2 litres"
+      },
+      "correct": "c",
+      "explanation": "At 30 m the absolute pressure is 4 ATA. Boyle's Law: V2 = V1 × P1/P2 = 12 × 1/4 = 3 litres.",
+      "source": "seed"
+    },
+    {
+      "id": "sod-0002",
+      "area": "science_of_diving",
+      "subarea": "Physiology — Nitrogen Narcosis",
+      "question": "Nitrogen narcosis is generally first noticeable at depths of approximately:",
+      "options": {
+        "a": "10 m / 33 ft",
+        "b": "20 m / 66 ft",
+        "c": "30 m / 100 ft",
+        "d": "50 m / 165 ft"
+      },
+      "correct": "c",
+      "explanation": "Symptoms of nitrogen narcosis usually become noticeable around 30 m / 100 ft and increase with depth, though individual susceptibility varies.",
+      "source": "seed"
+    },
+    {
+      "id": "sod-0003",
+      "area": "science_of_diving",
+      "subarea": "Physics — Partial Pressure",
+      "question": "At 40 m / 132 ft (5 ATA), the partial pressure of oxygen in air (21% O2) is approximately:",
+      "options": {
+        "a": "0.21 ATA",
+        "b": "0.84 ATA",
+        "c": "1.05 ATA",
+        "d": "2.10 ATA"
+      },
+      "correct": "c",
+      "explanation": "PO2 = fO2 × ATA = 0.21 × 5 = 1.05 ATA. Above 1.4 ATA the risk of CNS oxygen toxicity rises significantly.",
+      "source": "seed"
+    },
+    {
+      "id": "dm-0001",
+      "area": "divemaster",
+      "subarea": "Standards — Supervision Ratios",
+      "question": "When assisting an SSI Open Water Instructor with confined water sessions, the maximum student-to-instructor ratio (with one certified assistant) is typically:",
+      "options": {
+        "a": "4:1",
+        "b": "6:1",
+        "c": "8:1 (with one certified assistant adding +2)",
+        "d": "12:1"
+      },
+      "correct": "c",
+      "explanation": "Per SSI Training Standards, OW confined water max ratio is 8:1, extendable by +2 per certified assistant. (Verify against current SSI Training Standards before exam.)",
+      "source": "seed"
+    },
+    {
+      "id": "dm-0002",
+      "area": "divemaster",
+      "subarea": "Dive Planning",
+      "question": "Which factor is NOT typically considered when planning a guided dive for certified divers?",
+      "options": {
+        "a": "Current and surge conditions",
+        "b": "Group's lowest experience level",
+        "c": "Water temperature and exposure protection",
+        "d": "Personal preference of the dive guide regardless of group"
+      },
+      "correct": "d",
+      "explanation": "Dive planning must always consider environmental conditions and the least experienced diver. The guide's personal preference does not override group safety.",
+      "source": "seed"
+    },
+    {
+      "id": "ai-0001",
+      "area": "assistant_instructor",
+      "subarea": "Teaching — Skill Demonstration",
+      "question": "When demonstrating a skill to students, the demonstration should be performed:",
+      "options": {
+        "a": "As fast as possible to save time",
+        "b": "At normal speed with poor technique to make it relatable",
+        "c": "Slowly and exaggerated, with perfect technique",
+        "d": "Only verbally — students learn better from explanation"
+      },
+      "correct": "c",
+      "explanation": "Skills should be demonstrated slowly and exaggerated with perfect technique so students can clearly observe each step and replicate it correctly.",
+      "source": "seed"
+    },
+    {
+      "id": "inst-0001",
+      "area": "instructor",
+      "subarea": "Standards — Open Water Depth Limits",
+      "question": "The maximum depth for SSI Open Water Diver training dives is:",
+      "options": {
+        "a": "12 m / 40 ft",
+        "b": "18 m / 60 ft",
+        "c": "20 m / 66 ft",
+        "d": "30 m / 100 ft"
+      },
+      "correct": "b",
+      "explanation": "Per SSI standards, OW Diver training dives are limited to 18 m / 60 ft maximum depth. (Always verify current SSI Training Standards.)",
+      "source": "seed"
+    },
+    {
+      "id": "inst-0002",
+      "area": "instructor",
+      "subarea": "Methodology — EDGE",
+      "question": "SSI's teaching methodology often referenced as 'EDGE' stands for:",
+      "options": {
+        "a": "Explain, Demonstrate, Guide, Evaluate",
+        "b": "Educate, Drill, Grade, Examine",
+        "c": "Engage, Develop, Generate, Empower",
+        "d": "Evaluate, Demonstrate, Grade, Educate"
+      },
+      "correct": "a",
+      "explanation": "EDGE = Explain, Demonstrate, Guide, Evaluate — SSI's instructional model for teaching skills.",
+      "source": "seed"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "sod-0001",
+    "area": "science_of_diving",
+    "subarea": "Physics — Boyle's Law",
+    "question": "Which physical law states that, if temperature remains constant, the pressure and volume of a gas are inversely related?",
+    "options": {"a": "Dalton's Law", "b": "Henry's Law", "c": "Archimedes' Principle", "d": "Boyle's Law"},
+    "correct": "d",
+    "explanation": "Boyle's Law: at constant temperature, P x V = constant, so pressure and volume are inversely proportional.",
+    "source": "https://quizlet.com/601446887/ssi-assistant-instructor-pre-test-flash-cards/"
+  },
+  {
+    "id": "sod-0002",
+    "area": "science_of_diving",
+    "subarea": "Physics — Pressure (Imperial)",
+    "question": "What is the absolute pressure (in atmospheres absolute) at 33 feet of seawater?",
+    "options": {"a": "1 ATA", "b": "2 ATA", "c": "3 ATA", "d": "4 ATA"},
+    "correct": "b",
+    "explanation": "Every 33 ft of seawater adds 1 ATA. Absolute pressure = 1 ATA (surface) + 1 ATA (water column) = 2 ATA.",
+    "source": "https://quizlet.com/113032957/ssi-open-water-diver-final-exam-flash-cards/"
+  },
+  {
+    "id": "sod-0003",
+    "area": "science_of_diving",
+    "subarea": "Physics — Pressure (Metric)",
+    "question": "What is the absolute pressure (in bar) at 10 metres of seawater?",
+    "options": {"a": "1 bar", "b": "1.5 bar", "c": "2 bar", "d": "3 bar"},
+    "correct": "c",
+    "explanation": "Each 10 m of seawater = 1 bar. Absolute pressure = 1 bar (atmosphere) + 1 bar (water) = 2 bar.",
+    "source": "https://cozumelscuba.com/wp-content/uploads/Exam-English-7.pdf"
+  },
+  {
+    "id": "sod-0004",
+    "area": "science_of_diving",
+    "subarea": "Physics — Pressure (Metric)",
+    "question": "What is the absolute pressure (in bar) at 30 metres of seawater?",
+    "options": {"a": "3 bar", "b": "4 bar", "c": "5 bar", "d": "6 bar"},
+    "correct": "b",
+    "explanation": "30 m of seawater = 3 bar of water pressure + 1 bar atmospheric = 4 bar absolute.",
+    "source": "https://cozumelscuba.com/wp-content/uploads/Exam-English-7.pdf"
+  },
+  {
+    "id": "sod-0005",
+    "area": "science_of_diving",
+    "subarea": "Physics — Boyle's Law applied",
+    "question": "If a flexible container of air is taken from the surface to 30 m / 99 ft, its volume will be:",
+    "options": {"a": "Doubled", "b": "Halved", "c": "Reduced to one-quarter", "d": "Reduced to one-third"},
+    "correct": "c",
+    "explanation": "Pressure goes from 1 ATA to 4 ATA. By Boyle's Law V2 = V1 x P1/P2 = 1 x 1/4.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0006",
+    "area": "science_of_diving",
+    "subarea": "Physics — Boyle's Law applied",
+    "question": "A flexible container of air is taken from 30 m / 99 ft to the surface. Its volume will:",
+    "options": {"a": "Halve", "b": "Stay the same", "c": "Triple", "d": "Quadruple"},
+    "correct": "d",
+    "explanation": "Pressure drops from 4 ATA to 1 ATA, so volume increases 4x by Boyle's Law.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0007",
+    "area": "science_of_diving",
+    "subarea": "Physics — Buoyancy change with depth",
+    "question": "If 2 litres of air are needed in your BCD to maintain neutral buoyancy at 10 m in the ocean, what will happen if you ascend 3 m without venting?",
+    "options": {"a": "You will become more negatively buoyant", "b": "Buoyancy will not change", "c": "Your positive buoyancy will increase", "d": "Cannot be determined"},
+    "correct": "c",
+    "explanation": "As ambient pressure drops, the gas in the BCD expands, increasing displacement and therefore positive buoyancy.",
+    "source": "https://www.proscubadiver.net/padi-course-director-joey-ridge/gas-laws-physics/"
+  },
+  {
+    "id": "sod-0008",
+    "area": "science_of_diving",
+    "subarea": "Physics — Henry's Law",
+    "question": "Henry's Law primarily describes:",
+    "options": {"a": "The relationship between volume and temperature of a gas", "b": "The amount of gas dissolved in a liquid as a function of partial pressure", "c": "The buoyant force on a submerged object", "d": "The total pressure of a mixed gas"},
+    "correct": "b",
+    "explanation": "Henry's Law: at constant temperature the amount of a given gas dissolved in a liquid is directly proportional to the partial pressure of that gas above the liquid.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0009",
+    "area": "science_of_diving",
+    "subarea": "Physics — Dalton's Law",
+    "question": "Dalton's Law of partial pressures states that:",
+    "options": {"a": "Gases dissolve into liquids in proportion to their pressure", "b": "Pressure and volume are inversely related", "c": "Total pressure of a mixture equals the sum of the partial pressures of each component", "d": "An object displaces fluid equal to its weight"},
+    "correct": "c",
+    "explanation": "Dalton: P_total = P1 + P2 + ... where each Pn is the partial pressure of each gas in the mixture.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0010",
+    "area": "science_of_diving",
+    "subarea": "Physics — Archimedes",
+    "question": "Archimedes' Principle states that an object immersed in a fluid is buoyed up by a force equal to the:",
+    "options": {"a": "Weight of the object", "b": "Volume of the object", "c": "Weight of the fluid displaced", "d": "Density of the fluid"},
+    "correct": "c",
+    "explanation": "The buoyant force equals the weight of the displaced fluid.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0011",
+    "area": "science_of_diving",
+    "subarea": "Physics — Saltwater density",
+    "question": "Compared to fresh water, salt water is:",
+    "options": {"a": "Less dense, providing less buoyancy", "b": "More dense, providing more buoyancy", "c": "Equal in density", "d": "Less dense at depth, more dense at surface"},
+    "correct": "b",
+    "explanation": "Seawater (~1.03 kg/L) is denser than fresh water (1.00 kg/L), generating more buoyant force.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0012",
+    "area": "science_of_diving",
+    "subarea": "Physics — Buoyancy adjustment",
+    "question": "A diver is correctly weighted in salt water. Using the same equipment in fresh water, the diver should:",
+    "options": {"a": "Add weight", "b": "Remove weight", "c": "Keep the same weight", "d": "Add lift to the BCD"},
+    "correct": "b",
+    "explanation": "Fresh water provides less buoyancy than salt water, so less ballast is needed.",
+    "source": "https://quizlet.com/601446887/ssi-assistant-instructor-pre-test-flash-cards/"
+  },
+  {
+    "id": "sod-0013",
+    "area": "science_of_diving",
+    "subarea": "Physics — Saltwater weight",
+    "question": "How much does one cubic foot of sea water weigh?",
+    "options": {"a": "62 pounds", "b": "64 pounds", "c": "70 pounds", "d": "32 pounds"},
+    "correct": "b",
+    "explanation": "Sea water weighs about 64 lb/ft^3; fresh water about 62.4 lb/ft^3.",
+    "source": "https://quizlet.com/84015479/ssi-open-water-final-exam-flash-cards/"
+  },
+  {
+    "id": "sod-0014",
+    "area": "science_of_diving",
+    "subarea": "Physics — Refraction (vision)",
+    "question": "Underwater, the bending of light rays causes objects to appear:",
+    "options": {"a": "The same as on the surface", "b": "Further away", "c": "At an angle", "d": "Closer and larger"},
+    "correct": "d",
+    "explanation": "Refraction at the mask air-water interface makes objects appear about 25% closer and 33% larger.",
+    "source": "https://quizlet.com/113032957/ssi-open-water-diver-final-exam-flash-cards/"
+  },
+  {
+    "id": "sod-0015",
+    "area": "science_of_diving",
+    "subarea": "Environment — Light absorption",
+    "question": "The condition in which certain colors are diminished as depth increases is called:",
+    "options": {"a": "Refraction", "b": "Turbidity", "c": "Diffusion", "d": "Absorption"},
+    "correct": "d",
+    "explanation": "Water selectively absorbs warm wavelengths (red first, then orange, yellow). This is called absorption.",
+    "source": "https://quizlet.com/113032957/ssi-open-water-diver-final-exam-flash-cards/"
+  },
+  {
+    "id": "sod-0016",
+    "area": "science_of_diving",
+    "subarea": "Environment — Light absorption",
+    "question": "Which color is the first to disappear as a diver descends?",
+    "options": {"a": "Blue", "b": "Green", "c": "Red", "d": "Yellow"},
+    "correct": "c",
+    "explanation": "Long-wavelength colors are absorbed first; red typically vanishes by ~5 m.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0017",
+    "area": "science_of_diving",
+    "subarea": "Environment — Visibility",
+    "question": "Suspended particles that limit underwater visibility are known as:",
+    "options": {"a": "Refraction", "b": "Turbidity", "c": "Diffusion", "d": "Absorption"},
+    "correct": "b",
+    "explanation": "Turbidity refers to the cloudiness of water caused by suspended particulate matter.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0018",
+    "area": "science_of_diving",
+    "subarea": "Physics — Sound",
+    "question": "Compared to air, sound travels through water:",
+    "options": {"a": "About the same speed", "b": "About four times faster", "c": "About ten times slower", "d": "It does not travel through water"},
+    "correct": "b",
+    "explanation": "Sound travels ~1500 m/s in water vs ~340 m/s in air — roughly four times faster.",
+    "source": "https://quizlet.com/113032957/ssi-open-water-diver-final-exam-flash-cards/"
+  },
+  {
+    "id": "sod-0019",
+    "area": "science_of_diving",
+    "subarea": "Physics — Sound",
+    "question": "Underwater, divers find it difficult to:",
+    "options": {"a": "Hear loud sounds", "b": "Determine the direction of a sound source", "c": "Communicate using tank banging", "d": "Hear at all"},
+    "correct": "b",
+    "explanation": "Because sound travels so fast in water, the time difference between ears is too small for the brain to localize the source.",
+    "source": "https://quizlet.com/113032957/ssi-open-water-diver-final-exam-flash-cards/"
+  },
+  {
+    "id": "sod-0020",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Heat loss",
+    "question": "Water conducts heat away from the body approximately how many times faster than air?",
+    "options": {"a": "5 times", "b": "10 times", "c": "25 times", "d": "100 times"},
+    "correct": "c",
+    "explanation": "Water's thermal conductivity is roughly 25x that of air, which is why divers can become cold even in warm water.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0021",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Hypothermia",
+    "question": "An early sign of mild hypothermia in a diver is:",
+    "options": {"a": "Cessation of shivering", "b": "Uncontrolled shivering", "c": "Loss of consciousness", "d": "Hyperventilation"},
+    "correct": "b",
+    "explanation": "Mild hypothermia presents with shivering and mental confusion. When shivering stops, hypothermia is becoming severe.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0022",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Equalization",
+    "question": "If a diver experiences pain in the ear during descent, the correct action is to:",
+    "options": {"a": "Continue down and equalize harder", "b": "Stop the descent and ascend until the pain stops", "c": "Surface immediately", "d": "Hold the breath and continue"},
+    "correct": "b",
+    "explanation": "Ascending slightly relieves the pressure differential; equalize then continue. Never push past pain.",
+    "source": "https://quizlet.com/84015479/ssi-open-water-final-exam-flash-cards/"
+  },
+  {
+    "id": "sod-0023",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Equalization",
+    "question": "The purpose of equalization is to:",
+    "options": {"a": "Equalize the pressure between dive buddies", "b": "Introduce additional air into body air spaces in response to increasing external pressure", "c": "Remove excess nitrogen from the lungs", "d": "Cool the inner ear"},
+    "correct": "b",
+    "explanation": "Equalization adds gas to airspaces (middle ear, sinuses, mask) so internal pressure matches ambient water pressure.",
+    "source": "https://quizlet.com/84015479/ssi-open-water-final-exam-flash-cards/"
+  },
+  {
+    "id": "sod-0024",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Squeeze",
+    "question": "Ear squeeze can be prevented by:",
+    "options": {"a": "Relaxing and never diving with a cold", "b": "Equalizing early and often (e.g., Valsalva, swallowing, jaw movement)", "c": "Descending slowly feet-first when possible", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "All listed techniques help prevent middle-ear barotrauma during descent.",
+    "source": "https://quizlet.com/84015479/ssi-open-water-final-exam-flash-cards/"
+  },
+  {
+    "id": "sod-0025",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Sinus squeeze",
+    "question": "The first symptom of sinus squeeze is usually:",
+    "options": {"a": "Vertigo and nausea", "b": "A sharp pain or wedging sensation above the eyes", "c": "Hearing loss", "d": "A bloody nose during ascent"},
+    "correct": "b",
+    "explanation": "Frontal-sinus squeeze typically causes pain over the forehead/behind the eyes during descent.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0026",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Reverse block",
+    "question": "If a diver experiences ear pain during ascent, the correct action is to:",
+    "options": {"a": "Continue ascending faster", "b": "Hold the breath", "c": "Stop the ascent and descend slightly until the pain stops", "d": "Forcefully Valsalva while ascending"},
+    "correct": "c",
+    "explanation": "A reverse block traps expanding gas. Descending a bit lets the trapped gas vent, then continue ascent slowly.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0027",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Lung overexpansion",
+    "question": "The most serious lung overexpansion injury is:",
+    "options": {"a": "Pneumothorax", "b": "Subcutaneous emphysema", "c": "Mediastinal emphysema", "d": "Arterial gas embolism (AGE)"},
+    "correct": "d",
+    "explanation": "AGE introduces gas bubbles into the arterial circulation, potentially causing stroke-like symptoms or death.",
+    "source": "https://brainly.com/question/43943372"
+  },
+  {
+    "id": "sod-0028",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Lung overexpansion",
+    "question": "The most important rule to prevent lung overexpansion injuries is:",
+    "options": {"a": "Always wear a wetsuit", "b": "Breathe continuously and never hold your breath while ascending", "c": "Ascend faster than 18 m/min", "d": "Equalize the ears every 30 seconds"},
+    "correct": "b",
+    "explanation": "Holding the breath while ascending allows expanding gas to rupture alveoli — the cause of AGE and other lung overexpansion injuries.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0029",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Nitrogen narcosis",
+    "question": "Nitrogen narcosis typically begins to affect the average diver at a depth of approximately:",
+    "options": {"a": "10 m / 33 ft", "b": "20 m / 66 ft", "c": "30 m / 100 ft", "d": "60 m / 200 ft"},
+    "correct": "c",
+    "explanation": "Most divers begin to feel narcosis around 30 m / 100 ft, although individual susceptibility varies.",
+    "source": "https://scubaboard.com/community/threads/nitrogen-narcosis-according-to-ssi.493656/"
+  },
+  {
+    "id": "sod-0030",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Nitrogen narcosis",
+    "question": "Symptoms of nitrogen narcosis are most similar to:",
+    "options": {"a": "Mild alcohol intoxication", "b": "A heart attack", "c": "Severe sea-sickness", "d": "An asthma attack"},
+    "correct": "a",
+    "explanation": "Narcosis impairs judgment, reasoning and short-term memory and feels much like mild alcohol intoxication.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0031",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Nitrogen narcosis",
+    "question": "The best response if a diver shows signs of narcosis is to:",
+    "options": {"a": "Continue the dive at the same depth", "b": "Descend a bit deeper to test the effect", "c": "Ascend to a shallower depth", "d": "Take several deep breaths and continue"},
+    "correct": "c",
+    "explanation": "Ascending to a shallower depth quickly resolves narcosis as the partial pressure of nitrogen drops.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0032",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Oxygen toxicity",
+    "question": "CNS oxygen toxicity becomes substantially more likely above a partial pressure of oxygen of:",
+    "options": {"a": "0.21 bar", "b": "1.0 bar", "c": "1.4 bar", "d": "1.6 bar"},
+    "correct": "d",
+    "explanation": "Risk of CNS toxicity rises sharply above ppO2 of 1.6 bar; recreational EAN diving uses a 1.4 bar working limit.",
+    "source": "https://cozumelscuba.com/wp-content/uploads/Nitrox-Exams.pdf"
+  },
+  {
+    "id": "sod-0033",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Oxygen toxicity",
+    "question": "Symptoms of CNS oxygen toxicity can be remembered with the acronym ConVENTID. The 'C' stands for:",
+    "options": {"a": "Cramping", "b": "Convulsions", "c": "Cyanosis", "d": "Cough"},
+    "correct": "b",
+    "explanation": "ConVENTID: Convulsions, Vision changes, Ear ringing, Nausea, Twitching, Irritability, Dizziness.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0034",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Carbon dioxide",
+    "question": "An excess buildup of carbon dioxide (hypercapnia) in a diver is most often caused by:",
+    "options": {"a": "Skip breathing or shallow rapid breathing", "b": "Hyperventilating before the dive", "c": "Diving with a pure oxygen mixture", "d": "Drinking too much water"},
+    "correct": "a",
+    "explanation": "Skip-breathing or under-ventilation traps CO2 and triggers headache, shortness of breath, even unconsciousness.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0035",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Carbon monoxide",
+    "question": "The most likely source of carbon monoxide contamination in a scuba cylinder is:",
+    "options": {"a": "Old aluminum cylinders", "b": "A compressor intake located near engine exhaust", "c": "Diving in deep tropical water", "d": "Use of nitrox blends"},
+    "correct": "b",
+    "explanation": "CO contamination usually comes from combustion gases drawn into a poorly placed compressor intake.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0036",
+    "area": "science_of_diving",
+    "subarea": "Decompression Theory",
+    "question": "Decompression sickness is caused by:",
+    "options": {"a": "Oxygen toxicity at depth", "b": "Inert gas (typically nitrogen) coming out of solution and forming bubbles in tissues or blood", "c": "Low CO2 in the blood after a long dive", "d": "Salt water entering the lungs"},
+    "correct": "b",
+    "explanation": "When ambient pressure drops faster than the body can off-gas dissolved nitrogen, bubbles form in tissues and blood.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0037",
+    "area": "science_of_diving",
+    "subarea": "Decompression Theory",
+    "question": "The recommended ascent rate that recreational divers should not exceed is:",
+    "options": {"a": "60 ft (18 m) per minute", "b": "30 ft (9 m) per minute", "c": "15 ft (4.5 m) per minute", "d": "120 ft (36 m) per minute"},
+    "correct": "b",
+    "explanation": "SSI recommends not exceeding 30 ft / 9 m per minute on ascent for recreational diving.",
+    "source": "https://cozumelscuba.com/wp-content/uploads/Exam-English-7.pdf"
+  },
+  {
+    "id": "sod-0038",
+    "area": "science_of_diving",
+    "subarea": "Decompression Theory — Safety stop",
+    "question": "A safety stop should be performed at:",
+    "options": {"a": "5 m / 15 ft for 3-5 minutes", "b": "10 m / 33 ft for 10 minutes", "c": "3 m / 10 ft for 1 minute", "d": "Whenever the diver feels tired"},
+    "correct": "a",
+    "explanation": "SSI recommends a 3-5 minute safety stop at 5 m / 15 ft on every dive.",
+    "source": "https://cozumelscuba.com/wp-content/uploads/Exam-English-7.pdf"
+  },
+  {
+    "id": "sod-0039",
+    "area": "science_of_diving",
+    "subarea": "Decompression Theory — Tissue compartments",
+    "question": "In dive-table theory, a 'tissue half-time' refers to the time required for a tissue compartment to:",
+    "options": {"a": "Reach 50% saturation or desaturation under a constant pressure differential", "b": "Reach 100% saturation", "c": "Lose all dissolved gas", "d": "Reach equilibrium with body temperature"},
+    "correct": "a",
+    "explanation": "Half-time is the time for a compartment to reach 50% of the way toward equilibrium with the new pressure.",
+    "source": "https://quizlet.com/516127466/ssi-science-of-diving-flash-cards/"
+  },
+  {
+    "id": "sod-0040",
+    "area": "science_of_diving",
+    "subarea": "Decompression Theory — DCS treatment",
+    "question": "The definitive treatment for decompression sickness is:",
+    "options": {"a": "Bed rest and warm fluids", "b": "Oral aspirin", "c": "Hyperbaric oxygen therapy in a recompression chamber", "d": "Surface oxygen for 30 minutes"},
+    "correct": "c",
+    "explanation": "Recompression in a hyperbaric chamber, breathing 100% O2, is the definitive treatment. Surface 100% O2 is critical first aid.",
+    "source": "compiled_from_dive_theory"
+  }
+]

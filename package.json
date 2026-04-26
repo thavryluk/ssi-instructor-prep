@@ -1,0 +1,9 @@
+{
+  "name": "ssi-instructor-prep",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SSI Instructor exam prep — static frontend + Netlify Functions backend",
+  "dependencies": {
+    "@netlify/blobs": "^7.4.0"
+  }
+}

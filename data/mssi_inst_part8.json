@@ -1,0 +1,212 @@
+[
+  {
+    "id": "mssi-inst-072",
+    "area": "instructor",
+    "subarea": "Programs — Experienced Diver Test",
+    "question": "The Experienced Diver Test:",
+    "options": {
+      "a": "Requires proof of open water diving experience",
+      "b": "Requires an academic and pool/confined water evaluation",
+      "c": "All answers are correct",
+      "d": "Is for divers that have lost proof of certification or have non-traditional diving histories"
+    },
+    "correct": "c",
+    "explanation": "The Experienced Diver Test (EDT) is the SSI pathway for divers who claim equivalent training but cannot produce a recognised certification card — e.g. lost cards, military / commercial / non-recognised-agency backgrounds. It requires proof of OW diving experience, an academic evaluation AND a pool/confined-water skills evaluation before the diver is awarded an SSI certification.",
+    "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+  },
+  {
+    "id": "mssi-inst-073",
+    "area": "instructor",
+    "subarea": "Programs — Specialty Categorisation",
+    "question": "Which of the following is not found in the Open Water Specialties section of the standards?",
+    "options": {
+      "a": "Wreck Diving",
+      "b": "Dry Suit Diving",
+      "c": "Deep Diving",
+      "d": "Navigation"
+    },
+    "correct": "b",
+    "explanation": "Dry Suit Diving is NOT in the SSI 'Open Water Specialties' section — it is documented under a separate environmental/equipment specialty grouping. Wreck Diving, Deep Diving, and Navigation are all listed under Open Water Specialties.",
+    "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+  },
+  {
+    "id": "mssi-inst-074",
+    "area": "instructor",
+    "subarea": "Programs — Indoor Diver Upgrade",
+    "question": "An Indoor Diver may upgrade to Open Water Diver after completing all skill evaluations and:",
+    "options": {
+      "a": "2 open water training dives",
+      "b": "4 open water training dives",
+      "c": "1 open water training dive",
+      "d": "No open water training is required"
+    },
+    "correct": "a",
+    "explanation": "An Indoor Diver upgrades to OW Diver after completing all skill evaluations plus 2 open water training dives. The indoor program already covers the academic + confined-equivalent training, so only a short OW component is required to bridge to a full OW Diver certification.",
+    "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+  },
+  {
+    "id": "mssi-inst-075",
+    "area": "instructor",
+    "subarea": "Programs — Specialty Supervision",
+    "question": "All mandatory training dives for SSI Specialty programs must be:",
+    "options": {
+      "a": "Indirectly supervised",
+      "b": "Indirectly supervised if a certified assistant is used",
+      "c": "All training dives must be directly supervised",
+      "d": "Directly supervised"
+    },
+    "correct": "d",
+    "explanation": "Specialty mandatory training dives must be directly supervised by the instructor in the water with the students. Indirect supervision (e.g. instructor topside) is not permitted on mandatory training dives — it's only allowed on adventure/experience dives where students are already qualified to dive at the depth/conditions.",
+    "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+  },
+  {
+    "id": "mssi-inst-076",
+    "area": "instructor",
+    "subarea": "Programs — Advanced Open Water",
+    "question": "The minimum age for dives in the Advanced Open Water Diver program is:",
+    "options": {
+      "a": "15 years old",
+      "b": "12 years old",
+      "c": "Determined by the applicable specialty program",
+      "d": "10 years old"
+    },
+    "correct": "c",
+    "explanation": "AOWD is a recognition certification — students complete five specialty/adventure dives chosen from the SSI specialty catalog. Each component specialty has its own minimum-age standard (e.g. Deep is 15+, others 10+ or 12+), so the minimum age for each AOWD dive is set by the specialty that dive belongs to.",
+    "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+  },
+  {
+    "id": "mssi-inst-077",
+    "area": "instructor",
+    "subarea": "Programs — Direct vs Indirect Supervision",
+    "question": "During open water training dives, the Open Water Instructor may:",
+    "options": {
+      "a": "Indirectly supervise emergency ascent skills",
+      "b": "Indirectly supervise students during underwater skill evaluations",
+      "c": "Indirectly supervise the dive if a certified assistant is present",
+      "d": "Indirectly supervise navigation skills during Open Water Training Dive 4"
+    },
+    "correct": "d",
+    "explanation": "On OW Training Dive 4, students perform a buddy-pair underwater compass navigation pattern — the instructor remains nearby but does not have to swim with each pair (indirect supervision). Emergency-ascent skills, underwater skill evaluations and the dive as a whole all require DIRECT supervision regardless of assistant presence.",
+    "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+  },
+  {
+    "id": "mssi-inst-078",
+    "area": "instructor",
+    "subarea": "Programs — Try Scuba Authority",
+    "question": "The Try Scuba program may be conducted by an active status:",
+    "options": {
+      "a": "Divemaster",
+      "b": "Dive Guide",
+      "c": "Anyone can teach a Try Scuba program",
+      "d": "Assistant Instructor"
+    },
+    "correct": "d",
+    "explanation": "Try Scuba is the lowest-barrier SSI introduction experience, and authority to conduct it is delegated down to Assistant Instructor in active status. A Divemaster or Dive Guide alone cannot lead Try Scuba — they need at least AI authority because actual skill instruction is involved.",
+    "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+  },
+  {
+    "id": "mssi-inst-079",
+    "area": "instructor",
+    "subarea": "Programs — Equipment Techniques",
+    "question": "Students participating in the Equipment Techniques program must be at least:",
+    "options": {
+      "a": "12 years old",
+      "b": "An Open Water Diver",
+      "c": "A Referral Diver",
+      "d": "A Scuba Diver"
+    },
+    "correct": "c",
+    "explanation": "Equipment Techniques can be taken from Referral Diver level — the program teaches gear care, assembly, fitting and basic configuration choices, which is appropriate for someone who has completed OW academics and pool but has not yet completed all OW training dives. Lower-bar entry than full OW Diver requirement.",
+    "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+  },
+  {
+    "id": "mssi-inst-080",
+    "area": "instructor",
+    "subarea": "Programs — Scuba Diver Ratios",
+    "question": "If one or more students in a Scuba Diver program are under the age of 15, the maximum student-to-instructor ratio in the open water is:",
+    "options": {
+      "a": "8:3 with two certified assistants",
+      "b": "6:2 with a certified assistant",
+      "c": "4:1",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "For Scuba Diver programs with any student under age 15, the OW ratio cap is 4:1 — and SSI does NOT permit expansion via certified assistants for this age tier. The fixed 4:1 reflects the higher supervisory load of younger students and the limited depth/skills of the Scuba Diver program.",
+    "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+  },
+  {
+    "id": "mssi-inst-081",
+    "area": "instructor",
+    "subarea": "Programs — Scuba Skills Update",
+    "question": "When can an uncertified Open Water Diver student participate in a Scuba Skills Update?",
+    "options": {
+      "a": "When they have completed all of the pool/confined water training dives from the Open Water Diver Instructor Manual",
+      "b": "When they have completed all of the academic sections from the Open Water Diver Instructor Manual",
+      "c": "When they have completed all open water training dives",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "A student who has finished all four OW training dives but has not yet been issued the certification card (paperwork pending, gap longer than allowed) may take a Scuba Skills Update to refresh and continue. Completing only academics or only confined water without OW dives is not enough.",
+    "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+  },
+  {
+    "id": "mssi-inst-082",
+    "area": "instructor",
+    "subarea": "Programs — OW Dive Sequencing",
+    "question": "During the Open Water Diver program, Open Water Training Dives 3 and 4 may only be conducted:",
+    "options": {
+      "a": "After all academic requirements and 2 pool/confined water sessions are complete",
+      "b": "After all academic requirements are complete",
+      "c": "After two academic and 2 pool/confined water sessions are complete",
+      "d": "After all academic and pool/confined water requirements are complete"
+    },
+    "correct": "d",
+    "explanation": "OW Training Dives 3-4 require ALL academic requirements (Sessions 1-6) AND all pool/confined water requirements complete. Per SSI standards, Dives 3-4 specifically need Academic 1-6 + Pool 4-6, but in normal sequence Pool 1-3 are also already done by then (Dive 2 requires Pool 2-3, and Pool 1 must be done before certification), so 'all academic + all pool' is the practical reading.",
+    "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+  },
+  {
+    "id": "mssi-inst-083",
+    "area": "instructor",
+    "subarea": "Programs — Basic Diver",
+    "question": "The maximum student-to-instructor ratio for open water dives in a Basic Diver program is:",
+    "options": {
+      "a": "8:1",
+      "b": "6:1",
+      "c": "4:1",
+      "d": "2:1"
+    },
+    "correct": "c",
+    "explanation": "Basic Diver is a more limited entry-level program (shallower depth, fewer skills), and SSI applies a tighter supervision cap: 4:1 maximum in the open water. The full OW Diver 8:1 framework does not apply.",
+    "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+  },
+  {
+    "id": "mssi-inst-084",
+    "area": "instructor",
+    "subarea": "Programs — Under-12 Ratios",
+    "question": "If any students in an entry-level program are younger than 12 years old, the maximum student-to-instructor ratio in the open water is:",
+    "options": {
+      "a": "4:1",
+      "b": "8:2 with a certified assistant",
+      "c": "10:2 with a certified assistant",
+      "d": "6:1"
+    },
+    "correct": "a",
+    "explanation": "For any entry-level student under age 12 in the open water, the maximum ratio is fixed at 4:1 — no extension via certified assistants is permitted. This stricter cap reflects the much higher supervisory load and the developmental stage of younger children.",
+    "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+  },
+  {
+    "id": "mssi-inst-085",
+    "area": "instructor",
+    "subarea": "Programs — Referral Diver",
+    "question": "Before getting a Referral Diver certification card, a student must:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Complete an Open Water Diver final exam",
+      "c": "Complete all pool/confined water sessions and skill evaluations from the Open Water Diver Instructor manual.",
+      "d": "Complete all academic sessions and assessments"
+    },
+    "correct": "a",
+    "explanation": "Referral Diver = a student who has completed every OW Diver requirement EXCEPT the four open water training dives, so they can complete those at another SSI facility (e.g. abroad on holiday). To be issued the Referral card they must have passed: all academic sections, the OW final exam, and all pool/confined-water sessions and skill evaluations.",
+    "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+  }
+]

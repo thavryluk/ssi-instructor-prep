@@ -1,0 +1,202 @@
+[
+  {
+    "id": "inst-0071",
+    "area": "instructor",
+    "subarea": "Methodology — Skill order",
+    "question": "Skills should be taught in an order that:",
+    "options": {"a": "Is random", "b": "Builds on prior skills, progresses from simple to complex, and supports student confidence", "c": "Starts with the hardest skill", "d": "Skips foundational skills"},
+    "correct": "b",
+    "explanation": "Progressive sequencing supports both psychomotor learning and confidence (affective domain).",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0072",
+    "area": "instructor",
+    "subarea": "Methodology — Common skill errors",
+    "question": "When students consistently make the same skill error, the instructor should:",
+    "options": {"a": "Ignore it", "b": "Reflect on the demo and explanation: most repeated student errors stem from teaching, not students", "c": "Blame the student", "d": "Restart the entire course"},
+    "correct": "b",
+    "explanation": "Recurring errors usually indicate that the teaching needs adjustment.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0073",
+    "area": "instructor",
+    "subarea": "Methodology — Demo from neutral buoyancy",
+    "question": "Modern SSI guidance prefers skill demonstrations from:",
+    "options": {"a": "Kneeling on the bottom", "b": "Neutral buoyancy in mid-water whenever possible", "c": "The surface", "d": "Standing only"},
+    "correct": "b",
+    "explanation": "Demos and skill practice in neutral buoyancy reflect real diving conditions and reinforce trim/buoyancy.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0074",
+    "area": "instructor",
+    "subarea": "Standards — Open water site",
+    "question": "OWD open-water training dives must be conducted in an environment that:",
+    "options": {"a": "Is challenging beyond OWD level", "b": "Allows reasonable safety, depth control and visibility appropriate to OWD students", "c": "Has heavy currents", "d": "Has no surface support"},
+    "correct": "b",
+    "explanation": "OW sites must match the students' skill level — calm, reasonable visibility, accessible.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0075",
+    "area": "instructor",
+    "subarea": "Standards — Insurance",
+    "question": "Where required by law/standards, an active SSI Instructor must hold:",
+    "options": {"a": "Auto insurance only", "b": "Professional liability (E&O / accident) insurance", "c": "No insurance", "d": "Travel insurance"},
+    "correct": "b",
+    "explanation": "Professional liability and accident insurance protects instructors and the dive center.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0076",
+    "area": "instructor",
+    "subarea": "Standards — Currency",
+    "question": "If an instructor's professional rating lapses for an extended period, they may need to:",
+    "options": {"a": "Do nothing", "b": "Complete a re-active or re-instatement program before teaching again", "c": "Move to a different agency", "d": "Stop teaching forever"},
+    "correct": "b",
+    "explanation": "Lapsed instructors typically must complete re-instatement requirements (workshop, fees, currency).",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0077",
+    "area": "instructor",
+    "subarea": "Methodology — Special needs",
+    "question": "When teaching students with disabilities, the instructor should:",
+    "options": {"a": "Refuse to teach", "b": "Adapt techniques while maintaining performance requirements; consider SSI Diveheart / adaptive programs", "c": "Ignore the disability", "d": "Skip safety skills"},
+    "correct": "b",
+    "explanation": "Adapted teaching maintains performance standards using inclusive techniques. SSI offers Adaptive Diving programs.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0078",
+    "area": "instructor",
+    "subarea": "Methodology — Cultural awareness",
+    "question": "Teaching internationally, the instructor should:",
+    "options": {"a": "Use only their native language", "b": "Be aware of cultural differences and use appropriate language and examples", "c": "Ignore local norms", "d": "Demand assimilation"},
+    "correct": "b",
+    "explanation": "Cultural sensitivity improves learning and student experience.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0079",
+    "area": "instructor",
+    "subarea": "Methodology — DiveHeart / Adaptive",
+    "question": "An adaptive instructor should:",
+    "options": {"a": "Do everything for the student", "b": "Adapt teaching technique and equipment while preserving meaningful learning outcomes", "c": "Skip exit skills", "d": "Use a private course only"},
+    "correct": "b",
+    "explanation": "Adaptive teaching preserves outcomes by changing the path, not the destination.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0080",
+    "area": "instructor",
+    "subarea": "Methodology — Children",
+    "question": "When teaching children (Junior diver):",
+    "options": {"a": "Lecture for hours", "b": "Use shorter sessions, more games, immediate reinforcement, parental involvement", "c": "Ignore parents", "d": "Use only adult-pace materials"},
+    "correct": "b",
+    "explanation": "Younger learners need shorter, more engaging sessions and parental support to thrive.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0081",
+    "area": "instructor",
+    "subarea": "Methodology — Group composition",
+    "question": "Mixed-language groups should be handled by:",
+    "options": {"a": "Excluding non-native speakers", "b": "Providing translated materials, working with bilingual assistants and using clear visual aids", "c": "Speaking faster", "d": "Lecturing only in one language"},
+    "correct": "b",
+    "explanation": "Inclusive practices like translation and visuals support comprehension across languages.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0082",
+    "area": "instructor",
+    "subarea": "Methodology — Open Water Instructor authority",
+    "question": "An Open Water Instructor (OWI) can certify:",
+    "options": {"a": "Just Try Scuba", "b": "Through Open Water Diver, Scuba Skills Update, Snorkel programs, and any specialty for which they hold the Specialty Instructor rating", "c": "All instructor levels", "d": "Course Director only"},
+    "correct": "b",
+    "explanation": "OWIs certify up to OWD plus any specialties they have the SI rating for.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0083",
+    "area": "instructor",
+    "subarea": "Methodology — Advanced Open Water Instructor",
+    "question": "Advanced Open Water Instructor (AOWI) is achieved by:",
+    "options": {"a": "Adding required Specialty Instructor ratings to OWI", "b": "Reading a book", "c": "Taking another ITC", "d": "Failing the IE"},
+    "correct": "a",
+    "explanation": "AOWI = OWI + sufficient SI ratings. Specialty Instructor ratings count toward higher instructor levels.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0084",
+    "area": "instructor",
+    "subarea": "Methodology — Divemaster Instructor",
+    "question": "Divemaster Instructor (DMI) authority adds:",
+    "options": {"a": "Ability to certify Divemasters and Dive Guides", "b": "Boat license", "c": "Course Director rating", "d": "Marine biology credentials"},
+    "correct": "a",
+    "explanation": "DMIs can teach DM and Dive Guide programs and certify candidates.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0085",
+    "area": "instructor",
+    "subarea": "Methodology — Assistant Instructor Trainer",
+    "question": "An Assistant Instructor Trainer (AIT) can:",
+    "options": {"a": "Train and certify Assistant Instructors", "b": "Train Course Directors", "c": "Teach IDC standalone", "d": "Sign off ITs"},
+    "correct": "a",
+    "explanation": "AITs prepare and certify Assistant Instructors, an important rung in SSI's pro pipeline.",
+    "source": "https://www.divessi.com/en/professional/scuba-diving/assistant-instructor-trainer"
+  },
+  {
+    "id": "inst-0086",
+    "area": "instructor",
+    "subarea": "Methodology — IE structure",
+    "question": "An SSI Instructor Evaluation typically includes:",
+    "options": {"a": "Education System Eval, academic teaching, pool/confined water teaching, OW assists, written exam", "b": "Only the written exam", "c": "Only an interview", "d": "An essay"},
+    "correct": "a",
+    "explanation": "IE has multiple components, each with minimum scoring thresholds.",
+    "source": "https://oceantribe.co/scuba-diving-courses/pro-level-courses/ssi-instructor-training-course/what-to-expect-on-the-ssi-instructor-evaluation/"
+  },
+  {
+    "id": "inst-0087",
+    "area": "instructor",
+    "subarea": "Methodology — IE conduct",
+    "question": "During the IE, candidates should:",
+    "options": {"a": "Argue with examiners", "b": "Demonstrate professionalism, follow standards exactly, and accept feedback gracefully", "c": "Cut corners on time", "d": "Ignore evaluators"},
+    "correct": "b",
+    "explanation": "Professional conduct itself is part of the evaluation.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0088",
+    "area": "instructor",
+    "subarea": "Methodology — Cross-over",
+    "question": "Instructors crossing over from another agency must complete:",
+    "options": {"a": "Nothing", "b": "An SSI Instructor Cross-Over program with prerequisites, exam and orientation", "c": "Only a quiz", "d": "An OWD course"},
+    "correct": "b",
+    "explanation": "Cross-overs orient candidates to SSI's training system, materials and standards.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0089",
+    "area": "instructor",
+    "subarea": "Methodology — Online learning",
+    "question": "SSI's Digital Learning / MySSI:",
+    "options": {"a": "Replaces all in-person training", "b": "Provides academic content delivery online while maintaining in-water training requirements", "c": "Is optional", "d": "Replaces certifications"},
+    "correct": "b",
+    "explanation": "Digital Learning delivers theory, but in-water training and assessments still occur in person.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0090",
+    "area": "instructor",
+    "subarea": "Methodology — Confined to OW transfer",
+    "question": "Skills learned in confined water are transferred to open water by:",
+    "options": {"a": "Skipping practice in OW", "b": "Repeating each skill in OW under more realistic conditions, gradually increasing complexity", "c": "Lecturing again", "d": "Asking the student to teach"},
+    "correct": "b",
+    "explanation": "OW practice solidifies confined-water skills under real environmental conditions.",
+    "source": "compiled_from_dive_theory"
+  }
+]

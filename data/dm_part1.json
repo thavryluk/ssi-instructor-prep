@@ -1,0 +1,202 @@
+[
+  {
+    "id": "dm-0001",
+    "area": "divemaster",
+    "subarea": "DM Role — Definition",
+    "question": "An SSI Dive Guide is qualified to:",
+    "options": {"a": "Teach the Open Water Diver course", "b": "Supervise and guide certified divers on recreational scuba dives", "c": "Conduct decompression dives with students", "d": "Sign off on instructor certifications"},
+    "correct": "b",
+    "explanation": "The SSI Dive Guide leads and supervises certified divers on recreational dives but cannot teach courses.",
+    "source": "https://www.divessi.com/en/advanced-training/scuba-diving/dive-guide"
+  },
+  {
+    "id": "dm-0002",
+    "area": "divemaster",
+    "subarea": "DM Role — Responsibilities",
+    "question": "Which is a primary responsibility of a Dive Guide / Divemaster?",
+    "options": {"a": "Pre-dive briefings and site evaluations", "b": "Dive supervision and group control", "c": "Acting as a dive leader for certified divers", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "DM duties include briefings, site evaluation, group control, and leading certified divers.",
+    "source": "https://quizlet.com/605821123/dive-guide-final-exam-a-flash-cards/"
+  },
+  {
+    "id": "dm-0003",
+    "area": "divemaster",
+    "subarea": "DM Standards — Exam",
+    "question": "The SSI Dive Guide final exam consists of:",
+    "options": {"a": "25 multiple-choice questions", "b": "50 multiple-choice questions, 90% passing", "c": "100 questions, 80% passing", "d": "Oral examination only"},
+    "correct": "b",
+    "explanation": "SSI Dive Guide final exam: 50 questions, 100 points, 90% minimum (professional level).",
+    "source": "https://quizlet.com/605821123/dive-guide-final-exam-a-flash-cards/"
+  },
+  {
+    "id": "dm-0004",
+    "area": "divemaster",
+    "subarea": "DM Standards — Prerequisites",
+    "question": "Prerequisites for the SSI Divemaster program include:",
+    "options": {"a": "Open Water Diver only", "b": "Diver Stress & Rescue, plus specialty experience equivalent to four specialties (Deep, Navigation, Night/Limited Visibility) or 5 logged dives in each area", "c": "Just 10 logged dives", "d": "No specialties needed"},
+    "correct": "b",
+    "explanation": "DM prerequisites: certified Open Water Diver level + Diver Stress & Rescue + Deep, Navigation, Night/Limited Vis (or equivalent dives), 40 logged dives.",
+    "source": "https://www.divessi.com/en/professional/scuba-diving/divemaster"
+  },
+  {
+    "id": "dm-0005",
+    "area": "divemaster",
+    "subarea": "DM Standards — Logged dives",
+    "question": "Minimum logged dives required to begin SSI Divemaster training is:",
+    "options": {"a": "20", "b": "40", "c": "60", "d": "100"},
+    "correct": "b",
+    "explanation": "SSI requires 40 logged/verified dives by certification.",
+    "source": "https://www.divessi.com/en/professional/scuba-diving/divemaster"
+  },
+  {
+    "id": "dm-0006",
+    "area": "divemaster",
+    "subarea": "DM Role — Briefings",
+    "question": "An effective dive briefing should include:",
+    "options": {"a": "Site description, environmental conditions, planned profile and emergency procedures", "b": "Hand signals review and lost-buddy procedure", "c": "Entry/exit techniques and dive-leader contact info", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "All listed elements are essential for a complete dive briefing.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0007",
+    "area": "divemaster",
+    "subarea": "DM Role — Group control",
+    "question": "When leading a group of certified divers, the Divemaster typically swims:",
+    "options": {"a": "Behind the slowest diver", "b": "In front of the group setting the pace, with periodic checks", "c": "Far ahead, out of sight", "d": "Below the group"},
+    "correct": "b",
+    "explanation": "Leading from the front sets pace and direction; periodic head counts and visual checks maintain control.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0008",
+    "area": "divemaster",
+    "subarea": "DM Role — Lost diver",
+    "question": "If a diver is lost during a dive, the standard recreational procedure is to:",
+    "options": {"a": "Search underwater for the next 30 minutes", "b": "Search for no more than one minute, then surface to reunite", "c": "Continue the dive and look on exit", "d": "Wait at depth for them to return"},
+    "correct": "b",
+    "explanation": "The 'one-minute rule' minimizes risk of two parties being lost; meet at the surface.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0009",
+    "area": "divemaster",
+    "subarea": "DM Role — Emergency Plan",
+    "question": "An Emergency Action Plan (EAP) for a dive site should include:",
+    "options": {"a": "Local emergency numbers and nearest hyperbaric chamber", "b": "Communication and evacuation procedures", "c": "Names of trained first aiders and oxygen location", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "An EAP must list emergency contacts, evacuation routes, on-site responders and equipment locations.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0010",
+    "area": "divemaster",
+    "subarea": "DM Role — Risk management",
+    "question": "The most important rule when assisting a panicked diver is:",
+    "options": {"a": "Make immediate physical contact", "b": "Never needlessly endanger yourself", "c": "Always tow them face-down", "d": "Remove their gear immediately"},
+    "correct": "b",
+    "explanation": "Approach with caution. Self-preservation is the first rule of any rescue.",
+    "source": "https://quizlet.com/175238175/ssi-open-water-diver-chapter-6-flash-cards/"
+  },
+  {
+    "id": "dm-0011",
+    "area": "divemaster",
+    "subarea": "DM Role — Surface rescue",
+    "question": "If you observe signs of panic in a diver at the surface, you should first:",
+    "options": {"a": "Approach and grab them", "b": "Completely fill your BCD and instruct them to establish positive buoyancy", "c": "Swim away", "d": "Submerge to wait"},
+    "correct": "b",
+    "explanation": "Establishing buoyancy for both rescuer and victim reduces immediate drowning risk and allows verbal coaching.",
+    "source": "https://quizlet.com/175238175/ssi-open-water-diver-chapter-6-flash-cards/"
+  },
+  {
+    "id": "dm-0012",
+    "area": "divemaster",
+    "subarea": "DM Role — Signs of panic",
+    "question": "Common signs of a panicked diver include:",
+    "options": {"a": "Wide-eyed, fearful look", "b": "Fast and erratic breathing", "c": "Forgotten skills (mask gripping, vertical posture)", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "Recognizing panic early lets the DM intervene before it becomes life-threatening.",
+    "source": "https://quizlet.com/175238175/ssi-open-water-diver-chapter-6-flash-cards/"
+  },
+  {
+    "id": "dm-0013",
+    "area": "divemaster",
+    "subarea": "DM Role — Out of air",
+    "question": "If your buddy is out of air and within reach, the recommended response is:",
+    "options": {"a": "Swim to your buddy, give the out-of-air signal, and share air via the alternate air source", "b": "Surface immediately alone", "c": "Dive deeper to find them air", "d": "Wait for them to surface alone"},
+    "correct": "a",
+    "explanation": "Air sharing is the primary OOA response when buddies are close. Swim away independently only as last resort.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0014",
+    "area": "divemaster",
+    "subarea": "DM Role — Out of air",
+    "question": "If you experience an out-of-air emergency and your buddy is not within reach, an acceptable independent response is:",
+    "options": {"a": "Hold breath and ascend rapidly", "b": "A controlled emergency swimming ascent (CESA) with a continuous exhale", "c": "Drop weights and shoot to the surface", "d": "Sit on the bottom and wait"},
+    "correct": "b",
+    "explanation": "CESA: ascend at no more than the safe rate, exhaling continuously, towards the surface.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0015",
+    "area": "divemaster",
+    "subarea": "DM Standards — TDS",
+    "question": "Throughout DM training, candidates must use a:",
+    "options": {"a": "Rental BCD only", "b": "Professional-level Total Diving System (TDS) that they own", "c": "Shop-issued cylinder only", "d": "Snorkel only"},
+    "correct": "b",
+    "explanation": "DM candidates must own and use a complete professional-level TDS during open water training per SSI standards.",
+    "source": "https://www.divessi.com/en/professional/scuba-diving/divemaster"
+  },
+  {
+    "id": "dm-0016",
+    "area": "divemaster",
+    "subarea": "DM Role — Diver Diamond",
+    "question": "The four components of the SSI Diver Diamond are:",
+    "options": {"a": "Knowledge, Skills, Equipment, and Experience", "b": "Air, Water, Earth, Fire", "c": "Mask, Fins, Tank, BCD", "d": "Dive, Train, Equip, Travel"},
+    "correct": "a",
+    "explanation": "Knowledge, Skills, Equipment, Experience — the four equally important diver development pillars.",
+    "source": "https://www.divessi.com/en/join-ssi/highlights/training-philosophy"
+  },
+  {
+    "id": "dm-0017",
+    "area": "divemaster",
+    "subarea": "DM Role — Training philosophy",
+    "question": "SSI's signature water training method is best summarized as:",
+    "options": {"a": "Learn by lecture", "b": "Comfort Through Repetition", "c": "Mastery by exam", "d": "One and done"},
+    "correct": "b",
+    "explanation": "SSI emphasizes practicing skills until they become natural and automatic ('Comfort Through Repetition').",
+    "source": "https://www.divessi.com/en/join-ssi/highlights/training-philosophy"
+  },
+  {
+    "id": "dm-0018",
+    "area": "divemaster",
+    "subarea": "DM Role — Site evaluation",
+    "question": "A dive-site evaluation should include:",
+    "options": {"a": "Entry and exit points", "b": "Currents, surge, visibility and depth profile", "c": "Marine life and hazards", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "All listed factors influence safety and must be evaluated before bringing divers in.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0019",
+    "area": "divemaster",
+    "subarea": "DM Role — Recall",
+    "question": "If a recall signal (e.g., banging or surface horn) is given during a dive, divers should:",
+    "options": {"a": "Continue the dive", "b": "Surface safely and check with the dive operator", "c": "Descend deeper to investigate", "d": "Ignore it after 30 seconds"},
+    "correct": "b",
+    "explanation": "Recall signals indicate an emergency or recall to the boat — surface safely.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "dm-0020",
+    "area": "divemaster",
+    "subarea": "DM Role — Equipment checks",
+    "question": "Before a dive begins, a DM should:",
+    "options": {"a": "Verify each diver's equipment configuration is functional", "b": "Confirm air pressure of cylinders", "c": "Check that weight systems are properly secured and droppable", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "Pre-dive checks ensure functional equipment and configuration before entering the water.",
+    "source": "compiled_from_dive_theory"
+  }
+]

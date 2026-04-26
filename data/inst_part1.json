@@ -1,0 +1,302 @@
+[
+  {
+    "id": "inst-0001",
+    "area": "instructor",
+    "subarea": "Standards — Passing scores",
+    "question": "The minimum passing score on an SSI professional-level final exam is:",
+    "options": {"a": "70%", "b": "80%", "c": "90%", "d": "95%"},
+    "correct": "c",
+    "explanation": "Professional programs require 90%; recreational student programs require 80%.",
+    "source": "https://kmstc.org/wp-content/uploads/2018/09/STANDARDS_English-Imperial_IM.pdf"
+  },
+  {
+    "id": "inst-0002",
+    "area": "instructor",
+    "subarea": "Standards — Passing scores",
+    "question": "The minimum passing score on the SSI Open Water Diver final exam (student level) is:",
+    "options": {"a": "60%", "b": "70%", "c": "80%", "d": "90%"},
+    "correct": "c",
+    "explanation": "Recreational student programs require a minimum of 80% on the written final.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0003",
+    "area": "instructor",
+    "subarea": "Standards — IE written exam",
+    "question": "The minimum passing score on the SSI Open Water Instructor Final Exam (at the IE) is:",
+    "options": {"a": "70%", "b": "80%", "c": "90%", "d": "100%"},
+    "correct": "c",
+    "explanation": "OWI candidates must score 90% or higher on the Instructor Final Exam.",
+    "source": "https://oceantribe.co/scuba-diving-courses/pro-level-courses/ssi-instructor-training-course/what-to-expect-on-the-ssi-instructor-evaluation/"
+  },
+  {
+    "id": "inst-0004",
+    "area": "instructor",
+    "subarea": "Standards — Ratios",
+    "question": "The standard student-to-instructor ratio for confined water in the Open Water Diver program is:",
+    "options": {"a": "4:1", "b": "6:1", "c": "8:1", "d": "10:1"},
+    "correct": "c",
+    "explanation": "Confined-water ratio: 8:1 student-to-instructor (can be expanded with certified assistants).",
+    "source": "https://kmstc.org/wp-content/uploads/2018/09/STANDARDS_English-Imperial_IM.pdf"
+  },
+  {
+    "id": "inst-0005",
+    "area": "instructor",
+    "subarea": "Standards — Ratios",
+    "question": "The standard student-to-instructor ratio for open water training in the Open Water Diver program is:",
+    "options": {"a": "2:1", "b": "4:1", "c": "6:1", "d": "8:1"},
+    "correct": "b",
+    "explanation": "Open water ratio: 4:1 (can be expanded with certified assistants).",
+    "source": "https://kmstc.org/wp-content/uploads/2018/09/STANDARDS_English-Imperial_IM.pdf"
+  },
+  {
+    "id": "inst-0006",
+    "area": "instructor",
+    "subarea": "Standards — Ratios with assistants",
+    "question": "With one certified assistant, the open-water ratio in OWD training may increase to:",
+    "options": {"a": "4:1", "b": "6:2", "c": "8:1", "d": "10:1"},
+    "correct": "b",
+    "explanation": "OWD open water can extend to 6:2 with one assistant; 8:3 with two.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0007",
+    "area": "instructor",
+    "subarea": "Standards — Ratios with assistants",
+    "question": "With two certified assistants, the OWD open-water ratio may increase to:",
+    "options": {"a": "8:3", "b": "10:1", "c": "16:2", "d": "Unlimited"},
+    "correct": "a",
+    "explanation": "Up to 8 students with two certified assistants in OW training.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0008",
+    "area": "instructor",
+    "subarea": "Standards — Counted divers",
+    "question": "Certified divers diving with the class during open water training:",
+    "options": {"a": "Don't count toward the ratio", "b": "Must be counted toward the student-to-instructor ratio", "c": "Replace the instructor", "d": "Become AI candidates"},
+    "correct": "b",
+    "explanation": "Anyone diving with the class counts; ratios apply to total divers in the water with the instructor.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0009",
+    "area": "instructor",
+    "subarea": "Standards — Conditions",
+    "question": "If open-water diving conditions deteriorate, the instructor should:",
+    "options": {"a": "Maintain the same ratio", "b": "Decrease the student-to-instructor ratio", "c": "Increase the ratio", "d": "Continue regardless"},
+    "correct": "b",
+    "explanation": "Standards explicitly require ratio reduction in adverse conditions to preserve safety.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0010",
+    "area": "instructor",
+    "subarea": "Standards — IE eval scores",
+    "question": "At the SSI IE, candidates must score at least how many points on the Education System Evaluation?",
+    "options": {"a": "20", "b": "25", "c": "30", "d": "36"},
+    "correct": "c",
+    "explanation": "Candidates need a minimum of 30 points on the SSI Education System Evaluation.",
+    "source": "https://oceantribe.co/scuba-diving-courses/pro-level-courses/ssi-instructor-training-course/what-to-expect-on-the-ssi-instructor-evaluation/"
+  },
+  {
+    "id": "inst-0011",
+    "area": "instructor",
+    "subarea": "Standards — IE eval scores",
+    "question": "At the IE, the minimum score required on a teaching presentation (academic) is:",
+    "options": {"a": "20", "b": "30", "c": "32", "d": "36"},
+    "correct": "d",
+    "explanation": "Candidates must score at least 36 on a teaching presentation.",
+    "source": "https://oceantribe.co/scuba-diving-courses/pro-level-courses/ssi-instructor-training-course/what-to-expect-on-the-ssi-instructor-evaluation/"
+  },
+  {
+    "id": "inst-0012",
+    "area": "instructor",
+    "subarea": "Standards — IE eval scores",
+    "question": "At the IE, the minimum score required on a pool/confined water presentation is:",
+    "options": {"a": "20", "b": "30", "c": "32", "d": "36"},
+    "correct": "c",
+    "explanation": "Pool/confined water presentation: minimum 32 points.",
+    "source": "https://oceantribe.co/scuba-diving-courses/pro-level-courses/ssi-instructor-training-course/what-to-expect-on-the-ssi-instructor-evaluation/"
+  },
+  {
+    "id": "inst-0013",
+    "area": "instructor",
+    "subarea": "Standards — IE skills",
+    "question": "Candidates must score at least an average of how many points on the OWD skills demonstration (three skills in confined water) at the IE?",
+    "options": {"a": "1", "b": "2", "c": "3", "d": "5"},
+    "correct": "b",
+    "explanation": "Average of 2 points across the three demonstrated skills is the minimum.",
+    "source": "https://oceantribe.co/scuba-diving-courses/pro-level-courses/ssi-instructor-training-course/what-to-expect-on-the-ssi-instructor-evaluation/"
+  },
+  {
+    "id": "inst-0014",
+    "area": "instructor",
+    "subarea": "Standards — Academic teaching",
+    "question": "An academic teaching presentation at the IE typically lasts:",
+    "options": {"a": "5 minutes", "b": "10-15 minutes", "c": "30-60 minutes", "d": "2 hours"},
+    "correct": "b",
+    "explanation": "Academic presentations from OWD/EAN/Stress&Rescue/Science are 10-15 min; DM topics may run longer (max 30 min).",
+    "source": "https://oceantribe.co/scuba-diving-courses/pro-level-courses/ssi-instructor-training-course/what-to-expect-on-the-ssi-instructor-evaluation/"
+  },
+  {
+    "id": "inst-0015",
+    "area": "instructor",
+    "subarea": "Standards — Academic topics",
+    "question": "Academic teaching presentations at the IE may be assigned from which programs?",
+    "options": {"a": "Only Open Water Diver", "b": "Open Water Diver, Enriched Air Nitrox, Diver Stress & Rescue, Science of Diving, or Divemaster", "c": "Only Science of Diving", "d": "Any technical program"},
+    "correct": "b",
+    "explanation": "These five recreational programs are the standard pool of academic IE topics.",
+    "source": "https://oceantribe.co/scuba-diving-courses/pro-level-courses/ssi-instructor-training-course/what-to-expect-on-the-ssi-instructor-evaluation/"
+  },
+  {
+    "id": "inst-0016",
+    "area": "instructor",
+    "subarea": "Standards — Prerequisites",
+    "question": "Prerequisites for becoming an SSI Open Water Instructor include:",
+    "options": {"a": "100+ logged dives, AI rating, EAN, current CPR/First Aid, current medical, and SSI Diver Stress & Rescue", "b": "Just a Divemaster card", "c": "10 logged dives", "d": "Open Water only"},
+    "correct": "a",
+    "explanation": "OWI prerequisites: 100+ dives, AI rating, EAN, current CPR/FA, valid medical, and Diver Stress & Rescue.",
+    "source": "https://kohtaoscubaclub-th.com/blog/how-to-become-a-dive-instructor-with-ssi-requirements-and-steps/"
+  },
+  {
+    "id": "inst-0017",
+    "area": "instructor",
+    "subarea": "Standards — Logged dives",
+    "question": "Minimum logged dives required for SSI Open Water Instructor certification is:",
+    "options": {"a": "40", "b": "60", "c": "100", "d": "200"},
+    "correct": "c",
+    "explanation": "100+ logged dives are required for OWI.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0018",
+    "area": "instructor",
+    "subarea": "Standards — Minimum age",
+    "question": "Minimum age for SSI Open Water Instructor is:",
+    "options": {"a": "16", "b": "18", "c": "21", "d": "25"},
+    "correct": "b",
+    "explanation": "All SSI professional levels require a minimum age of 18.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0019",
+    "area": "instructor",
+    "subarea": "Methodology — Three domains",
+    "question": "When designing a lesson, an instructor should aim to address:",
+    "options": {"a": "Cognitive only", "b": "Psychomotor only", "c": "Affective only", "d": "All three learning domains"},
+    "correct": "d",
+    "explanation": "Effective lesson design integrates knowledge, skill and attitude objectives.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0020",
+    "area": "instructor",
+    "subarea": "Methodology — Teaching cycle",
+    "question": "The classic teaching cycle is:",
+    "options": {"a": "Plan -> Teach -> Assess -> Reflect/Refine", "b": "Talk -> Quiz -> Pass", "c": "Read -> Test", "d": "Random"},
+    "correct": "a",
+    "explanation": "Continuous improvement of teaching follows plan-teach-assess-reflect.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0021",
+    "area": "instructor",
+    "subarea": "Methodology — Skill correction",
+    "question": "When correcting a student's in-water skill, the instructor should:",
+    "options": {"a": "Wait until the surface to discuss", "b": "Use slate / signals at depth, but do detailed debrief on the surface to avoid prolonged underwater stress", "c": "Yell underwater", "d": "Stop the dive immediately"},
+    "correct": "b",
+    "explanation": "Brief underwater corrections; full debrief on surface where students can speak and process.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0022",
+    "area": "instructor",
+    "subarea": "Methodology — Anxiety",
+    "question": "When a student is anxious before a confined-water session, the instructor should:",
+    "options": {"a": "Push them in to overcome the fear", "b": "Acknowledge feelings, build trust through gradual exposure and earlier-mastered skills", "c": "Cancel the course", "d": "Pair them with another anxious diver"},
+    "correct": "b",
+    "explanation": "Gradual exposure and confidence building (affective domain) is the correct strategy for anxiety.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0023",
+    "area": "instructor",
+    "subarea": "Methodology — Risk management",
+    "question": "Standards compliance helps an instructor:",
+    "options": {"a": "Avoid teaching", "b": "Manage liability and ensure consistent quality / safety", "c": "Charge less", "d": "Skip prerequisites"},
+    "correct": "b",
+    "explanation": "Following standards is the strongest defense against legal liability and supports student safety.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0024",
+    "area": "instructor",
+    "subarea": "Methodology — Documentation",
+    "question": "After certifying a student, the instructor must:",
+    "options": {"a": "Submit certification through MySSI within standards-defined timeframes", "b": "Keep the cert info private", "c": "Hand them a paper card only", "d": "Wait a year"},
+    "correct": "a",
+    "explanation": "Certifications must be processed through MySSI per standards (typically within 30 days, ideally promptly).",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0025",
+    "area": "instructor",
+    "subarea": "Standards — Equipment",
+    "question": "OWD students must use, by SSI standards, what equipment configuration?",
+    "options": {"a": "Bare minimum", "b": "Total Diving System including BCD, regulator (with alternate air source), mask/snorkel/fins, exposure suit, weight system, instruments and a dive computer", "c": "Just a mask and fins", "d": "Whatever they bring"},
+    "correct": "b",
+    "explanation": "TDS for OWD is comprehensive — students learn with the full configuration they will use as divers.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0026",
+    "area": "instructor",
+    "subarea": "Standards — Teaching aids",
+    "question": "SSI candidates use which teaching materials at the IE?",
+    "options": {"a": "Lesson guides, manuals, MySSI app and Digital Learning resources", "b": "Their own custom slides only", "c": "PADI materials", "d": "No materials"},
+    "correct": "a",
+    "explanation": "SSI provides comprehensive teaching aids; instructors must be fluent with them.",
+    "source": "https://oceantribe.co/scuba-diving-courses/pro-level-courses/ssi-instructor-training-course/what-to-expect-on-the-ssi-instructor-evaluation/"
+  },
+  {
+    "id": "inst-0027",
+    "area": "instructor",
+    "subarea": "Standards — Training Center affiliation",
+    "question": "An SSI Instructor must teach through:",
+    "options": {"a": "Any independent gym", "b": "An authorized SSI Training Center (TC) or Resort", "c": "Their own home only", "d": "Online without facilities"},
+    "correct": "b",
+    "explanation": "SSI requires teaching to occur via an authorized Training Center to maintain quality and oversight.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0028",
+    "area": "instructor",
+    "subarea": "Standards — Renewal",
+    "question": "SSI instructors must renew annually and:",
+    "options": {"a": "Maintain professional currency including CPR/First Aid and any required insurance", "b": "Take a new ITC each year", "c": "Take an exam every month", "d": "Pay nothing and do nothing"},
+    "correct": "a",
+    "explanation": "Annual renewal includes proof of teaching, CPR/First Aid currency and insurance where required.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0029",
+    "area": "instructor",
+    "subarea": "Standards — Specialty teaching",
+    "question": "An OWI may teach specialty courses that they have:",
+    "options": {"a": "Read about", "b": "Earned the Specialty Instructor rating for, after meeting prerequisites", "c": "Heard about", "d": "Any specialty without further training"},
+    "correct": "b",
+    "explanation": "Each specialty requires a separate Specialty Instructor rating to teach.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0030",
+    "area": "instructor",
+    "subarea": "Standards — DiveCon",
+    "question": "An SSI 'Dive Control Specialist' (DiveCon) is roughly equivalent to:",
+    "options": {"a": "A Snorkel Instructor", "b": "Combined Divemaster + Assistant Instructor authority for assisting and certain teaching", "c": "Course Director", "d": "Boat captain"},
+    "correct": "b",
+    "explanation": "DiveCon combines DM and AI authorities — guide, assist, and teach AI-level programs.",
+    "source": "compiled_from_dive_theory"
+  }
+]

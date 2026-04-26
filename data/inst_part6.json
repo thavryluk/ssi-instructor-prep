@@ -1,0 +1,202 @@
+[
+  {
+    "id": "inst-0111",
+    "area": "instructor",
+    "subarea": "Standards — Specialty Assistant Instructor",
+    "question": "Assistant Instructors can teach which set of programs?",
+    "options": {"a": "All programs", "b": "Try Scuba (pool), Snorkel programs, Scuba Skills Update, Scuba Rangers, Perfect Buoyancy academic and pool", "c": "Open Water Diver only", "d": "Rescue Diver only"},
+    "correct": "b",
+    "explanation": "AI scope: pool-only Try Scuba, Snorkel family, SSU, Scuba Rangers, Perfect Buoyancy (academic+pool).",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0112",
+    "area": "instructor",
+    "subarea": "Standards — Confined water minimums",
+    "question": "OWD confined-water training must include:",
+    "options": {"a": "All required confined-water performance skills with adequate practice", "b": "Only mask clearing", "c": "No requirements", "d": "Only one session"},
+    "correct": "a",
+    "explanation": "All confined-water skills outlined in standards must be performed and mastered.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0113",
+    "area": "instructor",
+    "subarea": "Standards — OW dive count",
+    "question": "OWD requires a minimum of how many open-water training dives?",
+    "options": {"a": "1", "b": "2", "c": "4", "d": "6"},
+    "correct": "c",
+    "explanation": "OWD: 4 OW training dives (typically two days of two dives each).",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0114",
+    "area": "instructor",
+    "subarea": "Standards — Maximum daily dives",
+    "question": "Recreational student divers should not exceed:",
+    "options": {"a": "1 dive per day", "b": "Daily dive limits per agency standards (commonly 2-3 training dives/day for OWD students)", "c": "10 dives per day", "d": "Unlimited dives"},
+    "correct": "b",
+    "explanation": "Standards limit student dive counts per day to manage fatigue and DCS risk.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0115",
+    "area": "instructor",
+    "subarea": "Methodology — Open water site selection",
+    "question": "OWD open-water site selection should account for:",
+    "options": {"a": "Visibility, surface conditions, depth, currents, hazards, entry/exit points, surface support availability", "b": "Only depth", "c": "Marine life only", "d": "Convenience to coffee shops"},
+    "correct": "a",
+    "explanation": "A complete site evaluation covers conditions, logistics and emergency support.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0116",
+    "area": "instructor",
+    "subarea": "Methodology — Time management",
+    "question": "Effective scheduling for an OWD course balances:",
+    "options": {"a": "Theory, confined water, knowledge checks, OW dives and student rest", "b": "Only OW dives", "c": "Only theory", "d": "No structure"},
+    "correct": "a",
+    "explanation": "Balanced schedules support learning across all domains and limit fatigue.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0117",
+    "area": "instructor",
+    "subarea": "Methodology — Environmental ethics",
+    "question": "SSI instructors are expected to model:",
+    "options": {"a": "Take-only-photos environmental ethics, avoiding damaging contact with aquatic environments", "b": "Active spear-hunting only", "c": "Marine life harassment", "d": "Removing artifacts"},
+    "correct": "a",
+    "explanation": "SSI promotes environmental stewardship via Blue Oceans and similar programs.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0118",
+    "area": "instructor",
+    "subarea": "Methodology — Photography",
+    "question": "Underwater photography teaching should emphasize:",
+    "options": {"a": "Buoyancy first, then photography", "b": "Photography first, buoyancy later", "c": "Camera technique only", "d": "Marketing only"},
+    "correct": "a",
+    "explanation": "Without buoyancy control, photographers damage reefs. Buoyancy is the prerequisite.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0119",
+    "area": "instructor",
+    "subarea": "Methodology — Drift dive teaching",
+    "question": "Drift Diver specialty teaches:",
+    "options": {"a": "Anchored shore diving", "b": "Group cohesion, signaling (DSMB), navigation in current and pickup procedures", "c": "Cave penetration", "d": "Only deep diving"},
+    "correct": "b",
+    "explanation": "Drift Diver covers the unique procedures for current diving with surface boat support.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0120",
+    "area": "instructor",
+    "subarea": "Methodology — Boat diver specialty",
+    "question": "The Boat Diving specialty covers:",
+    "options": {"a": "Boarding/disembarking, gear stowage, boat etiquette, entry/exit techniques, head counts", "b": "Cave maps", "c": "Spearfishing only", "d": "Photography only"},
+    "correct": "a",
+    "explanation": "Boat Diving teaches the procedures unique to boat-based recreational diving.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0121",
+    "area": "instructor",
+    "subarea": "Methodology — Search & Recovery",
+    "question": "The Search & Recovery specialty covers:",
+    "options": {"a": "Underwater search patterns, lift bag use, communication and recovery procedures", "b": "Only first aid", "c": "Decompression diving", "d": "Public speaking"},
+    "correct": "a",
+    "explanation": "S&R teaches systematic search patterns and lift-bag deployment.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0122",
+    "area": "instructor",
+    "subarea": "Methodology — Wreck specialty",
+    "question": "Recreational Wreck Diving specialty does NOT include:",
+    "options": {"a": "Penetration training to full overhead environments", "b": "Wreck history and respect", "c": "External wreck navigation and orientation", "d": "Light penetration / line use"},
+    "correct": "a",
+    "explanation": "Full-penetration wreck diving is a technical specialty. Recreational wreck stays in light zone.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0123",
+    "area": "instructor",
+    "subarea": "Methodology — Equipment specialty",
+    "question": "The Equipment Techniques specialty teaches:",
+    "options": {"a": "Owner-level maintenance, basic repair, proper care of dive gear", "b": "Full overhaul of regulators", "c": "Cylinder visual inspection", "d": "Engine repair"},
+    "correct": "a",
+    "explanation": "Equipment Techniques is a user-level course — basic maintenance, not technical service.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0124",
+    "area": "instructor",
+    "subarea": "Methodology — Service Tech",
+    "question": "Service-level repair of regulators requires:",
+    "options": {"a": "Equipment Techniques specialty", "b": "Manufacturer-specific factory training", "c": "Snorkel certification", "d": "DM rating"},
+    "correct": "b",
+    "explanation": "Manufacturer-authorized service training is needed to perform internal regulator repairs.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0125",
+    "area": "instructor",
+    "subarea": "Methodology — Continuing education sales",
+    "question": "Effective continuing-education conversations with students:",
+    "options": {"a": "Push them into expensive courses", "b": "Identify their goals and recommend relevant next steps", "c": "Avoid the topic", "d": "Use only generic pitches"},
+    "correct": "b",
+    "explanation": "Goal-oriented recommendations build trust and aid student development.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0126",
+    "area": "instructor",
+    "subarea": "Methodology — Equipment fitting",
+    "question": "An ill-fitting BCD on a student is most likely to cause:",
+    "options": {"a": "Better trim", "b": "Stress, restricted movement and difficulty performing skills", "c": "More buoyancy", "d": "Safer diving"},
+    "correct": "b",
+    "explanation": "BCD fit affects comfort and performance; correct fit is foundational.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0127",
+    "area": "instructor",
+    "subarea": "Methodology — Mask seal",
+    "question": "When teaching mask clearing, students who can't get a seal often have:",
+    "options": {"a": "An ill-fitting mask, hair under the skirt or wrong skirt material", "b": "A perfect mask", "c": "Too much air", "d": "Wrong fins"},
+    "correct": "a",
+    "explanation": "Diagnose the seal issue first; technique cannot fix a leaking mask.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0128",
+    "area": "instructor",
+    "subarea": "Methodology — Skill confidence",
+    "question": "When a student struggles, the instructor should:",
+    "options": {"a": "Ridicule them", "b": "Break the skill into smaller steps and rebuild progressively", "c": "Skip the skill", "d": "Move to OW anyway"},
+    "correct": "b",
+    "explanation": "Breaking down complex skills into steps reduces cognitive load and builds confidence.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0129",
+    "area": "instructor",
+    "subarea": "Methodology — Repetition without rote",
+    "question": "Practicing skills without varying conditions:",
+    "options": {"a": "Builds true competence", "b": "Builds 'pool perfect' divers who fail in real conditions", "c": "Is always best", "d": "Eliminates need for OW"},
+    "correct": "b",
+    "explanation": "Vary conditions during practice (depth, position, sequence) so skills transfer to real diving.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0130",
+    "area": "instructor",
+    "subarea": "Methodology — Real-world relevance",
+    "question": "A good academic example for adult learners:",
+    "options": {"a": "Is abstract and unrelated to diving", "b": "Connects theory to the diver's real-world use (e.g., 'why this matters at 30 m')", "c": "Is purely mathematical", "d": "Is hidden"},
+    "correct": "b",
+    "explanation": "Connecting to real-world relevance is core to adult learning theory.",
+    "source": "compiled_from_dive_theory"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "mssi-inst-040",
+    "area": "instructor",
+    "subarea": "Environment — Marine Life Categories",
+    "question": "Soft bodied animals without \"backbone\" found in the waters of the world have a scientific category called:",
+    "options": {
+      "a": "Biospheres",
+      "b": "Diatoms",
+      "c": "Invertebrates",
+      "d": "Cnidarians"
+    },
+    "correct": "c",
+    "explanation": "Invertebrates is the broad scientific category for animals that lack a vertebral column — sponges, cnidarians (jellyfish, corals, anemones), molluscs, crustaceans, echinoderms, etc. Cnidarians are a subset of invertebrates; diatoms are single-celled algae.",
+    "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+  },
+  {
+    "id": "mssi-inst-041",
+    "area": "instructor",
+    "subarea": "Environment — Hazardous Marine Life",
+    "question": "Creatures capable of inflicting injury will do so only:",
+    "options": {
+      "a": "On purpose",
+      "b": "Offensive",
+      "c": "Defensively",
+      "d": "At night"
+    },
+    "correct": "c",
+    "explanation": "Marine animals do not stalk divers. Bites, stings and strikes happen when the animal feels threatened, cornered or surprised — defensive behaviour. Respect distance, don't touch, don't corner, and 99% of incidents are avoided.",
+    "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+  },
+  {
+    "id": "mssi-inst-042",
+    "area": "instructor",
+    "subarea": "Environment — Marine Plants",
+    "question": "Which plants make up more than 98% of the bulk of the plants produced in the oceans?",
+    "options": {
+      "a": "Seaweeds",
+      "b": "Phytoplankton",
+      "c": "Grasses",
+      "d": "Corals"
+    },
+    "correct": "b",
+    "explanation": "Phytoplankton — microscopic photosynthetic algae drifting in the upper sunlit layer — accounts for ~98% of ocean plant biomass and roughly half of all photosynthesis on Earth. Seaweeds, seagrasses and mangroves are tiny by comparison; corals are animals, not plants.",
+    "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+  },
+  {
+    "id": "mssi-inst-043",
+    "area": "instructor",
+    "subarea": "Environment — Tides",
+    "question": "An incoming tide is called a ____ and an outgoing tide is called an ____.",
+    "options": {
+      "a": "Flood, ebb",
+      "b": "Rush, flow",
+      "c": "Ebb, flood",
+      "d": "Flow, rush"
+    },
+    "correct": "a",
+    "explanation": "Flood tide = water rising / coming in. Ebb tide = water falling / going out. Slack water is the brief calm at the turn between the two — usually the safest time to dive in tidal zones.",
+    "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+  },
+  {
+    "id": "mssi-inst-044",
+    "area": "instructor",
+    "subarea": "Environment — Cnidarians",
+    "question": "The stinging mechanisms of jellyfish are located:",
+    "options": {
+      "a": "On the mesoglea",
+      "b": "On the tentacles",
+      "c": "On the epidermis",
+      "d": "On the gastrodermis"
+    },
+    "correct": "b",
+    "explanation": "Nematocysts (stinging capsules) are concentrated on the tentacles, where they're triggered by contact to harpoon prey or deter predators. The mesoglea is the jelly-like body layer; the epidermis and gastrodermis are the outer/inner cell layers but carry far fewer stinging cells.",
+    "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+  },
+  {
+    "id": "mssi-inst-045",
+    "area": "instructor",
+    "subarea": "Environment — Diver Behaviour",
+    "question": "If a diver is injured by harmful sea life, it is usually because of:",
+    "options": {
+      "a": "The diver's ignorance",
+      "b": "The diver's negligence",
+      "c": "The diver's aggressive behavior",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Most marine-life injuries are diver-caused: ignorance (not knowing what's dangerous), negligence (not watching where hands and fins go), or aggression (chasing, touching, harassing). Education + situational awareness eliminates the vast majority.",
+    "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+  },
+  {
+    "id": "mssi-inst-046",
+    "area": "instructor",
+    "subarea": "Environment — Underwater Terrain",
+    "question": "A knowledge of underwater terrain helps divers:",
+    "options": {
+      "a": "Understand marine habitats",
+      "b": "Navigate safely through waves and currents",
+      "c": "All answers are correct",
+      "d": "With dive planning"
+    },
+    "correct": "c",
+    "explanation": "Reading underwater topography supports every part of a dive: predicting where marine life will be, anticipating current behaviour around walls and pinnacles, choosing entry/exit points, planning depth profiles and navigation legs.",
+    "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+  },
+  {
+    "id": "mssi-inst-047",
+    "area": "instructor",
+    "subarea": "Environment — Seagrass",
+    "question": "What is the primary function of seagrass beds in marine ecosystems?",
+    "options": {
+      "a": "They prevent all sediment from settling on the seafloor",
+      "b": "They stop seahorses being consumed by predators",
+      "c": "They generate waves and strong currents",
+      "d": "They provide food and habitat for various marine species"
+    },
+    "correct": "d",
+    "explanation": "Seagrass beds are nursery habitats and food sources for an enormous range of species — turtles, dugongs, manatees, juvenile fish, invertebrates. They also stabilise sediment and sequester carbon, but their primary ecological role is food + habitat.",
+    "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+  },
+  {
+    "id": "mssi-inst-048",
+    "area": "instructor",
+    "subarea": "Environment — Corals",
+    "question": "Although all corals contain stinging cells, one group is the most troublesome to divers. These are called:",
+    "options": {
+      "a": "Fire corals",
+      "b": "Brain corals",
+      "c": "Leather corals",
+      "d": "Soft corals"
+    },
+    "correct": "a",
+    "explanation": "Fire corals (Millepora — actually hydrozoans, not true corals) deliver a potent burning sting on contact, leaving welts and pain that can last hours. Brain, leather and soft corals are far less aggressive. Standard rule: never touch the reef.",
+    "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+  },
+  {
+    "id": "mssi-inst-049",
+    "area": "instructor",
+    "subarea": "Environment — Sponges",
+    "question": "Sponges can be recognized by the presence of ____.",
+    "options": {
+      "a": "Bump",
+      "b": "Leaves",
+      "c": "Holes",
+      "d": "Branches"
+    },
+    "correct": "c",
+    "explanation": "Sponges (phylum Porifera = 'pore-bearing') filter-feed by drawing water in through countless small pores (ostia) and expelling it through larger openings (oscula). The visible holes are the diagnostic feature.",
+    "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+  }
+]

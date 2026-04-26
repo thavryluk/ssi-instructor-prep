@@ -1,0 +1,137 @@
+[
+  {
+    "id": "mssi-inst-001",
+    "area": "instructor",
+    "subarea": "Physics — SAC / RMV",
+    "question": "What is the surface air consumption rate of a diver with a 200 bar, 10-liter cylinder who uses 50 bar in 10 minutes at a depth of 10 meters?",
+    "options": {
+      "a": "35 liters/minute",
+      "b": "10 liters/minute",
+      "c": "25 liters/minute",
+      "d": "50 liters/minute"
+    },
+    "correct": "c",
+    "explanation": "SAC (surface air consumption) is the gas volume used per minute referenced to surface pressure. Volume consumed at depth = 50 bar × 10 L = 500 L. At 10 m the absolute pressure is 2 ATA, so surface-equivalent volume = 500 L / 2 = 250 L. Over 10 minutes: 250 / 10 = 25 L/min.",
+    "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+  },
+  {
+    "id": "mssi-inst-002",
+    "area": "instructor",
+    "subarea": "Physics — Gas Laws",
+    "question": "Which physical law states: \"If temperature remains constant, the pressure and volume of any gas are inversely related\"?",
+    "options": {
+      "a": "Dalton's",
+      "b": "Boyle's",
+      "c": "Archimedes",
+      "d": "Henry's"
+    },
+    "correct": "b",
+    "explanation": "Boyle's Law: at constant temperature, pressure and volume of a gas are inversely proportional (P1·V1 = P2·V2). Dalton's deals with partial pressures in a gas mix, Archimedes' principle with buoyancy, Henry's with gas dissolution into liquids.",
+    "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+  },
+  {
+    "id": "mssi-inst-003",
+    "area": "instructor",
+    "subarea": "Physics — MOD / Partial Pressure",
+    "question": "Assuming a maximum partial pressure limit of 1.4 bar, the maximum operating depth for EAN32 is:",
+    "options": {
+      "a": "43 meters",
+      "b": "66 meters",
+      "c": "34 meters",
+      "d": "20 meters"
+    },
+    "correct": "c",
+    "explanation": "MOD = ((PO2_limit / fO2) − 1) × 10 m. For EAN32 at 1.4 bar: ((1.4 / 0.32) − 1) × 10 = (4.375 − 1) × 10 ≈ 33.75 m, rounded down to 34 m. (At 1.6 bar contingency, MOD ≈ 40 m.)",
+    "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+  },
+  {
+    "id": "mssi-inst-004",
+    "area": "instructor",
+    "subarea": "Physics — Boyle's Law / BCD",
+    "question": "If 2 liters of air are needed in your buoyancy compensator to maintain neutral buoyancy at 10 meters, what will happen to your buoyancy if you ascend 3 meters without deflating?",
+    "options": {
+      "a": "Your positive buoyancy will increase",
+      "b": "You will stay neutral no matter if you ascend or descend",
+      "c": "There will be no change in buoyancy",
+      "d": "Your negative buoyancy will increase"
+    },
+    "correct": "a",
+    "explanation": "On ascent surrounding pressure decreases (10 m = 2 ATA → 7 m = 1.7 ATA), so air in the BCD expands (Boyle: V2 = V1 × P1/P2 = 2 × 2/1.7 ≈ 2.35 L). The diver now displaces more water → positive buoyancy increases, leading to accelerating ascent unless gas is vented.",
+    "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+  },
+  {
+    "id": "mssi-inst-005",
+    "area": "instructor",
+    "subarea": "Physics — Buoyancy",
+    "question": "A diver and their equipment weighs 87 kilograms when neutrally buoyant in salt water. To be neutrally buoyant in fresh water with the same equipment, they must:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Use the same weight",
+      "c": "Remove weight",
+      "d": "Add weight"
+    },
+    "correct": "c",
+    "explanation": "Salt water (~1.03 kg/L) is denser than fresh water (~1.00 kg/L), so it provides more buoyant lift for the same displaced volume. Moving from salt to fresh water reduces buoyancy — to stay neutral the diver must REMOVE weight (typically about 2.5–3% of total system weight, ~2–3 kg for an 87 kg setup).",
+    "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+  },
+  {
+    "id": "mssi-inst-006",
+    "area": "instructor",
+    "subarea": "Physics — Partial Pressure / Oxygen Toxicity",
+    "question": "At what depth does the partial pressure of oxygen in air equal 1.6 bar?",
+    "options": {
+      "a": "70 meters",
+      "b": "85 meters",
+      "c": "66 meters",
+      "d": "55 meters"
+    },
+    "correct": "c",
+    "explanation": "Air is 21% oxygen. PO2 = fO2 × P_abs → P_abs = 1.6 / 0.21 ≈ 7.62 ATA → depth = (7.62 − 1) × 10 ≈ 66 m. This is the CNS oxygen-toxicity contingency limit; the working PO2 limit on air is 1.4 bar (~57 m).",
+    "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+  },
+  {
+    "id": "mssi-inst-007",
+    "area": "instructor",
+    "subarea": "Physics — Pressure / Depth",
+    "question": "For every meter of depth in fresh water, pressure changes by:",
+    "options": {
+      "a": "1.03 bar",
+      "b": "0.100 bar",
+      "c": "0.098 bar",
+      "d": "0.013 bar"
+    },
+    "correct": "c",
+    "explanation": "Fresh water density ≈ 1000 kg/m³. Pressure increase per metre = ρ·g·h = 1000 × 9.81 × 1 ≈ 9 810 Pa = 0.0981 bar. Salt water (~1025 kg/m³) gives ≈ 0.1006 bar/m, often rounded to 0.1 bar/m.",
+    "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+  },
+  {
+    "id": "mssi-inst-008",
+    "area": "instructor",
+    "subarea": "Physics — Pressure / Depth",
+    "question": "The absolute pressure at a depth of 50 meters is:",
+    "options": {
+      "a": "50 bar",
+      "b": "4 bar",
+      "c": "5 bar",
+      "d": "6 bar"
+    },
+    "correct": "d",
+    "explanation": "Hydrostatic pressure at 50 m in sea water ≈ 5 bar (50 × 0.1). Add 1 bar of atmospheric pressure → absolute pressure = 6 bar (6 ATA).",
+    "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+  },
+  {
+    "id": "mssi-inst-009",
+    "area": "instructor",
+    "subarea": "Physics — Gas Consumption",
+    "question": "Breathing gas consumption:",
+    "options": {
+      "a": "Increases as depth increases",
+      "b": "Remains the same as depth increases",
+      "c": "Varies inversely with depth",
+      "d": "Decreases as depth increases"
+    },
+    "correct": "a",
+    "explanation": "Gas density is proportional to absolute pressure. The diver's lungs deliver the same tidal volume each breath, but each breath now contains more molecules — so gas consumption (in surface-equivalent volume) rises roughly linearly with absolute pressure (e.g., at 30 m / 4 ATA you use ~4× the surface SAC).",
+    "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+  }
+]

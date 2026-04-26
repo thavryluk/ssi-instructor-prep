@@ -1,0 +1,301 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SSI Instructor Prep</title>
+  <script>
+    // Apply theme before stylesheet loads to avoid flash of wrong theme
+    try {
+      var t = localStorage.getItem("ssi.theme");
+      if (t === "light") document.documentElement.setAttribute("data-theme", "light");
+    } catch (e) {}
+  </script>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">SSI Instructor Prep</div>
+    <div class="stats" id="stats">
+      <div class="stats-line">
+        <span class="stats-label">Pool</span>
+        <span id="stat-pool">0</span> active ·
+        <span id="stat-pool-seen">0/0</span> seen ·
+        <span class="ok">✓<span id="stat-pool-correct">0</span></span> ·
+        <span class="bad">✗<span id="stat-pool-wrong">0</span></span> ·
+        <span id="stat-pool-acc" class="acc">—</span>
+      </div>
+      <div class="stats-line stats-line-muted">
+        <span class="stats-label">Total</span>
+        <span id="stat-answered">0</span> answered ·
+        <span class="ok">✓<span id="stat-correct">0</span></span> ·
+        <span class="bad">✗<span id="stat-wrong">0</span></span> ·
+        <span id="stat-total-acc" class="acc">—</span> ·
+        <span id="stat-mastered">0</span> mastered
+      </div>
+    </div>
+    <div class="actions">
+      <button id="btn-dashboard" class="ghost">Dashboard</button>
+      <button id="btn-browse" class="ghost">Browse</button>
+      <button id="btn-settings" class="ghost">Settings</button>
+      <button id="btn-log" class="ghost">Log</button>
+      <button id="btn-theme" class="ghost icon-btn" title="Toggle theme (light/dark)">🌙</button>
+      <span class="user-pill" id="user-pill" title="Logged in as">
+        <span id="user-name">—</span>
+        <button id="btn-logout" class="icon-btn" title="Log out">⏻</button>
+      </span>
+    </div>
+  </header>
+
+  <main id="app">
+    <!-- Login / Register screen -->
+    <section id="login-screen" class="screen hidden">
+      <h1>Sign in</h1>
+      <p class="muted">Each user has their own progress (drill log, mastered, dashboard). Pick a username — register first time, then log in.</p>
+      <div class="card login-card">
+        <form id="login-form">
+          <label class="login-label">Username
+            <input type="text" id="login-username" autocomplete="username" placeholder="e.g. honza" pattern="[a-zA-Z0-9._-]{2,32}" required />
+          </label>
+          <label class="login-label">Password
+            <input type="password" id="login-password" autocomplete="current-password" placeholder="anything (or empty)" />
+          </label>
+          <div class="row" style="gap:.5rem;flex-wrap:wrap;margin-top:.5rem">
+            <button type="submit" id="btn-login" class="primary">Log in</button>
+            <button type="button" id="btn-register" class="ghost">Create account</button>
+          </div>
+          <p id="login-error" class="login-error"></p>
+        </form>
+        <hr />
+        <p class="muted" style="font-size:.85rem">Soft auth — passwords are stored in plaintext on the server. Don't reuse a real password.</p>
+      </div>
+    </section>
+
+    <!-- Setup screen -->
+    <section id="setup-screen" class="screen">
+      <h1>Choose your areas</h1>
+      <p class="muted">Pick what to drill. You can change anytime in Settings.</p>
+      <form id="setup-form" class="card">
+        <label class="check"><input type="checkbox" name="area" value="science_of_diving" checked /> Science of Diving</label>
+        <label class="check"><input type="checkbox" name="area" value="divemaster" checked /> Divemaster / Dive Guide</label>
+        <label class="check"><input type="checkbox" name="area" value="assistant_instructor" checked /> Assistant Instructor</label>
+        <label class="check"><input type="checkbox" name="area" value="instructor" checked /> Instructor</label>
+        <hr />
+        <label class="check"><input type="checkbox" id="setup-include-mastered" /> Include questions I marked as mastered (reset)</label>
+        <button type="submit" class="primary">Start drilling</button>
+      </form>
+    </section>
+
+    <!-- Quiz screen -->
+    <section id="quiz-screen" class="screen hidden">
+      <div class="card question-card">
+        <div class="question-meta">
+          <span class="badge" id="q-area"></span>
+          <span class="badge subtle" id="q-subarea"></span>
+          <span class="badge" id="q-source"></span>
+          <span class="qid muted" id="q-id"></span>
+        </div>
+        <h2 id="q-text"></h2>
+        <div class="options" id="q-options"></div>
+
+        <div id="q-feedback" class="feedback hidden"></div>
+
+        <div class="row spread q-actions">
+          <div class="left-actions">
+            <button id="btn-dont-know" class="ghost">I don't know — explain</button>
+            <button id="btn-study-more" class="ghost study" title="Mark for further review (S)">📚 Study more</button>
+            <button id="btn-dispute" class="ghost warning" title="Flag this question as wrong / disputed">⚐ Dispute</button>
+          </div>
+          <div class="right-actions">
+            <button id="btn-know-50" class="ghost success-soft" title="Move to occasional review (~10% rotation)">I know this ~50%</button>
+            <button id="btn-know-100" class="ghost success">I know this 100%</button>
+            <button id="btn-next" class="primary hidden">Next question →</button>
+          </div>
+        </div>
+        <div id="q-stats" class="q-stats"></div>
+        <div id="q-flags" class="q-flags muted"></div>
+      </div>
+    </section>
+
+    <!-- Settings screen -->
+    <section id="settings-screen" class="screen hidden">
+      <h1>Settings</h1>
+      <div class="card">
+        <h3>Areas</h3>
+        <div id="settings-areas"></div>
+        <hr />
+        <h3>Subareas (advanced)</h3>
+        <p class="muted">Empty = all subareas of the area are drilled. Tick to narrow down.</p>
+        <div id="settings-subareas"></div>
+        <hr />
+        <h3>🔒 Personal questions</h3>
+        <p class="muted" id="personal-status">Locked.</p>
+        <button id="btn-personal-toggle" class="ghost">Unlock…</button>
+        <hr />
+        <h3>Source filter</h3>
+        <p class="muted">Limit drill to questions from real web sources, agent-compiled-from-theory, or both.</p>
+        <div id="settings-source" class="chip-row">
+          <button class="chip source-filter" data-src="all">All sources</button>
+          <button class="chip source-filter source-mssi" data-src="mssi">★ mySSI only</button>
+          <button class="chip source-filter source-personal" data-src="personal" id="settings-src-personal">🔒 Personal only</button>
+          <button class="chip source-filter source-web" data-src="web">● Web (other) only</button>
+          <button class="chip source-filter source-compiled" data-src="compiled">○ Compiled only</button>
+        </div>
+        <hr />
+        <h3>Reset pool stats</h3>
+        <p class="muted">Marks all current pool answers as "reset" — they stop counting toward Pool stats, Dashboard and weighted picking, but stay in Total. Useful when you want a fresh accuracy reading after a study session.</p>
+        <p>Currently: <span id="reset-count">0</span> questions in pool have a reset mark.</p>
+        <button id="btn-reset-pool" class="ghost danger">Reset current pool stats</button>
+        <button id="btn-clear-resets" class="ghost">Clear all reset marks</button>
+        <hr />
+        <h3>Confidence pools</h3>
+        <p><span id="settings-mastered100-count">0</span> marked <strong>100%</strong> (excluded from drills).</p>
+        <p><span id="settings-mastered50-count">0</span> marked <strong>~50%</strong> (occasional review only).</p>
+        <div class="row" style="gap:.5rem;flex-wrap:wrap">
+          <button id="btn-reset-100" class="ghost danger">Reset 100% pool</button>
+          <button id="btn-reset-50" class="ghost danger">Reset 50% pool</button>
+          <button id="btn-reset-all-confidence" class="ghost danger">Reset both</button>
+        </div>
+        <hr />
+        <h3>Study more</h3>
+        <p><span id="settings-study-count">0</span> questions flagged for further review.</p>
+        <button id="btn-clear-study" class="ghost danger">Clear all study-more flags</button>
+        <hr />
+        <h3>Disputed questions</h3>
+        <p><span id="settings-disputed-count">0</span> questions flagged as disputed.</p>
+        <label class="check"><input type="checkbox" id="settings-skip-disputed" /> Skip disputed questions in drills</label>
+        <button id="btn-clear-disputed" class="ghost danger">Clear all dispute flags</button>
+        <hr />
+        <h3>Log</h3>
+        <p><span id="settings-log-count">0</span> answers logged.</p>
+        <button id="btn-export-log">Export log (JSON)</button>
+        <button id="btn-clear-log" class="ghost danger">Clear log</button>
+        <hr />
+        <button id="btn-back-from-settings" class="primary">Back to drilling</button>
+      </div>
+    </section>
+
+    <!-- Dashboard screen -->
+    <section id="dashboard-screen" class="screen hidden">
+      <h1>Dashboard</h1>
+      <p class="muted">Progress and accuracy per area. Mastered/disputed counts per confidence level.</p>
+      <div class="card">
+        <div class="row" style="gap:.5rem;flex-wrap:wrap;margin-bottom:.75rem">
+          <span class="filter-label">View user:</span>
+          <select id="dash-user-select"></select>
+          <button id="btn-dash-refresh" class="ghost">↻ Refresh users</button>
+          <span id="dash-viewing-as" class="muted" style="margin-left:.4rem"></span>
+        </div>
+        <table class="dash-table">
+          <thead>
+            <tr>
+              <th>Area</th>
+              <th class="num">Total</th>
+              <th class="num" title="Verbatim from mySSI">★ mySSI</th>
+              <th class="num" title="Other web sources (Quizlet, dive shop PDFs, ScubaBoard…)">● Web</th>
+              <th class="num" title="Agent-authored from public SSI standards / dive theory">○ Compiled</th>
+              <th class="num">Seen</th>
+              <th class="num">Attempts</th>
+              <th class="num">Accuracy</th>
+              <th class="num">100%</th>
+              <th class="num">~50%</th>
+              <th class="num" title="Marked as 'study more' for review">📚 Study</th>
+              <th class="num">Disputed</th>
+            </tr>
+          </thead>
+          <tbody id="dash-tbody"></tbody>
+          <tfoot id="dash-tfoot"></tfoot>
+        </table>
+        <hr />
+        <h3>Disputed questions</h3>
+        <div id="dash-disputed-list"></div>
+        <hr />
+        <button id="btn-back-from-dashboard" class="primary">Back to drilling</button>
+      </div>
+    </section>
+
+    <!-- Log screen -->
+    <section id="log-screen" class="screen hidden">
+      <h1>Answer log</h1>
+      <p class="muted">Most recent first. Right/wrong/unknown breakdown per question.</p>
+      <div class="card">
+        <div class="row spread">
+          <div>
+            Total: <strong id="log-total">0</strong> ·
+            Correct: <strong id="log-correct">0</strong> ·
+            Wrong: <strong id="log-wrong">0</strong> ·
+            Unknown: <strong id="log-unknown">0</strong>
+          </div>
+          <button id="btn-back-from-log" class="primary">Back to drilling</button>
+        </div>
+        <table class="log-table">
+          <thead>
+            <tr><th>Time</th><th>ID</th><th>Area / Subarea</th><th>Source</th><th>Question</th><th>Result</th></tr>
+          </thead>
+          <tbody id="log-tbody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Browse screen -->
+    <section id="browse-screen" class="screen hidden">
+      <h1>Browse questions</h1>
+      <p class="muted">Full pool with status. Click any question to expand.</p>
+      <div class="card">
+        <div class="filters">
+          <div class="filter-group">
+            <span class="filter-label">Area:</span>
+            <div id="browse-areas" class="chip-row"></div>
+          </div>
+          <div class="filter-group">
+            <span class="filter-label">Subarea:</span>
+            <div id="browse-subareas" class="chip-row"></div>
+          </div>
+          <div class="filter-group">
+            <span class="filter-label">Source:</span>
+            <div id="browse-sources" class="chip-row"></div>
+          </div>
+          <div class="filter-group" id="browse-mssi-section-group">
+            <span class="filter-label">mySSI Section:</span>
+            <div id="browse-mssi-sections" class="chip-row"></div>
+          </div>
+          <div class="filter-group">
+            <span class="filter-label">Status:</span>
+            <div id="browse-statuses" class="chip-row"></div>
+          </div>
+          <div class="filter-group">
+            <input type="text" id="browse-search" placeholder="Search question text or ID…" />
+            <select id="browse-sort">
+              <option value="id">Sort: ID</option>
+              <option value="seen">Sort: Last seen</option>
+              <option value="accuracy">Sort: Accuracy (low → high)</option>
+              <option value="attempts">Sort: Most attempts</option>
+            </select>
+          </div>
+          <div class="row spread">
+            <span class="muted" id="browse-count">0 of 0</span>
+            <button id="btn-back-from-browse" class="primary">Back to drilling</button>
+          </div>
+        </div>
+        <hr />
+        <div id="browse-list" class="browse-list"></div>
+      </div>
+    </section>
+
+    <!-- Empty pool -->
+    <section id="empty-screen" class="screen hidden">
+      <div class="card">
+        <h2>No questions in pool</h2>
+        <p>Either no areas are selected or you've mastered everything in the selected areas. 🎉</p>
+        <button id="btn-empty-back" class="primary">Open settings</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer muted">
+    Built for instructor exam prep · Local-only · Data persists in your browser
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

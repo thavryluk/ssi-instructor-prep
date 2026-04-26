@@ -1,0 +1,202 @@
+[
+  {
+    "id": "inst-0091",
+    "area": "instructor",
+    "subarea": "Methodology — Time efficiency",
+    "question": "An efficient skills sequence in confined water:",
+    "options": {"a": "Wastes time between skills", "b": "Uses transitions and grouping (e.g., mask + reg skills together) to maintain flow", "c": "Always restarts at the surface", "d": "Has no plan"},
+    "correct": "b",
+    "explanation": "Logical skill grouping maintains pace and reduces cold/fatigue.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0092",
+    "area": "instructor",
+    "subarea": "Methodology — Open Water performance",
+    "question": "An open-water skill performed correctly in confined water that fails in OW conditions usually indicates:",
+    "options": {"a": "Equipment problem", "b": "Insufficient mastery — the student needs additional confined-water repetition before OW", "c": "Bad weather", "d": "Always student fault"},
+    "correct": "b",
+    "explanation": "Mastery means consistency under varied conditions; OW failure indicates insufficient confined-water practice.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0093",
+    "area": "instructor",
+    "subarea": "Methodology — Multi-tasking",
+    "question": "When supervising multiple students underwater, the instructor should:",
+    "options": {"a": "Focus on one only", "b": "Position themselves so all students are visible, periodically scan, and intervene where needed", "c": "Lead from far away", "d": "Hide behind a rock"},
+    "correct": "b",
+    "explanation": "Effective supervision requires positioning, scanning and rapid response capability.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0094",
+    "area": "instructor",
+    "subarea": "Methodology — Standards & Procedures",
+    "question": "Standards and Procedures (S&P) are reviewed at:",
+    "options": {"a": "OWD only", "b": "Each professional level (DM, AI, OWI, IT) with progressively deeper coverage", "c": "Once at age 18", "d": "Optional reading"},
+    "correct": "b",
+    "explanation": "S&P is revisited and deepened at every pro level.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0095",
+    "area": "instructor",
+    "subarea": "Methodology — Training updates",
+    "question": "SSI standards updates are published:",
+    "options": {"a": "Once a decade", "b": "Periodically as the IT (Instructor Training) program updates; instructors must stay current", "c": "Never", "d": "By each instructor independently"},
+    "correct": "b",
+    "explanation": "Standards updates are pushed via MySSI / IT updates; instructors are responsible for staying current.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0096",
+    "area": "instructor",
+    "subarea": "Methodology — Refresher courses",
+    "question": "An SSI Scuba Skills Update is appropriate for:",
+    "options": {"a": "First-time divers", "b": "Certified divers who have not dived recently, to refresh skills and theory", "c": "Only instructors", "d": "Only DMs"},
+    "correct": "b",
+    "explanation": "SSU lets divers re-master skills and refresh theory after a layoff.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0097",
+    "area": "instructor",
+    "subarea": "Methodology — Snorkel programs",
+    "question": "Snorkel programs in SSI include:",
+    "options": {"a": "Try Snorkel, Snorkel Diver, Snorkel Adventure programs", "b": "Decompression diving", "c": "Cave snorkel", "d": "Nitrox diving"},
+    "correct": "a",
+    "explanation": "SSI offers a snorkel-program family from try-out to multi-skill snorkel diver.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0098",
+    "area": "instructor",
+    "subarea": "Methodology — Try Scuba water",
+    "question": "Try Scuba Diving (open water) maximum depth is:",
+    "options": {"a": "5 m", "b": "12 m / 40 ft", "c": "18 m / 60 ft", "d": "30 m"},
+    "correct": "b",
+    "explanation": "Try Scuba Diving (open water) is limited to 12 m / 40 ft.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0099",
+    "area": "instructor",
+    "subarea": "Methodology — Specialty instructor",
+    "question": "An instructor wanting to teach the Deep Diving specialty must:",
+    "options": {"a": "Just teach it", "b": "Earn the SSI Specialty Instructor rating for Deep Diving (with prerequisites)", "c": "Read the manual", "d": "Have one logged dive"},
+    "correct": "b",
+    "explanation": "Each specialty has prerequisites and a Specialty Instructor course before teaching.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0100",
+    "area": "instructor",
+    "subarea": "Methodology — Open Water performance reqs",
+    "question": "OWD students must demonstrate the ability to:",
+    "options": {"a": "Plan and execute a dive within established limits with their buddy", "b": "Execute decompression dives", "c": "Penetrate wrecks", "d": "Dive alone in caves"},
+    "correct": "a",
+    "explanation": "OWD competence: plan and conduct safe no-stop dives within their training limits with a buddy.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0101",
+    "area": "instructor",
+    "subarea": "Methodology — Course duration",
+    "question": "OWD course duration is:",
+    "options": {"a": "Performance-based, not fixed time", "b": "Exactly 2 days", "c": "Exactly 1 hour", "d": "Exactly 50 hours"},
+    "correct": "a",
+    "explanation": "SSI courses are performance-based; students progress as they demonstrate mastery, not a fixed clock.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0102",
+    "area": "instructor",
+    "subarea": "Methodology — Skill bridges",
+    "question": "When a student fails an OW skill that they passed in confined water, the instructor should:",
+    "options": {"a": "Fail the entire course", "b": "Return to confined water to rebuild the skill if necessary, then attempt OW again", "c": "Continue and ignore", "d": "Send the student home permanently"},
+    "correct": "b",
+    "explanation": "Going back to confined water is a valid remediation step. Performance-based progression supports this.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0103",
+    "area": "instructor",
+    "subarea": "Methodology — Lesson evaluation",
+    "question": "An evaluator scoring an academic teaching presentation will look for:",
+    "options": {"a": "Stated objectives, accurate content, active engagement, classroom management, summary, and check on learning", "b": "Voice volume only", "c": "Slides only", "d": "Length only"},
+    "correct": "a",
+    "explanation": "Evaluation rubrics check structure, content accuracy, engagement and assessment.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0104",
+    "area": "instructor",
+    "subarea": "Methodology — Pool teaching",
+    "question": "Pool/confined-water teaching is evaluated on:",
+    "options": {"a": "Pre-dive briefing, demonstration quality, supervision, problem-solving, debrief", "b": "Speed only", "c": "Equipment colors", "d": "Number of laps"},
+    "correct": "a",
+    "explanation": "Pool teaching evaluation covers the full teaching cycle.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0105",
+    "area": "instructor",
+    "subarea": "Methodology — Student-instructor relationship",
+    "question": "Building rapport with students:",
+    "options": {"a": "Is not part of teaching", "b": "Improves engagement, learning and retention", "c": "Slows down learning", "d": "Should be avoided"},
+    "correct": "b",
+    "explanation": "Trust between instructor and student fuels the affective domain — essential for retention and safety.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0106",
+    "area": "instructor",
+    "subarea": "Methodology — Power dynamics",
+    "question": "Maintaining professional boundaries with students:",
+    "options": {"a": "Is unimportant", "b": "Is essential to ethical and safe instruction", "c": "Reduces learning", "d": "Is optional"},
+    "correct": "b",
+    "explanation": "Professional boundaries protect both student and instructor and uphold SSI's standards of conduct.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0107",
+    "area": "instructor",
+    "subarea": "Standards — Code of conduct",
+    "question": "SSI Professionals are expected to:",
+    "options": {"a": "Adhere to a professional Code of Ethics, comply with standards, and represent SSI positively", "b": "Compete with their TC", "c": "Bypass standards as needed", "d": "Avoid SSI events"},
+    "correct": "a",
+    "explanation": "Active SSI Pros sign and follow a Code of Ethics covering professionalism, standards adherence and representation.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0108",
+    "area": "instructor",
+    "subarea": "Methodology — Quality assurance",
+    "question": "If a complaint is filed against an instructor, SSI may:",
+    "options": {"a": "Ignore it", "b": "Conduct a Quality Assurance review and apply corrective action up to suspension/termination", "c": "Promote them", "d": "Cancel the agency"},
+    "correct": "b",
+    "explanation": "QA reviews uphold standards and safety. Outcomes range from coaching to revocation.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0109",
+    "area": "instructor",
+    "subarea": "Methodology — Incident reporting",
+    "question": "If an incident occurs during training, the instructor must:",
+    "options": {"a": "Hide it", "b": "Document, report per SSI procedures and cooperate with QA / authorities as required", "c": "Discuss only with friends", "d": "Forget about it"},
+    "correct": "b",
+    "explanation": "Timely, accurate incident reporting is part of professional responsibility.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0110",
+    "area": "instructor",
+    "subarea": "Methodology — Self-assessment",
+    "question": "After teaching, instructors should reflect on:",
+    "options": {"a": "Only the parts that went well", "b": "What worked, what didn't, and concrete improvements for next time", "c": "Only blame", "d": "Nothing"},
+    "correct": "b",
+    "explanation": "Reflective practice underpins professional growth.",
+    "source": "compiled_from_dive_theory"
+  }
+]

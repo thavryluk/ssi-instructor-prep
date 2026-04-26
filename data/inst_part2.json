@@ -1,0 +1,202 @@
+[
+  {
+    "id": "inst-0031",
+    "area": "instructor",
+    "subarea": "Methodology — Lesson opening",
+    "question": "An effective opening to an academic lesson should:",
+    "options": {"a": "Begin with a long monologue", "b": "Hook attention, state objectives and connect to relevance for the learner", "c": "Skip to the test", "d": "Start with the conclusion"},
+    "correct": "b",
+    "explanation": "Hook + objectives + relevance is the formula for engaging adult learners from the start.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0032",
+    "area": "instructor",
+    "subarea": "Methodology — Lesson closing",
+    "question": "An effective lesson closing should:",
+    "options": {"a": "End abruptly when time runs out", "b": "Summarize key points, check understanding, and link to next steps", "c": "Add new content", "d": "Skip summary"},
+    "correct": "b",
+    "explanation": "Closure consolidates learning and bridges to the next lesson.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0033",
+    "area": "instructor",
+    "subarea": "Methodology — IE academic structure",
+    "question": "An IE academic teaching presentation typically has the structure:",
+    "options": {"a": "Random talk for 15 minutes", "b": "Introduction (objectives, hook), Body (content with active engagement), Conclusion (summary, check on learning, transition)", "c": "Test, lecture, test", "d": "Long quiet reading session"},
+    "correct": "b",
+    "explanation": "IE presentations are evaluated against this structured format.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0034",
+    "area": "instructor",
+    "subarea": "Methodology — Pool skills",
+    "question": "Pool/confined-water sessions for OWD include skills such as:",
+    "options": {"a": "Mask removal/replacement, regulator recovery, alternate air source use, neutral buoyancy", "b": "Decompression dives", "c": "Wreck penetration", "d": "Cave diving"},
+    "correct": "a",
+    "explanation": "OWD confined-water skills focus on the foundational skills students need before open water.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0035",
+    "area": "instructor",
+    "subarea": "Standards — Open Water dives",
+    "question": "Minimum number of open water training dives required for OWD certification is:",
+    "options": {"a": "1", "b": "2", "c": "4", "d": "10"},
+    "correct": "c",
+    "explanation": "OWD requires four (4) open water training dives.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0036",
+    "area": "instructor",
+    "subarea": "Standards — OWD max depth",
+    "question": "The maximum depth for an OWD student during training is:",
+    "options": {"a": "12 m / 40 ft", "b": "18 m / 60 ft", "c": "30 m / 100 ft", "d": "40 m / 130 ft"},
+    "correct": "b",
+    "explanation": "OWD training is limited to 18 m / 60 ft. Advanced Adventurer/AOW expands to 30 m, Deep Specialty to 40 m.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0037",
+    "area": "instructor",
+    "subarea": "Standards — Junior diver",
+    "question": "Minimum age for SSI Junior Open Water Diver is:",
+    "options": {"a": "8", "b": "10", "c": "12", "d": "15"},
+    "correct": "b",
+    "explanation": "SSI Junior OWD: minimum age 10. At 15, automatic upgrade to OWD.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0038",
+    "area": "instructor",
+    "subarea": "Standards — Junior depth",
+    "question": "Maximum depth for an SSI Junior Open Water Diver (10-11 years) is:",
+    "options": {"a": "5 m", "b": "12 m / 40 ft", "c": "18 m", "d": "30 m"},
+    "correct": "b",
+    "explanation": "Juniors aged 10-11 are limited to 12 m / 40 ft and must dive with a parent/guardian or instructor.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0039",
+    "area": "instructor",
+    "subarea": "Standards — Deep Diver",
+    "question": "The Deep Diver specialty trains divers to a maximum depth of:",
+    "options": {"a": "18 m", "b": "30 m", "c": "40 m / 130 ft", "d": "60 m"},
+    "correct": "c",
+    "explanation": "Deep Diver specialty extends recreational training to the 40 m / 130 ft recreational limit.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0040",
+    "area": "instructor",
+    "subarea": "Standards — Try Scuba",
+    "question": "Try Scuba (pool only) can be conducted by:",
+    "options": {"a": "Anyone", "b": "Active SSI Assistant Instructor (or higher) with Try Scuba authorization", "c": "Open Water Divers", "d": "Junior divers"},
+    "correct": "b",
+    "explanation": "Try Scuba (pool) is within AI authority; open-water Try Scuba (Try Scuba Diving) requires Open Water Instructor.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0041",
+    "area": "instructor",
+    "subarea": "Methodology — Skills demo position",
+    "question": "When demonstrating a skill in confined water, the instructor should be in a position that:",
+    "options": {"a": "Is hidden from students", "b": "All students can clearly see, with adequate space and lighting", "c": "Faces away from students", "d": "Is the deepest end of pool"},
+    "correct": "b",
+    "explanation": "Visibility of the demo is critical. Instructors typically demonstrate from a kneeling/neutral-buoyancy position facing students.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0042",
+    "area": "instructor",
+    "subarea": "Methodology — Skill repetition",
+    "question": "Skills should be repeated by students until:",
+    "options": {"a": "They look like a struggle", "b": "They become smooth and natural ('Comfort Through Repetition')", "c": "Once correctly is enough", "d": "Until exhaustion"},
+    "correct": "b",
+    "explanation": "Repetition should continue until skills become reflexive and stress-free.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0043",
+    "area": "instructor",
+    "subarea": "Methodology — Open water briefing",
+    "question": "Before each OW training dive, the instructor must brief students on:",
+    "options": {"a": "Site, profile, skills to be performed, signals, lost-buddy and emergency procedures", "b": "Only depth", "c": "Only signals", "d": "Only the marine life"},
+    "correct": "a",
+    "explanation": "A complete briefing covers everything the students need to participate safely.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0044",
+    "area": "instructor",
+    "subarea": "Methodology — Open water debrief",
+    "question": "After each OW training dive, the instructor should:",
+    "options": {"a": "Pack up and leave", "b": "Debrief skill performance, log dives with students and identify next steps", "c": "Only debrief failures", "d": "Skip debriefs"},
+    "correct": "b",
+    "explanation": "Structured debriefs are required and improve learning between dives.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0045",
+    "area": "instructor",
+    "subarea": "Methodology — Risk assessment",
+    "question": "Before any in-water training, the instructor should assess:",
+    "options": {"a": "Site conditions, weather, students' physical/medical status, equipment, and emergency resources", "b": "Only the weather", "c": "Only the students", "d": "Nothing in particular"},
+    "correct": "a",
+    "explanation": "A comprehensive risk assessment is essential. Conditions or readiness should override the schedule.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0046",
+    "area": "instructor",
+    "subarea": "Methodology — Dive planning",
+    "question": "When planning OWD training dives, the instructor should plan dives that:",
+    "options": {"a": "Are deep and challenging on day one", "b": "Stay within OWD depth/time limits and gradually build complexity", "c": "Always include a deco stop", "d": "Are at night only"},
+    "correct": "b",
+    "explanation": "Progressive complexity within OWD limits supports learning and safety.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0047",
+    "area": "instructor",
+    "subarea": "Methodology — Skill mastery",
+    "question": "A skill is considered mastered when the student:",
+    "options": {"a": "Tries once", "b": "Performs the skill correctly, comfortably and consistently in the planned environment", "c": "Reads about it", "d": "Watches the demo"},
+    "correct": "b",
+    "explanation": "Mastery = correct + comfortable + consistent. Anything less is not mastery.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0048",
+    "area": "instructor",
+    "subarea": "Methodology — Standards minimums",
+    "question": "Standards represent the:",
+    "options": {"a": "Highest level of teaching", "b": "Minimum acceptable level — instructors should often exceed them in practice", "c": "Optional suggestions", "d": "Only legal limits"},
+    "correct": "b",
+    "explanation": "Standards are minimums; quality instructors regularly exceed them while never compromising them.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0049",
+    "area": "instructor",
+    "subarea": "Standards — Liability release",
+    "question": "Before any in-water training, each student must complete:",
+    "options": {"a": "Equipment purchase", "b": "Statement of Understanding, Liability Release and Medical Statement", "c": "Course evaluation", "d": "Marketing survey"},
+    "correct": "b",
+    "explanation": "All three forms are mandatory pre-training paperwork.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "inst-0050",
+    "area": "instructor",
+    "subarea": "Standards — Medical statement",
+    "question": "If the student answers 'Yes' to any condition on the SSI Medical Statement, the instructor must:",
+    "options": {"a": "Ignore it", "b": "Require physician's evaluation/clearance before training", "c": "Allow training as long as the diver feels fine", "d": "Recommend medication"},
+    "correct": "b",
+    "explanation": "Any positive medical history requires physician's clearance signed prior to training.",
+    "source": "compiled_from_dive_theory"
+  }
+]

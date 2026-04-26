@@ -1,0 +1,167 @@
+[
+  {
+    "id": "mssi-inst-061",
+    "area": "instructor",
+    "subarea": "Standards — Emergency Ascent Training",
+    "question": "The maximum depth for emergency ascent skills training during any open water dive is:",
+    "options": {
+      "a": "There is no depth limit",
+      "b": "15 meters or less",
+      "c": "10 meters or less",
+      "d": "9 meters or less"
+    },
+    "correct": "d",
+    "explanation": "Per SSI General Training Standards, controlled emergency swimming ascents (CESA) and other emergency-ascent skills are practiced from a maximum depth of 9 m / 30 ft. The shallow start keeps the ascent slow enough to manage and minimises lung-overexpansion risk if a student fails to exhale.",
+    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+  },
+  {
+    "id": "mssi-inst-062",
+    "area": "instructor",
+    "subarea": "Standards — Student Ratios",
+    "question": "Student-to-instructor ratios:",
+    "options": {
+      "a": "Should not be reduced for any reason",
+      "b": "Cannot be increased for any reason",
+      "c": "Are determined entirely by the instructor",
+      "d": "Are defined by the specific program standard"
+    },
+    "correct": "d",
+    "explanation": "Each SSI program standard defines the maximum student-to-instructor ratio (e.g. OW confined 8:1, OW open water 8:1 with options to extend with certified assistants, Try Scuba 4:1, etc.). Instructors may always REDUCE ratios at their discretion for safety, but never exceed the program-defined maximum.",
+    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+  },
+  {
+    "id": "mssi-inst-063",
+    "area": "instructor",
+    "subarea": "Standards — Certification Processing",
+    "question": "Once a student completes their academic and in-water training requirements:",
+    "options": {
+      "a": "Their certification must be processed within 7 days",
+      "b": "They will automatically receive a digital certification card",
+      "c": "A printed card may be ordered from the training center or regional SSI Service Center",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three statements apply: the instructor/training centre must process the certification within 7 days, the student receives a digital card automatically in their MySSI account, and a physical printed card can be ordered as an optional extra through the training centre or SSI Service Center.",
+    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+  },
+  {
+    "id": "mssi-inst-064",
+    "area": "instructor",
+    "subarea": "Standards — Professional Status",
+    "question": "Instructors may conduct SSI training programs if they are:",
+    "options": {
+      "a": "As long as they are affiliated with an SSI Training Center",
+      "b": "In active or under review status",
+      "c": "In active or inactive status",
+      "d": "In active status only"
+    },
+    "correct": "d",
+    "explanation": "Only Active-status SSI Professionals may conduct training. Inactive members cannot teach (membership/insurance lapsed); 'under review' status indicates a quality-assurance investigation that suspends teaching authority; affiliation with a Training Center alone is not enough — the personal Pro status must be Active.",
+    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+  },
+  {
+    "id": "mssi-inst-065",
+    "area": "instructor",
+    "subarea": "Standards — Certified Assistant Authority",
+    "question": "When can an SSI Divemaster being used as a certified assistant evaluate skills?",
+    "options": {
+      "a": "During pool/confined water sessions only",
+      "b": "Never",
+      "c": "During open water training dives only",
+      "d": "During any in-water training session"
+    },
+    "correct": "b",
+    "explanation": "Never. A certified assistant — including a Divemaster acting in that role — assists with logistics, supervision and safety, but skill EVALUATION is reserved to the instructor of record. The DM can demonstrate, position students, watch for issues, and report observations, but the pass/fail call on a skill is always the instructor's.",
+    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+  },
+  {
+    "id": "mssi-inst-066",
+    "area": "instructor",
+    "subarea": "Standards — Document Structure",
+    "question": "Limits for specific program depths are found:",
+    "options": {
+      "a": "In the Open Water Diver Instructor Manual",
+      "b": "In the General Training Standards",
+      "c": "In the program's specific standards/instructor manual",
+      "d": "There are no depth limits"
+    },
+    "correct": "c",
+    "explanation": "Each SSI program (OW, Deep, Wreck, Cavern, Trimix, etc.) has its own specific standards / instructor manual that defines its own depth limits — 18 m for OW, 30 m for Deep specialty Level 1, 40 m for Level 2, etc. The GTS sets common rules but program-specific depths live in the program's own document.",
+    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+  },
+  {
+    "id": "mssi-inst-067",
+    "area": "instructor",
+    "subarea": "Standards — Document Structure",
+    "question": "Procedures for issuing diver referrals and replacing lost cards are found in:",
+    "options": {
+      "a": "The program-specific standard",
+      "b": "The Instructor Training Course Standards",
+      "c": "The SSI Training Center Manual",
+      "d": "General Training Standards > Certification Procedures"
+    },
+    "correct": "d",
+    "explanation": "Administrative procedures that apply across all programs — referrals (cross-instructor or cross-agency), card replacement, name changes, certification corrections — live in the General Training Standards under 'Certification Procedures', not in any single program manual.",
+    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+  },
+  {
+    "id": "mssi-inst-068",
+    "area": "instructor",
+    "subarea": "Standards — Emergency Planning",
+    "question": "A written emergency plan is required:",
+    "options": {
+      "a": "Only for open water training",
+      "b": "For any location where training dives are conducted",
+      "c": "Only for confined water training",
+      "d": "Only if the instructor is not familiar with the dive site"
+    },
+    "correct": "b",
+    "explanation": "An EAP (Emergency Action Plan) must be written and posted/available for any location where SSI training dives occur — pool, quarry, ocean — regardless of how well the instructor knows the site. It includes nearest chamber, emergency contacts, evacuation route, communication procedures.",
+    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+  },
+  {
+    "id": "mssi-inst-069",
+    "area": "instructor",
+    "subarea": "Standards — Swim-Through Definition",
+    "question": "Which of the following statements is true about the SSI definition of a swim-through:",
+    "options": {
+      "a": "The minimum depth is 30 meters",
+      "b": "They do not need clearly visible entry and exit points",
+      "c": "The maximum length is 10 meters",
+      "d": "They can be used by entry-level students"
+    },
+    "correct": "c",
+    "explanation": "SSI's swim-through definition includes a maximum length of 10 meters. A swim-through is distinct from cavern/wreck penetration: short, both ends clearly visible, with no overhead-environment certification required. Options A, B, D are wrong — there's no 30 m minimum depth, both ends MUST be clearly visible, and entry-level students CAN traverse a properly defined swim-through.",
+    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+  },
+  {
+    "id": "mssi-inst-070",
+    "area": "instructor",
+    "subarea": "Standards — Water Fitness Evaluation",
+    "question": "The Water Fitness Evaluation must be completed before entry-level students:",
+    "options": {
+      "a": "Are issued their certification card",
+      "b": "Begin any open water training",
+      "c": "Begin any in-water training",
+      "d": "Start their academic training"
+    },
+    "correct": "b",
+    "explanation": "The Water Fitness Evaluation (swim distance, water tread, comfort) is the gate to OPEN water training — it is performed in confined water as part of the early program and must be passed before the student progresses to any open water training dive. It does not have to precede the first pool session.",
+    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+  },
+  {
+    "id": "mssi-inst-071",
+    "area": "instructor",
+    "subarea": "Standards — Indoor Diving",
+    "question": "As defined in General Training Standards > Diving Environments, the Indoor Diving program requires:",
+    "options": {
+      "a": "A minimum depth of 5 meters",
+      "b": "A minimum surface area of 100 square meters",
+      "c": "All answers are correct",
+      "d": "An aquarium or purpose-built facility"
+    },
+    "correct": "c",
+    "explanation": "The Indoor Diving environment is defined by all three criteria: a minimum depth of 5 m, a minimum surface area of 100 m², and the requirement that the venue be an aquarium or purpose-built facility (not a recreational swimming pool). All three must be true for a venue to qualify.",
+    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+  }
+]

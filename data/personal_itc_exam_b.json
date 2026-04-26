@@ -1,0 +1,746 @@
+[
+  {
+    "id": "personal-itc-b-001",
+    "area": "instructor",
+    "subarea": "ITC — OW Diver",
+    "question": "What is the in-water ratio for open water training with one certified assistant during the Open Water Diver program for students who are 13 years old?",
+    "options": {
+      "a": "6:2",
+      "b": "10:2",
+      "c": "12:3",
+      "d": "8:1"
+    },
+    "correct": "a",
+    "explanation": "13-yr-old + 1 cert assistant = 6:2.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-002",
+    "area": "instructor",
+    "subarea": "ITC — Try Scuba",
+    "question": "What is the maximum depth for the Try Scuba program?",
+    "options": {
+      "a": "3 meters",
+      "b": "5 meters",
+      "c": "12 meters",
+      "d": "10 meters"
+    },
+    "correct": "b",
+    "explanation": "Try Scuba max depth = 5 m.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-003",
+    "area": "instructor",
+    "subarea": "ITC — OW Diver",
+    "question": "The Student Water Fitness Evaluation must be completed before:",
+    "options": {
+      "a": "Any in-water training",
+      "b": "The certification card is issued",
+      "c": "Any open water training dives",
+      "d": "Completing Open Water Training Dive 4"
+    },
+    "correct": "c",
+    "explanation": "Before any OW training dives.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-004",
+    "area": "instructor",
+    "subarea": "ITC — Scuba Skills Update",
+    "question": "What is the student prerequisite for the Scuba Skills Update program?",
+    "options": {
+      "a": "Deep Diving",
+      "b": "Master Diver",
+      "c": "Divemaster",
+      "d": "Open Water Diver"
+    },
+    "correct": "d",
+    "explanation": "OW Diver.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-005",
+    "area": "instructor",
+    "subarea": "ITC — Supervision",
+    "question": "Junior Open Water Divers must dive under the _____ supervision of a _____.",
+    "options": {
+      "a": "Indirect, dive professional or adult Scuba Diver",
+      "b": "Direct, dive professional or adult Open Water Diver",
+      "c": "Direct, industry professional or Divemaster",
+      "d": "Indirect, Dive Guide or adult Stress & Rescue diver"
+    },
+    "correct": "b",
+    "explanation": "Direct, dive pro or adult OW Diver.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-006",
+    "area": "instructor",
+    "subarea": "ITC — Scuba Skills Update",
+    "question": "What is the maximum depth for the Scuba Skills Update program?",
+    "options": {
+      "a": "3 meters",
+      "b": "12 meters",
+      "c": "5 meters",
+      "d": "18 meters"
+    },
+    "correct": "c",
+    "explanation": "Scuba Skills Update max = 5 m.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-007",
+    "area": "instructor",
+    "subarea": "ITC — Scuba Diver",
+    "question": "The Scuba Diver program is:",
+    "options": {
+      "a": "The academics and pool/confined water sessions from the Open Water Diver program",
+      "b": "The first half of the Open Water Diver program academics and in-water training",
+      "c": "A prerequisite for the Open Water Diver certification",
+      "d": "Required to become an autonomous diver"
+    },
+    "correct": "b",
+    "explanation": "First half of OW academics + in-water.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-008",
+    "area": "instructor",
+    "subarea": "ITC — OW Diver",
+    "question": "If dry suits are used during open water diver training, the Open Water Instructor directly supervising the program must also:",
+    "options": {
+      "a": "Have a student-level dry suit certification",
+      "b": "Be an active status SSI Dry Suit Diving Instructor",
+      "c": "Be a Dry Suit Diving Instructor from any agency",
+      "d": "Have at least five logged dry suit dives"
+    },
+    "correct": "b",
+    "explanation": "Active SSI Dry Suit Diving Instructor.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-009",
+    "area": "instructor",
+    "subarea": "ITC — Specialty Instructor",
+    "question": "An Assistant Instructor can complete the Specialty Instructor certification for:",
+    "options": {
+      "a": "Navigation",
+      "b": "Deep Diving",
+      "c": "All answers are correct",
+      "d": "Full Face Mask"
+    },
+    "correct": "a",
+    "explanation": "Navigation specialty AI-accessible.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-010",
+    "area": "instructor",
+    "subarea": "ITC — Supervision",
+    "question": "An active status _____ must introduce and _____ supervise all emergency ascent skills during in-water training.",
+    "options": {
+      "a": "Open Water Instructor, directly",
+      "b": "Open Water Instructor, indirectly",
+      "c": "Assistant Instructor, directly",
+      "d": "Assistant Instructor, indirectly"
+    },
+    "correct": "a",
+    "explanation": "OWI directly.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-011",
+    "area": "instructor",
+    "subarea": "ITC — Perfect Buoyancy",
+    "question": "How many in-water sessions are required for the Perfect Buoyancy specialty program?",
+    "options": {
+      "a": "Three",
+      "b": "Four",
+      "c": "Two",
+      "d": "One"
+    },
+    "correct": "c",
+    "explanation": "2 in-water sessions.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-012",
+    "area": "instructor",
+    "subarea": "ITC — Supervision",
+    "question": "Who can supervise surface skills during the open water training dives if indirectly supervised by an Open Water Instructor?",
+    "options": {
+      "a": "Any active status certified assistant",
+      "b": "No answer is correct",
+      "c": "An active status Divemaster",
+      "d": "An active status Assistant Instructor"
+    },
+    "correct": "d",
+    "explanation": "Active AI.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-013",
+    "area": "instructor",
+    "subarea": "ITC — Specialty Instructor",
+    "question": "What happens to the Training Record before a candidate is certified as a Specialty Instructor?",
+    "options": {
+      "a": "Uploaded into MySSI",
+      "b": "Sent to the local SSI Service Center",
+      "c": "Digitized by the training center",
+      "d": "Sent to SSI International"
+    },
+    "correct": "a",
+    "explanation": "Uploaded to MySSI.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-014",
+    "area": "instructor",
+    "subarea": "ITC — Scuba Diver",
+    "question": "How can a Scuba Diver upgrade to an Open Water Diver?",
+    "options": {
+      "a": "Complete Academic Sessions 4–6 from the Open Water Diver program and the Open Water Diver final exam",
+      "b": "Complete Pool/Confined Water Sessions 4–6 from the Open Water Diver program",
+      "c": "All answers are correct",
+      "d": "Complete Open Water Training Dives 3–4 from the Open Water Diver program"
+    },
+    "correct": "c",
+    "explanation": "All three.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-015",
+    "area": "instructor",
+    "subarea": "ITC — OW Diver",
+    "question": "What is the minimum age for certification as an Open Water Diver?",
+    "options": {
+      "a": "15 years old",
+      "b": "12 years old",
+      "c": "8 years old",
+      "d": "10 years old"
+    },
+    "correct": "d",
+    "explanation": "Min age 10 (Junior OW).",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-016",
+    "area": "instructor",
+    "subarea": "ITC — OW Diver",
+    "question": "What is the in-water ratio for open water training during the Open Water Diver program for students who are older than 15 years?",
+    "options": {
+      "a": "10:2",
+      "b": "12:3 with a certified assistant",
+      "c": "6:2",
+      "d": "8:1"
+    },
+    "correct": "d",
+    "explanation": "8:1 max for 15+.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-017",
+    "area": "instructor",
+    "subarea": "ITC — Specialty Instructor",
+    "question": "Who signs the Specialty Instructor Training Completion Record for the co-teaching method?",
+    "options": {
+      "a": "The Training Center QMS Manager and the lead instructor",
+      "b": "Only the lead instructor",
+      "c": "Only the candidate and the Specialty Instructor",
+      "d": "The SSI Service Center Manager"
+    },
+    "correct": "a",
+    "explanation": "QMS Manager + lead instructor.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-018",
+    "area": "instructor",
+    "subarea": "ITC — Scuba Skills Update",
+    "question": "The Scuba Skills Update program is designed for:",
+    "options": {
+      "a": "Certified divers who have lost proof of their certification",
+      "b": "Uncertified divers who want to try diving for the first time",
+      "c": "Professionals returning to active status with SSI",
+      "d": "Certified divers who want to refresh their diving knowledge and skills"
+    },
+    "correct": "d",
+    "explanation": "Certified divers refreshing knowledge & skills.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-019",
+    "area": "instructor",
+    "subarea": "ITC — Supervision",
+    "question": "Who can supervise all open water training dives during an Open Water Diver program?",
+    "options": {
+      "a": "An active status Open Water Instructor",
+      "b": "An Open Water Instructor in any status",
+      "c": "An active status Assistant Instructor",
+      "d": "Any certified assistant"
+    },
+    "correct": "a",
+    "explanation": "Active OWI.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-020",
+    "area": "instructor",
+    "subarea": "ITC — Pro Authority",
+    "question": "Open Water Instructors can:",
+    "options": {
+      "a": "Teach the Dive Guide program",
+      "b": "Independently teach all entry-level programs",
+      "c": "All answers are correct",
+      "d": "Qualify to teach any specialty program"
+    },
+    "correct": "c",
+    "explanation": "All three.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-021",
+    "area": "instructor",
+    "subarea": "ITC — Specialty Instructor",
+    "question": "Which certification method can be used for Specialty Instructor certification?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Specialty Instructor Seminar",
+      "c": "Co-Teaching",
+      "d": "Verification Application"
+    },
+    "correct": "a",
+    "explanation": "All three.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-022",
+    "area": "instructor",
+    "subarea": "ITC — Explorer",
+    "question": "Who can teach the Scuba Explorer program?",
+    "options": {
+      "a": "A SSI Explorer Professional",
+      "b": "A SSI Divemaster with the Scuba Explorer instructor certification",
+      "c": "An active status Scuba Explorer Instructor",
+      "d": "An Assistant Instructor candidate"
+    },
+    "correct": "c",
+    "explanation": "Active-status Scuba Explorer Instructor.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-023",
+    "area": "instructor",
+    "subarea": "ITC — Explorer",
+    "question": "The prerequisites for Scuba Explorer students include:",
+    "options": {
+      "a": "Swim 8 meters without any swim or buoyancy aids, be at least 8 years old",
+      "b": "Swim 12 meters without any swim or buoyancy aids, be at least 8 years old",
+      "c": "Swim 8 meters without any swim or buoyancy aids, be at least 6 years old",
+      "d": "Swim 12 meters without any swim or buoyancy aids, be at least 6 years old"
+    },
+    "correct": "b",
+    "explanation": "Swim 8 m + at least 8 yo.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-024",
+    "area": "instructor",
+    "subarea": "ITC — Pro Path",
+    "question": "An Assistant Instructor must complete _____ to become an Open Water Instructor.",
+    "options": {
+      "a": "An Instructor Training Course",
+      "b": "An Instructor Evaluation",
+      "c": "The requirements for maintaining active status",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "ITC.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-025",
+    "area": "instructor",
+    "subarea": "ITC — Scuba Diver",
+    "question": "What is the maximum depth limit for certified Scuba Divers?",
+    "options": {
+      "a": "18 meters",
+      "b": "12 meters",
+      "c": "10 meters",
+      "d": "21 meters"
+    },
+    "correct": "b",
+    "explanation": "Scuba Diver max = 12 m.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-026",
+    "area": "instructor",
+    "subarea": "ITC — Specialty Instructor",
+    "question": "Proof of how many logged dives are required for the Night & Limited Visibility Specialty Instructor Seminar?",
+    "options": {
+      "a": "None",
+      "b": "10",
+      "c": "20",
+      "d": "5"
+    },
+    "correct": "b",
+    "explanation": "10 logged dives.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-027",
+    "area": "instructor",
+    "subarea": "ITC — Perfect Buoyancy",
+    "question": "Can the Perfect Buoyancy program be combined with the Open Water Diver program?",
+    "options": {
+      "a": "Yes",
+      "b": "No"
+    },
+    "correct": "a",
+    "explanation": "Yes.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-028",
+    "area": "instructor",
+    "subarea": "ITC — OW Diver",
+    "question": "Is the SSI Open Water Diver program certified by ISO?",
+    "options": {
+      "a": "No",
+      "b": "Yes"
+    },
+    "correct": "b",
+    "explanation": "Yes — ISO-certified.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-029",
+    "area": "instructor",
+    "subarea": "ITC — Perfect Buoyancy",
+    "question": "Can the Perfect Buoyancy program be conducted entirely in an open water environment?",
+    "options": {
+      "a": "No",
+      "b": "Yes"
+    },
+    "correct": "b",
+    "explanation": "Yes.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-030",
+    "area": "instructor",
+    "subarea": "ITC — Specialty Instructor",
+    "question": "How can an Assistant Instructor earn the Ecology Instructor certification?",
+    "options": {
+      "a": "Specialty Instructor Seminar or Co-Teaching only",
+      "b": "They must become an Open Water Instructor first",
+      "c": "Only the Specialty Instructor Seminar",
+      "d": "Specialty Instructor Seminar, Co-Teaching, or Verification Application"
+    },
+    "correct": "d",
+    "explanation": "All three pathways available.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-031",
+    "area": "instructor",
+    "subarea": "ITC — OW Diver",
+    "question": "How many open water training dives does the Open Water Diver program have, as outlined in the instructor manual and training standards?",
+    "options": {
+      "a": "Three",
+      "b": "Two",
+      "c": "Five",
+      "d": "Four"
+    },
+    "correct": "d",
+    "explanation": "4 OW dives.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-032",
+    "area": "instructor",
+    "subarea": "ITC — OW Diver",
+    "question": "Open Water Training Dives 1 and 2 from the Open Water Diver program may be completed:",
+    "options": {
+      "a": "Only in open water",
+      "b": "Confined water with sufficient depth",
+      "c": "Any environment with sufficient depth",
+      "d": "In indoor diving facilities"
+    },
+    "correct": "d",
+    "explanation": "Indoor diving facilities allowed.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-033",
+    "area": "instructor",
+    "subarea": "ITC — Specialty Instructor",
+    "question": "Who can conduct a Specialty Instructor Seminar?",
+    "options": {
+      "a": "Any Assistant Instructor Trainer in active status",
+      "b": "An active status Assistant Instructor Trainer certified as an instructor in the applicable specialty",
+      "c": "Any active status Specialty Instructor",
+      "d": "An Assistant Instructor certified as an instructor in the applicable specialty"
+    },
+    "correct": "b",
+    "explanation": "Active AIT + applicable specialty cert.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-034",
+    "area": "instructor",
+    "subarea": "ITC — Explorer",
+    "question": "The SSI Explorers program is designed for kids:",
+    "options": {
+      "a": "Older than 10 years old",
+      "b": "Younger than 10 years old",
+      "c": "Younger than 6 years old",
+      "d": "Younger than 8 years old"
+    },
+    "correct": "b",
+    "explanation": "Younger than 10.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-035",
+    "area": "instructor",
+    "subarea": "ITC — Explorer",
+    "question": "Which of the following is an Explorer specialty program?",
+    "options": {
+      "a": "Full Face Mask Explorer",
+      "b": "Wreck Exterior Explorer",
+      "c": "Perfect Buoyancy Explorer",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "Perfect Buoyancy Explorer.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-036",
+    "area": "instructor",
+    "subarea": "ITC — Try Scuba",
+    "question": "Try Scuba participants will complete a(n):",
+    "options": {
+      "a": "Oral final exam and an experience dive in a pool/confined water environment",
+      "b": "Experience dive in a pool/confined water environment and one fun dive in an open water environment",
+      "c": "Experience dive in a pool/confined water environment",
+      "d": "Mandatory skill evaluation in a pool/confined water environment"
+    },
+    "correct": "c",
+    "explanation": "Experience dive in pool/confined water.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-037",
+    "area": "instructor",
+    "subarea": "ITC — Perfect Buoyancy",
+    "question": "What are the completion requirements for the Perfect Buoyancy specialty program?",
+    "options": {
+      "a": "Complete all academic sessions and assessments from the instructor manual for Perfect Buoyancy",
+      "b": "Complete the program's final exam",
+      "c": "Complete at least two (2) in-water training sessions from the instructor manual for Perfect Buoyancy",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three (academic + exam + in-water).",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-038",
+    "area": "instructor",
+    "subarea": "ITC — Supervision",
+    "question": "How many students can be supervised by a certified assistant during an excursion dive in the Open Water Diver program?",
+    "options": {
+      "a": "Two",
+      "b": "One",
+      "c": "Certified assistants are not allowed to supervise students",
+      "d": "Three"
+    },
+    "correct": "a",
+    "explanation": "Two students.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-039",
+    "area": "instructor",
+    "subarea": "ITC — Try Scuba",
+    "question": "What is the minimum age for the Try Scuba program?",
+    "options": {
+      "a": "6 years old",
+      "b": "10 years old",
+      "c": "12 years old",
+      "d": "8 years old"
+    },
+    "correct": "d",
+    "explanation": "8 years old.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-040",
+    "area": "instructor",
+    "subarea": "ITC — OW Diver",
+    "question": "How many academic sessions does the Open Water Diver program have, as outlined in the instructor manual and training standards?",
+    "options": {
+      "a": "Three",
+      "b": "Five",
+      "c": "Seven",
+      "d": "Six"
+    },
+    "correct": "d",
+    "explanation": "6 academic sessions.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-041",
+    "area": "instructor",
+    "subarea": "ITC — Perfect Buoyancy",
+    "question": "What is the open water depth limit for a 13-year-old student in the Perfect Buoyancy program?",
+    "options": {
+      "a": "5 meters",
+      "b": "30 meters",
+      "c": "18 meters",
+      "d": "12 meters"
+    },
+    "correct": "c",
+    "explanation": "12 meters.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-042",
+    "area": "instructor",
+    "subarea": "ITC — Specialty Instructor",
+    "question": "What is the minimum rating to qualify for Ecology Specialty Instructor?",
+    "options": {
+      "a": "Assistant Instructor",
+      "b": "Open Water Instructor",
+      "c": "No answer is correct",
+      "d": "Divemaster"
+    },
+    "correct": "d",
+    "explanation": "Divemaster is the minimum rating to qualify for Ecology Specialty Instructor (DMs can earn it via Specialty Seminar or co-teaching). AI is below the threshold for this specific specialty.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-043",
+    "area": "instructor",
+    "subarea": "ITC — Specialty Instructor",
+    "question": "The lead instructor in the co-teaching method must be a(n):",
+    "options": {
+      "a": "Open Water Instructor and Specialty Instructor for the applicable program",
+      "b": "Specialty Instructor who has issued at least five of the applicable certification",
+      "c": "Specialty Instructor for the applicable program",
+      "d": "Open Water Instructor with the applicable student-level certification"
+    },
+    "correct": "b",
+    "explanation": "OWI + Specialty Instructor.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-044",
+    "area": "instructor",
+    "subarea": "ITC — Explorer",
+    "question": "Which of the following is part of the SSI Explorer program?",
+    "options": {
+      "a": "Snorkel Explorer",
+      "b": "Scuba Explorer",
+      "c": "All answers are correct",
+      "d": "Freediving Explorer"
+    },
+    "correct": "c",
+    "explanation": "All three.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-045",
+    "area": "instructor",
+    "subarea": "ITC — OW Diver",
+    "question": "The combined bottom time for the Open Water Diver program's open water training dives must be at least:",
+    "options": {
+      "a": "60 minutes",
+      "b": "80 minutes",
+      "c": "16–32 minutes",
+      "d": "90 minutes"
+    },
+    "correct": "b",
+    "explanation": "80 minutes.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-046",
+    "area": "instructor",
+    "subarea": "ITC — Scuba Diver",
+    "question": "Students completing the Scuba Diver program must finish:",
+    "options": {
+      "a": "Academic Sections 1–6, Pool/Confined Water Sessions 1–6, Open Water Training Dives 1–2, the Scuba Diver final exam",
+      "b": "Academic Sections 1–3, Pool/Confined Water Sessions 1–3, Open Water Training Dives 1–2, the Scuba Diver final exam",
+      "c": "Academic sections 1–3, pool/confined water sessions 1–6, open water training dives 1–4, Scuba Diver final exam",
+      "d": "Academic Sections 1–3, Pool/Confined Water Sessions 1–3, Open Water Training Dives 1–4, the Open Water Diver final exam"
+    },
+    "correct": "b",
+    "explanation": "Sec 1-3 + Pool 1-3 + OW 1-2 + Scuba final.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-047",
+    "area": "instructor",
+    "subarea": "ITC — Specialty Instructor",
+    "question": "What is the minimum professional certification to become a Computer Diving Instructor?",
+    "options": {
+      "a": "Open Water Instructor",
+      "b": "Divemaster",
+      "c": "Assistant Instructor",
+      "d": "Dive Guide"
+    },
+    "correct": "c",
+    "explanation": "AI.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-048",
+    "area": "instructor",
+    "subarea": "ITC — OW Diver",
+    "question": "13-year old Open Water Diver students must stay shallower than _____ during Open Water Training Dive 3?",
+    "options": {
+      "a": "12 meters",
+      "b": "5 meters",
+      "c": "21 meters",
+      "d": "18 meters"
+    },
+    "correct": "d",
+    "explanation": "18 m for 13 yo on OW Dive 3.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-049",
+    "area": "instructor",
+    "subarea": "ITC — Perfect Buoyancy",
+    "question": "The Perfect Buoyancy specialty program is a(n):",
+    "options": {
+      "a": "Open Water Specialty",
+      "b": "Dedicated Equipment Specialty",
+      "c": "Diving Knowledge Specialty",
+      "d": "Pool/Confined Water Specialty"
+    },
+    "correct": "d",
+    "explanation": "Pool/Confined Water Specialty.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  },
+  {
+    "id": "personal-itc-b-050",
+    "area": "instructor",
+    "subarea": "ITC — Perfect Buoyancy",
+    "question": "A diver must be at least a(n) _____ before issuing the Perfect Buoyancy certification.",
+    "options": {
+      "a": "Scuba Diver",
+      "b": "Open Water Diver",
+      "c": "Referral Diver",
+      "d": "Basic Diver"
+    },
+    "correct": "b",
+    "explanation": "OW Diver.",
+    "source": "Personal: ITC Scuba Exam Form B"
+  }
+]

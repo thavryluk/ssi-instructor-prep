@@ -1,0 +1,402 @@
+[
+  {
+    "id": "sod-0041",
+    "area": "science_of_diving",
+    "subarea": "Decompression Theory — DCS first aid",
+    "question": "The most important first-aid measure for a suspected DCS case at the surface is:",
+    "options": {"a": "Have the diver re-enter the water to recompress", "b": "Administer 100% oxygen and contact emergency services", "c": "Give the diver coffee", "d": "Lay the diver in head-down position"},
+    "correct": "b",
+    "explanation": "Surface 100% O2 reduces the pressure gradient driving inert gas out of bubbles. In-water recompression is contraindicated for recreational divers.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0042",
+    "area": "science_of_diving",
+    "subarea": "Decompression Theory — Risk factors",
+    "question": "Which of the following increases the risk of decompression sickness?",
+    "options": {"a": "Dehydration", "b": "Fatigue", "c": "Poor physical fitness and obesity", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "Dehydration, fatigue, obesity, alcohol, age and cold all elevate DCS risk.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0043",
+    "area": "science_of_diving",
+    "subarea": "Decompression Theory — Flying after diving",
+    "question": "After a single no-decompression dive, the recommended minimum surface interval before flying is:",
+    "options": {"a": "1 hour", "b": "6 hours", "c": "12 hours", "d": "18 hours"},
+    "correct": "c",
+    "explanation": "DAN recommends a minimum 12-hour surface interval after a single no-stop dive (18+ hours after multi-day repetitive diving).",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0044",
+    "area": "science_of_diving",
+    "subarea": "Decompression Theory — Flying after diving",
+    "question": "After multiple days of repetitive diving, the recommended preflight surface interval is at least:",
+    "options": {"a": "6 hours", "b": "12 hours", "c": "18 hours", "d": "48 hours"},
+    "correct": "c",
+    "explanation": "DAN flying-after-diving guidelines recommend at least 18 hours after multiple repetitive dives.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0045",
+    "area": "science_of_diving",
+    "subarea": "Decompression Theory — Repetitive dives",
+    "question": "Compared with a first dive, the no-decompression limit for a repetitive dive (within a few hours) at the same depth will be:",
+    "options": {"a": "Greater", "b": "The same", "c": "Lower", "d": "Unchanged unless gas mix changes"},
+    "correct": "c",
+    "explanation": "Residual nitrogen from the previous dive reduces available NDL on the next dive.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0046",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Cylinders",
+    "question": "Compared to a steel cylinder of similar capacity, an aluminum cylinder is generally:",
+    "options": {"a": "More buoyant", "b": "More negative throughout the dive", "c": "Smaller in physical size", "d": "Lower pressure rating"},
+    "correct": "a",
+    "explanation": "Aluminum cylinders are more buoyant; many become positively buoyant when nearly empty.",
+    "source": "https://thedivingblog.com/aluminum-steel-scuba-cylinders/"
+  },
+  {
+    "id": "sod-0047",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Cylinders",
+    "question": "A scuba cylinder marked '3AA' indicates it is made of:",
+    "options": {"a": "Aluminum alloy", "b": "Chrome-molybdenum steel", "c": "Carbon fiber", "d": "Titanium"},
+    "correct": "b",
+    "explanation": "DOT 3AA marking indicates a chrome-moly steel cylinder; 3AL indicates aluminum alloy.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0048",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Regulator",
+    "question": "The function of a scuba regulator's first stage is to:",
+    "options": {"a": "Deliver air on demand at ambient pressure", "b": "Reduce cylinder pressure to an intermediate pressure", "c": "Filter the air from the tank", "d": "Display remaining cylinder pressure"},
+    "correct": "b",
+    "explanation": "First stage reduces high cylinder pressure (200+ bar) to an intermediate pressure (~9-10 bar above ambient). Second stage delivers it on demand.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0049",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Regulator",
+    "question": "The function of a scuba regulator's second stage is to:",
+    "options": {"a": "Reduce cylinder pressure to intermediate pressure", "b": "Deliver air to the diver on demand at ambient pressure", "c": "Indicate remaining gas", "d": "Provide a low-pressure inflator hose"},
+    "correct": "b",
+    "explanation": "Second stage takes intermediate-pressure air and delivers it to the diver at ambient water pressure when the diver inhales.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0050",
+    "area": "science_of_diving",
+    "subarea": "Equipment — BCD",
+    "question": "The primary purpose of a BCD (buoyancy compensator) is to:",
+    "options": {"a": "Provide thermal protection", "b": "Control buoyancy at the surface and at depth", "c": "Carry the cylinder", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "A BCD provides surface flotation, lets you control buoyancy underwater, and supports the cylinder.",
+    "source": "https://quizlet.com/113032957/ssi-open-water-diver-final-exam-flash-cards/"
+  },
+  {
+    "id": "sod-0051",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Weight system",
+    "question": "A correctly-weighted diver at the surface, with an empty BCD and holding a normal breath, should:",
+    "options": {"a": "Float at eye level", "b": "Sink rapidly", "c": "Float with the head completely out of water", "d": "Float face down"},
+    "correct": "a",
+    "explanation": "Correct weighting: at the surface, eye-level float with full breath, empty BCD; sinks slowly when exhaling.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0052",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Weight system",
+    "question": "A diver wearing a 7 mm wetsuit will typically need:",
+    "options": {"a": "Less weight than in a 3 mm suit", "b": "More weight than in a 3 mm suit", "c": "The same weight as in a 3 mm suit", "d": "No weight at all"},
+    "correct": "b",
+    "explanation": "Thicker neoprene contains more closed-cell gas, providing more buoyancy and requiring more lead.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0053",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Mask",
+    "question": "Mask squeeze is prevented by:",
+    "options": {"a": "Wearing a tight strap", "b": "Periodically exhaling air through the nose into the mask during descent", "c": "Holding the mask hard against the face", "d": "Removing the mask at depth"},
+    "correct": "b",
+    "explanation": "Adding air through the nose equalizes the airspace inside the mask with ambient pressure.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0054",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Snorkel",
+    "question": "A snorkel is primarily useful to:",
+    "options": {"a": "Replace the regulator at depth", "b": "Conserve cylinder gas while breathing at the surface", "c": "Provide an emergency reserve at depth", "d": "Indicate water depth"},
+    "correct": "b",
+    "explanation": "Snorkels conserve cylinder air for surface breathing during long swims at the surface.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0055",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Dive computer",
+    "question": "A dive computer continuously calculates and displays:",
+    "options": {"a": "Only depth and time", "b": "Depth, time, and remaining no-decompression time", "c": "Tank pressure only", "d": "Heart rate"},
+    "correct": "b",
+    "explanation": "Dive computers track depth, elapsed time and a tissue-compartment model to compute remaining NDL.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0056",
+    "area": "science_of_diving",
+    "subarea": "Environment — Currents",
+    "question": "When diving in a current, divers should generally:",
+    "options": {"a": "Begin the dive heading downcurrent", "b": "Begin the dive heading into the current", "c": "Stay perpendicular to the current", "d": "Avoid all currents at all costs"},
+    "correct": "b",
+    "explanation": "Begin into the current so the easier downcurrent leg occurs after fatigue and air consumption have built up.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0057",
+    "area": "science_of_diving",
+    "subarea": "Environment — Tides",
+    "question": "Slack tide is defined as:",
+    "options": {"a": "Period of strongest tidal flow", "b": "Period of minimal current between tide changes", "c": "The deepest point of low tide", "d": "The highest point of high tide"},
+    "correct": "b",
+    "explanation": "Slack water occurs at the turn between tides when current speed is at its minimum.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0058",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine life",
+    "question": "Most marine animal injuries to divers are the result of:",
+    "options": {"a": "Aggressive predatory behavior of the animal", "b": "Diver negligence, ignorance, or aggressive behavior", "c": "Random encounters", "d": "Equipment failure"},
+    "correct": "b",
+    "explanation": "Statistically, divers are usually injured because they touched, harassed or surprised marine life.",
+    "source": "https://quizlet.com/113032957/ssi-open-water-diver-final-exam-flash-cards/"
+  },
+  {
+    "id": "sod-0059",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine life first aid",
+    "question": "First aid for a venomous fish (lionfish/scorpionfish/stonefish) puncture wound includes:",
+    "options": {"a": "Immerse the wound in hot (non-scalding) water", "b": "Apply ice", "c": "Induce vomiting", "d": "Apply a tight tourniquet"},
+    "correct": "a",
+    "explanation": "Heat denatures the protein-based venom; soak in water as hot as the patient can tolerate (~45 C / 113 F) for 30-90 min.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0060",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive flag",
+    "question": "Which two flags signal divers in the water?",
+    "options": {"a": "Red-with-white-stripe and Alpha (blue/white swallowtail)", "b": "Solid red and solid yellow", "c": "Solid white and Alpha", "d": "Jolly Roger and Alpha"},
+    "correct": "a",
+    "explanation": "The 'sport diver' (red with diagonal white stripe) flag and the international Alpha flag both warn that divers are below.",
+    "source": "https://quizlet.com/84015479/ssi-open-water-final-exam-flash-cards/"
+  },
+  {
+    "id": "sod-0061",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine protection",
+    "question": "Divers can help protect the marine environment by:",
+    "options": {"a": "Maintaining good buoyancy control", "b": "Securing dangling equipment", "c": "Acting as a responsible diver and not touching marine life", "d": "All of the above"},
+    "correct": "d",
+    "explanation": "All listed actions reduce diver impact on fragile reef ecosystems.",
+    "source": "https://quizlet.com/113032957/ssi-open-water-diver-final-exam-flash-cards/"
+  },
+  {
+    "id": "sod-0062",
+    "area": "science_of_diving",
+    "subarea": "Physics — Gas consumption (SAC)",
+    "question": "Surface Air Consumption (SAC) is best defined as:",
+    "options": {"a": "Air consumed per minute at depth", "b": "Air consumed per minute normalized to surface pressure (1 ATA)", "c": "Total air consumed during a dive", "d": "Tank capacity divided by depth"},
+    "correct": "b",
+    "explanation": "SAC normalizes consumption to 1 ATA so it can be compared across different depths and dives.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0063",
+    "area": "science_of_diving",
+    "subarea": "Physics — Gas consumption",
+    "question": "If a diver uses 50 bar at 10 m in 10 minutes from a 10-litre cylinder, what is their SAC rate?",
+    "options": {"a": "10 L/min", "b": "20 L/min", "c": "25 L/min", "d": "50 L/min"},
+    "correct": "c",
+    "explanation": "Volume used = 50 bar x 10 L = 500 L over 10 min = 50 L/min at 2 ATA. Normalized to 1 ATA = 25 L/min SAC.",
+    "source": "https://www.proscubadiver.net/padi-course-director-joey-ridge/gas-laws-physics/"
+  },
+  {
+    "id": "sod-0064",
+    "area": "science_of_diving",
+    "subarea": "Physics — Pressure (Imperial)",
+    "question": "What is the absolute pressure at 99 ft (30 m) of seawater?",
+    "options": {"a": "2 ATA", "b": "3 ATA", "c": "4 ATA", "d": "5 ATA"},
+    "correct": "c",
+    "explanation": "99 ft / 33 ft per ATA = 3 ATA water + 1 ATA atmospheric = 4 ATA absolute.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0065",
+    "area": "science_of_diving",
+    "subarea": "Physics — Pressure (Metric)",
+    "question": "Each 10 m of seawater adds approximately how much pressure?",
+    "options": {"a": "0.5 bar", "b": "1 bar", "c": "1.5 bar", "d": "2 bar"},
+    "correct": "b",
+    "explanation": "Saltwater: 10 m equals approximately 1 bar gauge pressure.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0066",
+    "area": "science_of_diving",
+    "subarea": "Physics — Pressure (Fresh water)",
+    "question": "Each 10.3 m of fresh water adds approximately how much pressure?",
+    "options": {"a": "0.5 bar", "b": "1 bar", "c": "2 bar", "d": "3 bar"},
+    "correct": "b",
+    "explanation": "Freshwater is slightly less dense than salt; 10.3 m of fresh water = 1 bar.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0067",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Cylinder buoyancy",
+    "question": "A typical aluminum 80 cu ft cylinder has a buoyancy characteristic of approximately:",
+    "options": {"a": "Negative full and full positive empty", "b": "Negative throughout the dive", "c": "Slightly negative full, slightly positive when empty", "d": "Always neutrally buoyant"},
+    "correct": "c",
+    "explanation": "AL80s typically start ~1.5 kg negative full and become ~0.9 kg positive empty.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0068",
+    "area": "science_of_diving",
+    "subarea": "Physics — Air composition",
+    "question": "Atmospheric air is approximately:",
+    "options": {"a": "21% nitrogen, 79% oxygen", "b": "50% nitrogen, 50% oxygen", "c": "78% nitrogen, 21% oxygen, 1% other gases", "d": "100% oxygen"},
+    "correct": "c",
+    "explanation": "Air is roughly 78% N2, 21% O2, 0.93% argon and trace CO2/other gases.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0069",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Respiration",
+    "question": "Hyperventilation before a breath-hold dive primarily increases breath-hold time by:",
+    "options": {"a": "Increasing blood oxygen levels", "b": "Decreasing blood CO2 levels and delaying the urge to breathe", "c": "Storing oxygen in muscles", "d": "Cooling the lungs"},
+    "correct": "b",
+    "explanation": "Hyperventilation lowers CO2 (the main breathing trigger) and can lead to shallow-water blackout from hypoxia of ascent.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0070",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Shallow water blackout",
+    "question": "Shallow water blackout in breath-hold divers is caused by:",
+    "options": {"a": "Excess CO2", "b": "Hypoxia (low O2) due to dropping ppO2 on ascent after hyperventilation", "c": "Nitrogen narcosis", "d": "Cold water"},
+    "correct": "b",
+    "explanation": "Hyperventilation suppresses CO2 drive; oxygen is consumed at depth; on ascent ppO2 drops below the level needed for consciousness.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0071",
+    "area": "science_of_diving",
+    "subarea": "Physiology — Drowning",
+    "question": "Near-drowning differs from drowning in that:",
+    "options": {"a": "It involves only fresh water", "b": "The victim survived the initial submersion incident", "c": "It only occurs during cold-water dives", "d": "It is treated with hot water immersion"},
+    "correct": "b",
+    "explanation": "Near-drowning: the victim survived the immediate submersion. They still need urgent medical assessment.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0072",
+    "area": "science_of_diving",
+    "subarea": "Physics — Gas laws",
+    "question": "If you double the absolute pressure on a fixed mass of gas at constant temperature, the volume will:",
+    "options": {"a": "Double", "b": "Halve", "c": "Stay the same", "d": "Triple"},
+    "correct": "b",
+    "explanation": "Boyle's Law: P1V1 = P2V2; doubling pressure halves volume.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0073",
+    "area": "science_of_diving",
+    "subarea": "Physics — Gas laws",
+    "question": "If a balloon contains 6 L of air at 4 ATA, what is its volume at 1 ATA (surface)?",
+    "options": {"a": "1.5 L", "b": "6 L", "c": "12 L", "d": "24 L"},
+    "correct": "d",
+    "explanation": "P1V1 = P2V2: 4 x 6 = 1 x V2, so V2 = 24 L.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0074",
+    "area": "science_of_diving",
+    "subarea": "Physics — Gas laws",
+    "question": "At 30 m / 99 ft (4 ATA), the partial pressure of oxygen in air is approximately:",
+    "options": {"a": "0.21 bar", "b": "0.42 bar", "c": "0.84 bar", "d": "1.4 bar"},
+    "correct": "c",
+    "explanation": "ppO2 = FO2 x ambient = 0.21 x 4 = 0.84 bar.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0075",
+    "area": "science_of_diving",
+    "subarea": "Physics — Gas laws",
+    "question": "At 40 m on EAN32, the partial pressure of oxygen is:",
+    "options": {"a": "1.0 bar", "b": "1.28 bar", "c": "1.6 bar", "d": "2.0 bar"},
+    "correct": "c",
+    "explanation": "ppO2 = 0.32 x 5 ATA = 1.6 bar — the recreational MOD limit for EAN32.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0076",
+    "area": "science_of_diving",
+    "subarea": "Equipment — EAN MOD",
+    "question": "What is the maximum operating depth (MOD) for EAN32 at a 1.4 bar ppO2 limit?",
+    "options": {"a": "20 m", "b": "33.7 m", "c": "40 m", "d": "50 m"},
+    "correct": "b",
+    "explanation": "MOD = (1.4 / 0.32 - 1) x 10 = 33.75 m for EAN32 at 1.4 bar.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0077",
+    "area": "science_of_diving",
+    "subarea": "Equipment — EAN MOD",
+    "question": "What is the MOD for EAN36 at a 1.4 bar ppO2 limit?",
+    "options": {"a": "22 m", "b": "29 m", "c": "33 m", "d": "40 m"},
+    "correct": "b",
+    "explanation": "MOD = (1.4 / 0.36 - 1) x 10 = 28.9 m for EAN36 at 1.4 bar.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0078",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Nitrox benefits",
+    "question": "The primary benefit of recreational nitrox compared to air is:",
+    "options": {"a": "Allows deeper dives", "b": "Extended no-decompression limits at recreational depths", "c": "Eliminates the need for safety stops", "d": "Eliminates oxygen toxicity risk"},
+    "correct": "b",
+    "explanation": "Lower nitrogen fraction means less inert-gas loading, giving longer NDL — but MOD is shallower because of higher O2.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0079",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Nitrox analysis",
+    "question": "Before every nitrox dive, the diver should personally:",
+    "options": {"a": "Trust the fill station's label only", "b": "Analyze the cylinder's oxygen content and log it", "c": "Test the regulator on land first", "d": "Consult the captain"},
+    "correct": "b",
+    "explanation": "The diver who breathes the gas is responsible for analyzing and logging FO2 prior to every nitrox dive.",
+    "source": "compiled_from_dive_theory"
+  },
+  {
+    "id": "sod-0080",
+    "area": "science_of_diving",
+    "subarea": "Decompression Theory — In-water recompression",
+    "question": "In-water recompression for a recreational diver suspected of DCS is:",
+    "options": {"a": "The recommended first treatment", "b": "Only acceptable in remote locations with proper gas supply and trained personnel", "c": "Always safe and effective", "d": "The same as a safety stop"},
+    "correct": "b",
+    "explanation": "In-water recompression is highly risky for recreational divers and is not standard practice; surface O2 and evacuation to a chamber is the protocol.",
+    "source": "compiled_from_dive_theory"
+  }
+]
