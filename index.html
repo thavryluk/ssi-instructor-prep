@@ -55,10 +55,12 @@
       <p class="muted" data-i18n="login.intro">Each user has their own progress (drill log, mastered, dashboard). Pick a username — register first time, then log in.</p>
       <div class="card login-card">
         <form id="login-form">
-          <label class="login-label" data-i18n="login.username">Username
+          <label class="login-label">
+            <span data-i18n="login.username">Username</span>
             <input type="text" id="login-username" autocomplete="username" placeholder="e.g. honza" data-i18n-attr="placeholder:login.username_placeholder" pattern="[a-zA-Z0-9._-]{2,32}" required />
           </label>
-          <label class="login-label" data-i18n="login.password">Password
+          <label class="login-label">
+            <span data-i18n="login.password">Password</span>
             <input type="password" id="login-password" autocomplete="current-password" placeholder="anything (or empty)" data-i18n-attr="placeholder:login.password_placeholder" />
           </label>
           <div class="row" style="gap:.5rem;flex-wrap:wrap;margin-top:.5rem">
