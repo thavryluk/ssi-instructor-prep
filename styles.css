@@ -305,6 +305,8 @@ button.hidden { display: none; }
 .dash-table tfoot td { font-weight: 600; border-top: 2px solid var(--border); border-bottom: none; }
 .dash-table .area-name { font-weight: 600; }
 
+.dash-table-wrap, .log-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
 .q-flags { font-size: 0.8rem; margin-top: 0.6rem; min-height: 1rem; }
 .q-flags .flag-disputed { color: var(--warning); }
 .q-flags .flag-study { color: #c08bff; }
@@ -451,8 +453,34 @@ input[type="text"] { flex: 1; min-width: 200px; }
 @media (max-width: 600px) {
   main { padding: 1rem; }
   .question-card { padding: 1.25rem; }
-  .topbar { flex-wrap: wrap; gap: 0.5rem; padding: 0.75rem 1rem; }
+  .topbar { flex-wrap: wrap; gap: 0.5rem 0.75rem; padding: 0.6rem 0.75rem; }
   .stats { order: 3; flex-basis: 100%; }
+  .actions { flex-wrap: wrap; gap: 0.35rem; row-gap: 0.4rem; }
+  .actions button { font-size: 0.82rem; padding: 0.4rem 0.65rem; }
+  .actions .icon-btn { padding: 0.35rem 0.55rem; }
+  .brand { font-size: 0.95rem; }
+
+  h1 { font-size: 1.3rem; }
+  h2 { font-size: 1.1rem; }
+  .home-hero { padding: 0.5rem 0.5rem 0.25rem; }
+  .home-hero h1 { font-size: 1.5rem; }
+  .home-hero p { font-size: 0.92rem; }
+  .home-card { padding: 1.1rem; }
+  .home-card h3 { font-size: 1rem; }
+
+  .card { padding: 1rem; }
+  .options { gap: 0.4rem; }
+  .option { padding: 0.7rem 0.85rem; }
+
+  /* Dashboard table needs horizontal scroll on mobile */
+  .dash-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 -1rem; padding: 0 1rem; }
+  .dash-table { font-size: 0.82rem; min-width: 640px; }
+  .dash-table th, .dash-table td { padding: 0.4rem 0.5rem; }
+
+  /* Log table — same scroll wrapping */
+  .log-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 -1rem; padding: 0 1rem; }
+  .log-table { font-size: 0.82rem; min-width: 540px; }
+  .log-table th, .log-table td { padding: 0.4rem 0.5rem; }
 }
 
 /* ───── Language toggle (flag + label) ───── */
