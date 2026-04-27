@@ -254,7 +254,6 @@ Endpoint: `GET /version.json` na produkci vrací `{ "commit": "abc1234", "built_
 - [ ] Ověřit zbývající `mssi-inst-022` (Group D + 2:45 SI → ?)
 - [ ] Pokračovat s mySSI Lesson Reviews (zatím jen Lesson 1.1)
 - [ ] Pokračovat s mySSI Pretest pokud SSI vydá další Parts
-- [ ] Před public deploy: vyřešit ToS pro Personal a mySSI (compliance)
 - [ ] Při přidání nové otázky přeložit i do `data/questions.cs.json` (zatím není auto pipeline pro inkrementální překlad — full re-translation je `translate_split.py + agenti + translate_assemble.py`)
 
 ### HOTOVÉ TODO (z 2026-04-27)
