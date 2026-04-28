@@ -1151,7 +1151,7 @@
       "d": "Be placed in expelled status"
     },
     "correct": "d",
-    "explanation": "SSI's disciplinary track for ethics violations: warning → suspended status → expelled status (loss of all SSI ratings, with no path back). Expelled is the terminal sanction. (a) is wrong — SSI uses status changes, not monetary fines, as enforcement. (c) 'experience points' isn't a thing in SSI's system. (b) all-correct includes both fictional options as a trap.",
+    "explanation": "SSI's disciplinary track for ethics violations: warning → suspended status → expelled status (loss of all SSI ratings, with no path back). Expelled is the terminal sanction. (a) is wrong — SSI uses status changes, not monetary fines, as enforcement. (c) is wrong because SSI's discipline track doesn't strip experience points; Pro progression metrics in MySSI exist but aren't punishment levers. (b) all-correct includes both fictional sanctions as a trap.",
     "source": "mySSI: ITC Lesson 2.3 Review"
   },
   {
@@ -1243,5 +1243,1415 @@
     "correct": "c",
     "explanation": "Conservation NGOs (Project AWARE, Mission Blue, Ocean Conservancy and similar) work primarily on Policy-level outcomes: lobbying for legislation, securing Marine Protected Area designations, pushing fishing quotas, advocating single-use plastic bans. Supporting them — financially or by volunteering — is therefore amplifying Policy work, even when the individual contribution feels personal. Compare with mssi-inst-180 (personal habit) and mssi-inst-177 (TC-organised event).",
     "source": "mySSI: ITC Lesson 2.4 Review"
+  },
+  {
+    "id": "mssi-inst-183",
+    "area": "instructor",
+    "subarea": "Methodology — MySSI",
+    "question": "Where can a recreational user access their digital learning materials?",
+    "options": {
+      "a": "Logbook and Sites",
+      "b": "Admin",
+      "c": "Services",
+      "d": "Training"
+    },
+    "correct": "d",
+    "explanation": "Recreational divers find their digital materials under the Training section of MySSI — courses, lessons, progress, exams. (a) Logbook & Sites is for dive logs and site library; (b) Admin is the Pro/TC backend; (c) Services covers retail and add-on services. The Training tab is the student-facing learning hub.",
+    "source": "mySSI: ITC Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-inst-184",
+    "area": "instructor",
+    "subarea": "Methodology — MySSI",
+    "question": "Which of the following is available on a MySSI professional account homepage?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Registration for new dive professional programs",
+      "c": "Experience points and professional progress",
+      "d": "Active status affiliations"
+    },
+    "correct": "a",
+    "explanation": "Pro homepage in MySSI surfaces all three: (b) one-click access to register for the next Pro program in your pathway, (c) experience-points and progression tracking (cumulative training, dive count, ratings earned), (d) active-status affiliations including TC linkage and renewal status. The homepage is the Pro's command centre.",
+    "source": "mySSI: ITC Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-inst-185",
+    "area": "instructor",
+    "subarea": "Methodology — MySSI",
+    "question": "Where can an SSI Professional download final exams and instructor manuals?",
+    "options": {
+      "a": "Personal Data",
+      "b": "Center Area",
+      "c": "Training",
+      "d": "Quality Management System"
+    },
+    "correct": "c",
+    "explanation": "Training section is the Pro-side learning + delivery hub: instructor manuals, final exams, lesson plans, presentation aids — all live there for download. (a) Personal Data is profile info, (b) Center Area is TC-specific scheduling and student management, (d) QMS is the quality / audit workspace. Mirrors mssi-inst-183 — Training serves both students and Pros, but with role-specific content.",
+    "source": "mySSI: ITC Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-inst-186",
+    "area": "instructor",
+    "subarea": "Methodology — MySSI",
+    "question": "Which of the following is found in a professional MySSI account?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Pro Rewards information",
+      "c": "Pro Status",
+      "d": "Downloads"
+    },
+    "correct": "a",
+    "explanation": "Pro MySSI account aggregates: (b) Pro Rewards — loyalty/incentive tracking from teaching activity and centre support; (c) Pro Status — active/inactive flag with renewal date and affiliation history; (d) Downloads — instructor manuals, final exams, presentation aids, lesson plans. All three are core features of the Pro dashboard.",
+    "source": "mySSI: ITC Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-inst-187",
+    "area": "instructor",
+    "subarea": "Methodology — MySSI",
+    "question": "You can access the MySSI System:",
+    "options": {
+      "a": "Only with a web browser",
+      "b": "With a web browser or the app",
+      "c": "Only with the app",
+      "d": "Using specialized SSI software"
+    },
+    "correct": "b",
+    "explanation": "MySSI is dual-platform: web at my.divessi.com (any modern browser) and the MySSI mobile app (iOS / Android). No specialised software is required. The app is the standard tool for in-the-water log entry and offline material access; the browser version is fuller-featured for desktop work.",
+    "source": "mySSI: ITC Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-inst-188",
+    "area": "instructor",
+    "subarea": "Methodology — MySSI",
+    "question": "What is the purpose of the MySSI System?",
+    "options": {
+      "a": "Provide a single location for all SSI services for divers, SSI Professionals, and training centers",
+      "b": "To create revenue for training centers by charging for instructor materials",
+      "c": "To create a new social media platform for divers",
+      "d": "To provide a way for students to purchase materials directly from SSI"
+    },
+    "correct": "a",
+    "explanation": "MySSI is the unified hub binding all three SSI stakeholder groups together — divers (logbook, training progress, materials), Pros (downloads, schedule, active status, rewards), TCs (admin, student management, billing). The other options misrepresent it: (b) materials come bundled with programs, not as add-on revenue; (c) MySSI isn't a social network; (d) direct-from-SSI retail isn't the model — retail flows through TCs.",
+    "source": "mySSI: ITC Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-inst-189",
+    "area": "instructor",
+    "subarea": "Methodology — MySSI",
+    "question": "Student materials on the MySSI app:",
+    "options": {
+      "a": "Are not connected to the MySSI System",
+      "b": "Are only available to SSI Professionals",
+      "c": "Are only viewable with an internet connection",
+      "d": "Are viewable offline after they are downloaded"
+    },
+    "correct": "d",
+    "explanation": "MySSI app is designed for offline use after the initial download — critical for liveaboards, remote dive sites, in-cabin study without wifi. Materials sync to MySSI when connectivity returns. (a) inverts the relationship — the app IS part of MySSI. (b) is wrong — students get the same offline-ready package. (c) is the opposite of the actual design.",
+    "source": "mySSI: ITC Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-inst-190",
+    "area": "instructor",
+    "subarea": "Methodology — MySSI",
+    "question": "Which menu in a MySSI user account allows a user to edit their personal information?",
+    "options": {
+      "a": "Logbook and Sites",
+      "b": "Personal Data",
+      "c": "Services",
+      "d": "Programs and Cards"
+    },
+    "correct": "b",
+    "explanation": "Personal Data is the profile-edit menu — name, email, contact details, password, photo, emergency contact, communication preferences. (a) Logbook & Sites is for diving log + dive sites; (c) Services covers retail and add-on services; (d) Programs & Cards displays earned certifications and active enrolments.",
+    "source": "mySSI: ITC Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-inst-191",
+    "area": "instructor",
+    "subarea": "Methodology — MySSI",
+    "question": "Where can an SSI Professional view their student certification counts?",
+    "options": {
+      "a": "Toolbox",
+      "b": "Quality Management System",
+      "c": "Pro Area",
+      "d": "Profile"
+    },
+    "correct": "c",
+    "explanation": "Pro Area is the Pro-only dashboard surfacing teaching metrics — student cert counts by program, recent certifications issued, progress milestones. (a) Toolbox is general utility tools; (b) QMS is the audit / standards-compliance workspace; (d) Profile shows public-facing identity, not stats. Pro Area = where the teaching scoreboard lives.",
+    "source": "mySSI: ITC Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-inst-192",
+    "area": "instructor",
+    "subarea": "Methodology — Training Records",
+    "question": "SSI Training Records:",
+    "options": {
+      "a": "Are only required for professional programs",
+      "b": "Include most of the required record-keeping forms",
+      "c": "Do not need to be signed by an SSI Professional",
+      "d": "Must be uploaded into MySSI"
+    },
+    "correct": "d",
+    "explanation": "Training Records are the official certification + QA documentation and must live in MySSI — that's the digital archive, audit trail, and the student's path to their own cert card. (a) is wrong: records are required for ALL programs (entry-level through Pro), not just Pro programs. (c) is wrong: the Pro's signature is a hard requirement on every record. (b) understates the role — training records are the spine of record-keeping, not just a partial subset.",
+    "source": "mySSI: ITC Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-inst-193",
+    "area": "instructor",
+    "subarea": "Methodology — Risk Management",
+    "question": "The SSI Record-Keeping System:",
+    "options": {
+      "a": "Only protect SSI from liability",
+      "b": "Minimizes risk and protects SSI Professionals from liability",
+      "c": "Ensure that divers can litigate if they are not satisfied with their training",
+      "d": "Only protect the training center and SSI from liability"
+    },
+    "correct": "b",
+    "explanation": "Records protect every link in the chain but most critically the Pro — they're the in-water decision-maker and therefore most exposed if an incident escalates. Properly completed records prove standards were followed, prerequisites verified, briefings delivered, and student acknowledgements signed. (a) and (d) are too narrow — leave the Pro unprotected. (c) inverts the purpose: the system DEFLECTS frivolous litigation by documenting compliance.",
+    "source": "mySSI: ITC Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-inst-194",
+    "area": "instructor",
+    "subarea": "Methodology — Assessment",
+    "question": "If a student misses questions on the written final exam:",
+    "options": {
+      "a": "Do nothing as long as the student scores higher than 90%",
+      "b": "Do nothing as long as the student scores higher than 80%",
+      "c": "Review each missed question and ensure the student understands the correct answer",
+      "d": "Have the student retake the exam until they score 100%"
+    },
+    "correct": "c",
+    "explanation": "SSI standard: regardless of overall pass percentage, every incorrect answer must be reviewed with the student until they understand the correct one. The pass threshold (typically 80%) signals readiness to certify, not permission to leave knowledge gaps unaddressed. (a) and (b) ignore the gaps. (d) retake-until-100% isn't the SSI process — review-and-understand is.",
+    "source": "mySSI: ITC Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-inst-195",
+    "area": "instructor",
+    "subarea": "Methodology — Forms & Paperwork",
+    "question": "The Medical Participant Questionnaire:",
+    "options": {
+      "a": "Is only required for professional programs",
+      "b": "Can be completed after the open water training is completed",
+      "c": "Must be completed before any in-water training",
+      "d": "Is only required for continuing education programs"
+    },
+    "correct": "c",
+    "explanation": "Medical clearance is a hard pre-water gate on every SSI program — Try Scuba through Master Instructor, every specialty, every con-ed course. Without a complete and (where flagged) physician-cleared medical statement, the student cannot enter the water. (a), (b) and (d) all attempt to defer or narrow the requirement; the standard makes no such carve-outs.",
+    "source": "mySSI: ITC Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-inst-196",
+    "area": "instructor",
+    "subarea": "Professional Standards — Training Standards",
+    "question": "SSI Training Standards:",
+    "options": {
+      "a": "Only provide requirements for training dive professionals",
+      "b": "Change depending on region and local dive sites",
+      "c": "Provide requirements for training students",
+      "d": "Should only be followed if conditions permit"
+    },
+    "correct": "c",
+    "explanation": "Training Standards lay out the universal student-training requirements: prerequisites, ratios, depth limits, skill list, dive count, certification criteria. They apply globally and to every program (not just Pro). (a) is too narrow. (b) is wrong — Standards do not bend for region or site (the Flexibility Rule covers DELIVERY, not requirements). (d) is dangerously wrong — Standards are mandatory baseline; conditions can only force a CANCEL, never a downward deviation.",
+    "source": "mySSI: ITC Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-inst-197",
+    "area": "instructor",
+    "subarea": "Methodology — Risk Management",
+    "question": "Incomplete or missing records:",
+    "options": {
+      "a": "Are permitted, as long as the student is certified",
+      "b": "Make it impossible to prove training was conducted properly",
+      "c": "Are the training center's responsibility",
+      "d": "Are the student's responsibility"
+    },
+    "correct": "b",
+    "explanation": "If an incident escalates to investigation or litigation, the records ARE the evidence. Missing or incomplete records flip the burden of proof onto the Pro/TC and effectively negate the protective value of the SSI Record-Keeping System (mssi-inst-193). Memory hook: 'If it's not on paper, it didn't happen.' (a) is never true. (c) understates — TCs share responsibility but the in-water Pro is most exposed. (d) inverts the duty.",
+    "source": "mySSI: ITC Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-inst-198",
+    "area": "instructor",
+    "subarea": "Methodology — Forms & Paperwork",
+    "question": "Which signatures are required for records that verify training?",
+    "options": {
+      "a": "Student and training center",
+      "b": "Training center and instructor",
+      "c": "Student and instructor",
+      "d": "Instructor only"
+    },
+    "correct": "c",
+    "explanation": "Two signatures, two purposes: the student signs to acknowledge they received and understood the training; the instructor signs to certify it was delivered to standard. This dual signature is the legal/risk backbone of the records — neither party alone can verify training occurred properly. (a) and (b) drop one of the two essential signatories; (d) eliminates the student's acknowledgement.",
+    "source": "mySSI: ITC Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-inst-199",
+    "area": "instructor",
+    "subarea": "Methodology — Training Records",
+    "question": "Pre-filled training records can be printed from:",
+    "options": {
+      "a": "The student's MySSI account",
+      "b": "The SSI Professional's MySSI account",
+      "c": "Any SSI Service Center",
+      "d": "The training center's MySSI account"
+    },
+    "correct": "d",
+    "explanation": "TC's MySSI account is the institutional holder of pre-filled, personalised training records — the centre admin pulls them per-student before class. Pairs with mssi-inst-119 (same answer, slightly different phrasing). Individual Pros and students see their own records but the printable, personalised version is a TC-level resource.",
+    "source": "mySSI: ITC Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-inst-200",
+    "area": "instructor",
+    "subarea": "Methodology — Forms & Paperwork",
+    "question": "Which of the following must be completed by an Open Water Diver student?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Responsible Diver Code",
+      "c": "Medical Participant Questionnaire",
+      "d": "Final exam"
+    },
+    "correct": "a",
+    "explanation": "OWD pre-cert checklist all three: (b) Responsible Diver Code — student acknowledges the diver-code obligations; (c) Medical Participant Questionnaire — pre-water medical gate (mssi-inst-195); (d) Final exam — cognitive-domain assessment (mssi-inst-120). Plus skill performance, of course. Skipping any of the paperwork three is a hard fail.",
+    "source": "mySSI: ITC Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-inst-201",
+    "area": "instructor",
+    "subarea": "Professional Standards — Training Standards",
+    "question": "SSI Training Standards:",
+    "options": {
+      "a": "Apply to SSI training programs, SSI Training Centers, and SSI Professionals",
+      "b": "Protect SSI Professionals who are negligent",
+      "c": "Only apply to SSI training programs",
+      "d": "Are written by the regional SSI Service Center"
+    },
+    "correct": "a",
+    "explanation": "Standards have three-layered scope: WHAT is taught (programs), HOW it's run (TCs), and WHO delivers it (Pros). Each layer has its own section but they form one coherent compliance system. (b) is wrong and dangerous — Standards explicitly do NOT shield negligent Pros; documented negligence ends in expelled status. (c) drops the TC and Pro layers. (d) Standards are owned by SSI HQ; Service Centers translate / distribute, they don't author.",
+    "source": "mySSI: ITC Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-inst-202",
+    "area": "instructor",
+    "subarea": "Methodology — Forms & Paperwork",
+    "question": "The SSI Recreational Scuba Training Assumption of Risk, Liability Release, & Hold Harmless Agreement:",
+    "options": {
+      "a": "Describes the responsibilities of the instructor and student",
+      "b": "Describes the risks associated with in-water activities",
+      "c": "All answers are correct",
+      "d": "Describes the medical requirements for participating in training"
+    },
+    "correct": "b",
+    "explanation": "Assumption of Risk + Liability Release form is laser-focused on the risks of diving — drowning, decompression illness, barotrauma, equipment failure, marine life injuries. By signing, the student acknowledges these risks and agrees not to hold SSI / TC / Pro liable for inherent (non-negligent) injuries. Responsibilities (a) live in the Responsible Diver Code; medical clearance (d) is the Medical Participant Questionnaire — both separate documents.",
+    "source": "mySSI: ITC Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-inst-203",
+    "area": "instructor",
+    "subarea": "Methodology — Forms & Paperwork",
+    "question": "The Responsible Diver Code:",
+    "options": {
+      "a": "Describes the medical requirements for participating in training",
+      "b": "All answers are correct",
+      "c": "Describes the risks associated with diving activities",
+      "d": "Describes the expectations for how a diver behaves"
+    },
+    "correct": "d",
+    "explanation": "The Responsible Diver Code spells out behavioural commitments — dive within training and certification limits, equalise early and often, plan the dive and dive the plan, use the buddy system, respect the environment (no-touch / no-take), keep current with skills. Each form has a single tight focus: medical = Medical Questionnaire (mssi-inst-195), risks = Liability Release (mssi-inst-202), behaviour = Responsible Diver Code. (b) all-correct collapses the role-separation.",
+    "source": "mySSI: ITC Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-inst-204",
+    "area": "instructor",
+    "subarea": "Methodology — Pre-Course Setup",
+    "question": "What should your students complete before their first training session?",
+    "options": {
+      "a": "Training record, program registration, water fitness evaluation, app download",
+      "b": "Program registration, orientation, water fitness evaluation, travel planning",
+      "c": "Schedule open water dives, water fitness evaluation, course survey",
+      "d": "Program orientation, training record, program registration, app download"
+    },
+    "correct": "d",
+    "explanation": "Pre-session onboarding bundle: (1) program orientation — student knows what they're enrolling in; (2) training record setup — paperwork started; (3) program registration — officially enrolled in MySSI; (4) MySSI app downloaded — ready for offline materials. Distractors mix in out-of-scope items: water fitness eval is normally part of the first in-water session (a, b); travel planning (b) is irrelevant; OW dive scheduling and course survey (c) are mid- or post-course tasks.",
+    "source": "mySSI: ITC Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-inst-205",
+    "area": "instructor",
+    "subarea": "Methodology — Instructor Manual",
+    "question": "Instructor manuals:",
+    "options": {
+      "a": "Are located in the MyDownload section of the app",
+      "b": "Must be viewed in the MySSI DivePro app",
+      "c": "Are integrated into student materials",
+      "d": "Must be purchased separately"
+    },
+    "correct": "c",
+    "explanation": "Instructor manuals are structurally integrated with student digital materials — each lesson in the manual mirrors the corresponding student lesson, so the Pro can teach in lock-step with what the student is reading. That same-shape design lets the instructor reference any slide/page the student sees. (a) is too vague (manuals download from Training, not a separate 'MyDownload'). (b) wrong app name and viewer is not restricted. (d) false — manuals are part of the Pro materials package, not extra-cost.",
+    "source": "mySSI: ITC Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-inst-206",
+    "area": "instructor",
+    "subarea": "Methodology — Pro Presentation",
+    "question": "What should you do when meeting students for the first time?",
+    "options": {
+      "a": "Intimidate them so they respect you",
+      "b": "Be positive and confident",
+      "c": "Tell them they must purchase a Total Diving System",
+      "d": "Avoid answering their questions until you know them better"
+    },
+    "correct": "b",
+    "explanation": "First-impression objective is to build trust and lower student anxiety while signalling you know what you're doing. Positive + confident does both. (a) intimidation kills psychological safety — students who fear you don't ask questions when they need help in the water. (c) hard-sell on day one breaks the relationship. (d) avoiding questions undermines the mentor role.",
+    "source": "mySSI: ITC Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-inst-207",
+    "area": "instructor",
+    "subarea": "Professional Standards — Training Centers",
+    "question": "The training center will usually:",
+    "options": {
+      "a": "Require you to determine the open water training location",
+      "b": "Allow the students to set their own training schedule",
+      "c": "Schedule times and locations for your training sessions",
+      "d": "Require you to decide when and where to conduct training"
+    },
+    "correct": "c",
+    "explanation": "Standard division of labour at an SSI Training Center: the TC owns scheduling, site selection, logistics and resource booking; the Pro owns instruction. The Flexibility Rule lets the Pro adapt delivery within those bounds, but the TC sets the calendar and locations because they coordinate boats, classroom space, equipment and student groupings. (a) and (d) over-load Pros with admin; (b) student-set schedules break planning entirely.",
+    "source": "mySSI: ITC Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-inst-208",
+    "area": "instructor",
+    "subarea": "Methodology — Certification Processing",
+    "question": "When does a student's certification become official?",
+    "options": {
+      "a": "Once the certification is processed in MySSI",
+      "b": "Once the student completes the minimum academic training",
+      "c": "Once the student signs the training record",
+      "d": "Once the student completes all required in-water training"
+    },
+    "correct": "a",
+    "explanation": "(b), (c) and (d) are all PREREQUISITES for the cert but none of them issues it. The certification only exists once the Pro/TC processes it through MySSI — that's when SSI HQ recognises the rating and the diver gets their digital cert card. Until processing, the student is 'pending' even if every in-water and paperwork step is complete. Memory hook: training ≠ certification — processing is the gate.",
+    "source": "mySSI: ITC Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-inst-209",
+    "area": "instructor",
+    "subarea": "Methodology — MySSI",
+    "question": "Professionals have ____ for programs they can teach.",
+    "options": {
+      "a": "Access to only the professional materials",
+      "b": "Access to only the student materials",
+      "c": "Unlimited access to all student and professional materials",
+      "d": "Access to all materials for one year"
+    },
+    "correct": "c",
+    "explanation": "For any program the Pro is rated to teach, MySSI grants unlimited access to BOTH layers: student materials (so the Pro sees exactly what their students see) and Pro materials (instructor manuals, exams, lesson plans, presentation aids). No time-cap and no half-access — both decks are open as long as the rating is active. (d) one-year limit is a distractor borrowed from other systems; SSI doesn't operate that way.",
+    "source": "mySSI: ITC Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-inst-210",
+    "area": "instructor",
+    "subarea": "Methodology — Adult learners",
+    "question": "Learning your student's ____ will help you ____.",
+    "options": {
+      "a": "Goals, adapt the class to their needs",
+      "b": "Abilities, skip pool/confined water training",
+      "c": "Skills, focus on open water training",
+      "d": "All answers are correct"
+    },
+    "correct": "a",
+    "explanation": "Adult-learner principle (Lesson 1.2 callback): knowing the student's GOALS lets you connect every drill back to what they personally want to do — destination diving, photography, drysuit work — and adapt pacing and emphasis. (b) is dangerously wrong: standards-required content cannot be skipped on the basis of perceived ability. (c) underuses skill information — assessing skills helps you brief the right safety stops, not redirect the curriculum. (d) all-correct includes the bad answers.",
+    "source": "mySSI: ITC Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-inst-211",
+    "area": "instructor",
+    "subarea": "Methodology — Pre-Course Setup",
+    "question": "When should you first review the student training records?",
+    "options": {
+      "a": "After the first pool/confined water session",
+      "b": "After the first open water training dive",
+      "c": "Before the first training session",
+      "d": "Before issuing the certification"
+    },
+    "correct": "c",
+    "explanation": "Records review is a pre-flight check — verify medical clearance, prerequisites, prior certifications, and any accommodation flags BEFORE the student steps near the water. Catching a missing prereq or a flagged medical post-hoc (a, b, d) is too late: the student has already been exposed to risk. Memory hook: read records before you brief.",
+    "source": "mySSI: ITC Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-inst-212",
+    "area": "instructor",
+    "subarea": "Methodology — Pre-Course Setup",
+    "question": "How should you prepare for the first academic training session?",
+    "options": {
+      "a": "Preprint certification cards and diplomas",
+      "b": "All answers are correct",
+      "c": "Plan the open water training dives",
+      "d": "Review the student and instructor materials"
+    },
+    "correct": "d",
+    "explanation": "Specific prep for the FIRST academic session = re-read both the student and instructor materials so you know exactly what content the student will see and where the instructor manual hooks in. (a) preprinting cert cards is wildly premature — the student hasn't been trained yet. (c) OW dives are weeks ahead and aren't the focus of session-one prep. (b) all-correct includes the premature items.",
+    "source": "mySSI: ITC Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-inst-213",
+    "area": "instructor",
+    "subarea": "Professional Standards — QMS",
+    "question": "When a QMS Alert is created:",
+    "options": {
+      "a": "The SSI Professional is automatically set in review status",
+      "b": "An email is automatically sent to the training center and SSI Professional for clarification",
+      "c": "An email is automatically sent to the SSI Professional and student for clarification",
+      "d": "The student's certification is automatically revoked"
+    },
+    "correct": "b",
+    "explanation": "QMS Alert workflow is communication-first: SSI sends an email to the TC and the Pro asking for clarification on the flagged issue, with a chance to respond before any escalation. (a) and (d) are over-automated punitive responses that bypass due process. (c) addresses the wrong party — the student is typically shielded from internal QMS exchanges so they don't get pulled into a process that may resolve harmlessly.",
+    "source": "mySSI: ITC Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-inst-214",
+    "area": "instructor",
+    "subarea": "Professional Standards — QMS",
+    "question": "SSI QMS Committees:",
+    "options": {
+      "a": "Annually review all QMS Alerts",
+      "b": "Only review verbal complaints",
+      "c": "Review all complaints filed against a training center or SSI Professional",
+      "d": "Only review formal written complaints"
+    },
+    "correct": "d",
+    "explanation": "QMS Committees are the formal escalation body — they only consider written, documented complaints with a clear audit trail. Verbal or informal grievances are filtered out earlier (handled by the TC, regional Service Center, or via QMS Alerts) so the Committee can focus on substantive cases. (a) annual review is wrong — alerts are processed as they come, not batched. (c) 'all complaints' would flood the Committee with casual issues better resolved closer to source.",
+    "source": "mySSI: ITC Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-inst-215",
+    "area": "instructor",
+    "subarea": "Professional Standards — QMS",
+    "question": "The SSI QMS provides:",
+    "options": {
+      "a": "A feedback system for the SSI Training Standards",
+      "b": "A way for SSI International to monitor Service Centers",
+      "c": "A quality monitoring and compliance program for training centers",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "QMS is purpose-built TC-level quality assurance: audits, alerts, complaint handling, internal monitoring of standards-compliance. (a) is out of scope — Training Standards are owned and revised by SSI HQ, not via QMS feedback. (b) wrong direction — HQ doesn't use QMS to police Service Centers; QMS focuses downward at TCs and Pros. (d) all-correct includes both wrong-scope options.",
+    "source": "mySSI: ITC Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-inst-216",
+    "area": "instructor",
+    "subarea": "Professional Standards — QMS",
+    "question": "The QMS surveys are initially sent for:",
+    "options": {
+      "a": "Direct feedback from Service Centers",
+      "b": "Direct feedback from training centers",
+      "c": "Direct feedback from students",
+      "d": "Anecdotal evidence to determine an SSI Professional's performance"
+    },
+    "correct": "c",
+    "explanation": "QMS surveys go to STUDENTS post-certification — they're the customers and the primary source of unbiased feedback on training quality. SCs (a) and TCs (b) are the SUBJECTS of QMS oversight, not the survey respondents — surveying them about themselves would defeat the purpose. (d) anecdotal evidence is the opposite of a structured survey instrument.",
+    "source": "mySSI: ITC Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-inst-217",
+    "area": "instructor",
+    "subarea": "Professional Standards — QMS",
+    "question": "Which of the following is a duty of the Training Center QMS Manager?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Assist students with their feedback questionnaires",
+      "c": "Set training center policy for training standards",
+      "d": "Ensure compliance and review student feedback"
+    },
+    "correct": "d",
+    "explanation": "Core QMS Manager remit at the TC: track standards-compliance across the centre, review incoming student feedback for trends and red flags, run internal audits, escalate when needed. (b) is wrong — surveys go directly to students with no TC intermediary (independence of feedback). (c) is wrong — Standards are HQ-owned; the QMS Manager enforces them, doesn't 'set policy' for them. (a) all-correct includes the bad answers.",
+    "source": "mySSI: ITC Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-inst-218",
+    "area": "instructor",
+    "subarea": "Professional Standards — QMS",
+    "question": "Who should be the Training Center QMS Manager?",
+    "options": {
+      "a": "Anyone, as long as they are older than 18 years",
+      "b": "Only a non-diving staff member",
+      "c": "Any staff member of the training center",
+      "d": "The most experienced SSI Professional on staff"
+    },
+    "correct": "d",
+    "explanation": "QMS Manager needs both deep standards expertise AND authority over fellow Pros — the most senior SSI Pro on staff (typically an Instructor Trainer, Master Instructor or experienced OWI). They can recognise edge-case standards questions, audit other Pros constructively, and represent the TC credibly to SSI HQ. (b) non-diving lacks the background. (a) and (c) drop qualification entirely.",
+    "source": "mySSI: ITC Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-inst-219",
+    "area": "instructor",
+    "subarea": "Professional Standards — QMS",
+    "question": "QMS Alerts are created when:",
+    "options": {
+      "a": "There are too many students in the academic sessions",
+      "b": "There is a possible SSI Training Standards violation",
+      "c": "A student is shallower than the minimum depth",
+      "d": "A student is unhappy with their training experience"
+    },
+    "correct": "b",
+    "explanation": "QMS Alert is the system-level flag for any POSSIBLE Standards violation — automated detection of anomalies in MySSI data (ratios out of range, depth profile breach, prereq missing, processing delays). (a) and (c) are specific examples of what could trigger an alert, but the general definition is the violation itself. (d) student dissatisfaction goes via the QMS survey/complaint path, not automated alerts.",
+    "source": "mySSI: ITC Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-inst-220",
+    "area": "instructor",
+    "subarea": "Professional Standards — QMS",
+    "question": "You should respond to QMS Alerts:",
+    "options": {
+      "a": "With a phone call to the Service Center",
+      "b": "By using the QMS",
+      "c": "With an email to the student",
+      "d": "With a formal email to the Service Center"
+    },
+    "correct": "b",
+    "explanation": "Responses must go through the QMS system itself — that keeps the audit trail intact and ensures the right reviewers see the response in context. (a) a phone call leaves no record. (c) the student isn't a party to internal QMS workflow. (d) an off-channel email lands outside the formal record system. Memory hook: alerts in the system → responses in the system.",
+    "source": "mySSI: ITC Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-inst-221",
+    "area": "instructor",
+    "subarea": "Professional Standards — QMS",
+    "question": "Which of the following is a purpose of the QMS?",
+    "options": {
+      "a": "Reduce liability",
+      "b": "All answers are correct",
+      "c": "Improve customer satisfaction",
+      "d": "Increase safety and ensure compliance"
+    },
+    "correct": "b",
+    "explanation": "QMS pursues all three goals simultaneously: (a) reduce liability — proper records and standards-compliance defend the Pro/TC/SSI in incidents; (c) improve customer satisfaction — student surveys feed quality improvement loops; (d) increase safety and ensure compliance — the core mission, audits + alerts catch standards drift. They reinforce each other; the system isn't designed around just one.",
+    "source": "mySSI: ITC Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-inst-222",
+    "area": "instructor",
+    "subarea": "Methodology — Academic Sessions",
+    "question": "Every academic session should include a(n):",
+    "options": {
+      "a": "Field trip to the retail floor",
+      "b": "Evaluation of the student's understanding",
+      "c": "Exam covering the academic material",
+      "d": "Evaluation of the student's skills"
+    },
+    "correct": "b",
+    "explanation": "Formative assessment is built into every academic session — questioning, scenario discussion, mini-quizzes, asking students to summarise. Skipping it means you don't know what stuck. (a) retail visits are optional and not per-session. (c) the formal final exam comes once at the end of the program, not after every session. (d) skill evaluation lives in pool/confined and OW, not the classroom.",
+    "source": "mySSI: ITC Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-inst-223",
+    "area": "instructor",
+    "subarea": "Methodology — Academic Sessions",
+    "question": "Academic sessions evaluate student knowledge and:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Evaluate basic diving skills",
+      "c": "Connect to real-world diving experiences",
+      "d": "Demonstrate in-water expectations"
+    },
+    "correct": "c",
+    "explanation": "Academic sessions = theory + relevance (Lesson 1.2 adult-learner callback): every cognitive concept must connect back to real diving. Boyle's law is meaningless until the student feels how mask squeeze hits at 5 m. (b) skill evaluation lives in pool/confined or OW. (d) demonstrating in-water expectations is too narrow — academic ties theory to the broader diving experience, not just the next pool session.",
+    "source": "mySSI: ITC Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-inst-224",
+    "area": "instructor",
+    "subarea": "Professional Standards — Diver Diamond",
+    "question": "The Diver Diamond should be used to:",
+    "options": {
+      "a": "Teach as much information as possible",
+      "b": "Create need in the students",
+      "c": "All answers are correct",
+      "d": "Intimidate students into buying equipment"
+    },
+    "correct": "b",
+    "explanation": "The Diver Diamond is a needs-recognition framework — show the student all six components (Knowledge, Skills, Equipment, Experience, Responsibility, Environment) and they recognise their own gaps and want to fill them (next specialty, own gear, more dives). It's soft-sell through self-awareness. (a) info-dumping defeats the framework's clarity. (d) intimidation contradicts SSI ethics. (c) all-correct includes the negative path.",
+    "source": "mySSI: ITC Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-inst-225",
+    "area": "instructor",
+    "subarea": "Methodology — Forms & Paperwork",
+    "question": "Final written exams are available in the:",
+    "options": {
+      "a": "The MySSI app",
+      "b": "Download area of a professional MySSI account",
+      "c": "SSI Service Center's website",
+      "d": "Instructor manual"
+    },
+    "correct": "b",
+    "explanation": "Final written exams sit in the Pro download area inside the MySSI Pro account — alongside instructor manuals, lesson plans and presentation aids. Pairs with mssi-inst-185 (downloads live in the Training section). (a) is too broad — the app surfaces materials but not the printable exam set. (c) Service Centers don't host exams. (d) manuals and exams are separate files, not bundled.",
+    "source": "mySSI: ITC Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-inst-226",
+    "area": "instructor",
+    "subarea": "Methodology — Pro Presentation",
+    "question": "You can improve your delivery method by:",
+    "options": {
+      "a": "Practicing in private",
+      "b": "Letting another instructor speak",
+      "c": "Asking the students for advice",
+      "d": "Avoiding speaking until the actual presentation"
+    },
+    "correct": "a",
+    "explanation": "Rehearsal — mirror, recording, friend or partner as test audience — is the standard way to refine pacing, clarity and timing before facing students. (b) hands the work to someone else; you don't improve. (c) students aren't presentation coaches and the question isn't about content accuracy. (d) cold-starting on the day is the worst possible delivery strategy.",
+    "source": "mySSI: ITC Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-inst-227",
+    "area": "instructor",
+    "subarea": "Methodology — Pro Presentation",
+    "question": "Your presentation must include:",
+    "options": {
+      "a": "Clear and measurable objectives",
+      "b": "All answers are correct",
+      "c": "A discussion of environmental or safe diving practices",
+      "d": "Safe and accurate information"
+    },
+    "correct": "b",
+    "explanation": "Three pillars of an SSI academic presentation, all required: (a) SMART objectives — students leave knowing what they were supposed to learn and how it'll be measured; (c) environment + safe-diving practices — every session reinforces the Diver Code and conservation; (d) safe and accurate technical information — non-negotiable, errors propagate into in-water risk. Skipping any one breaks the standard.",
+    "source": "mySSI: ITC Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-inst-228",
+    "area": "instructor",
+    "subarea": "Methodology — Training Aids",
+    "question": "Training aids that are specific to the topic:",
+    "options": {
+      "a": "Should not be used at all",
+      "b": "Should only be used during in-water training",
+      "c": "Should be provided by the students",
+      "d": "Enhance the content of the presentation"
+    },
+    "correct": "d",
+    "explanation": "Visual and tactile training aids — cut-away regulator, depth gauge cross-section, compass model, gas mix bottles, dive table laminate — anchor abstract concepts in something concrete and improve retention (multi-modal encoding). (a) and (b) ignore the academic-room benefit. (c) is wrong — Pros bring training aids; the student arrives with their own personal gear, not the curriculum kit.",
+    "source": "mySSI: ITC Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-inst-229",
+    "area": "instructor",
+    "subarea": "Methodology — Pro Presentation",
+    "question": "Every presentation should have a(n):",
+    "options": {
+      "a": "Introduction, field trip, group discussion",
+      "b": "Introduction, body, summary",
+      "c": "Skill demonstration, practice time, summary",
+      "d": "Small group discussion, practice time, summary"
+    },
+    "correct": "b",
+    "explanation": "Classic three-part presentation structure — tell them what you'll tell them (introduction), tell them (body), tell them what you told them (summary). The structure works because it primes attention up front, delivers content, then anchors retention. (a), (c) and (d) mix in-water or activity elements (skill demo, practice time, field trip) into what should be a clean academic-presentation arc.",
+    "source": "mySSI: ITC Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-inst-230",
+    "area": "instructor",
+    "subarea": "Methodology — Academic Sessions",
+    "question": "Each academic session should ____ the digital learning materials.",
+    "options": {
+      "a": "Only review any missed questions from",
+      "b": "Supplement",
+      "c": "Ignore",
+      "d": "Repeat"
+    },
+    "correct": "b",
+    "explanation": "Pivotal SSI methodology principle: digital materials handle the rote knowledge transfer (definitions, illustrations, mechanics), and the in-room instructor SUPPLEMENTS with real-world examples, local conditions, demonstrations, scenario discussion, Q&A. (d) repeating is a waste of student time — they already covered it. (c) ignoring breaks continuity. (a) only reviewing missed questions is too narrow — sessions also enrich the content the student got right.",
+    "source": "mySSI: ITC Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-inst-231",
+    "area": "instructor",
+    "subarea": "Professional Standards — Distance Learning",
+    "question": "What programs can be completed using distance learning?",
+    "options": {
+      "a": "Diving Knowledge Specialties",
+      "b": "All specialty programs",
+      "c": "Pool/Confined Water Specialties",
+      "d": "Dedicated Equipment Specialties"
+    },
+    "correct": "a",
+    "explanation": "Diving Knowledge Specialties are theory-only programs — Marine Ecology, Stress & Rescue Knowledge, Shark Ecology, Wreck Knowledge — and can be completed end-to-end online with no in-water requirement. (b) is too broad: anything requiring water work or equipment handling cannot be fully remote. (c) and (d) explicitly need physical presence (pool sessions, hands-on equipment skills).",
+    "source": "mySSI: ITC Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-inst-232",
+    "area": "instructor",
+    "subarea": "Methodology — Assessment",
+    "question": "The final exam:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Must be stored in the student's training record",
+      "c": "Must be signed by both student and instructor",
+      "d": "Must be completed by each student"
+    },
+    "correct": "a",
+    "explanation": "Three hard final-exam requirements: (b) stored in the training record — audit trail for cert validation; (c) dual signature student + instructor — consistent with mssi-inst-198 (records require both); (d) completed individually by each student — no group exams, the assessment is a per-person cognitive check. Skipping any one breaks SSI standards and the cert can't be processed.",
+    "source": "mySSI: ITC Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-inst-233",
+    "area": "instructor",
+    "subarea": "Methodology — Pro Presentation",
+    "question": "Properly preparing for a presentation:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Keeps you within the time limit",
+      "c": "Keeps you focused on the subject",
+      "d": "Ensures the key points are discussed"
+    },
+    "correct": "a",
+    "explanation": "Three independent preparation benefits, all true: (b) time discipline — pre-rehearsed lessons don't run long and steal the next session's slot; (c) topical focus — you don't drift into tangents; (d) key-point coverage — nothing critical is forgotten in the moment. 'Fail to prepare = prepare to fail' applies to instruction as much as anything.",
+    "source": "mySSI: ITC Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-inst-234",
+    "area": "instructor",
+    "subarea": "Methodology — Active learning",
+    "question": "Active learning is:",
+    "options": {
+      "a": "Any presentation that uses slides to highlight key points",
+      "b": "Any learning activity that gets students interacting with each other and engaged with the course material",
+      "c": "A structured teaching presentation that transfers information from the instructor to the students",
+      "d": "A structured presentation that ends with a digital learning reading assignment"
+    },
+    "correct": "b",
+    "explanation": "Active learning = students DOING something with the material (discussion, problem-solving, peer-teaching, scenario role-play) rather than passively receiving it. (a) slides alone are still presentation. (c) is the textbook definition of PASSIVE / lecture-style transfer. (d) reading assignment is solo passive too. Retention and transfer-to-water are dramatically higher with active methods.",
+    "source": "mySSI: ITC Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-inst-235",
+    "area": "instructor",
+    "subarea": "Methodology — Active learning",
+    "question": "Active learning sessions are structured to:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Provide students with multiple opportunities for structured engagement",
+      "c": "Address the short attention span of students during a lecture",
+      "d": "Divide a traditional lecture into shorter lectures separated by active learning activities"
+    },
+    "correct": "a",
+    "explanation": "Three structural purposes, all true: (b) repeated engagement points drill the material in deeper than a one-shot lecture; (c) attention spans in lecture mode are ~8–12 minutes — beyond that, retention plummets; (d) chunking the lecture into shorter blocks separated by activities (think-pair-share, brief problems, demos) keeps re-engagement happening before attention drifts. The structure is the mechanism.",
+    "source": "mySSI: ITC Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-inst-236",
+    "area": "instructor",
+    "subarea": "Methodology — Training Aids",
+    "question": "Technology like television screens and a wireless internet connection:",
+    "options": {
+      "a": "Must be used to conduct active learning activities",
+      "b": "Can enhance your students' learning experience",
+      "c": "Are required by the SSI Training Standards",
+      "d": "Should only be used to motivate bored students"
+    },
+    "correct": "b",
+    "explanation": "Tech = enabler, not requirement. Big screens, wifi, online resources help when used well, but a great Pro can teach a complete OWD class with a whiteboard and real diving gear. (a) over-prescribes. (c) Standards specify outcomes and content, not which tech tools must be present. (d) frames tech as a last-ditch attention-grabber, which understates its real role.",
+    "source": "mySSI: ITC Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-inst-237",
+    "area": "instructor",
+    "subarea": "Methodology — Active learning",
+    "question": "Which of the following statements best describes the role of the instructor in an active learning session?",
+    "options": {
+      "a": "The instructor presents the information on the topic and summarizes the lecture by asking a series of questions",
+      "b": "The instructor stands in front of the class and uses slides to highlight key points of the topic",
+      "c": "The instructor talks, and the students listen to the information presented",
+      "d": "The instructor facilitates the learning process by using student-centered activities"
+    },
+    "correct": "d",
+    "explanation": "Active learning role-shift: instructor moves from sage-on-the-stage (lecturer) to guide-on-the-side (facilitator) — designing and running student-centred activities (think-pair-share, peer-teaching, scenarios) where students do the cognitive work. Callback to Lesson 1.2 adult-learner autonomy (mssi-inst-109). (a), (b) and (c) all describe lecturer-centric, one-way information transfer.",
+    "source": "mySSI: ITC Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-inst-238",
+    "area": "instructor",
+    "subarea": "Methodology — Active learning",
+    "question": "The purpose of conducting an active learning session is to:",
+    "options": {
+      "a": "Ensure students complete all digital learning assignments",
+      "b": "Actively involve students in the learning process by facilitating activities that encourage the students to discover, process, and apply information",
+      "c": "All answers are correct",
+      "d": "Ensure the transfer of information from the students to the instructor so they both possess the same knowledge"
+    },
+    "correct": "b",
+    "explanation": "Three cognitive verbs that define active learning: DISCOVER (find a question or problem themselves), PROCESS (analyse, discuss, restructure), APPLY (use it on a new scenario). The Pro facilitates that arc. (a) is a narrow assignment check, not the purpose. (d) is nonsense direction-wise — info doesn't flow student-to-instructor. (c) all-correct includes both bad answers.",
+    "source": "mySSI: ITC Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-inst-239",
+    "area": "instructor",
+    "subarea": "Methodology — Active learning",
+    "question": "Which statement best describes how to arrange a typical active learning classroom?",
+    "options": {
+      "a": "A podium in front of the room with student tables/chairs facing the podium",
+      "b": "Small round tables that accommodate groups of 3-4 students with adequate space for the instructor to move freely around the room",
+      "c": "An instructor station on one side of the room, with student tables/chairs facing a projector screen or video monitor in the front of the room",
+      "d": "An instructor station at the front of the classroom and student tables/chairs facing the instructor"
+    },
+    "correct": "b",
+    "explanation": "Active learning needs collaborative geometry: small round tables (3-4 students) so peers can face each other for discussion + room for the instructor to circulate among groups. (a), (c) and (d) are all classic LECTURE arrangements — students face front, no peer interaction, instructor stuck up front. The room layout signals what kind of class it is.",
+    "source": "mySSI: ITC Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-inst-240",
+    "area": "instructor",
+    "subarea": "Methodology — Active learning",
+    "question": "Which active learning activity requires students to have completed the digital learning materials?",
+    "options": {
+      "a": "Peer Instruction",
+      "b": "Field Trip",
+      "c": "Group Discussion",
+      "d": "Think-Pair-Share"
+    },
+    "correct": "a",
+    "explanation": "Peer Instruction = students teach each other, which requires they've already studied the material — without prior digital learning, there's nothing to explain. The other formats can work with thinner prep: (b) field trips show concepts in context, (c) group discussion can build understanding from limited prior knowledge, (d) Think-Pair-Share works with any starting point. Peer Instruction explicitly assumes the material is already in their heads.",
+    "source": "mySSI: ITC Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-inst-241",
+    "area": "instructor",
+    "subarea": "Methodology — Active learning",
+    "question": "Which active learning activity requires students to determine an answer to a problem that may have many correct answers?",
+    "options": {
+      "a": "Peer Instruction",
+      "b": "Problem-Solving",
+      "c": "Field Trip",
+      "d": "Small Group Discussion"
+    },
+    "correct": "b",
+    "explanation": "Problem-Solving is the open-ended activity by definition — pose a scenario (plan a dive for these conditions; choose gear for this trip; respond to this skill failure) and accept multiple defensible solutions depending on priorities. (a) Peer Instruction often has a single right answer that the peer-teacher conveys. (c) Field Trip is observational. (d) Group Discussion can be open or closed but doesn't centre on solving a problem.",
+    "source": "mySSI: ITC Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-inst-242",
+    "area": "instructor",
+    "subarea": "Methodology — Active learning",
+    "question": "Which active learning activity requires students to provide an immediate response to a question?",
+    "options": {
+      "a": "Think-Pair-Share",
+      "b": "Group Polling",
+      "c": "Field Trip",
+      "d": "Problem-Solving"
+    },
+    "correct": "b",
+    "explanation": "Group Polling = instant feedback by show of hands, ABCD cards, or clicker — immediate, in-the-moment. (a) Think-Pair-Share deliberately introduces a Pair / discussion delay before the share-out. (c) Field Trip is observational and slow-tempo. (d) Problem-Solving needs reasoning time. Polling is the snap-judgement format.",
+    "source": "mySSI: ITC Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-inst-243",
+    "area": "instructor",
+    "subarea": "Methodology — Active learning",
+    "question": "Which active learning activity takes students out of the classroom into the retail floor, travel center, or service center?",
+    "options": {
+      "a": "Group Discussion",
+      "b": "Field Trip",
+      "c": "Peer Instruction",
+      "d": "Think-Pair-Share"
+    },
+    "correct": "b",
+    "explanation": "Field Trip = leave the classroom, see concepts in their applied context. SSI Field Trips often go to the retail floor (gear in real form-factor), travel centre (destination programs), service centre (equipment maintenance) — making the link between curriculum and the wider centre offerings. The other three are all in-classroom formats.",
+    "source": "mySSI: ITC Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-inst-244",
+    "area": "instructor",
+    "subarea": "Methodology — Active learning",
+    "question": "Which active learning activity allows the students to debate ideas and opinions with the rest of the class?",
+    "options": {
+      "a": "Group Polling",
+      "b": "No answer is correct",
+      "c": "Group Discussion",
+      "d": "Field Trip"
+    },
+    "correct": "c",
+    "explanation": "Group Discussion is the open-floor format where students debate, defend positions and exchange opinions across the whole class, with the Pro facilitating. (a) Group Polling captures positions but doesn't open them for argument. (d) Field Trip is observational. (b) 'No answer is correct' is a typical mySSI distractor; ignore it when one option clearly fits.",
+    "source": "mySSI: ITC Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-inst-245",
+    "area": "instructor",
+    "subarea": "Methodology — Active learning",
+    "question": "What factors affect which active learning activity you should use?",
+    "options": {
+      "a": "Subject matter, resources, length of the program",
+      "b": "Student experience level, size of the dive site, student age",
+      "c": "Training environment, student age, length of the program",
+      "d": "Training environment, subject matter, and resources"
+    },
+    "correct": "d",
+    "explanation": "Three pragmatic dials: TRAINING ENVIRONMENT (classroom layout, indoor/outdoor, equipment available), SUBJECT MATTER (theory vs equipment vs scenario topics suit different formats), and RESOURCES (time, tech, number of assistants). Distractors smuggle in factors that matter for OTHER decisions (student age, dive site size, program length) but aren't primary drivers of which active-learning format fits.",
+    "source": "mySSI: ITC Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-inst-246",
+    "area": "instructor",
+    "subarea": "Methodology — Pro Responsibility",
+    "question": "Which of the following is your responsibility?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Having your students practice their skills after certification",
+      "c": "Ensuring safety and comfort during training",
+      "d": "Ensuring that your students are challenged by their training"
+    },
+    "correct": "c",
+    "explanation": "Primary Pro responsibility = safety + comfort during training. That's the irreducible duty in every session. (b) post-cert skill practice is the diver's own responsibility — once certified, they own their currency. (d) being 'challenged' is a nice-to-have but not the safety/comfort core. (a) all-correct sweeps in (b) which isn't your duty.",
+    "source": "mySSI: ITC Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-inst-247",
+    "area": "instructor",
+    "subarea": "Methodology — Skill teaching",
+    "question": "How can you make a complicated demonstration easier to understand?",
+    "options": {
+      "a": "Include as much information as possible in the demonstration",
+      "b": "Separate it into smaller pieces",
+      "c": "Go through it as fast as possible",
+      "d": "Allow students to practice before giving the demonstration"
+    },
+    "correct": "b",
+    "explanation": "Chunking principle: break a complex skill into small sub-steps, demonstrate each one cleanly, let students master each before combining. The brain encodes 3-4 chunks at a time, not 15-step procedures. (a) info-overload defeats comprehension. (c) speed sacrifices detail and causes errors. (d) is out of order — students need to see the correct technique BEFORE attempting it, otherwise they practice their misunderstandings.",
+    "source": "mySSI: ITC Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-inst-248",
+    "area": "instructor",
+    "subarea": "Methodology — Risk Management",
+    "question": "What is a source for managing risk for a professional?",
+    "options": {
+      "a": "Incident management plan",
+      "b": "Training Center QMS Manager",
+      "c": "Training center instructors",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Three layers of risk-management support a Pro can lean on: (a) the TC's documented Incident Management Plan — pre-built response procedures for emergencies; (b) the QMS Manager — standards-compliance and risk-control advice (mssi-inst-217); (c) other TC instructors — peer experience and mentorship for edge cases. None replaces in-water judgement, but together they're a layered safety net.",
+    "source": "mySSI: ITC Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-inst-249",
+    "area": "instructor",
+    "subarea": "Methodology — Risk Management",
+    "question": "Which of the following is a helpful resource for making decisions and evaluating risk?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Other SSI Professionals",
+      "c": "Training center staff",
+      "d": "Incident management plan"
+    },
+    "correct": "a",
+    "explanation": "Mirror of mssi-inst-248 with slightly different wording: (b) other SSI Pros bring peer wisdom and pattern recognition from past dives; (c) TC staff have situational awareness of weather, conditions, current students; (d) the Incident Management Plan locks in the right response when adrenaline crowds out thought. All three are legitimate decision-support resources.",
+    "source": "mySSI: ITC Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-inst-250",
+    "area": "instructor",
+    "subarea": "Methodology — Skill teaching",
+    "question": "Once students are proficient in a skill:",
+    "options": {
+      "a": "Allow them to self-correct mistakes",
+      "b": "Continue to supervise them closely",
+      "c": "Allow them to teach other students",
+      "d": "Do not provide any additional feedback"
+    },
+    "correct": "a",
+    "explanation": "Adult-learner autonomy callback (Lesson 1.2 — mssi-inst-109): once a student has mastered a skill, hand them ownership of improvement — small mistakes become opportunities to self-correct rather than instructor-fix moments. Pro role shifts from micromanagement to oversight. (b) close supervision breeds dependency. (c) students don't have teaching authority. (d) ongoing feedback never stops, just changes shape.",
+    "source": "mySSI: ITC Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-inst-251",
+    "area": "instructor",
+    "subarea": "Methodology — Diver Development",
+    "question": "An autonomous diver has the skills, knowledge, and experience to:",
+    "options": {
+      "a": "Dive without supervision from an instructor",
+      "b": "Teach basic skills to their dive buddy",
+      "c": "Dive without a dive buddy or dive professional",
+      "d": "Dive in any environmental conditions or depths"
+    },
+    "correct": "c",
+    "explanation": "In SSI parlance an 'autonomous' (Independent / Solo) diver has the skills, equipment redundancy and experience to dive without a buddy — that's the unique characteristic. (a) any certified OWD dives without instructor supervision, so it's not specific to autonomous. (b) teaching is Pro authority, never granted to a diver. (d) certifications always come with depth/environment limits — autonomy doesn't lift those.",
+    "source": "mySSI: ITC Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-inst-252",
+    "area": "instructor",
+    "subarea": "Methodology — Open Water Training",
+    "question": "The first open water training dive may require ____ decision-making and have a ____ acceptable level of risk.",
+    "options": {
+      "a": "More, lower",
+      "b": "Less, higher",
+      "c": "Less, lower",
+      "d": "More, higher"
+    },
+    "correct": "a",
+    "explanation": "First OW dive = students have the least in-water experience and judgement, so the Pro shoulders MORE decision-making (entry/exit choice, depth, route, who pairs with whom) AND the acceptable risk margin is LOWER (no buffer for surprises — pick easy site, easy conditions). As the program progresses, decisions migrate to students and tolerance widens — but Day 1 is conservative.",
+    "source": "mySSI: ITC Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-inst-253",
+    "area": "instructor",
+    "subarea": "Methodology — Diver Development",
+    "question": "By the end of the training program, your students should be capable of making:",
+    "options": {
+      "a": "Some decisions, as long as their dive buddy agrees",
+      "b": "Appropriate decisions or seek the advice of a dive professional",
+      "c": "Any decision without assistance",
+      "d": "Only decisions related to their personal well-being"
+    },
+    "correct": "b",
+    "explanation": "Graduation target: independent in routine decisions AND sound judgement about when to consult a Pro. That second half is the mark of a mature diver. (a) buddy-permission gate is over-reliant on group consensus. (c) over-confident — no certified diver should think they don't need help; that mindset gets people hurt. (d) personal-only decisions ignores buddy responsibilities and dive-team thinking.",
+    "source": "mySSI: ITC Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-inst-254",
+    "area": "instructor",
+    "subarea": "Methodology — Supervision",
+    "question": "Generally speaking, students require the least amount of supervision:",
+    "options": {
+      "a": "Out of the water",
+      "b": "In shallow water",
+      "c": "In deep water",
+      "d": "At the surface"
+    },
+    "correct": "a",
+    "explanation": "Out-of-water = lowest acute risk: no drowning vector, no pressure injury vector, problems develop slowly enough to spot and intervene. (d) Surface is deceptively dangerous — panic, currents, waves, gear dramas all happen there and escalate fast. (b) Shallow water needs steady eyes for ear/buoyancy issues. (c) Deep water carries the highest supervision demand. Order of supervision intensity (least → most): out → shallow → surface → deep.",
+    "source": "mySSI: ITC Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-inst-255",
+    "area": "instructor",
+    "subarea": "Methodology — Supervision",
+    "question": "Uncertified students:",
+    "options": {
+      "a": "Must be supervised by an Open Water Instructor",
+      "b": "Can be supervised by a Divemaster",
+      "c": "Should be more closely supervised",
+      "d": "Can be given more independence than certified divers"
+    },
+    "correct": "c",
+    "explanation": "No skills baseline = highest supervision intensity. Whatever can go wrong in the water, an uncertified student is more likely to encounter it without recognising it. (a) is too narrow — AIs can supervise pool/confined under indirect supervision; not strictly OWI-only. (b) DMs have limited supervision authority over uncertified students. (d) inverts the truth — independence comes AFTER certification, never before.",
+    "source": "mySSI: ITC Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-inst-256",
+    "area": "instructor",
+    "subarea": "Methodology — Supervision",
+    "question": "Generally speaking, students require the most amount of supervision:",
+    "options": {
+      "a": "In deep water",
+      "b": "At the surface",
+      "c": "Out of the water",
+      "d": "In shallow water"
+    },
+    "correct": "a",
+    "explanation": "Deep = the riskiest training environment: faster gas consumption, narcosis onset, longer ascent in any emergency, less margin for buoyancy mistakes. Inverse of mssi-inst-254 (least supervision = out of water). Order of supervision intensity (most → least): deep → surface → shallow → out.",
+    "source": "mySSI: ITC Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-inst-257",
+    "area": "instructor",
+    "subarea": "Professional Standards — Pro Authority",
+    "question": "Certified assistants can:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Sign training records",
+      "c": "Increase control and supervise students",
+      "d": "Increase ratios for all SSI programs"
+    },
+    "correct": "c",
+    "explanation": "Primary value-add of a certified assistant = extra eyes, group control, supervision capacity. (b) signing training records is Instructor cert authority — assistants don't sign as the cert-issuing party. (d) overstates: assistants raise the allowed student-to-instructor ratio for SOME programs (entry-level training) but specialty programs often have firm ratios that don't expand. (a) all-correct sweeps in those wrong claims.",
+    "source": "mySSI: ITC Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-inst-258",
+    "area": "instructor",
+    "subarea": "Methodology — Supervision",
+    "question": "Student-to-instructor ratios should be:",
+    "options": {
+      "a": "Reduced to decrease training effort",
+      "b": "Maximized to increase profit",
+      "c": "Reduced to increase safety",
+      "d": "Maximized to increase training effectiveness"
+    },
+    "correct": "c",
+    "explanation": "Lower ratios = more eyes per student = better safety + more individual coaching = better learning. (b) profit-maximising at safety's expense is a path to incidents and lawsuits — directly opposed to SSI ethics. (d) maximising students per instructor reduces individual attention and hurts skill acquisition. (a) reducing 'effort' isn't a SSI rationale; safety is.",
+    "source": "mySSI: ITC Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-inst-259",
+    "area": "instructor",
+    "subarea": "Methodology — In-Water Communication",
+    "question": "Hand signals should be:",
+    "options": {
+      "a": "Slow, clear, and exaggerated",
+      "b": "Only used in deep water",
+      "c": "Only presented to the entire group",
+      "d": "Performed only once to avoid confusing the student"
+    },
+    "correct": "a",
+    "explanation": "Underwater = visual-only + reduced visibility + cold/nerves slow comprehension. So signals must be SLOW (time to process), CLEAR (unambiguous), EXAGGERATED (overcompensate for water, gear, vision). (b) signals are needed at every depth. (c) directing signals to the entire group ignores individual coaching. (d) repeat as needed — repetition aids understanding, doesn't confuse.",
+    "source": "mySSI: ITC Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-inst-260",
+    "area": "instructor",
+    "subarea": "Methodology — Skill teaching",
+    "question": "Skills should be introduced:",
+    "options": {
+      "a": "Without focusing on intermediate steps",
+      "b": "From simple to complex",
+      "c": "From complex to simple",
+      "d": "All at once to avoid confusing the student"
+    },
+    "correct": "b",
+    "explanation": "Scaffolding pedagogy: introduce simpler skills first to build confidence and motor memory, then layer complexity (mask clear → mask R&R → R&R combined with reg switch). (a) skipping intermediate steps creates gaps. (c) reverse order overwhelms. (d) all-at-once is the worst — students drown in cognitive load.",
+    "source": "mySSI: ITC Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-inst-261",
+    "area": "instructor",
+    "subarea": "Methodology — Briefing",
+    "question": "A pre-dive briefing should be:",
+    "options": {
+      "a": "Completed before entering the water",
+      "b": "Used before every in-water training session",
+      "c": "All answers are correct",
+      "d": "Understood by everyone participating in session"
+    },
+    "correct": "c",
+    "explanation": "All three are non-negotiable: (a) deliver while everyone is dry, comfortable and can hear you — communication degrades the moment fins hit water; (b) every session, no exceptions — even a routine review pool dive gets a briefing; (d) confirm comprehension (ask back, check signals, address questions) — a briefing nobody understood is a briefing that didn't happen.",
+    "source": "mySSI: ITC Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-inst-262",
+    "area": "instructor",
+    "subarea": "Methodology — Pool / Confined Water",
+    "question": "Pool/confined water sessions should include practice time:",
+    "options": {
+      "a": "Whenever possible, so they enjoy their experience",
+      "b": "Only if they are already proficient in their skills",
+      "c": "Only if they purchase new equipment",
+      "d": "Only if they will not be going to the open water"
+    },
+    "correct": "a",
+    "explanation": "Practice + fun is the SSI playbook for the affective domain (Lesson 1.2 / mssi-inst-114) — extra reps in a low-pressure setting refine motor memory AND anchor positive feelings about diving, both of which raise retention and confidence. (b) inverts cause and effect — practice BUILDS proficiency. (c) and (d) are nonsense conditions; practice isn't gated on retail or non-progression.",
+    "source": "mySSI: ITC Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-inst-263",
+    "area": "instructor",
+    "subarea": "Methodology — Skill teaching",
+    "question": "Any skill conducted as part of an SSI training program must:",
+    "options": {
+      "a": "Be functional, work in any dive environment, and with only one type of equipment configuration",
+      "b": "Be functional, work only in tropical dive environments, and work with only one type of equipment configuration",
+      "c": "Be functional, work in any dive environment, and work with any equipment configuration",
+      "d": "Be functional, work only in tropical dive environments, and work with any equipment configuration"
+    },
+    "correct": "c",
+    "explanation": "SSI skills are designed for portability: a mask R&R technique must work the same in 5°C cold water with a drysuit as in 28°C tropical with a wetsuit, on a single tank or sidemount. That universality is what lets a Maltese OWD diver dive safely in Tasmania. Distractors that restrict to 'tropical only' or 'one config' would shatter the cross-environment validity of the certification.",
+    "source": "mySSI: ITC Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-inst-264",
+    "area": "instructor",
+    "subarea": "Methodology — Pool / Confined Water",
+    "question": "Increasing your students' in-water training time:",
+    "options": {
+      "a": "Limits the open water training time",
+      "b": "Increases the risk level of your training",
+      "c": "Increases proficiency, comfort, and motivation",
+      "d": "Reduces proficiency, comfort, and motivation"
+    },
+    "correct": "c",
+    "explanation": "More time in water = more reps for motor memory, more comfort under the surface, more love-of-diving moments. The trio (proficiency + comfort + motivation) is the sweet spot SSI methodology pursues. (a) and (b) misread the relationship — more pool/confined doesn't crowd OW or escalate risk in a controlled environment. (d) inverts cause and effect.",
+    "source": "mySSI: ITC Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-inst-265",
+    "area": "instructor",
+    "subarea": "Methodology — Skill teaching",
+    "question": "If a student struggles to complete a skill in the Diving Position:",
+    "options": {
+      "a": "They must practice until they can do the skill in the diving position",
+      "b": "No answer is correct",
+      "c": "Skip the skill until they reach the open water training dives",
+      "d": "Allow them to conduct it while stationary or kneeling"
+    },
+    "correct": "d",
+    "explanation": "Scaffolding: master the SKILL first in a low-cognitive-load posture (kneeling on the bottom, stationary), then layer in the buoyancy + trim challenge to reach Diving Position. Trying to teach both at once overloads the student. (a) rigidly forcing Diving Position from the start frustrates students and can mask comprehension. (c) skipping creates a hole in skill set heading to OW. (b) is the standard mySSI distractor.",
+    "source": "mySSI: ITC Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-inst-266",
+    "area": "instructor",
+    "subarea": "Methodology — Skill teaching",
+    "question": "Use the Diving Position during your training to:",
+    "options": {
+      "a": "Increase the challenge of completing skills",
+      "b": "Force students to practice skills in an advanced position",
+      "c": "Increase student comfort and real-world skill development",
+      "d": "Eliminate weak students from training"
+    },
+    "correct": "c",
+    "explanation": "Diving Position = neutral buoyancy + horizontal trim, which is exactly how real diving happens — so skills practised in that posture transfer 1:1 to open water. Comfort builds because the body learns the position that feels normal underwater. (a) 'challenge' is a side-effect, not the purpose. (b) and (d) are cynical anti-patterns — SSI methodology is about supporting, not eliminating.",
+    "source": "mySSI: ITC Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-inst-267",
+    "area": "instructor",
+    "subarea": "Methodology — Open Water Training",
+    "question": "During the open water training dives:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "You will evaluate your students' skills and abilities",
+      "c": "You will demonstrate the skills learned in the pool/confined water",
+      "d": "You will evaluate your students' abilities to learn new skills"
+    },
+    "correct": "b",
+    "explanation": "OW dives are the TRANSFER + EVALUATION phase (mssi-inst-148): the Pro evaluates whether students can apply already-mastered pool skills in a real aquatic environment. (c) demonstrations live primarily in pool/confined where conditions are controlled. (d) is wrong — OW is not where new skills are introduced; the curriculum teaches new skills in pool first, OW is the transfer test. (a) all-correct sweeps in the wrong items.",
+    "source": "mySSI: ITC Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-inst-268",
+    "area": "instructor",
+    "subarea": "Methodology — Pool / Confined Water",
+    "question": "Pool/confined water training sessions:",
+    "options": {
+      "a": "Allow your students to have fun",
+      "b": "Increase your students' comfort with new equipment",
+      "c": "Allow your students to learn and practice new skills",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Three concurrent purposes of pool/confined work: (a) fun + positive affect (mssi-inst-114, 262); (b) equipment familiarity in a controlled setting before exposure to current/wave/depth; (c) primary curriculum delivery — this is where new skills get TAUGHT, then transferred to OW. All three reinforce each other.",
+    "source": "mySSI: ITC Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-inst-269",
+    "area": "instructor",
+    "subarea": "Methodology — Student Experience",
+    "question": "To improve your students' training experience, you should always:",
+    "options": {
+      "a": "Add additional training dives, even if they are not required",
+      "b": "Teach everything you know about specific topics",
+      "c": "All answers are correct",
+      "d": "Force your students to try new skills or techniques"
+    },
+    "correct": "a",
+    "explanation": "Go-above-and-beyond principle: standards minimum = floor, not ceiling. Extra practice dives build confidence, refine buoyancy, anchor positive associations with diving. (b) info-overload contradicts the chunking principle (mssi-inst-247) — teaching everything dilutes the must-knows. (d) forcing is coercion and breaks SSI ethics + student trust. (c) all-correct includes the bad answers.",
+    "source": "mySSI: ITC Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-inst-270",
+    "area": "instructor",
+    "subarea": "Methodology — Skill teaching",
+    "question": "Where are detailed skill descriptions found?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "In the SSI Training Standards",
+      "c": "In the program instructor manual and the SSI Skill Review program",
+      "d": "In the student digital learning materials"
+    },
+    "correct": "c",
+    "explanation": "Step-by-step skill procedures and Pro coaching tips live in two Pro-side resources: the program Instructor Manual + the SSI Skill Review program (a separate detailed-procedure tool). (b) Training Standards spell out WHICH skills are required and the depth/duration parameters but not the detailed how-to. (d) student materials give an overview, not the Pro-level detail. (a) all-correct overstates by including the partial sources.",
+    "source": "mySSI: ITC Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-inst-271",
+    "area": "instructor",
+    "subarea": "Methodology — Pool / Confined Water",
+    "question": "Pool/confined water sessions are where your students:",
+    "options": {
+      "a": "Become familiar with new equipment",
+      "b": "All answers are correct",
+      "c": "Develop safe diving habits",
+      "d": "Learn new skills"
+    },
+    "correct": "b",
+    "explanation": "Mirror of mssi-inst-268 with slightly different framing: pool/confined sessions deliver (a) equipment familiarisation, (c) safe diving habits (buddy checks, ascent rate, situational awareness), and (d) new skill acquisition before transferring to OW. The controlled environment is what makes simultaneous progress on all three possible.",
+    "source": "mySSI: ITC Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-inst-272",
+    "area": "instructor",
+    "subarea": "Methodology — Briefing",
+    "question": "A proper briefing includes:",
+    "options": {
+      "a": "Objective, possible risks, location, and number of repetitions",
+      "b": "Only objective, key points, and location",
+      "c": "Objective, value, key points, organization, hand signals, and location",
+      "d": "Only objective, value, and location"
+    },
+    "correct": "c",
+    "explanation": "SSI standard briefing has six components: OBJECTIVE (what skill/dive), VALUE (why it matters for the student — relevance), KEY POINTS (what to watch for), ORGANIZATION (who's where, in what order, with what role), HAND SIGNALS (review communication before submerging), LOCATION (entry, depth, exit). The other options are partial subsets that drop critical pieces — value is what motivates engagement, organization prevents chaos, signals prevent miscommunication.",
+    "source": "mySSI: ITC Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-inst-273",
+    "area": "instructor",
+    "subarea": "Methodology — Briefing",
+    "question": "The format of the briefing changes, based on:",
+    "options": {
+      "a": "The type of training, training environment, and personal teaching style",
+      "b": "The type of training, type of equipment, and personal teaching style",
+      "c": "The number of students, the type of equipment, and training center policy",
+      "d": "The number of students, personal teaching style, and training center policy"
+    },
+    "correct": "a",
+    "explanation": "Three variables that flex briefing format: TYPE OF TRAINING (entry-level needs more handholding than a Pro program), TRAINING ENVIRONMENT (pool vs shore vs boat vs altitude — different layout, hazards, entry/exit), PERSONAL TEACHING STYLE (your voice within the SSI 6-component framework). Equipment, student count and TC policy may colour the delivery but aren't the primary axes — those affect HOW you say it more than WHAT structure you use.",
+    "source": "mySSI: ITC Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-inst-274",
+    "area": "instructor",
+    "subarea": "Methodology — Pool / Confined Water",
+    "question": "Which of the following will you only do during the pool/confined water training, and not the open water training dives?",
+    "options": {
+      "a": "Enforcing safe and environmentally-friendly diving practices",
+      "b": "Practicing buddy awareness and buoyancy control",
+      "c": "Demonstrating and reviewing skills for your students",
+      "d": "Evaluating your students' comfort and ability"
+    },
+    "correct": "c",
+    "explanation": "Skill demonstrations and reviews live in pool/confined — that's the controlled environment where teaching happens (mssi-inst-148, 267). OW is the transfer + evaluation phase, students apply already-mastered skills. (a) safe + eco practices are enforced in BOTH environments; (b) buddy awareness and buoyancy practice continue through OW; (d) comfort/ability evaluation runs throughout the program.",
+    "source": "mySSI: ITC Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-inst-275",
+    "area": "instructor",
+    "subarea": "Methodology — Training Records",
+    "question": "When should you complete the student training records?",
+    "options": {
+      "a": "After each training session, or at the end of each training day",
+      "b": "Whenever is most convenient for you",
+      "c": "After completing all of the pool/confined water sessions",
+      "d": "After issuing the student's certification card"
+    },
+    "correct": "a",
+    "explanation": "Fresh-memory discipline: write records while details are still vivid — per-session is best, end-of-training-day is the absolute latest. (b) 'convenient' invites memory drift, missed details, lost paperwork. (c) waiting until all pool work is done means a mid-program incident has no contemporaneous records to defend the Pro. (d) post-cert is nonsense — records are PRE-requisites for issuing the cert (mssi-inst-208).",
+    "source": "mySSI: ITC Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-inst-276",
+    "area": "instructor",
+    "subarea": "Methodology — In-Water Communication",
+    "question": "What signal should you give before demonstrating a skill?",
+    "options": {
+      "a": "Remove Your Regulator",
+      "b": "Do the Skill with Me",
+      "c": "Everyone Watch Me",
+      "d": "Everyone Watch Their Buddy"
+    },
+    "correct": "c",
+    "explanation": "Direct attention before the demo: 'Everyone Watch Me' tells students to stop fidgeting with gear, look at you, and follow what's about to happen. (a) 'Remove regulator' is a specific drill cue, never a generic pre-demo signal — would scatter attention dangerously. (b) 'Do the skill with me' is a during-skill cue, after the demonstration. (d) 'Watch buddy' is the buddy-check signal, different purpose.",
+    "source": "mySSI: ITC Lesson 5.4 Review"
   }
 ]
