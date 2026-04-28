@@ -12,7 +12,7 @@
     },
     "correct": "b",
     "explanation": "The minimum age for SSI Divemaster is 18, not 21. The other three are real requirements: Diver Stress & Rescue prerequisite, Science of Diving final exam, and 60+ logged open water dives.",
-    "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
   },
   {
     "id": "mssi-inst-087",
@@ -27,7 +27,7 @@
     },
     "correct": "d",
     "explanation": "AIs have direct teaching/certifying authority for the lowest-load programs: Scuba Explorers, Try Scuba, the Scuba Skills Update refresher, and Perfect Buoyancy. Deep Diving and OW Diver remain Open Water Instructor and above; not all specialties are AI-accessible.",
-    "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
   },
   {
     "id": "mssi-inst-088",
@@ -42,7 +42,7 @@
     },
     "correct": "a",
     "explanation": "150 certifications issued is NOT a Master Instructor prerequisite — the actual SSI MI cert count threshold is different (higher). The real requirements include 250+ logged OW dives, training primarily SSI programs at all professional levels, and being an active-status Assistant Instructor Trainer.",
-    "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
   },
   {
     "id": "mssi-inst-089",
@@ -57,7 +57,7 @@
     },
     "correct": "c",
     "explanation": "An SSI Divemaster can earn the Ecology Specialty Instructor rating by either completing a Specialty Seminar or co-teaching the program with an active SSI specialty instructor. Verification Application is for cross-agency credential conversion (not the DM-to-specialty-instructor upgrade path); 'only co-teaching' is too narrow.",
-    "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
   },
   {
     "id": "mssi-inst-090",
@@ -72,7 +72,7 @@
     },
     "correct": "d",
     "explanation": "An SSI Assistant Instructor Trainer candidate must have issued at least 30 Scuba Diver and/or Open Water certifications — meaningful classroom-and-water teaching experience, but lower than the higher MI thresholds.",
-    "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
   },
   {
     "id": "mssi-inst-091",
@@ -87,7 +87,7 @@
     },
     "correct": "d",
     "explanation": "AIs may qualify to teach the three low-overhead-environment, low-risk specialties: Equipment Techniques, Boat Diving, and Navigation. Wreck Diving (overhead exposure) and Enriched Air Nitrox (gas management critical) are restricted to OWI and above.",
-    "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
   },
   {
     "id": "mssi-inst-092",
@@ -102,7 +102,7 @@
     },
     "correct": "a",
     "explanation": "Completion of the Instructor Training Course (ITC) is the immediate prerequisite for entering the Instructor Evaluation (IE). The ITC delivers the academic + presentation + skill-circuit training; the IE is the independent evaluation event. The other options aren't standalone IE prerequisites.",
-    "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
   },
   {
     "id": "mssi-inst-093",
@@ -117,7 +117,7 @@
     },
     "correct": "d",
     "explanation": "After successful IE completion, an SSI Open Water Instructor is automatically qualified to teach all three: AOWD (built from OW-level specialties), Enriched Air Nitrox, and the Divemaster pro program. The full teaching authority is granted at OWI level — higher pro ratings (AIT, MI) extend WHO can be trained as instructors, not what programs can be taught.",
-    "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
   },
   {
     "id": "mssi-inst-094",
@@ -132,7 +132,7 @@
     },
     "correct": "d",
     "explanation": "DM is a Pro-level program — only an active-status Pro-level instructor (Dive Guide Instructor or higher / equivalent) can teach it. Retired and inactive statuses cannot teach. Assistant Instructors do not have authority to teach the DM program.",
-    "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
   },
   {
     "id": "mssi-inst-095",
@@ -147,7 +147,7 @@
     },
     "correct": "d",
     "explanation": "After 3–5 years in canceled status the Pro must pay the SSI Reactivation Fee AND re-qualify by passing the final exam for their highest professional certification. The exam re-establishes current knowledge of standards and procedures, which evolve substantially over a multi-year gap.",
-    "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
   },
   {
     "id": "mssi-inst-096",
@@ -162,7 +162,7 @@
     },
     "correct": "c",
     "explanation": "Snorkel Instructor candidates must be at least 18 years old. The minimum age is the explicit gate — neither full SSI Pro status nor OWI rating is required to take the program. (Active Pro status would be a prerequisite for some upgrade paths but isn't the answer to the age-versus-status framing.)",
-    "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
   },
   {
     "id": "mssi-inst-097",
@@ -177,7 +177,7 @@
     },
     "correct": "b",
     "explanation": "All three are required for the Divemaster Instructor rating: an active Deep Diving Instructor cert, an active Night and Limited Visibility Instructor cert, and at least 25 issued certifications from any recreational program. The combined teaching/specialty experience is the floor for moving above standalone OWI into pro-development territory.",
-    "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
   },
   {
     "id": "mssi-inst-098",
@@ -192,7 +192,7 @@
     },
     "correct": "c",
     "explanation": "React Right is SSI's first-aid/CPR/AED program — separate from the diving curriculum. To become a React Right Instructor no SSI Professional (diving) status is required at all; the rating is open to anyone who completes the React Right Instructor pathway, because no diving authority is involved.",
-    "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
   },
   {
     "id": "mssi-inst-099",
@@ -207,6 +207,6 @@
     },
     "correct": "c",
     "explanation": "Completing the OW Diver Instructor Manual requirements is an Open Water Instructor (ITC/IE) task, not an AITC task. AITC candidates must log 75+ OW dives (≥50 hours), pass the Candidate Water Fitness Evaluation, and achieve 90%+ on the AITC final exam — but they do not work through the full OWI manual at this stage.",
-    "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
   }
 ]

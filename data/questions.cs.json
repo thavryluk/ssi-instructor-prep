@@ -3775,7 +3775,7 @@
       },
       "correct": "c",
       "explanation": "Afiliace s SSI Training Centrem dává Profesionálovi přístup k: (1) vybavení a výcvikovým zdrojům (půjčovní flotila, prostory, výcvikové pomůcky), (2) marketingovým a akvizičním kanálům (existující zákaznická základna, retailový provoz, online prezentace) a (3) pravidelné interakci se zkušenějšími instruktory, kteří poskytují mentoring a quality assurance. Všechny tři jsou skutečné výhody afiliace oproti samostatné práci.",
-      "source": "mySSI: Lesson 1.1 Review"
+      "source": "mySSI: ITC Lesson 1.1 Review"
     },
     {
       "id": "mssi-inst-101",
@@ -3790,7 +3790,7 @@
       },
       "correct": "a",
       "explanation": "Lokální training centra budují udržitelný byznys obsluhováním okolní komunity — opakovaní zákazníci, klubová kultura, pokračující vzdělávání, servis vybavení. Možnosti B a C popisují destinační centra (např. tropické resorty), jejichž model je vysokoobjemový tok přijíždějících potápěčů. D je špatně: lokální centra vedou kompletní kurikulum od Try Scuba výše.",
-      "source": "mySSI: Lesson 1.1 Review"
+      "source": "mySSI: ITC Lesson 1.1 Review"
     },
     {
       "id": "mssi-inst-102",
@@ -3805,7 +3805,7 @@
       },
       "correct": "b",
       "explanation": "SSI (Scuba Schools International) bylo založeno v roce 1970 skupinou potápěčských prodejců, kteří chtěli výcvikovou agenturu podporující obchodní model dive-retail — propojení vzdělávání potápěčů s lokálním potápěčským obchodem jako centrem potápěčské komunity. Recreational Scuba Training Council (RSTC) je pozdější mezi-agenturní orgán, ne zakladatel SSI.",
-      "source": "mySSI: Lesson 1.1 Review"
+      "source": "mySSI: ITC Lesson 1.1 Review"
     },
     {
       "id": "mssi-inst-103",
@@ -3820,7 +3820,7 @@
       },
       "correct": "c",
       "explanation": "SSI Network propojuje lokální training centra a destinační resorty tak, že potápěči, instruktoři a vybavení proudí oběma směry. Zvýšená komunikace je základní mechanismus: lokální centra doporučují cestovatele do resortů, resorty doporučují potápěče po návratu domů na pokračující vzdělávání a instruktoři se mohou pohybovat mezi afilovanými centry.",
-      "source": "mySSI: Lesson 1.1 Review"
+      "source": "mySSI: ITC Lesson 1.1 Review"
     },
     {
       "id": "mssi-inst-104",
@@ -3835,7 +3835,7 @@
       },
       "correct": "a",
       "explanation": "Customer Loyalty Cycle je SSI model pro získávání nových potápěčů (Try Scuba → OW), jejich udržení skrze pokračující vzdělávání a komunitu a jejich proměnu v dlouhodobé zákazníky training centra. Prodej vybavení a návštěvy lokalit jsou výsledky, ne rámec samotného cyklu.",
-      "source": "mySSI: Lesson 1.1 Review"
+      "source": "mySSI: ITC Lesson 1.1 Review"
     },
     {
       "id": "mssi-inst-105",
@@ -3850,7 +3850,7 @@
       },
       "correct": "c",
       "explanation": "SSI Diver Diamond model má šest aspektů, které společně budují kompetentního, celoživotního potápěče: Znalosti (akademické), Dovednosti (ve vodě), Vybavení (vlastní TDS), Zkušenosti (zalogované ponory), Odpovědnost (Diver Responsibility Code) a Prostředí (pokračující vzdělávání napříč různými prostředími). Cesty Specialty/AOWD jsou navrženy tak, aby rozvíjely všech šest.",
-      "source": "mySSI: Lesson 1.1 Review"
+      "source": "mySSI: ITC Lesson 1.1 Review"
     },
     {
       "id": "mssi-inst-106",
@@ -3865,7 +3865,7 @@
       },
       "correct": "d",
       "explanation": "Resortní training centra fungují v destinacích a obsluhují cestující potápěče — jejich model jsou vysokoobjemové potápěčské výjezdy a krátké programy na atraktivních lokalitách. Lokální centra (kontrastní model) se zaměřují na budování komunity vracejících se potápěčů z okolí.",
-      "source": "mySSI: Lesson 1.1 Review"
+      "source": "mySSI: ITC Lesson 1.1 Review"
     },
     {
       "id": "mssi-inst-107",
@@ -3880,7 +3880,7 @@
       },
       "correct": "c",
       "explanation": "Aktivní status SSI Pro vyžaduje všechny tři: zaplacení ročního poplatku za obnovu, dokončení online obnovení (potvrzení aktuálních standardů / quality assurance) a afiliaci s aktivním SSI Training Centrem. Chybějící kterákoliv ze tří podmínek znamená přepnutí Profesionála do neaktivního statusu.",
-      "source": "mySSI: Lesson 1.1 Review"
+      "source": "mySSI: ITC Lesson 1.1 Review"
     },
     {
       "id": "mssi-inst-001",
@@ -3895,7 +3895,7 @@
       },
       "correct": "c",
       "explanation": "SAC (surface air consumption) je objem plynu spotřebovaný za minutu vztažený k povrchovému tlaku. Objem spotřebovaný v hloubce = 50 bar × 10 L = 500 L. Ve 10 m je absolutní tlak 2 ATA, takže ekvivalentní povrchový objem = 500 L / 2 = 250 L. Za 10 minut: 250 / 10 = 25 L/min.",
-      "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+      "source": "mySSI: ITC Instructor Pretest — Part 1 Diving Physics"
     },
     {
       "id": "mssi-inst-002",
@@ -3910,7 +3910,7 @@
       },
       "correct": "b",
       "explanation": "Boyleův zákon: při konstantní teplotě jsou tlak a objem plynu nepřímo úměrné (P1·V1 = P2·V2). Daltonův pojednává o parciálních tlacích ve směsi plynů, Archimédův princip o vztlaku, Henryho o rozpouštění plynů v kapalinách.",
-      "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+      "source": "mySSI: ITC Instructor Pretest — Part 1 Diving Physics"
     },
     {
       "id": "mssi-inst-003",
@@ -3925,7 +3925,7 @@
       },
       "correct": "c",
       "explanation": "MOD = ((PO2_limit / fO2) − 1) × 10 m. Pro EAN32 při 1,4 bar: ((1,4 / 0,32) − 1) × 10 = (4,375 − 1) × 10 ≈ 33,75 m, zaokrouhleno dolů na 34 m. (Při kontingenčním limitu 1,6 bar je MOD ≈ 40 m.)",
-      "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+      "source": "mySSI: ITC Instructor Pretest — Part 1 Diving Physics"
     },
     {
       "id": "mssi-inst-004",
@@ -3940,7 +3940,7 @@
       },
       "correct": "a",
       "explanation": "Při výstupu klesá okolní tlak (10 m = 2 ATA → 7 m = 1,7 ATA), takže vzduch v BC vestě expanduje (Boyle: V2 = V1 × P1/P2 = 2 × 2/1,7 ≈ 2,35 L). Potápěč nyní vytlačuje více vody → kladný vztlak se zvyšuje, což vede k akcelerujícímu výstupu, pokud se plyn nevypustí.",
-      "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+      "source": "mySSI: ITC Instructor Pretest — Part 1 Diving Physics"
     },
     {
       "id": "mssi-inst-005",
@@ -3955,7 +3955,7 @@
       },
       "correct": "c",
       "explanation": "Slaná voda (~1,03 kg/L) je hustší než sladká (~1,00 kg/L), takže poskytuje větší vztlak při stejném vytlačeném objemu. Přechod ze slané do sladké vody snižuje vztlak — pro udržení neutrálního vztlaku musí potápěč zátěž UBRAT (typicky asi 2,5–3 % z celkové hmotnosti systému, ~2–3 kg pro setup o hmotnosti 87 kg).",
-      "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+      "source": "mySSI: ITC Instructor Pretest — Part 1 Diving Physics"
     },
     {
       "id": "mssi-inst-006",
@@ -3970,7 +3970,7 @@
       },
       "correct": "c",
       "explanation": "Vzduch obsahuje 21 % kyslíku. PO2 = fO2 × P_abs → P_abs = 1,6 / 0,21 ≈ 7,62 ATA → hloubka = (7,62 − 1) × 10 ≈ 66 m. To je kontingenční limit pro CNS kyslíkovou toxicitu; pracovní limit PO2 pro vzduch je 1,4 bar (~57 m).",
-      "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+      "source": "mySSI: ITC Instructor Pretest — Part 1 Diving Physics"
     },
     {
       "id": "mssi-inst-007",
@@ -3985,7 +3985,7 @@
       },
       "correct": "c",
       "explanation": "Hustota sladké vody ≈ 1000 kg/m³. Nárůst tlaku na metr = ρ·g·h = 1000 × 9,81 × 1 ≈ 9 810 Pa = 0,0981 bar. Slaná voda (~1025 kg/m³) dává ≈ 0,1006 bar/m, často zaokrouhleno na 0,1 bar/m.",
-      "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+      "source": "mySSI: ITC Instructor Pretest — Part 1 Diving Physics"
     },
     {
       "id": "mssi-inst-008",
@@ -4000,7 +4000,7 @@
       },
       "correct": "d",
       "explanation": "Hydrostatický tlak v 50 m v mořské vodě ≈ 5 bar (50 × 0,1). Přičteme 1 bar atmosférického tlaku → absolutní tlak = 6 bar (6 ATA).",
-      "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+      "source": "mySSI: ITC Instructor Pretest — Part 1 Diving Physics"
     },
     {
       "id": "mssi-inst-009",
@@ -4015,7 +4015,7 @@
       },
       "correct": "a",
       "explanation": "Hustota plynu je úměrná absolutnímu tlaku. Plíce potápěče dodávají stejný dechový objem na nádech, ale každý nádech nyní obsahuje více molekul — takže spotřeba plynu (vyjádřená povrchovým ekvivalentem) roste přibližně lineárně s absolutním tlakem (např. ve 30 m / 4 ATA spotřebujete ~4× povrchovou SAC).",
-      "source": "mySSI: Instructor Pretest — Part 1 Diving Physics"
+      "source": "mySSI: ITC Instructor Pretest — Part 1 Diving Physics"
     },
     {
       "id": "mssi-inst-010",
@@ -4030,7 +4030,7 @@
       },
       "correct": "d",
       "explanation": "Kardiovaskulární (oběhový) systém má tři hlavní části: srdce jako pumpu, krev jako transportní médium pro plyny/živiny/odpadní látky a cévy (tepny, žíly, kapiláry) jako potrubí.",
-      "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+      "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
     },
     {
       "id": "mssi-inst-011",
@@ -4045,7 +4045,7 @@
       },
       "correct": "c",
       "explanation": "Tkáně se ekvilibrují s parciálním tlakem dusíku v alveolárním vzduchu (Henryho zákon). Na hladině je to zhruba 0,79 ATA × 1 ATA ≈ 0,79 bar PN2. Jak okolní tlak roste s hloubkou, alveolární PN2 stoupá a tkáně sytí (on-gas); při výstupu se gradient obrací.",
-      "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+      "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
     },
     {
       "id": "mssi-inst-012",
@@ -4060,7 +4060,7 @@
       },
       "correct": "d",
       "explanation": "Čtyři klasická zranění z přetlakování plic (POIS): arteriální plynová embolie (AGE), mediastinální emfyzém (plyn v hrudní dutině), podkožní emfyzém (plyn pod kůží) a pneumotorax (kolaps plíce). DCI je tvorba plynových bublin ze supersaturace, ne přetlakování plic. Ruptura oválného okénka je zranění vnitřního ucha.",
-      "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+      "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
     },
     {
       "id": "mssi-inst-013",
@@ -4075,7 +4075,7 @@
       },
       "correct": "c",
       "explanation": "Dutiny nelze vědomě vyrovnávat — jedinou spolehlivou obranou je potápět se pouze tehdy, když jsou dutiny zdravé a průchodné. Dekongestiva mohou v polovině ponoru přestat působit a způsobit reverzní blok při výstupu; násilné vyrovnávání může poškodit vnitřní ucho; pomalý sestup pomáhá, ale nevyřeší ucpanou dutinu.",
-      "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+      "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
     },
     {
       "id": "mssi-inst-014",
@@ -4090,7 +4090,7 @@
       },
       "correct": "c",
       "explanation": "Kulaté a oválné okénko oddělují střední ucho od tekutinou naplněného vnitřního ucha. Násilný Valsalvův manévr nebo rychlé tlakové rozdíly je mohou roztrhnout, což způsobí trvalou senzorineurální ztrátu sluchu, tinnitus a vertigo (perilymfatická píštěl). Ruptura bubínku je bolestivá, ale typicky se hojí s mnohem mírnějšími dlouhodobými následky; Eustachova trubice se 'netrhá'.",
-      "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+      "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
     },
     {
       "id": "mssi-inst-015",
@@ -4105,7 +4105,7 @@
       },
       "correct": "b",
       "explanation": "Squeeze je barotrauma sestupu: vnější (okolní vodní) tlak převýší tlak v uzavřeném vzduchovém prostoru (maska, ucho, dutina, oblek) a tkáň lemující prostor je vtažena dovnitř. Opačná situace — vnitřní > vnější — je 'reverzní blok' při výstupu.",
-      "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+      "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
     },
     {
       "id": "mssi-inst-016",
@@ -4120,7 +4120,7 @@
       },
       "correct": "a",
       "explanation": "Standardní postup: vystoupat o metr nebo dva, dokud se tlak neuvolní, poté jemně vyrovnat a pokračovat v sestupu. Vynucování nebo 'přečkávání' může způsobit barotrauma středního či vnitřního ucha. Návrat na hladinu je nutný pouze pokud vyrovnávání opakovaně selhává.",
-      "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+      "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
     },
     {
       "id": "mssi-inst-017",
@@ -4135,7 +4135,7 @@
       },
       "correct": "b",
       "explanation": "Počáteční ušní squeeze se projevuje pocitem tlaku nebo plnosti; pokud potápěč pokračuje v sestupu bez vyrovnání, přejde to v silnou bolest a nakonec v prasknutí bubínku. Bolest kloubů ukazuje na DCI, tah v hrudníku na problémy plic/mediastina.",
-      "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+      "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
     },
     {
       "id": "mssi-inst-018",
@@ -4150,7 +4150,7 @@
       },
       "correct": "b",
       "explanation": "K poranění z přetlakování plic může dojít již při tlakovém rozdílu pouhých ~1,2 m (4 ft), pokud potápěč zadrží dech při výstupu — plíce se nemohou roztáhnout o více než několik procent, než dojde k prasknutí alveolů. Proto platí základní pravidlo 'nikdy nezadržuj dech'.",
-      "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+      "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
     },
     {
       "id": "mssi-inst-019",
@@ -4165,7 +4165,7 @@
       },
       "correct": "d",
       "explanation": "U klasického úžehu selhává termoregulace těla a pocení obvykle PŘESTÁVÁ — kůže je horká, suchá a zarudlá. Vydatné pocení je charakteristické pro vyčerpání z horka, předchozí stadium. Úžeh je skutečná zdravotní pohotovost: rychlý pulz, velmi vysoká tělesná teplota, změněný stav vědomí.",
-      "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+      "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
     },
     {
       "id": "mssi-inst-020",
@@ -4180,7 +4180,7 @@
       },
       "correct": "c",
       "explanation": "Poločas je čas potřebný k tomu, aby se tkáňový kompartment přesunul o polovinu (50 %) cesty k rovnováze s parciálním tlakem inertního plynu v okolí — ať už při sytění nebo odsycování. Po 1 poločase se změní o 50 %, po 2 poločasech o 75 %, po 6 poločasech je považován za ~98,4 % nasycený.",
-      "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+      "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
     },
     {
       "id": "mssi-inst-021",
@@ -4195,7 +4195,7 @@
       },
       "correct": "c",
       "explanation": "Polní léčba podezření na DCI: 100% kyslík přes demand ventil nebo non-rebreather masku, perorální tekutiny pokud je potápěč při vědomí a nezvrací, položit ho naplocho a zařídit transport do rekompresní komory — i když je cesta dlouhá, protože jediná definitivní léčba je hyperbarická terapie.",
-      "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+      "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
     },
     {
       "id": "mssi-inst-022",
@@ -4210,7 +4210,7 @@
       },
       "correct": "a",
       "explanation": "⚠️ NEEDS VERIFICATION — ověřte podle skutečných SSI Diver Tables. Předběžná odpověď: A. Zdůvodnění: povrchový interval 2:45 začínající ze skupiny D by měl potápěče vrátit zpět do skupiny A na standardních SSI tabulkách, protože do ~2 hodin většina skupin vyplaví zbytkový dusík připisovaný řídicí tkáni. Konkrétní hodnota v tabulce se liší podle vydání — před spolehnutím se na to v exam si to ověřte.",
-      "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+      "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
     },
     {
       "id": "mssi-inst-023",
@@ -4225,7 +4225,7 @@
       },
       "correct": "c",
       "explanation": "Cesta odsycování: tkáň → krev → alveolární plyn → vydechovaný vzduch. Inertní plyn je odstraňován každým výdechem; rychlost je omezena prokrvením nejpomalejších tkání, proto je dekomprese odstupňovaná.",
-      "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+      "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
     },
     {
       "id": "mssi-inst-024",
@@ -4240,7 +4240,7 @@
       },
       "correct": "b",
       "explanation": "'Rychlá' vs 'pomalá' tkáň označuje, jak rychle teoretický kompartment sytí/odsycuje inertní plyn — tj. jeho poločas. Rychlé tkáně (např. krev, mozek, ~5 min poločasy) sytí a odsycují rychle; pomalé tkáně (kost, tuk, 240+ min) trvají mnohem déle.",
-      "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+      "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
     },
     {
       "id": "mssi-inst-025",
@@ -4255,7 +4255,7 @@
       },
       "correct": "b",
       "explanation": "Víceúrovňový ponor začíná v nejhlubší plánované hloubce a postupuje do mělčích úrovní. Protože sytění tkání se v mělčích hloubkách zpomaluje, potápěč může prodloužit celkový dnový čas oproti čtvercovému profilu. Jít hlouběji v průběhu ponoru je opak bezpečného návrhu profilu.",
-      "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+      "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
     },
     {
       "id": "mssi-inst-026",
@@ -4270,7 +4270,7 @@
       },
       "correct": "a",
       "explanation": "Standardní rekreační bezpečnostní zastávka SSI: 5 m / 15 ft po dobu 3 minut (3–5 min je přijatelné). Umožňuje tkáním poslední okno k odsycování a zpomaluje posledních pár metrů výstupu, kde existuje největší tlakový gradient.",
-      "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+      "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
     },
     {
       "id": "mssi-inst-027",
@@ -4285,7 +4285,7 @@
       },
       "correct": "c",
       "explanation": "Podle SSI Diver Tables: 18 m / 30 min zařadí potápěče do skupiny tlaku G. Aby mohl opakovat 18 m / 30 min, musí být potápěč ve skupině zbytkového dusíku B nebo nižší (aby upravený bezdekompresní čas druhého ponoru pokryl 30 min). Odsycování ze skupiny G dolů na tuto skupinu vyžaduje minimální povrchový interval 2:29.",
-      "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+      "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
     },
     {
       "id": "mssi-inst-028",
@@ -4300,7 +4300,7 @@
       },
       "correct": "c",
       "explanation": "Dekompresní algoritmy modelují pravděpodobnost, ne jistotu. Čím blíže potápěč jede k bezdekompresnímu limitu (nebo k dekompresnímu stropu), tím menší je osobní bezpečnostní rezerva — fyziologie, hydratace, únava a individuální vnímavost mohou 'povolený' profil převést v zásah.",
-      "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+      "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
     },
     {
       "id": "mssi-inst-029",
@@ -4315,7 +4315,7 @@
       },
       "correct": "c",
       "explanation": "Odsycování (off-gassing) začíná v okamžiku, kdy okolní tlak klesne pod parciální tlak inertního plynu v tkáňovém kompartmentu — to je začátek výstupu. Zastávky odsycování formalizují, ale gradient se obrátí, jakmile potápěč začne vystupovat.",
-      "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+      "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
     },
     {
       "id": "mssi-inst-030",
@@ -4330,7 +4330,7 @@
       },
       "correct": "a",
       "explanation": "Počítač s integrací plynu čte tlak v láhvi (kabelově nebo bezdrátově přes vysílač) a zobrazuje v reálném čase zbývající zásobu plynu, často v kombinaci s aktuálním SAC/RMV a odhady zbývajícího času na plyn. NEŘÍDÍ dýchání potápěče.",
-      "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+      "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
     },
     {
       "id": "mssi-inst-031",
@@ -4345,7 +4345,7 @@
       },
       "correct": "a",
       "explanation": "Uznávají se dvě vlajky: rekreační/sportovní potápěčská vlajka (červené pole s diagonálním bílým pruhem, převážně Severní Amerika) a mezinárodní námořní vlajka Alpha (bílo-modrá s rybím ocasem), která signalizuje 'mám potápěče dole — držte se v dostatečné vzdálenosti při pomalé rychlosti'.",
-      "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+      "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
     },
     {
       "id": "mssi-inst-032",
@@ -4360,7 +4360,7 @@
       },
       "correct": "d",
       "explanation": "'Save-a-dive kit' je malý kufřík běžných náhradních dílů (popruh masky, popruh ploutve, O-kroužky, náustek, stahovací pásky, baterie, antifog, základní nářadí), který umožňuje opravit drobné poruchy, které by jinak ponor zhatily. Celý druhý TDS je nepraktický k nošení; kit je standardní doporučení SSI.",
-      "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+      "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
     },
     {
       "id": "mssi-inst-033",
@@ -4375,7 +4375,7 @@
       },
       "correct": "a",
       "explanation": "Teplo se ztrácí nejrychleji z hlavy, rukou a nohou. Přidání kukly, botiček a rukavic dramaticky zlepšuje celkovou tepelnou ochranu. Obleky s horkou vodou existují (komerční potápění), ale nejsou 'doplňky' k rekreačnímu obleku; hélium je horší izolant než vzduch; zadní desky jsou hardware pro vztlak.",
-      "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+      "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
     },
     {
       "id": "mssi-inst-034",
@@ -4390,7 +4390,7 @@
       },
       "correct": "b",
       "explanation": "Moderní rekreační BC vesty mají integrovaný zátěžový systém: zátěže jsou v uvolnitelných kapsách v samotné BC vestě, čímž odpadá potřeba samostatného pásu. Kapsy jsou navrženy tak, aby se v nouzi daly shodit jediným tahem za rukojeť.",
-      "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+      "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
     },
     {
       "id": "mssi-inst-035",
@@ -4405,7 +4405,7 @@
       },
       "correct": "c",
       "explanation": "Láhve obsahující cokoli jiného než standardní vzduch (Nitrox, Trimix, kyslík, argon atd.) musí být zřetelně označeny obsahem a analýzou — zeleno-žlutá Nitrox páska, MOD nálepka, max ppO2, datum plnění — aby žádný potápěč náhodou nedýchal nesprávný plyn v nesprávné hloubce.",
-      "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+      "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
     },
     {
       "id": "mssi-inst-036",
@@ -4420,7 +4420,7 @@
       },
       "correct": "a",
       "explanation": "První stupeň redukuje tlak v láhvi (200–300 bar) na konzistentní střední tlak (typicky ~9–10 bar nad okolním). Druhý stupeň pak na vyžádání sníží na okolní tlak, aby potápěč mohl dýchat. Vyvážené první stupně udržují IP konstantní i při poklesu tlaku v láhvi.",
-      "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+      "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
     },
     {
       "id": "mssi-inst-037",
@@ -4435,7 +4435,7 @@
       },
       "correct": "a",
       "explanation": "Hlavní filozofie SSI: vlastní Total Diving System (TDS) potápěče — správně padnoucí maska, ploutve, expoziční oblek, BC vesta, automatika, počítač, přístroje — poskytuje pohodlí, znalost a spolehlivost, kterou půjčená výstroj nemůže nabídnout. (Také marketingové sdělení dealerského modelu SSI, ale pedagogicky podložené.)",
-      "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+      "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
     },
     {
       "id": "mssi-inst-038",
@@ -4450,7 +4450,7 @@
       },
       "correct": "c",
       "explanation": "Tři běžné možnosti zátěží koexistují: tradiční zátěžový pás (kolem boků), integrované zátěžové kapsy v BC vestě a trim zátěže (malé zátěže na kotnících/zádech pro doladění horizontálního trimu). Většina potápěčů používá kombinaci.",
-      "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+      "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
     },
     {
       "id": "mssi-inst-039",
@@ -4465,7 +4465,7 @@
       },
       "correct": "d",
       "explanation": "'Information System' v rámci SSI TDS seskupuje každý nástroj, který dává potápěči data o ponoru: SPG, hloubkoměr, potápěčský počítač (který dnes často nahrazuje oba), časoměr, kompas a digitální rozšíření jako bezdrátové vysílače a HUD displeje.",
-      "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+      "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
     },
     {
       "id": "mssi-inst-040",
@@ -4480,7 +4480,7 @@
       },
       "correct": "c",
       "explanation": "Bezobratlí je široká vědecká kategorie pro živočichy, kteří postrádají páteř — houby, žahavci (medúzy, korály, sasanky), měkkýši, korýši, ostnokožci atd. Žahavci jsou podskupinou bezobratlých; rozsivky jsou jednobuněčné řasy.",
-      "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+      "source": "mySSI: ITC Instructor Pretest — Part 5 The Aquatic Environment"
     },
     {
       "id": "mssi-inst-041",
@@ -4495,7 +4495,7 @@
       },
       "correct": "c",
       "explanation": "Mořští živočichové potápěče nepronásledují. Kousnutí, žahnutí a údery se stávají, když se zvíře cítí ohrožené, zahnané do kouta nebo zaskočené — defenzivní chování. Respektujte vzdálenost, nedotýkejte se, nezahaňte je do kouta a 99 % incidentů se vyhnete.",
-      "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+      "source": "mySSI: ITC Instructor Pretest — Part 5 The Aquatic Environment"
     },
     {
       "id": "mssi-inst-042",
@@ -4510,7 +4510,7 @@
       },
       "correct": "b",
       "explanation": "Fytoplankton — mikroskopické fotosyntetické řasy unášející se v horní osvětlené vrstvě — tvoří ~98 % oceánské rostlinné biomasy a zhruba polovinu veškeré fotosyntézy na Zemi. Mořské řasy, mořské trávy a mangrovy jsou ve srovnání s tím nepatrné; korály jsou živočichové, ne rostliny.",
-      "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+      "source": "mySSI: ITC Instructor Pretest — Part 5 The Aquatic Environment"
     },
     {
       "id": "mssi-inst-043",
@@ -4525,7 +4525,7 @@
       },
       "correct": "a",
       "explanation": "Flood tide = voda stoupá / přichází. Ebb tide = voda klesá / odchází. Slack water je krátký klid při obratu mezi nimi — obvykle nejbezpečnější čas k potápění v přílivových zónách.",
-      "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+      "source": "mySSI: ITC Instructor Pretest — Part 5 The Aquatic Environment"
     },
     {
       "id": "mssi-inst-044",
@@ -4540,7 +4540,7 @@
       },
       "correct": "b",
       "explanation": "Nematocysty (žahavé pouzdra) jsou koncentrovány na chapadlech, kde jsou spouštěny kontaktem k harpunování kořisti nebo odrazení predátorů. Mezoglea je rosolovitá tělní vrstva; epidermis a gastrodermis jsou vnější/vnitřní buněčné vrstvy, ale nesou mnohem méně žahavých buněk.",
-      "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+      "source": "mySSI: ITC Instructor Pretest — Part 5 The Aquatic Environment"
     },
     {
       "id": "mssi-inst-045",
@@ -4555,7 +4555,7 @@
       },
       "correct": "d",
       "explanation": "Většina zranění od mořského života je způsobena potápěčem: neznalost (nevědět, co je nebezpečné), nedbalost (nesledovat, kam jdou ruce a ploutve) nebo agrese (honění, dotýkání, obtěžování). Vzdělávání + situační povědomí eliminuje drtivou většinu.",
-      "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+      "source": "mySSI: ITC Instructor Pretest — Part 5 The Aquatic Environment"
     },
     {
       "id": "mssi-inst-046",
@@ -4570,7 +4570,7 @@
       },
       "correct": "c",
       "explanation": "Čtení podvodní topografie podporuje každou část ponoru: predikce, kde bude mořský život, předvídání chování proudu kolem stěn a věží, výběr nástupních/výstupních bodů, plánování hloubkových profilů a navigačních úseků.",
-      "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+      "source": "mySSI: ITC Instructor Pretest — Part 5 The Aquatic Environment"
     },
     {
       "id": "mssi-inst-047",
@@ -4585,7 +4585,7 @@
       },
       "correct": "d",
       "explanation": "Porosty mořské trávy jsou líhně a zdroje potravy pro obrovské spektrum druhů — želvy, dugongové, kapustňáci, juvenilní ryby, bezobratlí. Také stabilizují sediment a sekvestrují uhlík, ale jejich primární ekologickou rolí je potrava + stanoviště.",
-      "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+      "source": "mySSI: ITC Instructor Pretest — Part 5 The Aquatic Environment"
     },
     {
       "id": "mssi-inst-048",
@@ -4600,7 +4600,7 @@
       },
       "correct": "a",
       "explanation": "Ohňové korály (Millepora — ve skutečnosti hydrozoa, ne pravé korály) při kontaktu způsobují silné pálivé žahnutí, zanechávající puchýře a bolest, která může trvat hodiny. Mozkové, kožené a měkké korály jsou mnohem méně agresivní. Standardní pravidlo: nikdy se nedotýkejte útesu.",
-      "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+      "source": "mySSI: ITC Instructor Pretest — Part 5 The Aquatic Environment"
     },
     {
       "id": "mssi-inst-049",
@@ -4615,7 +4615,7 @@
       },
       "correct": "c",
       "explanation": "Houby (kmen Porifera = 'nositelé pórů') filtrují potravu nasáváním vody dovnitř přes nespočet malých pórů (ostia) a vypouštěním přes větší otvory (oscula). Viditelné dírky jsou diagnostickým znakem.",
-      "source": "mySSI: Instructor Pretest — Part 5 The Aquatic Environment"
+      "source": "mySSI: ITC Instructor Pretest — Part 5 The Aquatic Environment"
     },
     {
       "id": "mssi-inst-050",
@@ -4630,7 +4630,7 @@
       },
       "correct": "c",
       "explanation": "Podle SSI General Training Standards musí být lékařský dotazník (nebo podepsané prohlášení lékaře) k dispozici předtím, než student vstoupí do vody — to zahrnuje sezení v uzavřené vodě, ne jen otevřenou vodu. Před certifikací je příliš pozdě; před OW je příliš úzké.",
-      "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
     },
     {
       "id": "mssi-inst-051",
@@ -4645,7 +4645,7 @@
       },
       "correct": "a",
       "explanation": "GTS vyžaduje, aby SSI Dive Professional ponořil minimálně se vší výstrojí, kterou musí používat studenti, plus osobní potápěčský počítač, plus DSMB a povrchové signalizační zařízení — takže všechna tři tvrzení dohromady popisují minimální výbavu.",
-      "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
     },
     {
       "id": "mssi-inst-052",
@@ -4660,7 +4660,7 @@
       },
       "correct": "d",
       "explanation": "SSI používá model jeden kit na studenta na program. Digital Training Kit je oficiální studentský materiál — zajišťuje, že každý student má přímý přístup k aktuálním standardům, manuálům, videím a nástrojům k opakování, bez ohledu na to, co preferuje instruktor nebo training centrum.",
-      "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
     },
     {
       "id": "mssi-inst-053",
@@ -4675,7 +4675,7 @@
       },
       "correct": "a",
       "explanation": "'Certifikovaný asistent' podle GTS musí být: (1) SSI Dive Guide / Divemaster nebo vyšší, (2) v aktuálním/aktivním stavu u SSI (obnovené Pro členství, aktuální pojištění) a (3) kvalifikovaný k asistenci při výcviku ve vodě a dohledu. Platí všechny tři podmínky.",
-      "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
     },
     {
       "id": "mssi-inst-054",
@@ -4690,7 +4690,7 @@
       },
       "correct": "b",
       "explanation": "Podle SSI General Training Standards Candidate Water Fitness Evaluation vyžaduje plnou záchranu potápěče s plaváním na hladině dokončenou pod 8 minut — časovaná demonstrace záchrany/táhnutí se skutečnou zátěží. Ostatní možnosti jsou špatně: 50 m pod vodou je úroveň OW, 20 min šlapání není standardní (15 min je norma SSI), 750 m s maskou-ploutvemi-šnorchlem neodpovídá SSI vzdálenostním měřítkům.",
-      "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
     },
     {
       "id": "mssi-inst-055",
@@ -4705,7 +4705,7 @@
       },
       "correct": "b",
       "explanation": "Podle SSI General Training Standards musí být vyžadované výcvikové ponory v otevřené vodě dokončeny do 6 měsíců od posledního akademického NEBO ve vodě výcvikového sezení — hodiny začínají od toho, co bylo nedávnější. Po 6 měsících potřebuje student refresh před dokončením OW ponorů.",
-      "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
     },
     {
       "id": "mssi-inst-056",
@@ -4720,7 +4720,7 @@
       },
       "correct": "b",
       "explanation": "Po >12 měsících mimo vodu nemusí vstupní student opakovat celý kurz — dokončí SSI Scuba Skills Update (refresher) pokrývající akademický přehled, kontrolu výstroje a praktiku dovedností v uzavřené vodě před pokračováním nebo potápěním.",
-      "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
     },
     {
       "id": "mssi-inst-057",
@@ -4735,7 +4735,7 @@
       },
       "correct": "b",
       "explanation": "Flexibility Rule umožňuje instruktorovi přizpůsobit styl výuky, sekvenci a prezentaci potřebám studenta a místnímu prostředí — ALE NEUMOŽŇUJE snižovat vyžadovaný obsah, vynechávat výkonové požadavky nebo přidávat ne-SSI dovednosti jako součást certifikace.",
-      "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
     },
     {
       "id": "mssi-inst-058",
@@ -4750,7 +4750,7 @@
       },
       "correct": "a",
       "explanation": "Před zahájením výcviku každý student podepíše/dokončí: (1) program-specifický Completion Record, (2) Medical Participant Questionnaire a (3) Responsible Diver Code (plus prohlášení o zproštění odpovědnosti). Všechny tři jsou povinné papíry — žádná aktivita ve vodě, dokud nejsou všechny v pořádku.",
-      "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
     },
     {
       "id": "mssi-inst-059",
@@ -4765,7 +4765,7 @@
       },
       "correct": "d",
       "explanation": "Aktivní SSI Professional musí udržovat aktuální kopie (nebo digitální přístup) k nejnovějším studentským materiálům, ze kterých vyučuje, k nejnovějším instruktorským manuálům A k jakýmkoli dodatečným standardům/materiálům odkazovaným pro programy, které vede. Zastaralé materiály = porušení standardů.",
-      "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
     },
     {
       "id": "mssi-inst-060",
@@ -4780,7 +4780,7 @@
       },
       "correct": "d",
       "explanation": "Sekce 'SSI In-Water Training Philosophy' v GTS je místo, kde SSI vysvětluje DŮVODY za konkrétními volbami dovedností — včetně toho, proč se studenti učí předat svou primární automatiku zpanikařenému OOA buddymu a přepnout na vlastní alternativu. Ostatní sekce pokrývají rozsah (How To Use), administrativní postupy nebo povinnosti péče spíše než zdůvodnění dovedností.",
-      "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
     },
     {
       "id": "mssi-inst-061",
@@ -4795,7 +4795,7 @@
       },
       "correct": "d",
       "explanation": "Podle SSI General Training Standards se kontrolované nouzové plavané výstupy (CESA) a další dovednosti nouzového výstupu nacvičují z maximální hloubky 9 m / 30 ft. Mělký start udržuje výstup dostatečně pomalý, aby se dal zvládnout, a minimalizuje riziko přetlakování plic, pokud student nevydýchne.",
-      "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
     },
     {
       "id": "mssi-inst-062",
@@ -4810,7 +4810,7 @@
       },
       "correct": "d",
       "explanation": "Každý standard programu SSI definuje maximální poměr student-instruktor (např. OW v uzavřené vodě 8:1, OW v otevřené vodě 8:1 s možnostmi rozšíření o certifikované asistenty, Try Scuba 4:1 atd.). Instruktoři mohou vždy SNÍŽIT poměry podle svého uvážení pro bezpečnost, ale nikdy překročit programem definované maximum.",
-      "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
     },
     {
       "id": "mssi-inst-063",
@@ -4825,7 +4825,7 @@
       },
       "correct": "d",
       "explanation": "Platí všechna tři tvrzení: instruktor/training centrum musí zpracovat certifikaci do 7 dnů, student automaticky obdrží digitální kartu ve svém MySSI účtu a fyzická tištěná karta se dá objednat jako volitelný doplněk přes training centrum nebo SSI Service Center.",
-      "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
     },
     {
       "id": "mssi-inst-064",
@@ -4840,7 +4840,7 @@
       },
       "correct": "d",
       "explanation": "Pouze SSI Professionals v aktivním stavu mohou vést výcvik. Neaktivní členové nemohou učit (členství/pojištění propadlo); 'under review' stav značí vyšetřování kontroly kvality, které pozastavuje pravomoc učit; samotná afiliace s Training Center nestačí — osobní Pro stav musí být aktivní.",
-      "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
     },
     {
       "id": "mssi-inst-065",
@@ -4855,7 +4855,7 @@
       },
       "correct": "b",
       "explanation": "Nikdy. Certifikovaný asistent — včetně Divemastera vystupujícího v této roli — pomáhá s logistikou, dohledem a bezpečností, ale HODNOCENÍ dovedností je vyhrazeno instruktorovi záznamu. DM může demonstrovat, polohovat studenty, sledovat problémy a hlásit pozorování, ale rozhodnutí splnil/nesplnil u dovednosti je vždy na instruktorovi.",
-      "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
     },
     {
       "id": "mssi-inst-066",
@@ -4870,7 +4870,7 @@
       },
       "correct": "c",
       "explanation": "Každý SSI program (OW, Deep, Wreck, Cavern, Trimix atd.) má své vlastní specifické standardy / instruktorský manuál, který definuje vlastní hloubkové limity — 18 m pro OW, 30 m pro Deep specialty Level 1, 40 m pro Level 2 atd. GTS stanoví společná pravidla, ale program-specifické hloubky žijí ve vlastním dokumentu programu.",
-      "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
     },
     {
       "id": "mssi-inst-067",
@@ -4885,7 +4885,7 @@
       },
       "correct": "d",
       "explanation": "Administrativní postupy, které platí napříč všemi programy — referrals (cross-instructor nebo cross-agency), náhrada karty, změny jmen, opravy certifikací — jsou uvedeny v General Training Standards pod 'Certification Procedures', ne v žádném jednotlivém manuálu programu.",
-      "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
     },
     {
       "id": "mssi-inst-068",
@@ -4900,7 +4900,7 @@
       },
       "correct": "b",
       "explanation": "EAP (Emergency Action Plan) musí být napsán a vyvěšen/k dispozici pro jakékoli místo, kde probíhají výcvikové ponory SSI — bazén, lom, oceán — bez ohledu na to, jak dobře instruktor lokalitu zná. Zahrnuje nejbližší komoru, nouzové kontakty, evakuační trasu, komunikační postupy.",
-      "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
     },
     {
       "id": "mssi-inst-069",
@@ -4915,7 +4915,7 @@
       },
       "correct": "c",
       "explanation": "SSI definice swim-through zahrnuje maximální délku 10 metrů. Swim-through je odlišný od cavern/wreck penetrace: krátký, oba konce zřetelně viditelné, bez nutnosti certifikace pro overhead environment. Možnosti A, B, D jsou špatně — není minimální hloubka 30 m, oba konce MUSÍ být zřetelně viditelné, a vstupní studenti MOHOU projít správně definovaným swim-through.",
-      "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
     },
     {
       "id": "mssi-inst-070",
@@ -4930,7 +4930,7 @@
       },
       "correct": "b",
       "explanation": "Water Fitness Evaluation (vzdálenost plavání, šlapání vody, pohodlí) je branou k OTEVŘENÉ vodě výcviku — provádí se v uzavřené vodě jako součást rané fáze programu a musí být splněno předtím, než student postoupí k jakémukoli výcvikovému ponoru v otevřené vodě. Nemusí předcházet první sezení v bazénu.",
-      "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
     },
     {
       "id": "mssi-inst-071",
@@ -4945,7 +4945,7 @@
       },
       "correct": "c",
       "explanation": "Prostředí Indoor Diving je definováno všemi třemi kritérii: minimální hloubka 5 m, minimální plocha 100 m² a požadavek, aby místo bylo akvárium nebo speciálně vybudované zařízení (ne rekreační plavecký bazén). Všechny tři musí být pravdivé, aby se místo kvalifikovalo.",
-      "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
     },
     {
       "id": "mssi-inst-072",
@@ -4960,7 +4960,7 @@
       },
       "correct": "c",
       "explanation": "Experienced Diver Test (EDT) je SSI cesta pro potápěče, kteří tvrdí ekvivalentní výcvik, ale nemohou předložit uznanou certifikační kartu — např. ztracené karty, vojenské / komerční / neuznané agenturní background. Vyžaduje doklad o OW potápěčských zkušenostech, akademické hodnocení A bazénové/uzavřené vody hodnocení dovedností, než je potápěči udělena SSI certifikace.",
-      "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 8 Dive Program Standards"
     },
     {
       "id": "mssi-inst-073",
@@ -4975,7 +4975,7 @@
       },
       "correct": "b",
       "explanation": "Dry Suit Diving NENÍ v SSI sekci 'Open Water Specialties' — je dokumentováno pod samostatnou environmentální/výstrojovou specialitní skupinou. Wreck Diving, Deep Diving a Navigation jsou všechny uvedeny pod Open Water Specialties.",
-      "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 8 Dive Program Standards"
     },
     {
       "id": "mssi-inst-074",
@@ -4990,7 +4990,7 @@
       },
       "correct": "a",
       "explanation": "Indoor Diver upgraduje na OW Diver po dokončení všech hodnocení dovedností plus 2 výcvikových ponorů v otevřené vodě. Indoor program již pokrývá akademický + uzavřené vody ekvivalentní výcvik, takže je vyžadována jen krátká OW komponenta k překlenutí na plnou OW Diver certifikaci.",
-      "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 8 Dive Program Standards"
     },
     {
       "id": "mssi-inst-075",
@@ -5005,7 +5005,7 @@
       },
       "correct": "d",
       "explanation": "Povinné výcvikové ponory specialty musí být pod přímým dohledem instruktora ve vodě se studenty. Nepřímý dohled (např. instruktor na hladině) není povolen u povinných výcvikových ponorů — je povolen jen u adventure/experience ponorů, kde jsou studenti již kvalifikováni potápět se v dané hloubce/podmínkách.",
-      "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 8 Dive Program Standards"
     },
     {
       "id": "mssi-inst-076",
@@ -5020,7 +5020,7 @@
       },
       "correct": "c",
       "explanation": "AOWD je uznávací certifikace — studenti dokončují pět specialty/adventure ponorů zvolených z SSI specialty katalogu. Každá komponentová specialty má svůj vlastní standard minimálního věku (např. Deep je 15+, ostatní 10+ nebo 12+), takže minimální věk pro každý AOWD ponor je nastaven specialty, ke které ten ponor patří.",
-      "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 8 Dive Program Standards"
     },
     {
       "id": "mssi-inst-077",
@@ -5035,7 +5035,7 @@
       },
       "correct": "d",
       "explanation": "Na OW Training Dive 4 studenti provádějí v páru buddy navigaci podvodním kompasem — instruktor zůstává poblíž, ale nemusí plavat s každým párem (nepřímý dohled). Dovednosti nouzového výstupu, podvodní hodnocení dovedností a ponor jako celek vyžadují PŘÍMÝ dohled bez ohledu na přítomnost asistenta.",
-      "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 8 Dive Program Standards"
     },
     {
       "id": "mssi-inst-078",
@@ -5050,7 +5050,7 @@
       },
       "correct": "d",
       "explanation": "Try Scuba je nejnižší vstupní zkušenostní program SSI a pravomoc jej vést je delegována až dolů na Assistant Instructor v aktivním stavu. Divemaster nebo Dive Guide sám Try Scuba vést nemůže — potřebují minimálně AI pravomoc, protože jde o skutečnou výuku dovedností.",
-      "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 8 Dive Program Standards"
     },
     {
       "id": "mssi-inst-079",
@@ -5065,7 +5065,7 @@
       },
       "correct": "c",
       "explanation": "Equipment Techniques lze absolvovat od úrovně Referral Diver — program učí péči o výstroj, sestavení, padnutí a základní volby konfigurace, což je vhodné pro někoho, kdo dokončil OW akademickou část a bazén, ale ještě nedokončil všechny OW výcvikové ponory. Nižší vstupní bariéra než plný požadavek OW Diver.",
-      "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 8 Dive Program Standards"
     },
     {
       "id": "mssi-inst-080",
@@ -5080,7 +5080,7 @@
       },
       "correct": "c",
       "explanation": "Pro Scuba Diver programy s jakýmkoli studentem mladším 15 let je strop OW poměru 4:1 — a SSI NEPOVOLUJE rozšíření přes certifikované asistenty pro tuto věkovou skupinu. Pevný poměr 4:1 odráží vyšší dohledové zatížení mladších studentů a omezené hloubky/dovednosti programu Scuba Diver.",
-      "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 8 Dive Program Standards"
     },
     {
       "id": "mssi-inst-081",
@@ -5095,7 +5095,7 @@
       },
       "correct": "c",
       "explanation": "Student, který dokončil všechny čtyři OW výcvikové ponory, ale dosud mu nebyla vydána certifikační karta (papíry probíhají, mezera delší než povolená), může absolvovat Scuba Skills Update k oživení a pokračování. Dokončit jen akademickou část nebo jen uzavřenou vodu bez OW ponorů nestačí.",
-      "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 8 Dive Program Standards"
     },
     {
       "id": "mssi-inst-082",
@@ -5110,7 +5110,7 @@
       },
       "correct": "d",
       "explanation": "OW Training Dives 3-4 vyžadují VŠECHNY akademické požadavky (Sessions 1-6) A všechny bazénové/uzavřené vody požadavky dokončené. Podle SSI standardů Dives 3-4 specificky potřebují Academic 1-6 + Pool 4-6, ale v normální sekvenci jsou Pool 1-3 do té doby také již hotové (Dive 2 vyžaduje Pool 2-3 a Pool 1 musí být před certifikací), takže 'all academic + all pool' je praktické čtení.",
-      "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 8 Dive Program Standards"
     },
     {
       "id": "mssi-inst-083",
@@ -5125,7 +5125,7 @@
       },
       "correct": "c",
       "explanation": "Basic Diver je omezenější vstupní program (mělčí hloubka, méně dovedností) a SSI uplatňuje přísnější dohledový strop: maximálně 4:1 v otevřené vodě. Plný OW Diver framework 8:1 se neuplatňuje.",
-      "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 8 Dive Program Standards"
     },
     {
       "id": "mssi-inst-084",
@@ -5140,7 +5140,7 @@
       },
       "correct": "a",
       "explanation": "Pro jakéhokoli vstupního studenta mladšího 12 let v otevřené vodě je maximální poměr pevně stanoven na 4:1 — žádné rozšíření přes certifikované asistenty není povoleno. Tento přísnější strop odráží mnohem vyšší dohledové zatížení a vývojové stadium mladších dětí.",
-      "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 8 Dive Program Standards"
     },
     {
       "id": "mssi-inst-085",
@@ -5155,7 +5155,7 @@
       },
       "correct": "a",
       "explanation": "Referral Diver = student, který dokončil všechny OW Diver požadavky KROMĚ čtyř výcvikových ponorů v otevřené vodě, takže je může dokončit v jiném SSI zařízení (např. v zahraničí na dovolené). K vydání Referral karty musí mít splněno: všechny akademické sekce, OW závěrečnou zkoušku a všechna sezení v bazénu/uzavřené vodě a hodnocení dovedností.",
-      "source": "mySSI: Instructor Pretest — Part 8 Dive Program Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 8 Dive Program Standards"
     },
     {
       "id": "mssi-inst-086",
@@ -5170,7 +5170,7 @@
       },
       "correct": "b",
       "explanation": "Minimální věk pro SSI Divemaster je 18, ne 21. Ostatní tři jsou skutečné požadavky: prerekvizita Diver Stress & Rescue, závěrečná zkouška Science of Diving a 60+ zaznamenaných ponorů v otevřené vodě.",
-      "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
     },
     {
       "id": "mssi-inst-087",
@@ -5185,7 +5185,7 @@
       },
       "correct": "d",
       "explanation": "AI mají přímou výukovou/certifikační pravomoc pro programy s nejnižší zátěží: Scuba Explorers, Try Scuba, refresher Scuba Skills Update a Perfect Buoyancy. Deep Diving a OW Diver zůstávají pro Open Water Instructor a výše; ne všechny specialty jsou AI dostupné.",
-      "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
     },
     {
       "id": "mssi-inst-088",
@@ -5200,7 +5200,7 @@
       },
       "correct": "a",
       "explanation": "150 vydaných certifikací NENÍ prerekvizita Master Instructor — skutečný práh počtu certifikací MI je jiný (vyšší). Skutečné požadavky zahrnují 250+ zaznamenaných OW ponorů, vyučování primárně SSI programů na všech profesionálních úrovních a být v aktivním stavu Assistant Instructor Trainer.",
-      "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
     },
     {
       "id": "mssi-inst-089",
@@ -5215,7 +5215,7 @@
       },
       "correct": "c",
       "explanation": "SSI Divemaster může získat hodnost Ecology Specialty Instructor buď dokončením Specialty Seminar, nebo co-teachingem programu s aktivním SSI specialty instructorem. Verification Application je pro konverzi cross-agency credentialů (ne pro upgrade DM-to-specialty-instructor); 'pouze co-teaching' je příliš úzké.",
-      "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
     },
     {
       "id": "mssi-inst-090",
@@ -5230,7 +5230,7 @@
       },
       "correct": "d",
       "explanation": "Kandidát na SSI Assistant Instructor Trainer musí mít vydáno alespoň 30 Scuba Diver a/nebo Open Water certifikací — smysluplnou výukovou zkušenost ve třídě i ve vodě, ale nižší než vyšší MI prahy.",
-      "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
     },
     {
       "id": "mssi-inst-091",
@@ -5245,7 +5245,7 @@
       },
       "correct": "d",
       "explanation": "AI se mohou kvalifikovat k výuce tří specialit s nízkou zátěží overhead environmentu a nízkým rizikem: Equipment Techniques, Boat Diving a Navigation. Wreck Diving (overhead expozice) a Enriched Air Nitrox (kritické řízení plynu) jsou omezeny na OWI a výše.",
-      "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
     },
     {
       "id": "mssi-inst-092",
@@ -5260,7 +5260,7 @@
       },
       "correct": "a",
       "explanation": "Dokončení Instructor Training Course (ITC) je bezprostřední prerekvizitou pro vstup do Instructor Evaluation (IE). ITC poskytuje akademický + prezentační + skill-circuit výcvik; IE je nezávislé hodnotící akce. Ostatní možnosti nejsou samostatnými prerekvizitami IE.",
-      "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
     },
     {
       "id": "mssi-inst-093",
@@ -5275,7 +5275,7 @@
       },
       "correct": "d",
       "explanation": "Po úspěšném dokončení IE je SSI Open Water Instructor automaticky kvalifikován vyučovat všechny tři: AOWD (postavený na specialitách úrovně OW), Enriched Air Nitrox a profesionální program Divemaster. Plná výuková pravomoc je udělena na úrovni OWI — vyšší pro hodnosti (AIT, MI) rozšiřují, KOHO lze trénovat jako instruktora, ne jaké programy lze vyučovat.",
-      "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
     },
     {
       "id": "mssi-inst-094",
@@ -5290,7 +5290,7 @@
       },
       "correct": "d",
       "explanation": "DM je program na Pro úrovni — pouze Pro-level instruktor v aktivním stavu (Dive Guide Instructor nebo vyšší / ekvivalent) jej může vyučovat. Retired a neaktivní stavy nemohou vyučovat. Assistant Instructors nemají pravomoc vyučovat program DM.",
-      "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
     },
     {
       "id": "mssi-inst-095",
@@ -5305,7 +5305,7 @@
       },
       "correct": "d",
       "explanation": "Po 3–5 letech ve stavu canceled musí Pro zaplatit SSI Reactivation Fee A znovu se kvalifikovat složením závěrečné zkoušky pro svou nejvyšší profesionální certifikaci. Zkouška znovu potvrzuje aktuální znalosti standardů a postupů, které se v průběhu několikaleté mezery podstatně vyvíjejí.",
-      "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
     },
     {
       "id": "mssi-inst-096",
@@ -5320,7 +5320,7 @@
       },
       "correct": "c",
       "explanation": "Kandidáti Snorkel Instructor musí být alespoň 18 let. Minimální věk je explicitní brána — ani plný SSI Pro stav, ani OWI hodnost není pro absolvování programu vyžadován. (Aktivní Pro stav by byl prerekvizitou pro některé upgrade cesty, ale není odpovědí na otázku věk-versus-status.)",
-      "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
     },
     {
       "id": "mssi-inst-097",
@@ -5335,7 +5335,7 @@
       },
       "correct": "b",
       "explanation": "Všechny tři jsou vyžadovány pro hodnost Divemaster Instructor: aktivní cert Deep Diving Instructor, aktivní cert Night and Limited Visibility Instructor a alespoň 25 vydaných certifikací z jakéhokoli rekreačního programu. Kombinovaná výuková/specialitní zkušenost je minimum pro posun nad samostatnou OWI do oblasti pro-development.",
-      "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
     },
     {
       "id": "mssi-inst-098",
@@ -5350,7 +5350,7 @@
       },
       "correct": "c",
       "explanation": "React Right je SSI program první pomoci/KPR/AED — oddělený od potápěčského curriculum. Pro to stát se React Right Instructorem není vůbec vyžadován žádný SSI Professional (potápěčský) status; hodnost je otevřena komukoli, kdo dokončí React Right Instructor cestu, protože není zapojena žádná potápěčská pravomoc.",
-      "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
     },
     {
       "id": "mssi-inst-099",
@@ -5365,7 +5365,7 @@
       },
       "correct": "c",
       "explanation": "Dokončení požadavků OW Diver Instructor Manual je úkol Open Water Instructor (ITC/IE), ne úkol AITC. Kandidáti AITC musí zaznamenat 75+ OW ponorů (≥50 hodin), složit Candidate Water Fitness Evaluation a dosáhnout 90 %+ na AITC závěrečné zkoušce — ale v této fázi nepracují s plným OWI manuálem.",
-      "source": "mySSI: Instructor Pretest — Part 9 Dive Professional Standards"
+      "source": "mySSI: ITC Instructor Pretest — Part 9 Dive Professional Standards"
     },
     {
       "id": "personal-ait-a-001",

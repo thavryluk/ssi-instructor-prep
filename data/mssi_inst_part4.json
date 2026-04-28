@@ -12,7 +12,7 @@
     },
     "correct": "a",
     "explanation": "A gas-integrated computer reads tank pressure (wired or wirelessly via a transmitter) and shows real-time remaining gas supply, often combined with current SAC/RMV and gas-time-remaining estimates. It does NOT control the diver's breathing.",
-    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+    "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
   },
   {
     "id": "mssi-inst-031",
@@ -27,7 +27,7 @@
     },
     "correct": "a",
     "explanation": "Two flags are recognised: the recreational/sport diver flag (red field with diagonal white stripe, mainly North America) and the international maritime Alpha flag (white-and-blue swallow-tail) which signals 'I have a diver down — keep clear at slow speed'.",
-    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+    "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
   },
   {
     "id": "mssi-inst-032",
@@ -42,7 +42,7 @@
     },
     "correct": "d",
     "explanation": "The 'save-a-dive kit' is a small case of common spare parts (mask strap, fin strap, O-rings, mouthpiece, cable ties, batteries, defog, basic tools) that lets you fix the small failures that would otherwise scrub a dive. A whole second TDS is impractical to carry; the kit is the standard SSI recommendation.",
-    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+    "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
   },
   {
     "id": "mssi-inst-033",
@@ -57,7 +57,7 @@
     },
     "correct": "a",
     "explanation": "Heat is lost fastest at the head, hands and feet. Adding a hood, booties and gloves dramatically improves overall thermal protection. Hot-water suits exist (commercial diving) but are not 'add-ons' to a recreational suit; helium is a worse insulator than air; back plates are buoyancy hardware.",
-    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+    "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
   },
   {
     "id": "mssi-inst-034",
@@ -72,7 +72,7 @@
     },
     "correct": "b",
     "explanation": "Modern recreational BCs incorporate an integrated weight system: weights ride in releasable pouches in the BC itself, removing the need for a separate belt. The pouches are designed to be jettisoned with a single handle in an emergency.",
-    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+    "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
   },
   {
     "id": "mssi-inst-035",
@@ -87,7 +87,7 @@
     },
     "correct": "c",
     "explanation": "Cylinders containing anything other than standard air (Nitrox, Trimix, oxygen, argon, etc.) must be clearly labelled with contents and analysis — green/yellow Nitrox tape, MOD sticker, max PO2, fill date — so no diver accidentally breathes the wrong gas at the wrong depth.",
-    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+    "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
   },
   {
     "id": "mssi-inst-036",
@@ -102,7 +102,7 @@
     },
     "correct": "a",
     "explanation": "The first stage steps cylinder pressure (200–300 bar) down to a consistent intermediate pressure (typically ~9–10 bar above ambient). The second stage then drops it to ambient on-demand for the diver to breathe. Balanced first stages keep IP constant as cylinder pressure drops.",
-    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+    "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
   },
   {
     "id": "mssi-inst-037",
@@ -117,7 +117,7 @@
     },
     "correct": "a",
     "explanation": "SSI's core philosophy: a diver's own Total Diving System (TDS) — properly fitted mask, fins, exposure suit, BC, regulator, computer, instrumentation — provides comfort, familiarity and reliability that rental gear can't match. (Also a marketing message of the SSI dealer model, but pedagogically grounded.)",
-    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+    "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
   },
   {
     "id": "mssi-inst-038",
@@ -132,7 +132,7 @@
     },
     "correct": "c",
     "explanation": "Three common weighting options coexist: traditional weight belt (around the hips), integrated weight pockets in the BC, and trim weights (small ankle/back-mounted weights to fine-tune horizontal trim). Most divers use a combination.",
-    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+    "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
   },
   {
     "id": "mssi-inst-039",
@@ -147,6 +147,6 @@
     },
     "correct": "d",
     "explanation": "The 'Information System' in SSI's TDS framework groups every instrument that gives the diver data about the dive: SPG, depth gauge, dive computer (which today often subsumes both), timer, compass, and digital extensions like wireless transmitters and HUDs.",
-    "source": "mySSI: Instructor Pretest — Part 4 Diving Equipment"
+    "source": "mySSI: ITC Instructor Pretest — Part 4 Diving Equipment"
   }
 ]

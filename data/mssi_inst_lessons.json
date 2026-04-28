@@ -12,7 +12,7 @@
     },
     "correct": "c",
     "explanation": "Affiliating with an SSI Training Center gives the Professional access to: (1) equipment and training resources (rental fleet, classroom space, training aids), (2) marketing and student acquisition channels (the centre's existing customer base, retail traffic, online presence), and (3) regular interaction with more-experienced instructors who provide mentorship and quality assurance. All three are real benefits of affiliation versus working independently.",
-    "source": "mySSI: Lesson 1.1 Review"
+    "source": "mySSI: ITC Lesson 1.1 Review"
   },
   {
     "id": "mssi-inst-101",
@@ -27,7 +27,7 @@
     },
     "correct": "a",
     "explanation": "Local training centers build a sustainable business by serving their surrounding community — repeat customers, club culture, ongoing education, equipment service. Options B and C describe destination centers (e.g. tropical resorts) whose model is a high-throughput stream of visiting divers. D is wrong: local centers run the full curriculum from Try Scuba up.",
-    "source": "mySSI: Lesson 1.1 Review"
+    "source": "mySSI: ITC Lesson 1.1 Review"
   },
   {
     "id": "mssi-inst-102",
@@ -42,7 +42,7 @@
     },
     "correct": "b",
     "explanation": "SSI (Scuba Schools International) was founded in 1970 by a group of dive retailers who wanted a training agency that supported the dive-retail business model — pairing diver education with the local dive store as the hub of the diving community. The Recreational Scuba Training Council (RSTC) is a later cross-agency body, not SSI's founder.",
-    "source": "mySSI: Lesson 1.1 Review"
+    "source": "mySSI: ITC Lesson 1.1 Review"
   },
   {
     "id": "mssi-inst-103",
@@ -57,7 +57,7 @@
     },
     "correct": "c",
     "explanation": "The SSI Network connects local training centers and destination resorts so divers, instructors and equipment flow in both directions. Increased communication is the underlying mechanism: locals refer travellers to resorts, resorts refer back-home divers to local continuing education, and instructors can move between affiliated centres.",
-    "source": "mySSI: Lesson 1.1 Review"
+    "source": "mySSI: ITC Lesson 1.1 Review"
   },
   {
     "id": "mssi-inst-104",
@@ -72,7 +72,7 @@
     },
     "correct": "a",
     "explanation": "The Customer Loyalty Cycle is SSI's model for acquiring new divers (Try Scuba → OW), retaining them through continuing education and community, and turning them into long-term customers of the training centre. Equipment sales and dive-site visits are downstream outcomes, not the framing of the cycle itself.",
-    "source": "mySSI: Lesson 1.1 Review"
+    "source": "mySSI: ITC Lesson 1.1 Review"
   },
   {
     "id": "mssi-inst-105",
@@ -87,7 +87,7 @@
     },
     "correct": "c",
     "explanation": "SSI's Diver Diamond model has six facets that together build a competent, lifelong diver: Knowledge (academic), Skills (in-water), Equipment (own TDS), Experience (logged dives), Responsibility (Diver Responsibility Code), and Environment (continuing education across diverse environments). Specialty/AOWD pathways are designed to develop all six.",
-    "source": "mySSI: Lesson 1.1 Review"
+    "source": "mySSI: ITC Lesson 1.1 Review"
   },
   {
     "id": "mssi-inst-106",
@@ -102,7 +102,7 @@
     },
     "correct": "d",
     "explanation": "Resort training centers operate at destinations and serve travelling divers — their model is high-throughput dive trips and short-format programs at attractive sites. Local centers (the contrasting model) focus on building a community of returning divers from the surrounding area.",
-    "source": "mySSI: Lesson 1.1 Review"
+    "source": "mySSI: ITC Lesson 1.1 Review"
   },
   {
     "id": "mssi-inst-107",
@@ -117,6 +117,6 @@
     },
     "correct": "c",
     "explanation": "Active SSI Pro status requires all three: paying the annual renewal fee, completing the online renewal (acknowledging current standards / quality assurance), and being affiliated with an active SSI Training Center. Missing any one of the three drops the Pro to inactive status.",
-    "source": "mySSI: Lesson 1.1 Review"
+    "source": "mySSI: ITC Lesson 1.1 Review"
   }
 ]

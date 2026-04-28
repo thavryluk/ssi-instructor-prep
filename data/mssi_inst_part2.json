@@ -12,7 +12,7 @@
     },
     "correct": "d",
     "explanation": "The cardiovascular (circulatory) system has three primary parts: the heart as the pump, blood as the transport medium for gases/nutrients/waste, and the blood vessels (arteries, veins, capillaries) as the plumbing.",
-    "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+    "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
   },
   {
     "id": "mssi-inst-011",
@@ -27,7 +27,7 @@
     },
     "correct": "c",
     "explanation": "Tissues equilibrate with the partial pressure of nitrogen in the alveolar air (Henry's Law). On the surface that's roughly 0.79 ATA × 1 ATA ≈ 0.79 bar PN2. As ambient pressure rises with depth, alveolar PN2 rises and tissues on-gas; on ascent, the gradient reverses.",
-    "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+    "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
   },
   {
     "id": "mssi-inst-012",
@@ -42,7 +42,7 @@
     },
     "correct": "d",
     "explanation": "The four classic pulmonary overexpansion (POIS) injuries: arterial gas embolism (AGE), mediastinal emphysema (gas in the chest cavity), subcutaneous emphysema (gas under the skin), and pneumothorax (collapsed lung). DCS is gas-bubble formation from supersaturation, not lung overexpansion. Oval window rupture is an inner-ear injury.",
-    "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+    "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
   },
   {
     "id": "mssi-inst-013",
@@ -57,7 +57,7 @@
     },
     "correct": "c",
     "explanation": "Sinuses cannot be voluntarily equalized — the only reliable defence is to dive only when sinuses are healthy and clear. Decongestants can wear off mid-dive causing reverse blocks on ascent; forced equalization can damage the inner ear; slow descent helps but does not solve a blocked sinus.",
-    "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+    "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
   },
   {
     "id": "mssi-inst-014",
@@ -72,7 +72,7 @@
     },
     "correct": "c",
     "explanation": "The round and oval windows separate the middle ear from the fluid-filled inner ear. Forceful Valsalva or rapid pressure differentials can rupture them, causing permanent sensorineural hearing loss, tinnitus and vertigo (perilymph fistula). Eardrum rupture is painful but typically heals with much milder long-term effects; the Eustachian tube does not 'rupture'.",
-    "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+    "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
   },
   {
     "id": "mssi-inst-015",
@@ -87,7 +87,7 @@
     },
     "correct": "b",
     "explanation": "A squeeze is barotrauma of descent: external (ambient water) pressure exceeds the pressure in a closed air space (mask, ear, sinus, suit), and the tissue lining is pulled into the space. The reverse — internal > external — is a 'reverse block' on ascent.",
-    "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+    "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
   },
   {
     "id": "mssi-inst-016",
@@ -102,7 +102,7 @@
     },
     "correct": "a",
     "explanation": "Standard procedure: ascend a metre or two until the pressure is relieved, then equalize gently and continue descending. Forcing or 'waiting it out' can drive a middle-ear or inner-ear barotrauma. Aborting to the surface is only needed if equalization repeatedly fails.",
-    "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+    "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
   },
   {
     "id": "mssi-inst-017",
@@ -117,7 +117,7 @@
     },
     "correct": "b",
     "explanation": "Initial ear squeeze presents as a feeling of pressure or fullness; if the diver continues to descend without equalizing, this progresses to severe pain and ultimately tympanic membrane rupture. Joint pain points to DCS, chest pulling to lung/mediastinal issues.",
-    "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+    "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
   },
   {
     "id": "mssi-inst-018",
@@ -132,7 +132,7 @@
     },
     "correct": "b",
     "explanation": "Lung overexpansion injury can occur with as little as ~1.2 m (4 ft) of pressure differential when a diver holds their breath while ascending — the lungs cannot stretch more than a few percent before alveoli rupture. This is why the cardinal rule is 'never hold your breath'.",
-    "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+    "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
   },
   {
     "id": "mssi-inst-019",
@@ -147,6 +147,6 @@
     },
     "correct": "d",
     "explanation": "In classic heat stroke the body's thermoregulation fails and sweating typically STOPS — the skin becomes hot, dry and red. Profuse sweating is characteristic of heat exhaustion, the precursor stage. Heat stroke is a true medical emergency: rapid pulse, very high core temperature, altered mental status.",
-    "source": "mySSI: Instructor Pretest — Part 2 Diving Physiology"
+    "source": "mySSI: ITC Instructor Pretest — Part 2 Diving Physiology"
   }
 ]

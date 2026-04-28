@@ -12,7 +12,7 @@
     },
     "correct": "d",
     "explanation": "Per SSI General Training Standards, controlled emergency swimming ascents (CESA) and other emergency-ascent skills are practiced from a maximum depth of 9 m / 30 ft. The shallow start keeps the ascent slow enough to manage and minimises lung-overexpansion risk if a student fails to exhale.",
-    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
   },
   {
     "id": "mssi-inst-062",
@@ -27,7 +27,7 @@
     },
     "correct": "d",
     "explanation": "Each SSI program standard defines the maximum student-to-instructor ratio (e.g. OW confined 8:1, OW open water 8:1 with options to extend with certified assistants, Try Scuba 4:1, etc.). Instructors may always REDUCE ratios at their discretion for safety, but never exceed the program-defined maximum.",
-    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
   },
   {
     "id": "mssi-inst-063",
@@ -42,7 +42,7 @@
     },
     "correct": "d",
     "explanation": "All three statements apply: the instructor/training centre must process the certification within 7 days, the student receives a digital card automatically in their MySSI account, and a physical printed card can be ordered as an optional extra through the training centre or SSI Service Center.",
-    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
   },
   {
     "id": "mssi-inst-064",
@@ -57,7 +57,7 @@
     },
     "correct": "d",
     "explanation": "Only Active-status SSI Professionals may conduct training. Inactive members cannot teach (membership/insurance lapsed); 'under review' status indicates a quality-assurance investigation that suspends teaching authority; affiliation with a Training Center alone is not enough — the personal Pro status must be Active.",
-    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
   },
   {
     "id": "mssi-inst-065",
@@ -72,7 +72,7 @@
     },
     "correct": "b",
     "explanation": "Never. A certified assistant — including a Divemaster acting in that role — assists with logistics, supervision and safety, but skill EVALUATION is reserved to the instructor of record. The DM can demonstrate, position students, watch for issues, and report observations, but the pass/fail call on a skill is always the instructor's.",
-    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
   },
   {
     "id": "mssi-inst-066",
@@ -87,7 +87,7 @@
     },
     "correct": "c",
     "explanation": "Each SSI program (OW, Deep, Wreck, Cavern, Trimix, etc.) has its own specific standards / instructor manual that defines its own depth limits — 18 m for OW, 30 m for Deep specialty Level 1, 40 m for Level 2, etc. The GTS sets common rules but program-specific depths live in the program's own document.",
-    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
   },
   {
     "id": "mssi-inst-067",
@@ -102,7 +102,7 @@
     },
     "correct": "d",
     "explanation": "Administrative procedures that apply across all programs — referrals (cross-instructor or cross-agency), card replacement, name changes, certification corrections — live in the General Training Standards under 'Certification Procedures', not in any single program manual.",
-    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
   },
   {
     "id": "mssi-inst-068",
@@ -117,7 +117,7 @@
     },
     "correct": "b",
     "explanation": "An EAP (Emergency Action Plan) must be written and posted/available for any location where SSI training dives occur — pool, quarry, ocean — regardless of how well the instructor knows the site. It includes nearest chamber, emergency contacts, evacuation route, communication procedures.",
-    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
   },
   {
     "id": "mssi-inst-069",
@@ -132,7 +132,7 @@
     },
     "correct": "c",
     "explanation": "SSI's swim-through definition includes a maximum length of 10 meters. A swim-through is distinct from cavern/wreck penetration: short, both ends clearly visible, with no overhead-environment certification required. Options A, B, D are wrong — there's no 30 m minimum depth, both ends MUST be clearly visible, and entry-level students CAN traverse a properly defined swim-through.",
-    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
   },
   {
     "id": "mssi-inst-070",
@@ -147,7 +147,7 @@
     },
     "correct": "b",
     "explanation": "The Water Fitness Evaluation (swim distance, water tread, comfort) is the gate to OPEN water training — it is performed in confined water as part of the early program and must be passed before the student progresses to any open water training dive. It does not have to precede the first pool session.",
-    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
   },
   {
     "id": "mssi-inst-071",
@@ -162,6 +162,6 @@
     },
     "correct": "c",
     "explanation": "The Indoor Diving environment is defined by all three criteria: a minimum depth of 5 m, a minimum surface area of 100 m², and the requirement that the venue be an aquarium or purpose-built facility (not a recreational swimming pool). All three must be true for a venue to qualify.",
-    "source": "mySSI: Instructor Pretest — Part 7 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 7 General Training Standards"
   }
 ]

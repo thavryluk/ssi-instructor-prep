@@ -12,7 +12,7 @@
     },
     "correct": "c",
     "explanation": "Half-time is the time required for a tissue compartment to move halfway (50%) toward equilibrium with the ambient inert-gas partial pressure — whether on-gassing or off-gassing. After 1 half-time it has changed 50%, after 2 half-times 75%, after 6 half-times it is considered ~98.4% saturated.",
-    "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+    "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
   },
   {
     "id": "mssi-inst-021",
@@ -27,7 +27,7 @@
     },
     "correct": "c",
     "explanation": "Field treatment for suspected DCS: 100% oxygen via demand or non-rebreather mask, oral fluids if the diver is conscious and not vomiting, lay them flat, and arrange transport to a recompression chamber — even if the journey is long, because the only definitive treatment is hyperbaric therapy.",
-    "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+    "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
   },
   {
     "id": "mssi-inst-022",
@@ -42,7 +42,7 @@
     },
     "correct": "a",
     "explanation": "⚠️ NEEDS VERIFICATION — confirm against the actual SSI Diver Tables. Tentative answer: A. Reasoning: a 2:45 surface interval starting from group D should drop the diver back to group A on standard SSI Tables, because by ~2 hours most groups have washed out the residual nitrogen attributed to the controlling tissue. The exact table cell varies by edition — cross-check before relying on this in an exam.",
-    "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+    "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
   },
   {
     "id": "mssi-inst-023",
@@ -57,7 +57,7 @@
     },
     "correct": "c",
     "explanation": "Desaturation pathway: tissue → blood → alveolar gas → exhaled breath. Inert gas is eliminated with each exhalation; the rate is limited by perfusion of the slowest tissues, which is why decompression is graded.",
-    "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+    "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
   },
   {
     "id": "mssi-inst-024",
@@ -72,7 +72,7 @@
     },
     "correct": "b",
     "explanation": "'Fast' vs 'slow' tissue refers to how quickly a theoretical compartment on/off-gases inert gas — i.e. its half-time. Fast tissues (e.g. blood, brain, ~5 min half-times) saturate and desaturate quickly; slow tissues (bone, fat, 240+ min) take much longer.",
-    "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+    "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
   },
   {
     "id": "mssi-inst-025",
@@ -87,7 +87,7 @@
     },
     "correct": "b",
     "explanation": "A multi-level dive starts at the deepest planned depth and progresses to shallower levels. Because tissue on-gassing slows at shallower depths, the diver can extend total bottom time relative to a square-profile dive. Going deeper as the dive progresses is the opposite of safe profile design.",
-    "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+    "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
   },
   {
     "id": "mssi-inst-026",
@@ -102,7 +102,7 @@
     },
     "correct": "a",
     "explanation": "SSI standard recreational safety stop: 5 m / 15 ft for 3 minutes (3–5 min is acceptable). It allows tissues a final off-gassing window and slows the last few metres of ascent where the largest pressure gradient exists.",
-    "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+    "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
   },
   {
     "id": "mssi-inst-027",
@@ -117,7 +117,7 @@
     },
     "correct": "c",
     "explanation": "Per the SSI Diver Tables: 18 m / 30 min lands the diver in pressure group G. To repeat 18 m / 30 min the diver must be at residual-nitrogen group B or lower (so the second dive's adjusted no-deco time covers 30 min). Off-gassing from G down to that group requires a minimum surface interval of 2:29.",
-    "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+    "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
   },
   {
     "id": "mssi-inst-028",
@@ -132,7 +132,7 @@
     },
     "correct": "c",
     "explanation": "Decompression algorithms model probability, not certainty. The closer the diver runs to the no-decompression limit (or to a deco ceiling) the smaller the personal safety margin — physiology, hydration, fatigue and individual susceptibility can tip an 'allowed' profile into a hit.",
-    "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+    "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
   },
   {
     "id": "mssi-inst-029",
@@ -147,6 +147,6 @@
     },
     "correct": "c",
     "explanation": "Desaturation (off-gassing) begins the moment ambient pressure drops below the partial pressure of inert gas in a tissue compartment — that's the start of ascent. Stops formalise the off-gassing, but the gradient reverses as soon as the diver begins ascending.",
-    "source": "mySSI: Instructor Pretest — Part 3 Decompression Theory"
+    "source": "mySSI: ITC Instructor Pretest — Part 3 Decompression Theory"
   }
 ]

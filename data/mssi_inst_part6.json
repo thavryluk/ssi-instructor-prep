@@ -12,7 +12,7 @@
     },
     "correct": "c",
     "explanation": "Per SSI General Training Standards, the medical questionnaire (or signed physician statement) must be on file before the student enters the water — this includes confined-water sessions, not just open water. Pre-certification is too late; pre-OW only is too narrow.",
-    "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
   },
   {
     "id": "mssi-inst-051",
@@ -27,7 +27,7 @@
     },
     "correct": "a",
     "explanation": "GTS requires the SSI Dive Professional to dive with at least all the equipment students are required to use, plus a personal dive computer, plus a DSMB and a surface signalling device — so all three statements together describe the minimum kit.",
-    "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
   },
   {
     "id": "mssi-inst-052",
@@ -42,7 +42,7 @@
     },
     "correct": "d",
     "explanation": "SSI uses a one-kit-per-student-per-program model. The Digital Training Kit is the official student material set — it ensures each student has direct access to current standards, manuals, video and review tools, regardless of what their instructor or training centre prefers.",
-    "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
   },
   {
     "id": "mssi-inst-053",
@@ -57,7 +57,7 @@
     },
     "correct": "a",
     "explanation": "A 'certified assistant' under GTS must be: (1) an SSI Dive Guide / Divemaster or higher, (2) in current/active status with SSI (renewed Pro membership, current insurance), and (3) qualified to assist with in-water training and supervision. All three apply.",
-    "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
   },
   {
     "id": "mssi-inst-054",
@@ -72,7 +72,7 @@
     },
     "correct": "b",
     "explanation": "Per SSI General Training Standards, the Candidate Water Fitness Evaluation requires a full diver rescue with a surface swim completed in under 8 minutes — a timed, real-load rescue/tow demonstration. The other options are wrong: 50 m underwater is OW-level, 20 min tread is non-standard (15 min is the SSI norm), 750 m mask-fins-snorkel doesn't match SSI's distance benchmarks.",
-    "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
   },
   {
     "id": "mssi-inst-055",
@@ -87,7 +87,7 @@
     },
     "correct": "b",
     "explanation": "Per SSI General Training Standards, required open water training dives must be completed within 6 months of the last academic OR in-water training session — the clock starts from whichever was most recent. After 6 months, the student needs a refresher before completing the OW dives.",
-    "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
   },
   {
     "id": "mssi-inst-056",
@@ -102,7 +102,7 @@
     },
     "correct": "b",
     "explanation": "After >12 months out of the water, an entry-level student does not need to repeat the whole course — they complete an SSI Scuba Skills Update (refresher) covering academic review, equipment check and confined-water skill practice before continuing or diving.",
-    "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
   },
   {
     "id": "mssi-inst-057",
@@ -117,7 +117,7 @@
     },
     "correct": "b",
     "explanation": "The Flexibility Rule lets the instructor adapt teaching style, sequence and presentation to the student's needs and the local environment — but it does NOT permit reducing required content, omitting performance requirements, or adding non-SSI skills as part of the certification.",
-    "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
   },
   {
     "id": "mssi-inst-058",
@@ -132,7 +132,7 @@
     },
     "correct": "a",
     "explanation": "Before training begins, every student signs/completes: (1) the program-specific Completion Record, (2) the Medical Participant Questionnaire, and (3) the Responsible Diver Code (plus liability release). All three are mandatory paperwork — no in-water activity until all are on file.",
-    "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
   },
   {
     "id": "mssi-inst-059",
@@ -147,7 +147,7 @@
     },
     "correct": "d",
     "explanation": "An active SSI Professional must keep current copies (or digital access) of the latest student materials they teach from, the latest instructor manuals, AND any additional standards/materials referenced for the programs they conduct. Outdated materials = standards violation.",
-    "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
   },
   {
     "id": "mssi-inst-060",
@@ -162,6 +162,6 @@
     },
     "correct": "d",
     "explanation": "The 'SSI In-Water Training Philosophy' section of GTS is where SSI explains the WHY behind specific skill choices — including why students are taught to hand off their primary regulator to a panicked OOA buddy and switch to their own alternate. The other sections cover scope (How To Use), administrative procedures, or duty-of-care obligations rather than skill rationale.",
-    "source": "mySSI: Instructor Pretest — Part 6 General Training Standards"
+    "source": "mySSI: ITC Instructor Pretest — Part 6 General Training Standards"
   }
 ]
