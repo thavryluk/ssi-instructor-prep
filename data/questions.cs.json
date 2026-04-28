@@ -4478,8 +4478,8 @@
         "c": "Učit všechny dovednosti nouzového výstupu pod přímým dohledem",
         "d": "Pouze pozorovat a asistovat s ovládáním skupiny"
       },
-      "correct": "a",
-      "explanation": "Pravomoc AI v bazénu / chráněné vodě pro OWD je plná — AI mohou vyučovat VŠECHNY dovednosti, včetně cvičení nouzového výstupu (CESA), které probíhají v chráněné vodě, pod nepřímým dohledem aktivního OWI. Restrikce 'kromě nouzového výstupu' (b) se vztahuje na prostředí OTEVŘENÉ VODY, ne na bazén. (c) převrací úroveň dohledu. (d) podhodnocuje rating AI — v chráněné vodě nejsou jen pozorovatelé.",
+      "correct": "b",
+      "explanation": "Pravomoc AI v bazénu / chráněné vodě pro OWD = vyučovat všechny dovednosti KROMĚ dovedností nouzového výstupu (CESA) pod nepřímým dohledem aktivního OWI. Dovednosti nouzového výstupu musí vést Instruktor kvůli vyššímu rizikovému profilu, i v kontrolovaném prostředí bazénu. (a) je příliš široké — opomíjí výjimku pro nouzový výstup. (c) převrací autoritu — AI nemůže vést nouzový výstup pod žádným dohledem. (d) podhodnocuje rating AI na pouhého pozorovatele. Zrcadlová otázka k mssi-inst-153.",
       "source": "mySSI: ITC Lesson 2.1 Review"
     },
     {

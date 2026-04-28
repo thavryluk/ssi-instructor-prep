@@ -2,11 +2,11 @@
   "version": "1.0",
   "generated_at": "2026-04-25",
   "note": "SSI study bank for Tomas's Instructor prep app. Each question carries a 'source' URL (Quizlet/dive-shop PDF/SSI training pages) where verbatim wording was found, OR 'compiled_from_dive_theory' for items grounded in public SSI standards and dive physics/physiology that I've authored from established theory rather than copied. Always reconcile with the current SSI Training Standards before using as definitive answers.",
-  "total": 718,
+  "total": 752,
   "counts_by_area": {
     "assistant_instructor": 50,
     "divemaster": 50,
-    "instructor": 498,
+    "instructor": 532,
     "science_of_diving": 120
   },
   "questions": [
@@ -4476,8 +4476,8 @@
         "c": "Teach all emergency ascent skills under direct supervision",
         "d": "Only observe and assist with group control"
       },
-      "correct": "a",
-      "explanation": "AI authority in pool/confined water for OWD is full — AIs can teach ALL skills, including the practice emergency ascent (CESA) drills that happen in confined water, under indirect supervision of an active OWI. The 'no-emergency-ascent' restriction (b) applies to the OPEN WATER environment, not the pool. (c) flips the supervision level. (d) understates the AI rating — they're not just observers in confined water.",
+      "correct": "b",
+      "explanation": "AI authority in pool/confined for OWD = teach all skills EXCEPT emergency ascent skills (CESA), under indirect supervision of an active OWI. Emergency ascent skills must be conducted by the Instructor due to higher risk profile, even in the controlled pool environment. (a) is too broad — it forgets the emergency-ascent carve-out. (c) inverts authority — AI can't conduct emergency ascents under any supervision. (d) understates the AI rating to mere observer. Mirror question of mssi-inst-153.",
       "source": "mySSI: ITC Lesson 2.1 Review"
     },
     {
@@ -4494,6 +4494,516 @@
       "correct": "b",
       "explanation": "OW training dives are the TRANSFER phase: students take skills they've already mastered in pool/confined water and apply them in the actual aquatic environment. (a) is wrong because skills like buoyancy control are taught in pool first, not in OW. (d) is wrong because a certified assistant is not a universal requirement — it's driven by student/instructor ratios in standards. (c) all-correct fails because a and d are not generic OW-dive truths.",
       "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-149",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "What is the primary duty of a certified assistant?",
+      "options": {
+        "a": "Conduct open water skill demonstrations",
+        "b": "Issue Open Water Diver certifications",
+        "c": "Evaluate students in the open water",
+        "d": "Support the lead instructor with student training"
+      },
+      "correct": "d",
+      "explanation": "Certified assistants (Divemasters, Assistant Instructors acting as assistants) exist to support the lead instructor — extra eyes on students, group-control help, in-water demonstration support, surface tending, briefing/debrief assistance. Skill demonstrations (a) can be done under direct Instructor supervision but aren't the assistant's PRIMARY duty. Issuing certifications (b) and evaluating students (c) are Instructor authorities — assistants cannot certify or evaluate.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-150",
+      "area": "instructor",
+      "subarea": "Methodology — Pool / Confined Water",
+      "question": "Pool/confined water sessions:",
+      "options": {
+        "a": "Can only be taught by Open Water Instructors or higher",
+        "b": "Should only focus on advanced skills",
+        "c": "Focus on skill development in a controlled environment",
+        "d": "All answers are correct"
+      },
+      "correct": "c",
+      "explanation": "Pool/confined water is the controlled environment where students build foundational skills before transferring them to open water. (a) is wrong — Assistant Instructors can independently teach pool/confined for OWD under indirect supervision. (b) is wrong — pool is for FOUNDATIONAL skills (mask R&R, regulator recovery, neutral buoyancy basics), not advanced. (d) all-correct fails because a and b are wrong.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-151",
+      "area": "instructor",
+      "subarea": "Professional Standards — Ethics",
+      "question": "Follow the lead instructor's directions:",
+      "options": {
+        "a": "Only if they have more experience than you",
+        "b": "Only if you personally agree with them",
+        "c": "At all times without question",
+        "d": "If they meet the SSI Training Standards and training center policy"
+      },
+      "correct": "d",
+      "explanation": "Chain of command in SSI is bounded — not absolute. You follow the lead instructor's directions PROVIDED they conform to SSI Training Standards and the TC's documented policies. If a direction would breach standards (exceeding ratios, busting depth limits, skipping required prereqs), you have a professional duty to push back / refuse. (c) 'without question' is the trap — blind compliance shifts liability to you when something goes wrong. (a) and (b) make the hierarchy contingent on personal factors, which would dissolve any team structure.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-152",
+      "area": "instructor",
+      "subarea": "Methodology — Assistant Positioning",
+      "question": "Where should you position yourself during in-water training?",
+      "options": {
+        "a": "Behind the students or behind the instructor, unless otherwise directed",
+        "b": "Directly above the students so you do not distract the instructor",
+        "c": "Directly next to the most nervous student",
+        "d": "Directly next to the instructor to help as necessary"
+      },
+      "correct": "a",
+      "explanation": "Default certified-assistant position is behind the student line or behind the instructor — gives full view of the group without crossing the instructor's sight lines, lets you spot a struggling student fast, keeps the instructor's working space clear. The instructor may reposition you (next to a specific student, herding from a flank), so 'unless otherwise directed' matters. (b) directly above is a snorkel-tending pose, not standard; (c) next-to-nervous-student is a situational override, not default; (d) next-to-instructor crowds their workspace.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-153",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "What skills can an Assistant Instructor teach during pool/confined water training?",
+      "options": {
+        "a": "All skills from the Open Water Diver program",
+        "b": "Only mask removal and buoyancy skills",
+        "c": "The instructor must teach all the skills",
+        "d": "All skills except for emergency ascent skills"
+      },
+      "correct": "d",
+      "explanation": "AI authority in pool/confined for OWD = all skills EXCEPT emergency ascent skills (CESA), which the active OWI must conduct directly because of the higher-risk profile. (a) is wrong because emergency ascents are excluded. (b) drastically understates what AI can teach. (c) is wrong — that would erase the entire AI rating. Mirror of mssi-inst-147 (same rule, different option ordering).",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-154",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "Which of the following duties can a certified assistant perform during open water training?",
+      "options": {
+        "a": "Act as a dive buddy for another student",
+        "b": "Conduct underwater tours after Open Water Training Dive 2 is complete",
+        "c": "All answers are correct",
+        "d": "Act as a Divemaster during the dive"
+      },
+      "correct": "c",
+      "explanation": "Certified assistants in OW training can fill multiple roles as the instructor delegates: (a) buddy with a student to bring the group to even pairs; (b) lead underwater tours once OW Training Dive 2 is complete and basic skills are mastered; (d) act in their Divemaster capacity if rated as DM. All three are valid delegated duties — the instructor decides which fits the dive plan. (Note (d) implicitly requires the assistant to actually hold the DM rating; an AI-only assistant could not act AS a DM.)",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-155",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "An Assistant Instructor can ____ during the Open Water Diver academic sessions?",
+      "options": {
+        "a": "Only conduct the final exam",
+        "b": "Evaluate student skills",
+        "c": "Teach under indirect supervision",
+        "d": "Only audit lectures"
+      },
+      "correct": "c",
+      "explanation": "AI authority in OWD academics: deliver classroom / theory sessions under indirect supervision of an active OWI — the OWI doesn't need to be in the room but takes overall responsibility and signs off. (a) restricts AI to just the exam — they can do much more. (b) skill evaluation is the cert-issuing Instructor's job. (d) 'only audit' would erase the AI rating. The 'indirect supervision' phrasing is the AI fingerprint.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-156",
+      "area": "instructor",
+      "subarea": "Methodology — Assistant Role",
+      "question": "Which of the following is the main priority of a certified assistant during open water training?",
+      "options": {
+        "a": "Demonstrating skills at depth",
+        "b": "Monitoring the lead instructor's breathing gas supply",
+        "c": "Conducting underwater tours",
+        "d": "Group control and supervision"
+      },
+      "correct": "d",
+      "explanation": "The whole reason an instructor brings a certified assistant on OW dives is force-multiplied attention — group control, head counts, watching for trouble. Demonstrations (a), tours (c) and other tasks are secondary delegated duties. (b) is a distractor that inverts roles — the instructor manages their own gas, the assistant doesn't babysit it. Memory hook: assistant = extra eyes on the group.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-157",
+      "area": "instructor",
+      "subarea": "Methodology — Assistant Role",
+      "question": "The certified assistant should _____ after the dive.",
+      "options": {
+        "a": "Disassemble their equipment before anyone else",
+        "b": "Only take part in the post-dive debriefing",
+        "c": "Take part in the post-dive debriefing and log their dives",
+        "d": "Avoid answering any questions from students"
+      },
+      "correct": "c",
+      "explanation": "Two professional after-dive duties: (1) attend the post-dive debriefing — supports learning transfer, lets you observe how the instructor handles questions, models pro behaviour for students; (2) log every training dive — Pros are required to maintain accurate logbooks. (a) inverts dive-team etiquette — Pros help students before themselves. (d) breaks trust and the mentor role; certified assistants are encouraged to engage with student questions (within their authority).",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-158",
+      "area": "instructor",
+      "subarea": "Methodology — Specialty Instructor Seminar",
+      "question": "The Specialty Instructor Seminar:",
+      "options": {
+        "a": "Only requires completion of the digital learning materials",
+        "b": "Requires proof of 20 logged dives in the specialty",
+        "c": "Is taught by a qualified Assistant Instructor Trainer or higher",
+        "d": "Only requires completion of the final exam"
+      },
+      "correct": "c",
+      "explanation": "SI Seminar = the in-person component of the Specialty Instructor pathway, conducted by a qualified AIT, IT or MIT who is rated to teach that specialty. (a) and (d) are too narrow — the seminar requires both materials AND in-person training AND assessment. (b) misstates the dive count — Specialty Instructor seminars require 10 logged dives in the specialty, not 20.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-159",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Instructor",
+      "question": "The Specialty Instructor certification for Navigation:",
+      "options": {
+        "a": "Is earned by completing additional training requirements",
+        "b": "Is automatically issued with the Assistant Instructor certification",
+        "c": "Can be earned by completing the Divemaster rating",
+        "d": "Is automatically issued with the Open Water Instructor certification"
+      },
+      "correct": "a",
+      "explanation": "SSI Specialty Instructor ratings (Navigation, Deep, Night, Wreck, etc.) are NEVER bundled with another rating — each is earned individually via one of three pathways: Specialty Instructor Seminar, Co-Teaching, or Verification Application. (b) AI doesn't issue any specialty instructor rating; (c) DM is a non-instructor rating and grants zero teaching authority for specialties; (d) OWI is the base prerequisite, not a shortcut — specialties are added on top.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-160",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "A diver may take specialty training to:",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Try out new equipment",
+        "c": "Learn new skills",
+        "d": "Prepare for a new dive destination"
+      },
+      "correct": "a",
+      "explanation": "All three motivations drive specialty enrolment: (b) new equipment — Sidemount, Drysuit, Rebreather; (c) new skills — Navigation, Photography, Deep, Wreck, Boat Diving; (d) destination prep — Wreck before Egypt/Truk, Cold Water before Norway, Altitude before mountain lakes. The retail+education link is exactly the loyalty mechanism the SSI Education System builds: a diver with a goal returns to their TC for the next program.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-161",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Divers taking specialty training:",
+      "options": {
+        "a": "Are allowed to decide which skills they need to learn",
+        "b": "Want to learn new and advanced skills",
+        "c": "Need to relearn basic diving skills",
+        "d": "Will not need to review basic diving skills"
+      },
+      "correct": "b",
+      "explanation": "The whole reason a diver enrols in specialty training = wanting new or more advanced skills (Navigation, Deep, Photo, etc.). (a) is wrong — specialty curricula are fixed by SSI standards; the diver doesn't pick skills à la carte, the standards define the required content. (c) is wrong — basic skills are PREREQUISITES, not material to relearn. (d) is the inverse mistake — relevant basic skills DO get reviewed/refreshed within specialty context (e.g., neutral buoyancy is revisited inside Perfect Buoyancy or Photography specialties).",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-162",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Teaching specialty programs:",
+      "options": {
+        "a": "Limits earning potential and reduces variety",
+        "b": "Should only be done by qualified Open Water Instructors",
+        "c": "Should only be done as an alternative to Open Water Diver training",
+        "d": "Increases earning potential and provides variety"
+      },
+      "correct": "d",
+      "explanation": "Classic SSI Pro value prop: stacking Specialty Instructor ratings on top of OWI multiplies the programs you can teach → more revenue streams + more curriculum variety → less burnout. (a) inverts the truth. (b) is a half-truth — only OWIs WHO COMPLETE the SI pathway can teach specialties; not all OWIs automatically. (c) is wrong — specialties complement OWD, they don't replace it.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-163",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Instructor",
+      "question": "Assistant Instructors can earn which Specialty Instructor certification?",
+      "options": {
+        "a": "Navigation",
+        "b": "Deep Diving",
+        "c": "Search and Recovery",
+        "d": "Diver Stress & Rescue"
+      },
+      "correct": "a",
+      "explanation": "AIs are eligible for Specialty Instructor ratings only on lower-risk specialties — Navigation is the canonical example (compass + pattern skills, no depth or penetration exposure). The other three each require OWI as prerequisite: (b) Deep — explicit depth risk; (c) Search & Recovery — technical complexity, often deeper / overhead; (d) Diver Stress & Rescue Instructor — rescue programs require full Instructor authority. Memory hook: AI specialty teaching is bounded by risk level.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-164",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Training centers who promote and conduct specialty programs:",
+      "options": {
+        "a": "Increase revenue with less cost",
+        "b": "Increase the earning potential of their dive professionals",
+        "c": "Provide more training opportunities to their customers",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "Specialty programs are a triple-win for the TC: (a) high-margin programs (small class sizes, shorter durations, equipment rental tie-ins) with lower per-student delivery cost than entry-level; (b) more rating variety for Pros = more revenue streams = stronger retention of staff; (c) more options for divers = stickier customers, more reasons to come back. The triangle drives the SSI Total Diving / Diamond Diver loyalty model.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-165",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Instructor",
+      "question": "The verification application process should be used:",
+      "options": {
+        "a": "Only if the seminar or co-teaching options are not available",
+        "b": "If the Service Center requires it",
+        "c": "As an alternative to the Specialty Instructor Seminar",
+        "d": "If the candidate only has 10 logged dives in the specialty"
+      },
+      "correct": "a",
+      "explanation": "Specialty Instructor pathways have a priority order: (1) Seminar, (2) Co-Teaching, (3) Verification Application — the last is a LAST-RESORT route used only when neither Seminar nor Co-Teaching are accessible (e.g. crossover from another agency where the candidate already has documented teaching experience). (c) 'alternative' wrongly implies free choice — it's a fallback, not a parallel option. (b) Service Centers don't dictate pathway choice. (d) dive count alone doesn't trigger verification — that's specialty prereqs.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-166",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Instructor",
+      "question": "_____ signs the Specialty Instructor Completion Form for a Specialty Instructor co-teaching candidate.",
+      "options": {
+        "a": "All answers are correct",
+        "b": "The training center owner",
+        "c": "The Instructor Trainer",
+        "d": "The Training Center QMS Manager"
+      },
+      "correct": "d",
+      "explanation": "Co-Teaching pathway: candidate co-teaches alongside an active Specialty Instructor in that specialty; on completion, the Training Center QMS Manager signs off the SI Completion Form as the formal QA authority responsible for compliance at the centre. (b) and (c) are common signatories in OTHER pathways (Seminar = IT signs) but not the canonical signatory for Co-Teaching. (a) all-correct is too broad — only one role is the formal signer here.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-167",
+      "area": "instructor",
+      "subarea": "Professional Standards — Ethics",
+      "question": "Which of the following is an example of a negative ethical behavior?",
+      "options": {
+        "a": "Keeping a reasonable distance from animals",
+        "b": "Keeping your equipment streamlined",
+        "c": "Taking pieces of live coral from the reef",
+        "d": "Encouraging good buoyancy habits"
+      },
+      "correct": "c",
+      "explanation": "Coral collection is environmental damage, in most jurisdictions illegal, and a direct violation of the Diver Responsibility Code. (a) keeping distance, (b) streamlined gear (no dangling regs/gauges), and (d) good buoyancy are all positive behaviours that minimise diver impact on the underwater environment. The Pro models all three for students at every dive.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-168",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Presentation",
+      "question": "Professionals must have a professional appearance, a professional _____, and use a professional Total Diving System.",
+      "options": {
+        "a": "Sales technique",
+        "b": "Attitude",
+        "c": "All answers are correct",
+        "d": "Training location"
+      },
+      "correct": "b",
+      "explanation": "SSI's three pillars of professional presentation: Appearance (how you look — clean uniform, grooming, branded gear), Attitude (how you carry yourself — confidence, positivity, respect), and Total Diving System (your own properly fitted, well-maintained equipment). The trio communicates 'this Pro is the real deal' before they even brief a dive. (a) sales technique sits in retail, not the presentation triangle. (d) location is irrelevant.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-169",
+      "area": "instructor",
+      "subarea": "Professional Standards — Ethics",
+      "question": "Which of the following is an example of positive professional ethics?",
+      "options": {
+        "a": "Only teaching students that will become lifelong divers",
+        "b": "Focusing your teaching efforts on only the best students",
+        "c": "Only following the policies and standards you agree with",
+        "d": "Treating all students equally"
+      },
+      "correct": "d",
+      "explanation": "Equal treatment is the bedrock of professional ethics — judge by performance against standards, never by demographics, ability prediction or personal preference. The other three are textbook negatives: (a) and (b) cherry-pick students by predicted future value or current talent; (c) is selective compliance, which destroys the integrity of the standards system. Memory hook: standards apply to everyone — including you.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-170",
+      "area": "instructor",
+      "subarea": "Professional Standards — Active Status Requirements",
+      "question": "An active status professional must:",
+      "options": {
+        "a": "Maintain professional liability insurance, if legally required",
+        "b": "Complete the online renewal",
+        "c": "All answers are correct",
+        "d": "Affiliate with an active status training center"
+      },
+      "correct": "c",
+      "explanation": "Active status = the trio of requirements that must hold simultaneously: (a) professional liability insurance where local law requires it (varies by country); (b) annual online renewal in MySSI (acknowledging current standards + paying renewal fee); (d) affiliation with an active-status SSI Training Centre. Drop any one and the Pro slips to inactive status. Pairs with mssi-inst-107 which uses different option phrasing for the same triplet.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-171",
+      "area": "instructor",
+      "subarea": "Professional Standards — Standards Structure",
+      "question": "Which document describes the requirements for maintaining active status?",
+      "options": {
+        "a": "General Training Standards > SSI Active Status Requirements",
+        "b": "Dive Professional Standards > SSI Professional Status",
+        "c": "Dive Professional Standards > SSI Active Status Requirements",
+        "d": "General Training Standards > SSI Professional Status"
+      },
+      "correct": "d",
+      "explanation": "Trap question — the obvious-sounding subsection name 'SSI Active Status Requirements' (a, c) is NOT what the SSI Standards manual actually uses. Active-status maintenance lives under General Training Standards > **SSI Professional Status** (counter-intuitive but verbatim). General Training Standards is the right top-level section because active status is a cross-program rule applying to all Pros. User-verified against the SSI Standards manual.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-172",
+      "area": "instructor",
+      "subarea": "Professional Standards — Active Status Requirements",
+      "question": "Training center affiliation:",
+      "options": {
+        "a": "Is required for all SSI Professionals",
+        "b": "Is only required for Divemasters",
+        "c": "Is only required for SSI Resorts",
+        "d": "Is only required for Open Water Instructors"
+      },
+      "correct": "a",
+      "explanation": "Active-status TC affiliation is a universal requirement across every Pro rating — DM, AI, OWI, IT, MIT. No rating is exempt. (b), (c), (d) all narrow it to a subset, which would create gaps where a Pro could teach without an affiliated TC backing them. The whole SSI quality system depends on TC accountability for every active Pro. Pairs with mssi-inst-107 and mssi-inst-170.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-173",
+      "area": "instructor",
+      "subarea": "Professional Standards — Active Status Requirements",
+      "question": "Which professional(s) must maintain active status to work for an SSI Training Center?",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Open Water Instructor",
+        "c": "Divemaster",
+        "d": "Assistant Instructor"
+      },
+      "correct": "a",
+      "explanation": "All three (and every other) SSI Pro rating must be in active status to legitimately work for a TC: OWI, DM, AI — and IT, MIT, Specialty Instructor on top. Any single-rating answer (b/c/d) creates an unrealistic loophole. The active-status discipline is what keeps standards-compliance enforceable across the network.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-174",
+      "area": "instructor",
+      "subarea": "Professional Standards — Mentorship",
+      "question": "Which of the following are learned from more-experienced professionals?",
+      "options": {
+        "a": "How to avoid responsibilities at the training center",
+        "b": "All answers are correct",
+        "c": "How to pressure customers into buying equipment",
+        "d": "Teaching style and sales technique"
+      },
+      "correct": "d",
+      "explanation": "Healthy mentorship transfers POSITIVE skills — refined teaching style, professional sales technique, judgement, classroom presence, situational awareness. (a) and (c) describe negative behaviours that no SSI mentor should be passing on; if a senior Pro models those, that's a sign the mentee should look elsewhere. (b) all-correct is the trap — bundling positives with negatives.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-175",
+      "area": "instructor",
+      "subarea": "Professional Standards — Continuing Education",
+      "question": "Why should you increase your knowledge as a professional?",
+      "options": {
+        "a": "Increase earning potential",
+        "b": "It keeps you interested in the sport",
+        "c": "All answers are correct",
+        "d": "It makes you a safer and more-capable instructor"
+      },
+      "correct": "c",
+      "explanation": "Three independent reasons, all true: (a) more ratings → more programs you can teach → more revenue; (b) ongoing learning prevents burnout and keeps you genuinely engaged with diving; (d) currency in physiology, equipment, standards and risk management makes you a safer in-water decision-maker — the buoyancy you build on yourself is also the buoyancy of your students.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-176",
+      "area": "instructor",
+      "subarea": "Professional Standards — Discipline",
+      "question": "Professionals who violate ethical standards may:",
+      "options": {
+        "a": "Be fined by SSI International",
+        "b": "All answers are correct",
+        "c": "Lose their experience points",
+        "d": "Be placed in expelled status"
+      },
+      "correct": "d",
+      "explanation": "SSI's disciplinary track for ethics violations: warning → suspended status → expelled status (loss of all SSI ratings, with no path back). Expelled is the terminal sanction. (a) is wrong — SSI uses status changes, not monetary fines, as enforcement. (c) 'experience points' isn't a thing in SSI's system. (b) all-correct includes both fictional options as a trap.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-177",
+      "area": "instructor",
+      "subarea": "Professional Standards — Conservation",
+      "question": "Conducting a dive site cleanup or hosting an environmentally-oriented social activity is an example of:",
+      "options": {
+        "a": "The Policy and Community Change Levels",
+        "b": "The Policy Change Level",
+        "c": "The Community Change Level",
+        "d": "The Personal Change Level"
+      },
+      "correct": "c",
+      "explanation": "SSI's Blue Oceans / conservation framework has three change levels: Personal (individual diver behaviour — neutral buoyancy, no-touch, no-take), Community (group-level action at TC / club scale — cleanups, eco social events, awareness campaigns) and Policy (advocating for laws, marine protected areas, single-use plastics bans). Cleanups and eco socials reach beyond the individual but stop short of legislation — that's the Community level by definition.",
+      "source": "mySSI: ITC Lesson 2.4 Review"
+    },
+    {
+      "id": "mssi-inst-178",
+      "area": "instructor",
+      "subarea": "Professional Standards — Conservation",
+      "question": "Why do professionals have an obligation to protect the environment?",
+      "options": {
+        "a": "A healthy underwater environment is vital to the growth and stabilizability of the scuba industry",
+        "b": "It is required in the SSI General Training Standards",
+        "c": "They are required by federal laws and regulations",
+        "d": "They do not have an obligation"
+      },
+      "correct": "a",
+      "explanation": "Root rationale: the dive industry literally cannot exist without healthy oceans — degraded reefs, vanishing megafauna and polluted sites mean no divers, no business, no SSI. (b) is a partial truth (General Training Standards do reference environmental responsibility) but is downstream of the industry-survival argument. (c) federal laws vary by jurisdiction and aren't universal. (d) is the negative trap. Note: 'stabilizability' is mySSI's verbatim phrasing — likely intended 'sustainability'.",
+      "source": "mySSI: ITC Lesson 2.4 Review"
+    },
+    {
+      "id": "mssi-inst-179",
+      "area": "instructor",
+      "subarea": "Professional Standards — Conservation",
+      "question": "Most actions that benefit the environment will also benefit:",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Industry professionals and training centers",
+        "c": "Recreational divers",
+        "d": "Local fishermen"
+      },
+      "correct": "a",
+      "explanation": "Healthy oceans are a positive-sum win across stakeholder groups: (b) Pros and TCs gain better dive sites and stronger long-term business, (c) recreational divers get richer underwater experiences which drives retention, (d) local fishermen rely on sustainable fish stocks for their livelihood. Conservation is rarely zero-sum — degradation hurts everyone, recovery lifts everyone.",
+      "source": "mySSI: ITC Lesson 2.4 Review"
+    },
+    {
+      "id": "mssi-inst-180",
+      "area": "instructor",
+      "subarea": "Professional Standards — Conservation",
+      "question": "Cleaning garbage off a reef, or using a non-plastic water bottle is an example of:",
+      "options": {
+        "a": "The Community Change Level",
+        "b": "The Personal Change Level",
+        "c": "The Policy Change Level",
+        "d": "The Community and Policy Change Levels"
+      },
+      "correct": "b",
+      "explanation": "Personal Change = the individual diver's daily choices: pick up trash when you see it, carry a reusable bottle, use reef-safe sunscreen, demonstrate good buoyancy. Compare with mssi-inst-177 — there 'conducting a cleanup' or 'hosting' a social event was Community level because the diver is ORGANISING the activity at TC scale. Same physical act (picking up trash) lives in different levels depending on whether it's individual or organised.",
+      "source": "mySSI: ITC Lesson 2.4 Review"
+    },
+    {
+      "id": "mssi-inst-181",
+      "area": "instructor",
+      "subarea": "Professional Standards — Conservation",
+      "question": "You should encourage your students to:",
+      "options": {
+        "a": "Only take action at the Policy Level",
+        "b": "Take action at a level they are comfortable with",
+        "c": "Only take action at the Personal and Community Levels",
+        "d": "Only take action at the Personal Level"
+      },
+      "correct": "b",
+      "explanation": "Empowerment over prescription — start where the student already feels engaged (Personal habit changes) and let them progress upward to Community organising or Policy advocacy at their own pace. Pushing into Policy advocacy too early (a) loses people; restricting them away from any level (c, d) caps their potential impact. The instructor's role is to make every level accessible.",
+      "source": "mySSI: ITC Lesson 2.4 Review"
+    },
+    {
+      "id": "mssi-inst-182",
+      "area": "instructor",
+      "subarea": "Professional Standards — Conservation",
+      "question": "Donating or volunteering with a non-government organization dedicated to marine conservation is an example of:",
+      "options": {
+        "a": "The Personal Change Level",
+        "b": "The Community Change Level",
+        "c": "The Policy Change Level",
+        "d": "The Personal and Community Change Levels"
+      },
+      "correct": "c",
+      "explanation": "Conservation NGOs (Project AWARE, Mission Blue, Ocean Conservancy and similar) work primarily on Policy-level outcomes: lobbying for legislation, securing Marine Protected Area designations, pushing fishing quotas, advocating single-use plastic bans. Supporting them — financially or by volunteering — is therefore amplifying Policy work, even when the individual contribution feels personal. Compare with mssi-inst-180 (personal habit) and mssi-inst-177 (TC-organised event).",
+      "source": "mySSI: ITC Lesson 2.4 Review"
     },
     {
       "id": "mssi-inst-001",
