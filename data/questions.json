@@ -7436,8 +7436,8 @@
         "c": "The requirements for maintaining active status",
         "d": "All answers are correct"
       },
-      "correct": "a",
-      "explanation": "AI must complete ITC.",
+      "correct": "d",
+      "explanation": "All three required: ITC + IE + active status.",
       "source": "Personal: ITC Scuba Exam Form A"
     },
     {
@@ -7962,7 +7962,7 @@
         "d": "All answers are correct"
       },
       "correct": "d",
-      "explanation": "ITC.",
+      "explanation": "All three required: ITC + IE + active status.",
       "source": "Personal: ITC Scuba Exam Form B"
     },
     {

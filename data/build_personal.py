@@ -565,7 +565,7 @@ ITC_A = [
      "Scuba Skills Update max depth = 5 m.", "ITC — Scuba Skills Update"),
     ("An Assistant Instructor must complete _____ to become an Open Water Instructor.",
      ["An Instructor Training Course", "An Instructor Evaluation", "The requirements for maintaining active status", "All answers are correct"],
-     "AI must complete ITC.", "ITC — Pro Path"),
+     "All three required: ITC + IE + active status.", "ITC — Pro Path"),
     ("Open Water Instructors can:",
      ["Teach the Dive Guide program", "Independently teach all entry-level programs", "Qualify to teach any specialty program", "All answers are correct"],
      "OWI can do all three.", "ITC — Pro Authority"),
@@ -704,7 +704,7 @@ ITC_B = [
      "Swim 8 m + at least 8 yo.", "ITC — Explorer"),
     ("An Assistant Instructor must complete _____ to become an Open Water Instructor.",
      ["An Instructor Training Course", "An Instructor Evaluation", "The requirements for maintaining active status", "All answers are correct"],
-     "ITC.", "ITC — Pro Path"),
+     "All three required: ITC + IE + active status.", "ITC — Pro Path"),
     ("What is the maximum depth limit for certified Scuba Divers?",
      ["18 meters", "12 meters", "10 meters", "21 meters"],
      "Scuba Diver max = 12 m.", "ITC — Scuba Diver"),
@@ -816,6 +816,7 @@ OVERRIDES = {
     ("personal-itc-b", 42): "d",  # Min rating for Ecology Spec Instructor — DM (user-confirmed)
     ("personal-itc-a", 29): "b",  # Try Scuba min age — 8 (user-confirmed)
     ("personal-itc-b", 39): "d",  # Try Scuba min age — 8 (user-confirmed)
+    ("personal-itc-a", 39): "d",  # AI → OWI: All answers (ITC + IE + active status) — user-confirmed, matches Form B
 }
 
 def build_questions(exam_data, exam_label, id_prefix):

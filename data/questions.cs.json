@@ -7438,8 +7438,8 @@
         "c": "Požadavky pro udržení aktivního statusu",
         "d": "Všechny odpovědi jsou správně"
       },
-      "correct": "a",
-      "explanation": "AI musí absolvovat ITC.",
+      "correct": "d",
+      "explanation": "Všechny tři jsou potřeba: ITC + IE + aktivní status.",
       "source": "Personal: ITC Scuba Exam Form A"
     },
     {
@@ -7964,7 +7964,7 @@
         "d": "Všechny odpovědi jsou správně"
       },
       "correct": "d",
-      "explanation": "ITC.",
+      "explanation": "Všechny tři jsou potřeba: ITC + IE + aktivní status.",
       "source": "Personal: ITC Scuba Exam Form B"
     },
     {
