@@ -75,18 +75,18 @@ Dark (default) ↔ Light toggle 🌙/☀️ v topbaru. Persistence v `ssi.theme`
 
 ## Question bank
 
-### Counts (k 2026-04-26)
+### Counts (k 2026-04-29)
 - Science of Diving: **120**
 - Divemaster: **50**
 - Assistant Instructor: **50**
-- Instructor: **457** (z toho 200 Personal exam questions)
-- **Total: 677**
+- Instructor: **699** (z toho 200 Personal exam questions, 349 mssi-inst Reviews + Pretest)
+- **Total: 919** (EN i CS plně přeloženo, 1:1 parity)
 
 ### Source kategorie (4-way)
 
 | Badge | Source | Count | Notes |
 |---|---|---|---|
-| ★ mySSI | mySSI verbatim (Pretest Parts 1-9 + Lesson 1.1 Reviews) | ~100 | User-confirmed answers |
+| ★ mySSI | mySSI verbatim (ITC Pretest Parts 1-9 + ITC Lesson 1.1-8.3 Reviews) | ~349 | User-confirmed answers, all CS-translated |
 | 🔒 Personal | 4 SSI Pro exam PDFs (AIT-A, AIT-B, ITC-A, ITC-B; 50 Q each) | 200 | Locked behind password |
 | ● Web | Quizlet, dive shop PDFs, ScubaBoard, etc. | ~64 | URL v source field |
 | ○ Compiled | Agent-authored z public SSI standards + dive theory | ~313 | source = `compiled_from_dive_theory` |

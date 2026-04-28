@@ -2,11 +2,11 @@
   "version": "1.0",
   "generated_at": "2026-04-25",
   "note": "SSI study bank for Tomas's Instructor prep app. Each question carries a 'source' URL (Quizlet/dive-shop PDF/SSI training pages) where verbatim wording was found, OR 'compiled_from_dive_theory' for items grounded in public SSI standards and dive physics/physiology that I've authored from established theory rather than copied. Always reconcile with the current SSI Training Standards before using as definitive answers.",
-  "total": 846,
+  "total": 919,
   "counts_by_area": {
     "assistant_instructor": 50,
     "divemaster": 50,
-    "instructor": 626,
+    "instructor": 699,
     "science_of_diving": 120
   },
   "questions": [
@@ -6414,6 +6414,1101 @@
       "correct": "c",
       "explanation": "Direct attention before the demo: 'Everyone Watch Me' tells students to stop fidgeting with gear, look at you, and follow what's about to happen. (a) 'Remove regulator' is a specific drill cue, never a generic pre-demo signal — would scatter attention dangerously. (b) 'Do the skill with me' is a during-skill cue, after the demonstration. (d) 'Watch buddy' is the buddy-check signal, different purpose.",
       "source": "mySSI: ITC Lesson 5.4 Review"
+    },
+    {
+      "id": "mssi-inst-277",
+      "area": "instructor",
+      "subarea": "Methodology — Acquisition Programs",
+      "question": "After completing an acquisition program, you should:",
+      "options": {
+        "a": "Encourage the students to continue diving",
+        "b": "Issue the digital card",
+        "c": "All answers are correct",
+        "d": "Conduct a quick review of the students' experience"
+      },
+      "correct": "c",
+      "explanation": "Three post-acquisition steps that close the loop: (a) encourage continuation — bridge to OWD or specialty, the acquisition is a funnel; (b) issue the digital card — official MySSI record, gives the student something tangible; (d) quick experience review — short debrief that lets the student articulate what they learned and gives the Pro feedback. Skipping any one weakens the conversion to next program.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-278",
+      "area": "instructor",
+      "subarea": "Methodology — Acquisition Programs",
+      "question": "Which of the following is required for a Try Scuba program?",
+      "options": {
+        "a": "Record keeping and scheduling",
+        "b": "Purchasing equipment",
+        "c": "Conducting a final exam",
+        "d": "Choosing an open water training site"
+      },
+      "correct": "a",
+      "explanation": "Even an introductory program like Try Scuba requires records (waiver, medical, basic profile) and scheduling. (b) students don't have to purchase gear — Try Scuba uses rental kit. (c) no final exam — Try Scuba is a taster experience, not a cert program. (d) Try Scuba is pool/confined water only, OW site selection isn't part of it.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-279",
+      "area": "instructor",
+      "subarea": "Methodology — Acquisition Programs",
+      "question": "SSI experience programs are intended to:",
+      "options": {
+        "a": "Prepare students for advanced dive training",
+        "b": "Provide a fun and safe in-water experience",
+        "c": "All answers are correct",
+        "d": "Certify students as entry-level divers"
+      },
+      "correct": "b",
+      "explanation": "Experience programs (Try Scuba, Scuba Rangers, Scuba Skills Update) exist to deliver a fun, safe taste of diving — low-stakes, no pressure, build confidence. They are NOT certification programs (d is wrong) — Open Water Diver and Scuba Diver are the entry-level certifications. (a) preparation for advanced training is a downstream side-effect, not the primary purpose. (c) all-correct sweeps in the cert claim.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-280",
+      "area": "instructor",
+      "subarea": "Methodology — Acquisition Programs",
+      "question": "A Try Scuba or Basic Diver in-water experience must:",
+      "options": {
+        "a": "Be challenging, to ensure the student is ready to dive",
+        "b": "Include a comprehensive briefing and debriefing",
+        "c": "All answers are correct",
+        "d": "Be as enjoyable and problem-free as possible"
+      },
+      "correct": "d",
+      "explanation": "Defining characteristic of Try Scuba / Basic Diver experiences: maximum enjoyment, zero problems — the student walks away thinking 'I want more of this'. (a) is the wrong dial entirely — challenging a brand-new diver kills conversion. (b) comprehensive briefing/debriefing is good general practice but not the DEFINING feature of these acquisition formats. (c) all-correct includes the bad 'challenging' answer.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-281",
+      "area": "instructor",
+      "subarea": "Methodology — Acquisition Programs",
+      "question": "Which component(s) of the SSI Total Teaching System can be used to teach acquisition programs?",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Instructor Manual",
+        "c": "Cue cards and flip chart",
+        "d": "Training Standards"
+      },
+      "correct": "a",
+      "explanation": "Acquisition programs (Try Scuba, Scuba Rangers) can pull on the full TTS toolkit: (b) Instructor Manual gives the structured lesson plan; (c) cue cards and flip chart provide visual aids you can use poolside without a screen setup; (d) Training Standards define the limits, prereqs and what's allowed in the program. The same TTS spine that supports OWD also supports acquisition formats — same architecture, smaller scope.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-282",
+      "area": "instructor",
+      "subarea": "Methodology — Acquisition Programs",
+      "question": "Teaching Try Scuba programs:",
+      "options": {
+        "a": "Develops your open water training abilities",
+        "b": "Increases your teaching experience and increases earning opportunities",
+        "c": "Allows you to register for Specialty Instructor training",
+        "d": "Does not provide any benefit to dive professionals"
+      },
+      "correct": "b",
+      "explanation": "Two-fold benefit: real teaching reps in a low-stakes pool environment (great for newer Pros to refine briefing/demo skills) + an extra revenue stream for Pro and TC. (a) Try Scuba is pool-only, so it doesn't directly grow your OW training capacity. (c) Specialty Instructor pathway (mssi-inst-159, 165) doesn't gate on Try Scuba teaching. (d) inverts the truth.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-283",
+      "area": "instructor",
+      "subarea": "Methodology — Acquisition Programs",
+      "question": "Skills in the Try Scuba program:",
+      "options": {
+        "a": "Must be taught and evaluated by an Assistant Instructor",
+        "b": "Are only required when the student will continue with the Basic Diver open water training dive",
+        "c": "Are not required for any in-water training",
+        "d": "Must be taught and evaluated by a Divemaster"
+      },
+      "correct": "b",
+      "explanation": "Conditional requirement: Try Scuba on its own is a taster — skills are practised but not formally evaluated. The moment the student plans to bridge to a Basic Diver OW training dive, those same skills become prerequisites for that next step and must be evaluated. (a) and (d) lock the requirement to specific Pro ratings, which isn't how the standard reads. (c) is too absolute — skills ARE required when continuation is planned.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-284",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "Who directly supervises the open water portion of the Basic Diver program?",
+      "options": {
+        "a": "An SSI Assistant Instructor or higher",
+        "b": "An SSI Divemaster or higher",
+        "c": "Any dive professional",
+        "d": "An SSI Open Water Instructor or higher"
+      },
+      "correct": "d",
+      "explanation": "OW supervision for cert-feeding programs requires full Instructor authority — OWI or higher. (a) AI authority caps at pool/confined under indirect supervision (mssi-inst-147, 153). (b) DM has no cert-issuing or OW-supervision authority for entry-level training. (c) 'any pro' is too broad — DM and AI don't qualify here. The Basic Diver OW dive is functionally an entry-level OW training dive, so OWI direct supervision applies.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-285",
+      "area": "instructor",
+      "subarea": "Methodology — Refresher Programs",
+      "question": "A certified diver must complete ____ before starting the Scuba Skills Update program.",
+      "options": {
+        "a": "A new Specialty Diver Training Record",
+        "b": "A new diving physical and medical evaluation",
+        "c": "Any paperwork required by the training center",
+        "d": "A new Diver Training Record"
+      },
+      "correct": "c",
+      "explanation": "SSU is a refresher for already-certified divers, so the pre-program paperwork is whatever the TC needs to confirm currency: usually a fresh waiver, medical questionnaire (with re-eval only if conditions have changed or it's expired), and a sign-off on rental gear. (a) Specialty Diver Training Record isn't relevant — SSU isn't a specialty. (b) automatic new medical isn't always required if existing one is still valid. (d) too narrow — TC paperwork is the umbrella term that covers training-record updates plus anything else local.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-286",
+      "area": "instructor",
+      "subarea": "Methodology — Refresher Programs",
+      "question": "If it has been more than twelve months since their last in-water session, an Open Water Diver student:",
+      "options": {
+        "a": "Can complete a Scuba Skills Update or an SSI Specialty program",
+        "b": "There are no additional requirements",
+        "c": "Must complete a Scuba Skills Update",
+        "d": "Must retake the entire Open Water Diver program"
+      },
+      "correct": "c",
+      "explanation": "SSI standard re-entry rule when training lapses 12+ months: Scuba Skills Update is required to verify currency before resuming. (a) SSU and a Specialty aren't interchangeable — only SSU is the prescribed refresher. (b) ignoring the gap would be negligent — skill atrophy is real after a year. (d) full OWD retake is too extreme — SSU is the proportionate fix.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-287",
+      "area": "instructor",
+      "subarea": "Methodology — Refresher Programs",
+      "question": "After completing the Scuba Skills Update, the training center should issue the:",
+      "options": {
+        "a": "Basic Diver certification card",
+        "b": "Open Water Diver certification",
+        "c": "Scuba Skills Update recognition card",
+        "d": "Scuba Skills Update certification card"
+      },
+      "correct": "c",
+      "explanation": "Critical distinction: SSU is NOT a certification — it's a refresher to verify currency. Therefore the deliverable is a RECOGNITION card, not a cert card. (d) is the textbook trap — same words, but 'certification' is the wrong qualifier. (a) and (b) would mean issuing a rating SSU doesn't grant — Basic Diver and OWD are entry-level certs earned through their own programs.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-288",
+      "area": "instructor",
+      "subarea": "Methodology — Refresher Programs",
+      "question": "The in-water session of a Scuba Skills Update should include:",
+      "options": {
+        "a": "A review of basic diving skills",
+        "b": "Only a review of emergency skills",
+        "c": "A detailed discussion of each skill from the Open Water Diver program",
+        "d": "Only advanced buoyancy skills"
+      },
+      "correct": "a",
+      "explanation": "SSU = currency check on the foundational toolkit: mask R&R, regulator recovery, neutral buoyancy, ascent rate, basic emergency procedures. (b) 'only emergency' is too narrow — the full skill set degrades, not just emergency drills. (c) detailed verbal discussion belongs in academic review, not the in-water session. (d) 'only advanced buoyancy' overlooks the basics SSU is designed to refresh.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-289",
+      "area": "instructor",
+      "subarea": "Methodology — Refresher Programs",
+      "question": "Which materials should be used to teach the Scuba Skills Update program?",
+      "options": {
+        "a": "Only the Open Water Diver digital learning materials",
+        "b": "Scuba Skills Update instructor materials",
+        "c": "The Assistant Instructor digital learning materials",
+        "d": "Diver Stress and Rescue Instructor materials"
+      },
+      "correct": "b",
+      "explanation": "Every SSI program has dedicated materials — SSU has its own instructor kit calibrated for refresher pacing (skip the basics-discovery, focus on rust-removal). (a) OWD materials are full-program length and would over-teach content the student has already covered. (c) and (d) belong to entirely different programs at different levels.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-290",
+      "area": "instructor",
+      "subarea": "Methodology — Debrief",
+      "question": "What should you do during the post-dive discussion?",
+      "options": {
+        "a": "Issue a digital recognition card",
+        "b": "All answers are correct",
+        "c": "Discuss how the skills will be applied in the real world",
+        "d": "Encourage your students to continue diving, buy equipment, and travel"
+      },
+      "correct": "b",
+      "explanation": "Comprehensive close-out covers all three: (a) issue the digital recognition card immediately while it's fresh and they're still energised; (c) connect the in-water work back to real-world diving (relevance principle / Lesson 1.2); (d) point at the next step — con-ed program, gear they'd benefit from, dive trip — that's the SSI continuation funnel in action.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-291",
+      "area": "instructor",
+      "subarea": "Methodology — Refresher Programs",
+      "question": "What is the purpose of the Scuba Skills Update program?",
+      "options": {
+        "a": "To give additional in-water training to uncertified divers, or certified divers who need to refresh their knowledge and abilities",
+        "b": "To re-certify divers who have been out of the water for more than five years",
+        "c": "To provide a certification option that does not require the Open Water Diver program",
+        "d": "To teach specialty skills and knowledge to certified divers"
+      },
+      "correct": "a",
+      "explanation": "SSU has two audiences: (1) UNCERTIFIED mid-program students whose training has lapsed 12+ months (mssi-inst-286 — they must complete SSU before resuming); (2) CERTIFIED divers needing a currency refresher (mssi-inst-285, 287, 288). (b) the 5-year figure is invented — SSI's threshold is 12 months. (c) SSU isn't a certification (mssi-inst-287); only OWD/Scuba Diver are entry-level certs. (d) specialty skills are taught in specialty programs, not SSU.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-292",
+      "area": "instructor",
+      "subarea": "Methodology — Refresher Programs",
+      "question": "Certified divers take Scuba Skills Updates to:",
+      "options": {
+        "a": "Earn a new Open Water Diver certification",
+        "b": "All answers are correct",
+        "c": "Refresh their basic diving knowledge and skills",
+        "d": "Learn new specialty skills and knowledge"
+      },
+      "correct": "c",
+      "explanation": "SSU for an already-certified diver = currency refresh, rust-removal on the foundational skill set. (a) is nonsensical — they already hold the OWD cert, no new one issued (mssi-inst-287 — only a recognition card). (d) specialty skills live in specialty programs (mssi-inst-160–166), not SSU. (b) all-correct sweeps in the wrong claims.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-293",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "____ training dive(s) must be ____ during specialty programs.",
+      "options": {
+        "a": "All open water, directly supervised",
+        "b": "All optional, directly supervised",
+        "c": "The first open water, indirectly supervised",
+        "d": "All mandatory, directly supervised"
+      },
+      "correct": "d",
+      "explanation": "Specialty programs split dives into MANDATORY (core curriculum, must be direct-supervised by an active Specialty Instructor) and OPTIONAL (additional / fun dives that can run with looser supervision). (a) over-restricts — applying direct supervision to all OW dives, including optional ones, isn't the rule. (b) inverts: optional dives don't need direct supervision by definition. (c) wrong combination of attributes.",
+      "source": "mySSI: ITC Lesson 6.3 Review"
+    },
+    {
+      "id": "mssi-inst-294",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "The Ecology specialty programs:",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Can be taught by an Assistant Instructor with the applicable certification",
+        "c": "Cannot be combined with Open Water Diver training",
+        "d": "Require at least two open water dives"
+      },
+      "correct": "b",
+      "explanation": "Ecology specialties (Marine Ecology, Shark Ecology, Sea Turtle Ecology, etc.) are knowledge-domain programs without depth/penetration risk — they fall in the lower-risk band that AIs can earn Specialty Instructor ratings for (consistent with mssi-inst-163, Navigation). (c) is wrong — Ecology specialties combine well with OWD training. (d) dive counts vary by specialty; 'at least two' isn't universal.",
+      "source": "mySSI: ITC Lesson 6.3 Review"
+    },
+    {
+      "id": "mssi-inst-295",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Pool/Confined Water specialties:",
+      "options": {
+        "a": "Must only be taught in the pool/confined water",
+        "b": "Must be taught by an Open Water Instructor or higher",
+        "c": "All answers are correct",
+        "d": "Require at least two in-water training sessions"
+      },
+      "correct": "d",
+      "explanation": "Universal property of Pool/Confined Water specialties: minimum two in-water training sessions to allow proper skill acquisition (Perfect Buoyancy, Snorkeling, etc. need that practice volume). (a) 'must ONLY' is too rigid — some Pool/Confined specialties allow demonstrations to bridge into OW. (b) Pro-rating requirement varies by specialty (some are AI-eligible, mssi-inst-163). (c) all-correct sweeps in the over-restrictive answers.",
+      "source": "mySSI: ITC Lesson 6.3 Review"
+    },
+    {
+      "id": "mssi-inst-296",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Enriched Air Nitrox programs:",
+      "options": {
+        "a": "Do not require any in-water training",
+        "b": "Can be taught by an Assistant Instructor",
+        "c": "Can be taught by a Divemaster",
+        "d": "Requires at least two open water dives"
+      },
+      "correct": "a",
+      "explanation": "SSI Enriched Air Nitrox is a knowledge-only specialty: theory (gas physics, oxygen toxicity, MOD calculation) + practical gas analysis with an oxygen analyser — no in-water requirement. The diver demonstrates competence on the bench, not underwater. (c) DMs have no Specialty Instructor authority. (d) two OW dives contradicts the knowledge-only nature. (b) AI authority for EAN varies by region/standard, but the universal truth is the no-water property.",
+      "source": "mySSI: ITC Lesson 6.3 Review"
+    },
+    {
+      "id": "mssi-inst-297",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "If a diver can show proof of prior experience dives for a specialty program:",
+      "options": {
+        "a": "You can credit all prior experience dives",
+        "b": "You can credit two dives",
+        "c": "You can credit one dive",
+        "d": "You cannot credit prior experience"
+      },
+      "correct": "c",
+      "explanation": "SSI prior-experience credit cap = ONE dive per specialty when documented (logbook entry, prior cert). The cap exists so the specialty still requires meaningful new training. (a) crediting all would gut the program. (b) two exceeds the standard. (d) refusing all credit ignores SSI's flexibility. Memory hook: 'one and done' for prior credit.",
+      "source": "mySSI: ITC Lesson 6.3 Review"
+    },
+    {
+      "id": "mssi-inst-298",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Open Water specialties:",
+      "options": {
+        "a": "Can be promoted to both new and experienced divers",
+        "b": "Require at least two open water training dives for certification",
+        "c": "All answers are correct",
+        "d": "Focus on real-world, open water skills"
+      },
+      "correct": "c",
+      "explanation": "Three properties of OW specialties, all true: (a) marketable to both new divers (Boat Diving, Navigation right after OWD) and veterans adding to their portfolio; (b) minimum two OW training dives for cert — that's the SSI standard for OW-domain specialties; (d) focused on real-world OW skills (Deep, Wreck, Drift, Night, Photography in the actual environment, not simulated).",
+      "source": "mySSI: ITC Lesson 6.3 Review"
+    },
+    {
+      "id": "mssi-inst-299",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Science of Diving is a ____ specialty program.",
+      "options": {
+        "a": "Pool/Confined Water",
+        "b": "Open Water",
+        "c": "Dedicated Equipment",
+        "d": "Diving Knowledge"
+      },
+      "correct": "d",
+      "explanation": "Science of Diving is the academic deep-dive into physics, physiology, equipment, environment and decompression theory — pure theory, zero in-water requirement. That places it in the Diving Knowledge specialty category alongside EAN, Marine Ecology and similar knowledge-only programs. (a), (b) and (c) require water or equipment-handling training the SoD curriculum doesn't include.",
+      "source": "mySSI: ITC Lesson 6.3 Review"
+    },
+    {
+      "id": "mssi-inst-300",
+      "area": "instructor",
+      "subarea": "Professional Standards — Explorer Programs",
+      "question": "How many categories of Explorer programs are there?",
+      "options": {
+        "a": "6",
+        "b": "3",
+        "c": "5",
+        "d": "10"
+      },
+      "correct": "a",
+      "explanation": "SSI Explorer family covers 6 categories targeted at youth/intro diving across different age groups and progression levels (Snorkeling, Scuba Rangers, Scuba Explorer pathways, etc.). The structure lets a TC offer age-appropriate intros from very young children up through late teens transitioning into entry-level adult programs.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-301",
+      "area": "instructor",
+      "subarea": "Methodology — Explorer Programs",
+      "question": "If a student has trouble performing a skill:",
+      "options": {
+        "a": "Be encouraging, and do not force them to complete the skill",
+        "b": "Do not stop until they have mastered the skill",
+        "c": "End the session and have them leave the water",
+        "d": "Have them practice on their own"
+      },
+      "correct": "a",
+      "explanation": "Positive support is the SSI way, especially in Explorer / youth programs where forcing kills enjoyment and trust. If a skill isn't clicking now, move on and revisit it later — the brain needs incubation time. (b) drilling to mastery without breaks creates frustration and locks in tension. (c) ending the session is a punishment response that destroys the learning relationship. (d) unsupervised practice is unsafe and counter to SSI standards.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-302",
+      "area": "instructor",
+      "subarea": "Methodology — Explorer Programs",
+      "question": "The intent of the SSI Explorers program is to provide:",
+      "options": {
+        "a": "The knowledge and skills to safely participate in snorkeling, mermaid, freediving, or scuba experiences",
+        "b": "A pool or confined water environment experience",
+        "c": "Experiences for children",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "Three aligned facets of Explorer programs: (a) age-appropriate knowledge and skills across multiple aquatic disciplines (snorkeling, mermaid, freediving, scuba); (b) controlled pool / confined water environment, never open water at this level — keeps risk minimal; (c) the target demographic is children — youth-friendly pacing, language and game-based methodology. The trio defines the program's whole value proposition.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-303",
+      "area": "instructor",
+      "subarea": "Methodology — Explorer Programs",
+      "question": "The SSI Explorers program:",
+      "options": {
+        "a": "Is intended for children 6-10 years old",
+        "b": "All answers are correct",
+        "c": "Is a pool/confined water program only",
+        "d": "Does not certify students to dive without a dive professional"
+      },
+      "correct": "b",
+      "explanation": "Three consistent facts about Explorers: (a) target age 6-10 — the sweet-spot demographic for Scuba Rangers / Explorer level; (c) pool / confined water only — no open water at this age; (d) no autonomous-diver certification — children always dive under direct Pro supervision regardless of program completion. All three together define the safety envelope of the program.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-304",
+      "area": "instructor",
+      "subarea": "Methodology — Explorer Programs",
+      "question": "Using games and fun activities to teach:",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Provides unsupervised fun time",
+        "c": "Allows students to experience deep water",
+        "d": "Links education to playtime"
+      },
+      "correct": "d",
+      "explanation": "Gamification: kids learn through play, retention rides on the pleasure association. Linking new knowledge to a game makes it stick. (b) unsupervised fun is absolutely forbidden in youth programs — supervision never lapses. (c) deep water and Explorer-age students never mix; programs stay shallow. (a) all-correct sweeps in the dangerous claims.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-305",
+      "area": "instructor",
+      "subarea": "Professional Standards — Explorer Programs",
+      "question": "Which of the following is an Explorer program?",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Lifeguard Explorer",
+        "c": "Blue Oceans Explorer",
+        "d": "Sidemount Explorer"
+      },
+      "correct": "c",
+      "explanation": "Blue Oceans Explorer is the conservation-themed Explorer program — SSI's Blue Oceans environmental philosophy delivered to children in age-appropriate format. (b) 'Lifeguard Explorer' isn't an SSI program name. (d) 'Sidemount Explorer' is nonsensical — Sidemount is a technical configuration for advanced divers, never youth. (a) all-correct sweeps in the fake names.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-306",
+      "area": "instructor",
+      "subarea": "Professional Standards — Explorer Programs",
+      "question": "How is the Specialty Explorer recognition level earned?",
+      "options": {
+        "a": "By completing at least ten in-water sessions",
+        "b": "By completing any Explorer program",
+        "c": "By completing all the Ecology specialty experiences",
+        "d": "By completing two specialty experiences"
+      },
+      "correct": "d",
+      "explanation": "Specialty Explorer mirrors the adult Specialty Diver (12 dives + 2 specialties / mssi-inst-131) but scaled into the Explorer family — completing two specialty experiences within Explorer programs earns the recognition. (a) ten sessions is an invented count. (b) any single Explorer doesn't reach Specialty Explorer tier. (c) requiring ALL Ecology specialties is over-prescriptive — the rule is two of any specialties.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-307",
+      "area": "instructor",
+      "subarea": "Professional Standards — Explorer Programs",
+      "question": "What are the Explorers recognition levels?",
+      "options": {
+        "a": "Advanced, Master, and Professional",
+        "b": "No answer is correct",
+        "c": "Specialty, Advanced, and Master",
+        "d": "Rookie, Intermediate, and Advanced"
+      },
+      "correct": "c",
+      "explanation": "SSI Explorer progression mirrors the adult Specialty / Advanced / Master Diver ladder: Specialty Explorer (2 specialty experiences — mssi-inst-306), Advanced Explorer (more specialties), Master Explorer (top tier). (a) sneaks in 'Professional' which isn't an Explorer level — Pros aren't kids. (d) 'Rookie / Intermediate / Advanced' is invented language. (b) is the standard mySSI distractor.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-308",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Which of the following is an example of a real-world application for Section 4 | The Value of a Dive Buddy and Executing Your Dives?",
+      "options": {
+        "a": "Emphasizing the difference between rental and personal equipment",
+        "b": "Calculating gas management and dive plans for various depths at your local dive site",
+        "c": "Describing interesting or unique animals seen at your favorite dive site",
+        "d": "Discussing the dive schedule for a trip your training center takes that involves plane flights"
+      },
+      "correct": "b",
+      "explanation": "Section 4 covers buddy system + executing dives — practical pre-dive planning: gas management (SAC/RMV consumption), depth-time profiles, NDL tracking, buddy coordination. Real-world application = applying those calculations to a real local site. (a) equipment topics live in earlier sections; (c) marine life identification is ecology / Section 5+; (d) trip logistics around flying is more relevant to flying-after-diving topics, not Section 4.",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-309",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Which of the following is an example of a real-world application for Section 5 | The Ocean and Your Diving Opportunities?",
+      "options": {
+        "a": "Providing real-world examples of no-decompression limit dive planning",
+        "b": "Teaching students how proper buoyancy prevents accidental encounters with sea urchins",
+        "c": "Describing the process for assembling their Total Diving System",
+        "d": "Emphasizing the difference between rental and personal equipment"
+      },
+      "correct": "b",
+      "explanation": "Section 5 covers ocean environment + diving opportunities — marine life awareness, safe interaction with the underwater world, environmental responsibility. Linking buoyancy control to avoiding contact with marine life (sea urchins, fire coral, stinging hydroids) is exactly the ecology-meets-skill real-world tie-in. (a) NDL planning is Section 4 (mssi-inst-308). (c) and (d) are equipment-section topics.",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-310",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "For the Open Water Diver program, Open Water Training Dive 1 can be conducted:",
+      "options": {
+        "a": "Prior to completing the academic and pool/confined water requirements",
+        "b": "Only after completing the first three academic and pool/confined water sessions",
+        "c": "Only after completing the first three pool/confined water sessions",
+        "d": "Only after Academic Sessions 1-3 are completed"
+      },
+      "correct": "a",
+      "explanation": "Flexibility Rule (mssi-inst-122, 125) in action: OW1 can run before ALL academic + pool requirements are finished. Pro just needs to ensure the specific skills evaluated in OW1 have been mastered in pool first — they can interleave (pool morning, OW1 afternoon, more pool the next day). The other options impose rigid 'must finish first three' gates that aren't in the standard.",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-311",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Which of the following is an example of a real-world application for Section 6 | Your Scuba Diving Experiences and Beyond?",
+      "options": {
+        "a": "Connecting their academic knowledge to the open water training dives that they are about to complete",
+        "b": "Describing the process for assembling their Total Diving System",
+        "c": "Emphasizing the difference between rental and personal equipment",
+        "d": "Providing real-world examples of no-decompression limit dive planning"
+      },
+      "correct": "a",
+      "explanation": "Section 6 = the wrap-up + transition section: it's where the theory clicks together and the student looks forward to actual diving + the continuing-ed pathway beyond OWD. Connecting academic knowledge to upcoming OW training dives fits that 'ready to dive' framing perfectly. (b) and (c) belong in equipment sections; (d) NDL planning lives in Section 4 (mssi-inst-308).",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-312",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Which of the following is an example of a real-world application for Section 2 | Using Your Life Support Equipment?",
+      "options": {
+        "a": "Promoting the Perfect Buoyancy program to students who want to learn more about safe diving practices",
+        "b": "Explaining the importance of logging dives",
+        "c": "Explaining the effects of nitrogen narcosis on a diver",
+        "d": "Promoting the Science of Diving program to students who are interested in the effects of pressure"
+      },
+      "correct": "a",
+      "explanation": "Section 2 covers life support equipment — BCD, regulator, buoyancy control. Promoting Perfect Buoyancy specialty is a natural cross-sell tied directly to that content (BCD use → buoyancy mastery → next program). (b) logbook is generic to any section. (c) narcosis lives in Section 4 (depth/gas physiology). (d) Science of Diving is a separate knowledge specialty, not the equipment-focused sell.",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-313",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Which of the following is an example of a real-world application for Section 3 | Breathing Gas and the Effects on Your Body?",
+      "options": {
+        "a": "Discussing the dive schedule for a trip your training center takes that involves plane flights",
+        "b": "All answers are correct",
+        "c": "Encouraging students to take an Ecology specialty program",
+        "d": "Describing interesting or unique animals seen at your favorite dive site"
+      },
+      "correct": "a",
+      "explanation": "Section 3 covers breathing gas + physiological effects: decompression, residual nitrogen, no-fly times. A dive trip itinerary that involves plane flights anchors that abstractly-taught no-fly window in something tangible (18-24h pre-flight depending on dive profile). (c) and (d) are ecology / Section 5 territory. (b) all-correct sweeps in irrelevant content.",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-314",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Open Water Training Dive 2 may only be conducted:",
+      "options": {
+        "a": "After completing only Academic Sessions 1-3",
+        "b": "After completing Academic Sessions 1-3, and Pool/Confined Water Sessions 2-3",
+        "c": "After completing all academic sessions and Pool/Confined Water Sessions 1-3",
+        "d": "After completing all academic and pool/confined water sessions"
+      },
+      "correct": "b",
+      "explanation": "OWD program gating: OW2 needs Academic Sessions 1-3 + Pool/Confined Sessions 2-3 done — specific milestone targeting, not over-prescriptive 'finish everything'. (a) drops the pool prereq entirely. (c) and (d) over-restrict by requiring more sessions than the standard mandates. The Flexibility Rule still applies: this is the SOONEST OW2 can run, not the only allowed sequence.",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-315",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Which of the following is an example of a real-world application of Section 1 | Your Body and the Aquatic Environment?",
+      "options": {
+        "a": "Providing real-world examples of no-decompression limit dive planning",
+        "b": "Explaining the process for dealing with a suspected decompression illness or diving injury",
+        "c": "Explaining the effects of nitrogen narcosis on a diver",
+        "d": "Describing how a high-quality mask improves a student's comfort and ability to see underwater"
+      },
+      "correct": "d",
+      "explanation": "Section 1 covers body adaptation to underwater environment — vision (mask physics), hearing, pressure on ears/sinuses, thermal regulation. Mask quality and underwater vision is a direct connect-to-section application. (a) NDL = Section 4. (b) DCI response = Section 3 / emergency procedures. (c) narcosis = Section 4 (depth / gas physiology).",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-316",
+      "area": "instructor",
+      "subarea": "Methodology — Certification Processing",
+      "question": "When must a certification card be issued?",
+      "options": {
+        "a": "Only if the student requests a card",
+        "b": "Only if the Open Water Instructor decides that the student is qualified",
+        "c": "When the student completes the program requirements outlined in the SSI Training Standards",
+        "d": "Once the training center decides that the student is qualified"
+      },
+      "correct": "c",
+      "explanation": "Cert issuance is standards-driven, not discretionary. Once the student has met the requirements set out in SSI Training Standards (skills mastered, exam passed, paperwork complete), the cert is issued — full stop. (a) student request shouldn't gate the cert (some students never ask but still earned it). (b) and (d) frame it as a judgement call by Pro / TC, but Standards remove the arbitrariness — the same competence yields the same cert anywhere in the SSI network.",
+      "source": "mySSI: ITC Lesson 7.1 Review"
+    },
+    {
+      "id": "mssi-inst-317",
+      "area": "instructor",
+      "subarea": "Methodology — Adult learners",
+      "question": "Why should you learn about your students' motivations for taking the Open Water Diver program?",
+      "options": {
+        "a": "You can reduce the open water training dives",
+        "b": "You can eliminate skills that they will not need",
+        "c": "You can adapt your training to meet their goals",
+        "d": "You do not need to learn about their motivations"
+      },
+      "correct": "c",
+      "explanation": "Adult-learner principle echoed across mssi-inst-108, 116, 210: knowing the student's goals lets you tune emphasis and examples to what they personally care about (destination diving, photography, drysuit work). Standards content stays fixed — but the framing flexes. (a) and (b) would breach Training Standards (you cannot reduce required dives or skip required skills based on goals). (d) inverts adult-learner methodology entirely.",
+      "source": "mySSI: ITC Lesson 7.1 Review"
+    },
+    {
+      "id": "mssi-inst-318",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "The Open Water Diver program is designed to:",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Train students for every diving environment",
+        "c": "Teach advanced skills, like lift bags and deep descents",
+        "d": "Create safe, capable, autonomous divers"
+      },
+      "correct": "d",
+      "explanation": "OWD mission statement: produce a diver who can plan and execute a safe, well-managed dive within OWD limits without instructor supervision. (b) 'every environment' over-reaches — cold water, altitude, overhead environments need separate specialty training. (c) lift bags and deep descents live in Search & Recovery, Deep Diving, and similar specialties — not OWD core. (a) all-correct sweeps in those wrong scopes.",
+      "source": "mySSI: ITC Lesson 7.1 Review"
+    },
+    {
+      "id": "mssi-inst-319",
+      "area": "instructor",
+      "subarea": "Methodology — Adult learners",
+      "question": "Divers taking the Open Water Diver program:",
+      "options": {
+        "a": "All share the same reason for becoming divers",
+        "b": "Have a variety of reasons for becoming divers",
+        "c": "Are always motivated by others",
+        "d": "Are always self-motivated"
+      },
+      "correct": "b",
+      "explanation": "Diverse motivations across the OWD population: dream destinations, fitness and sport, family activity, career change, lifelong bucket-list, peer pressure from a diver friend. The Pro adapts language and examples to each student's reason. (a) is the generalisation trap. (c) and (d) absolute 'always' claims ignore the spectrum — many students mix internal and external motivation.",
+      "source": "mySSI: ITC Lesson 7.1 Review"
+    },
+    {
+      "id": "mssi-inst-320",
+      "area": "instructor",
+      "subarea": "Methodology — Assessment",
+      "question": "The purpose of evaluating Open Water Diver students is to:",
+      "options": {
+        "a": "Make them feel bad about their abilities",
+        "b": "Determine whether they can continue with advanced training",
+        "c": "Determine if they have the knowledge, skills, and abilities to earn the Open Water Diver certification",
+        "d": "Require them to take remedial training"
+      },
+      "correct": "c",
+      "explanation": "Evaluation = certification gate: does the student meet the Training Standards? Yes → cert. No → more training before re-evaluation. (a) is negative pedagogy and breaks SSI ethics. (b) advanced-training readiness is a downstream consequence, not the evaluation's purpose. (d) remedial training is one possible RESPONSE to evaluation results, not the purpose.",
+      "source": "mySSI: ITC Lesson 7.1 Review"
+    },
+    {
+      "id": "mssi-inst-321",
+      "area": "instructor",
+      "subarea": "Methodology — Supervision",
+      "question": "Which of the following is true about Open Water Diver students?",
+      "options": {
+        "a": "They only need to be supervised in deep water",
+        "b": "They only need to be supervised in open water",
+        "c": "They must never be under water without supervision",
+        "d": "They only need to be supervised during skill evaluations"
+      },
+      "correct": "c",
+      "explanation": "Until certification, an OWD student is never under water without Pro supervision — period. Pool, shallow, deep, OW, evaluation, practice — every minute submerged needs eyes on. Post-cert they become autonomous within OWD limits, but the cert is the gate. (a), (b) and (d) all create false safe zones where supervision could lapse — none exist for students.",
+      "source": "mySSI: ITC Lesson 7.1 Review"
+    },
+    {
+      "id": "mssi-inst-322",
+      "area": "instructor",
+      "subarea": "Professional Standards — Depth Limits",
+      "question": "The Open Water Diver certification trains divers to a maximum depth of:",
+      "options": {
+        "a": "15 meters",
+        "b": "32 meters",
+        "c": "27 meters",
+        "d": "18 meters"
+      },
+      "correct": "d",
+      "explanation": "OWD = 18 m / 60 ft maximum depth. Memory hooks for the wider tier ladder: Scuba Diver 12 m, Open Water Diver 18 m, Advanced Open Water Diver 30 m (often cited as 27 m for older curricula), Deep Diving Specialty 40 m. (a) 15 m falls between Scuba Diver and OWD — not a standard limit. (b) 32 m and (c) 27 m are higher-tier or older limits.",
+      "source": "mySSI: ITC Lesson 7.1 Review"
+    },
+    {
+      "id": "mssi-inst-323",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "The Indoor Diver program may be completed in _____ as outlined in the SSI Training Standards.",
+      "options": {
+        "a": "Any open water training environment",
+        "b": "An indoor diving facility",
+        "c": "Any indoor pool deeper than 10 meters",
+        "d": "Any indoor diving environments"
+      },
+      "correct": "b",
+      "explanation": "Indoor Diver is a specialty designed for purpose-built indoor deep-water facilities — Deepspot in Poland, Y-40 in Italy, NEMO 33 in Belgium, Deep Joy in Belgium. The Standards specify 'an indoor diving facility' as the qualifying environment — recognised facilities, not just any indoor pool. (a) inverts (open water is the antonym). (c) depth alone doesn't qualify a pool as a recognised facility. (d) too broad — must be the certified facility class.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-324",
+      "area": "instructor",
+      "subarea": "Professional Standards — Standards Structure",
+      "question": "Where can you find more information on the standards requirements for the Scuba Diver program?",
+      "options": {
+        "a": "In the Open Water Diver Standard",
+        "b": "In the Open Water Instructor Standards",
+        "c": "In the Entry-Level Program Standards",
+        "d": "In the General Training Standards"
+      },
+      "correct": "c",
+      "explanation": "Scuba Diver = entry-level certification, so its standards live under Entry-Level Program Standards alongside OWD. (a) OWD has its own dedicated section, separate from Scuba Diver. (b) OWI Standards covers the Pro side (what an OWI may do), not the program itself. (d) General Training Standards covers cross-program rules — ethics, active status, the Flexibility Rule (mssi-inst-121, 171) — not specific program content.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-325",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Students must complete ____ from the Open Water Diver program to receive the Referral Diver certification.",
+      "options": {
+        "a": "The academic training and all pool/confined water requirements",
+        "b": "Only the academic training",
+        "c": "The academic training, pool/confined water sessions, and the first two open water training dives",
+        "d": "The academic training and the first two pool/confined water sessions"
+      },
+      "correct": "a",
+      "explanation": "Referral Diver = the classic 'finish at home, OW on vacation' scenario: student completes ALL academic + ALL pool/confined water training at home TC, then flies to a destination and completes the OW dives with another SSI TC. Pre-departure milestone = academic + pool/confined complete, no OW yet. (b) and (d) leave pool training incomplete; (c) implies partial OW already, which means they're past referral status.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-326",
+      "area": "instructor",
+      "subarea": "Professional Standards — Entry-Level Programs",
+      "question": "Which academic training sessions must be completed for the Scuba Diver certification?",
+      "options": {
+        "a": "Academic Sessions 1-4",
+        "b": "Academic Sessions 1-6",
+        "c": "Academic Session 3-6",
+        "d": "Academic Sessions 1-3"
+      },
+      "correct": "d",
+      "explanation": "Scuba Diver is the lighter entry-level cert — covers fundamentals: Section 1 (Body & Aquatic Environment), Section 2 (Life Support Equipment), Section 3 (Breathing Gas / Effects on Body). Sections 4-6 (buddy + executing dives, ocean, future) are OWD-only extension content. (a) 1-4 over-includes; (b) 1-6 is full OWD scope; (c) 3-6 inverts the structure.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-327",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "An Indoor Diver must complete _____ to upgrade to an Open Water Diver certification.",
+      "options": {
+        "a": "Two open water training dives, and all skill evaluations",
+        "b": "At least one open water training dive, and all skill evaluations",
+        "c": "Two pool/confined water sessions, and two open water training dives",
+        "d": "All four open water training dives, and all skill evaluations"
+      },
+      "correct": "a",
+      "explanation": "Indoor Diver already has the academic + skill mastery completed in an indoor facility, so the upgrade gap is the open-water transfer: 2 OW training dives + skill evaluation in actual open water. (d) 'all four' would duplicate work the Indoor cert already validates. (b) one dive isn't enough open-water exposure. (c) more pool sessions don't add anything — they already have those.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-328",
+      "area": "instructor",
+      "subarea": "Professional Standards — Entry-Level Programs",
+      "question": "A Scuba Diver must complete _____ to upgrade to an Open Water Diver certification.",
+      "options": {
+        "a": "Only the in-water training requirements",
+        "b": "The remaining academic and pool/confined water sessions and four open water training dives.",
+        "c": "The remaining academic and pool/confined water sessions and two open water training dives.",
+        "d": "Only the open water training dives"
+      },
+      "correct": "c",
+      "explanation": "Scuba Diver already covers Academic Sessions 1-3 + corresponding pool/confined work + 2 OW dives (12 m limit). The OWD upgrade gap = Academic Sessions 4-6 + remaining pool/confined sessions + 2 ADDITIONAL OW dives (to reach the OWD total of 4). (b) 'four OW dives' would duplicate the two already done. (a) and (d) ignore the academic and pool gap.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-329",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "A Referral Diver must complete ____ to upgrade to an Open Water Diver certification.",
+      "options": {
+        "a": "At least two open water training dives and all skill evaluations",
+        "b": "All open water training dives, and all skill evaluations",
+        "c": "At least two open water training dives, and the skill evaluations from the first two open water training dives",
+        "d": "At least four open water training dives"
+      },
+      "correct": "b",
+      "explanation": "Referral Diver has academic + all pool/confined done at the home TC (mssi-inst-325) but ZERO OW dives — that's the whole point of referral. The destination TC therefore runs all four OW training dives + all skill evaluations to finish the cert. (a) and (c) leave OW work incomplete with only two dives. (d) drops the skill evaluations, which are required.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-330",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Referral Divers may dive in:",
+      "options": {
+        "a": "Open water environments shallower than 12 meters with a buddy",
+        "b": "Any open water environment with a certified assistant",
+        "c": "A pool/confined water environment with a buddy",
+        "d": "A pool/confined water environment without a buddy"
+      },
+      "correct": "c",
+      "explanation": "Referral Diver hasn't completed OW training yet, so they cannot dive in open water — only pool / confined water, and always with a buddy (no solo, since they're not even certified yet). (a) any OW depth is forbidden until OW dives are complete. (b) is too permissive — assistants don't unlock OW for a referral. (d) solo without buddy is unsafe and never allowed at this stage.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-331",
+      "area": "instructor",
+      "subarea": "Professional Standards — Continuing Education",
+      "question": "The Advanced Open Water Diver program is designed to:",
+      "options": {
+        "a": "Certify students in three specialties",
+        "b": "Introduce students to three specialties",
+        "c": "Certify students in five specialties",
+        "d": "Introduce students to five specialties"
+      },
+      "correct": "d",
+      "explanation": "AOW program = a sampler / tasting menu of five specialty intros — one dive per specialty, 5 dives total. The student gets exposure but does NOT earn the individual specialty certs. Distinct from Specialty Diver (2 specialties completed + 12 dives) and Advanced Specialty Diver (4 specialties completed + 24 dives — mssi-inst-135). The 'introduce' wording is the key — full cert in a specialty needs that specialty's full program.",
+      "source": "mySSI: ITC Lesson 8.1 Review"
+    },
+    {
+      "id": "mssi-inst-332",
+      "area": "instructor",
+      "subarea": "Professional Standards — Continuing Education",
+      "question": "Teaching the Advanced Open Water Diver program allows an Open Water instructor to:",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Become familiar with various SSI specialty programs",
+        "c": "Qualify for the Master Instructor rating",
+        "d": "Certify students as SSI Specialty Divers"
+      },
+      "correct": "b",
+      "explanation": "AOW is a low-friction way for an OWI to get exposure to several specialty curricula — running the intro dives builds familiarity that helps when the OWI later pursues full Specialty Instructor ratings. (c) Master Instructor is a separate rating path with its own prerequisites. (d) the AOW intro doesn't certify students as Specialty Divers — full cert needs the complete specialty program (mssi-inst-331). (a) all-correct sweeps in the wrong claims.",
+      "source": "mySSI: ITC Lesson 8.1 Review"
+    },
+    {
+      "id": "mssi-inst-333",
+      "area": "instructor",
+      "subarea": "Professional Standards — Continuing Education",
+      "question": "Students must complete the digital learning materials for:",
+      "options": {
+        "a": "At least three open water training dives",
+        "b": "No digital learning materials are available for Advanced Open Water Diver",
+        "c": "At least five open water training dives",
+        "d": "All of the open water training dives"
+      },
+      "correct": "c",
+      "explanation": "AOW = 5 specialty intros = 5 OW dives (mssi-inst-331), each one requires the student to complete the corresponding specialty's digital learning materials before the dive. So the minimum is 5; can be more if the student adds extra specialties. (a) three is below the AOW minimum. (b) is false — every AOW specialty has digital materials. (d) 'all' is vague vs the precise 'at least five' floor.",
+      "source": "mySSI: ITC Lesson 8.1 Review"
+    },
+    {
+      "id": "mssi-inst-334",
+      "area": "instructor",
+      "subarea": "Professional Standards — Continuing Education",
+      "question": "Pool/confined water sessions are:",
+      "options": {
+        "a": "Recommended, but not required",
+        "b": "Required before some Dedicated Equipment Specialty open water training dives",
+        "c": "Required before all open water training dives",
+        "d": "Only required for Junior Advanced Open Water Diver students"
+      },
+      "correct": "b",
+      "explanation": "Pool/confined sessions in AOW are conditional — required before SOME Dedicated Equipment Specialty intros where equipment-specific risks need controlled-environment familiarity first (Sidemount, Rebreather, Drysuit, Twin Tank). Knowledge specialties and Open Water specialties don't need pool prep. (a) 'recommended' understates the rule for the equipment cases. (c) and (d) over-generalise.",
+      "source": "mySSI: ITC Lesson 8.1 Review"
+    },
+    {
+      "id": "mssi-inst-335",
+      "area": "instructor",
+      "subarea": "Methodology — Debrief",
+      "question": "After completing the open water training dives, you should always:",
+      "options": {
+        "a": "Issue the Advanced Open Water Diver recognition card",
+        "b": "All answers are correct",
+        "c": "Administer the Advanced Open Water Diver final exam",
+        "d": "Conduct a post-dive debriefing"
+      },
+      "correct": "d",
+      "explanation": "Debriefing is the universal post-dive practice — every dive, every time. (a) issuing the recognition card is conditional on the entire program meeting Standards (mssi-inst-316) — not 'always'. (c) AOW typically doesn't have a single program-wide final exam (each specialty has its own knowledge component). (b) all-correct sweeps in the conditionals.",
+      "source": "mySSI: ITC Lesson 8.1 Review"
+    },
+    {
+      "id": "mssi-inst-336",
+      "area": "instructor",
+      "subarea": "Professional Standards — Continuing Education",
+      "question": "How does a diver upgrade to a specialty certification after completing the associated Advanced Open Water Dive?",
+      "options": {
+        "a": "Only complete at least one additional open water training dive",
+        "b": "Complete the specialty program and at least two open water training dives",
+        "c": "Nothing, the specialty certification is issued with the Advanced Open Water Diver certification",
+        "d": "Complete the specialty program and at least one additional in-water dive (as required by standards)"
+      },
+      "correct": "d",
+      "explanation": "AOW intro dive can count as one dive of the corresponding specialty's curriculum, but the upgrade to full Specialty cert requires completing the rest: academic content + remaining required dives (at least one additional, as defined by that specialty's standards). (a) one extra dive ignores the academic and remaining curriculum gaps. (c) is the trap — AOW is intro, NOT cert (mssi-inst-331). (b) 'two extra dives' over-prescribes — the standard says at least one additional, not always two.",
+      "source": "mySSI: ITC Lesson 8.1 Review"
+    },
+    {
+      "id": "mssi-inst-337",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Which of the following is a benefit for professionals who teach Enriched Air Nitrox?",
+      "options": {
+        "a": "It decreases the earning and marketing opportunities for the professional",
+        "b": "There is no benefit to teaching Enriched Air Nitrox",
+        "c": "It certifies the instructor to teach Extended Range Nitrox Diving",
+        "d": "It is a prerequisite for Decompression Diving"
+      },
+      "correct": "d",
+      "explanation": "EAN Instructor rating is the gateway into the Tec instructor pathway — Decompression Diving and similar Extended Range programs require Nitrox knowledge as the gas-management foundation. Teaching EAN earns relevant competence and unlocks higher specialty teaching ratings. (a) and (b) invert the value proposition. (c) Extended Range Nitrox is a separate specialty rating, not automatically granted by EAN.",
+      "source": "mySSI: ITC Lesson 8.2 Review"
+    },
+    {
+      "id": "mssi-inst-338",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "What is the purpose of the Enriched Air Nitrox 40 specialty program?",
+      "options": {
+        "a": "To certify students to dive with nitrox blends up to 40% oxygen",
+        "b": "To certify students to dive with nitrox blends up to 60% oxygen",
+        "c": "To certify students to dive with a stage cylinder blend up to 50% oxygen",
+        "d": "To certify students to dive with nitrox blends up to 100% nitrogen"
+      },
+      "correct": "a",
+      "explanation": "The number in the name = the maximum O2 percentage. EAN 40 = blends up to 40% O2, EAN 32 = up to 32%, EAN 36 = up to 36%. (b) 60% is beyond standard recreational Nitrox into Tec range. (c) 50% stage-cylinder gases live in Decompression Diving territory, not EAN 40. (d) '100% nitrogen' is nonsense — air is already 78% N2 and pure nitrogen is unbreathable.",
+      "source": "mySSI: ITC Lesson 8.2 Review"
+    },
+    {
+      "id": "mssi-inst-339",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "You can issue the Enriched Air Nitrox 40 certification card only after the student completes:",
+      "options": {
+        "a": "All required academic sessions, and at least two pool/confined water sessions",
+        "b": "All required academic sessions, the practical application sessions, and at least one open water training dive",
+        "c": "All required academic sessions, the final exam, and the practical application sessions",
+        "d": "All required academic sessions and at least two in-water training dives"
+      },
+      "correct": "c",
+      "explanation": "EAN is a knowledge-only specialty (mssi-inst-296) — no in-water requirement. The three cert components are: academic sessions, final exam, and practical application (oxygen analyser use, MOD calculation, gas labelling). (a), (b) and (d) all incorrectly add in-water requirements that don't exist for EAN — competence is verified on the bench, not underwater.",
+      "source": "mySSI: ITC Lesson 8.2 Review"
+    },
+    {
+      "id": "mssi-inst-340",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Enriched Air Nitrox certification allows a student to _____ compared to equivalent air depths.",
+      "options": {
+        "a": "Reduce surface intervals, increase bottom times, and increase depths",
+        "b": "Increase surface intervals, and increase bottom times",
+        "c": "Reduce their surface intervals, and increase maximum depths",
+        "d": "Reduce their surface intervals, and increase bottom times"
+      },
+      "correct": "d",
+      "explanation": "EAN's two real advantages: less nitrogen → shorter surface intervals + longer bottom times. Important trap: max depth is REDUCED with EAN (oxygen toxicity caps PPO2 ≤ 1.4 ATA, so MOD shrinks as O2% rises) — so (a) and (c) 'increase depths' are explicitly wrong. (b) 'increase surface intervals' is the opposite of the benefit.",
+      "source": "mySSI: ITC Lesson 8.2 Review"
+    },
+    {
+      "id": "mssi-inst-341",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Students with the Enriched Air Nitrox certification should use a dive computer to:",
+      "options": {
+        "a": "Maximize the benefits of their training",
+        "b": "Increase maximum depth limits",
+        "c": "All answers are correct",
+        "d": "Safely exceed no-decompression limits"
+      },
+      "correct": "a",
+      "explanation": "Nitrox-capable dive computer tracks the actual N2 loading on whatever blend the diver is on, so they get the full extended-bottom-time + reduced-SI benefit (mssi-inst-340) safely. (b) inverts the truth — EAN REDUCES max depth via oxygen toxicity. (d) NDL is a hard boundary in recreational diving; 'safely exceed' is an oxymoron — that requires Decompression Diving training and gear. (c) all-correct sweeps in dangerous claims.",
+      "source": "mySSI: ITC Lesson 8.2 Review"
+    },
+    {
+      "id": "mssi-inst-342",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Dedicated Equipment specialties:",
+      "options": {
+        "a": "Have a required pool/confined water session",
+        "b": "Require at least four open water training dives",
+        "c": "Can be taught by an Assistant Instructor or higher",
+        "d": "Require at least two pool/confined water sessions"
+      },
+      "correct": "a",
+      "explanation": "Universal property of Dedicated Equipment specialties (Sidemount, Drysuit, Twinset, Rebreather): a required pool/confined session before OW, so the diver gets familiar with the equipment in a controlled environment first (consistent with mssi-inst-334). (b) OW dive count varies by specialty. (c) most equipment specialties cap teaching at OWI or higher due to equipment + depth risk profile (mssi-inst-163). (d) two-session requirement is over-specific.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-343",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "How does a diver upgrade from Wreck Diving to Advanced Wreck Diving?",
+      "options": {
+        "a": "Complete two pool/confined water sessions, and one open water training dive",
+        "b": "Complete a dry-land session and two additional open water training dives",
+        "c": "There are no additional requirements",
+        "d": "Complete the additional academics, the Advanced Wreck Diving final exam, and at least one additional open water training dive"
+      },
+      "correct": "b",
+      "explanation": "Advanced Wreck = penetration territory. Upgrade gap = a dry-land session for line + reel handling drills (rehearse the rope work where you can see and breathe), plus two additional OW penetration training dives to apply the technique inside an actual wreck under direct supervision. (a) pool sessions + one dive understates the OW exposure needed. (c) no additional requirements is wrong — penetration is a step up. (d) drops the dry-land line drill, which is the safety-critical pre-OW prep.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-344",
+      "area": "instructor",
+      "subarea": "Methodology — Open Water Training",
+      "question": "Training environments and conditions for these programs should be ______ typical training sites.",
+      "options": {
+        "a": "Shallower and more complex than",
+        "b": "Deeper, and more complex than",
+        "c": "Shallower and less complex than",
+        "d": "The same as"
+      },
+      "correct": "c",
+      "explanation": "Pedagogical principle: training site < real-world conditions. Pick shallower depths and simpler conditions so students can focus mental bandwidth on the new skill, not on managing the environment. After mastery, they can transfer the skill to harder conditions on their own dives. (a) and (b) raise cognitive load during learning, hurting retention. (d) 'same as' removes the safety margin needed for first-attempt skills.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-345",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Instructor",
+      "question": "Which of the following programs can only be taught by an Open Water Instructor with the applicable specialty instructor certification?",
+      "options": {
+        "a": "Marine Ecology",
+        "b": "Dry Suit Diving",
+        "c": "Boat Diving",
+        "d": "All answers are correct"
+      },
+      "correct": "b",
+      "explanation": "Dry Suit Diving = Dedicated Equipment specialty with a serious equipment-risk profile (drysuit valve failure → uncontrolled ascent → DCS). The Standards require OWI authority for that risk band. (a) Marine Ecology is a knowledge specialty — AI eligible (mssi-inst-294). (c) Boat Diving is a low-risk Open Water specialty — also AI eligible. (d) all-correct sweeps in the AI-eligible programs.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-346",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Instructor",
+      "question": "Why must a Dedicated Equipment specialty be taught by an Open Water Instructor with the Specialty Instructor certification?",
+      "options": {
+        "a": "These programs have higher risk levels and more complex equipment requirements",
+        "b": "They can be taught by any SSI Professional",
+        "c": "SSI does not want Assistant Instructors to teach everything",
+        "d": "These programs have reduced risk levels and more complex equipment requirements"
+      },
+      "correct": "a",
+      "explanation": "Risk-based regulation: equipment failure modes (rebreather hypoxia, drysuit valve runaway ascent, sidemount entanglement, twinset valve isolations) all need an experienced OWI with the specific Specialty Instructor cert to teach. (b) opens it to any Pro, including DM and AI — too permissive. (c) frames the restriction as arbitrary, when it's safety-driven. (d) inverts risk — these specialties have HIGHER risk, not reduced.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-347",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Instructor",
+      "question": "Which of the following instructor certifications can only be earned by an Open Water Instructor?",
+      "options": {
+        "a": "Science of Diving Instructor",
+        "b": "Boat Diving Instructor",
+        "c": "Ice Diving Instructor",
+        "d": "Shark Ecology Instructor"
+      },
+      "correct": "c",
+      "explanation": "Ice Diving = overhead environment (under ice — penetration risk, restricted egress) + extreme cold + entry/exit hazards. The combination puts it in the OWI-only band. (a) Science of Diving = knowledge specialty (mssi-inst-299), AI eligible. (b) Boat Diving = low-risk Open Water specialty, AI eligible. (d) Shark Ecology = knowledge specialty, AI eligible.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-348",
+      "area": "instructor",
+      "subarea": "Methodology — Risk Management",
+      "question": "To ensure student safety during training:",
+      "options": {
+        "a": "Have your students show each other how to complete the skill demonstration",
+        "b": "Reduce ratios, and increase supervision levels",
+        "c": "Eliminate the open water training dives",
+        "d": "Only practice non-emergency skills"
+      },
+      "correct": "b",
+      "explanation": "Two well-established safety levers, consistent with mssi-inst-258 (lower ratios = more attention per student) and mssi-inst-254/256 (supervision intensity by environment). (a) uncertified students don't have teaching authority — peer demonstration risks propagating bad technique. (c) eliminating OW destroys the cert program. (d) skipping emergency skills creates a dangerous knowledge gap.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-349",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Competence",
+      "question": "As the subject matter expert, your understanding of the program content and personal abilities must be _____ your students' understanding and abilities.",
+      "options": {
+        "a": "Higher than",
+        "b": "Lower than",
+        "c": "The same as",
+        "d": "Different from"
+      },
+      "correct": "a",
+      "explanation": "Subject-matter expert principle: the Pro must know AND perform clearly above the student level so they can teach, evaluate, anticipate problems, and recover situations. (b) and (c) leave the Pro at or below student level — can't teach what you don't know. (d) 'different' is vague — direction matters.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
     },
     {
       "id": "mssi-inst-001",

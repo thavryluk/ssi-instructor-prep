@@ -4498,6 +4498,3021 @@
       "source": "mySSI: ITC Lesson 2.1 Review"
     },
     {
+      "id": "mssi-inst-149",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "Jaká je hlavní povinnost certifikovaného asistenta?",
+      "options": {
+        "a": "Provádět ukázky dovedností v otevřené vodě",
+        "b": "Vydávat certifikace Open Water Diver",
+        "c": "Hodnotit studenty v otevřené vodě",
+        "d": "Podporovat vedoucího instruktora při výcviku studentů"
+      },
+      "correct": "d",
+      "explanation": "Certifikovaní asistenti (Divemasters, Assistant Instructors v roli asistenta) jsou tu od toho, aby podporovali vedoucího instruktora — další oči na studentech, pomoc s kontrolou skupiny, podpora ukázek pod vodou, dohled na hladině, pomoc s briefingem/debriefingem. Ukázky dovedností (a) lze provádět pod přímým dohledem instruktora, ale nejsou HLAVNÍ povinností asistenta. Vydávání certifikací (b) a hodnocení studentů (c) jsou pravomoci instruktora — asistenti nemohou certifikovat ani hodnotit.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-150",
+      "area": "instructor",
+      "subarea": "Methodology — Pool / Confined Water",
+      "question": "Lekce v bazénu / chráněné vodě:",
+      "options": {
+        "a": "Mohou vyučovat pouze Open Water Instructors nebo vyšší",
+        "b": "Měly by se zaměřovat pouze na pokročilé dovednosti",
+        "c": "Zaměřují se na rozvoj dovedností v kontrolovaném prostředí",
+        "d": "Všechny odpovědi jsou správné"
+      },
+      "correct": "c",
+      "explanation": "Bazén / chráněná voda je kontrolované prostředí, kde studenti budují základní dovednosti, než je přenesou do otevřené vody. (a) je špatně — Assistant Instructors mohou samostatně vyučovat bazén / chráněnou vodu pro OWD pod nepřímým dohledem. (b) je špatně — bazén je pro ZÁKLADNÍ dovednosti (sundání a nasazení masky, obnovení automatiky, základy neutrálního vyvážení), ne pokročilé. (d) všechny správné neplatí, protože a a b jsou špatné.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-151",
+      "area": "instructor",
+      "subarea": "Professional Standards — Ethics",
+      "question": "Pokyny vedoucího instruktora dodržujte:",
+      "options": {
+        "a": "Pouze pokud má více zkušeností než vy",
+        "b": "Pouze pokud s nimi osobně souhlasíte",
+        "c": "Vždy a bez výjimek",
+        "d": "Pokud jsou v souladu s SSI Training Standards a politikou Training Center"
+      },
+      "correct": "d",
+      "explanation": "Hierarchie velení v SSI je ohraničená — ne absolutní. Pokyny vedoucího instruktora dodržujete ZA PŘEDPOKLADU, že odpovídají SSI Training Standards a dokumentovaným politikám Training Center. Pokud by pokyn porušoval standardy (překročení poměrů, porušení hloubkových limitů, vynechání povinných prerekvizit), máte profesionální povinnost se ozvat / odmítnout. (c) 'bez výjimek' je past — slepá poslušnost přenáší odpovědnost na vás, když se něco pokazí. (a) a (b) podmiňují hierarchii osobními faktory, což by rozložilo jakoukoli týmovou strukturu.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-152",
+      "area": "instructor",
+      "subarea": "Methodology — Assistant Positioning",
+      "question": "Kde byste se měli během tréninku ve vodě nacházet?",
+      "options": {
+        "a": "Za studenty nebo za instruktorem, pokud není uvedeno jinak",
+        "b": "Přímo nad studenty, abyste nerozptylovali instruktora",
+        "c": "Přímo vedle nejnervóznějšího studenta",
+        "d": "Přímo vedle instruktora, abyste podle potřeby pomáhali"
+      },
+      "correct": "a",
+      "explanation": "Výchozí pozice certifikovaného asistenta je za řadou studentů nebo za instruktorem — poskytuje plný výhled na skupinu bez křížení zorného pole instruktora, umožňuje rychle si všimnout studenta v nesnázích, udržuje pracovní prostor instruktora volný. Instruktor vás může přemístit (vedle konkrétního studenta, řízení z boku), takže 'pokud není uvedeno jinak' má svůj smysl. (b) přímo nad studenty je pozice pro dohled se šnorchlem, ne standard; (c) vedle nervózního studenta je situační výjimka, ne výchozí pozice; (d) vedle instruktora omezuje jeho pracovní prostor.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-153",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "Jaké dovednosti může Assistant Instructor vyučovat během tréninku v bazénu / chráněné vodě?",
+      "options": {
+        "a": "Všechny dovednosti programu Open Water Diver",
+        "b": "Pouze sundání masky a dovednosti vyvážení",
+        "c": "Všechny dovednosti musí vyučovat instruktor",
+        "d": "Všechny dovednosti kromě nouzového výstupu"
+      },
+      "correct": "d",
+      "explanation": "Pravomoc AI v bazénu / chráněné vodě pro OWD = všechny dovednosti KROMĚ nouzového výstupu (CESA), který musí provádět přímo aktivní OWI kvůli vyššímu rizikovému profilu. (a) je špatně, protože nouzové výstupy jsou vyloučeny. (b) drasticky podceňuje, co AI může učit. (c) je špatně — to by smazalo celé oprávnění AI. Zrcadlo otázky mssi-inst-147 (stejné pravidlo, jiné pořadí možností).",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-154",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "Které z následujících povinností může certifikovaný asistent plnit během výcviku v otevřené vodě?",
+      "options": {
+        "a": "Působit jako buddy pro jiného studenta",
+        "b": "Vést podvodní prohlídky po dokončení Open Water Training Dive 2",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Působit jako Divemaster během ponoru"
+      },
+      "correct": "c",
+      "explanation": "Certifikovaní asistenti mohou ve výcviku v otevřené vodě plnit více rolí podle delegace instruktora: (a) buddy se studentem pro vyrovnání skupiny do dvojic; (b) vedení podvodních prohlídek po dokončení OW Training Dive 2 a zvládnutí základních dovedností; (d) působit ve své roli Divemaster, pokud má DM rating. Všechny tři jsou platné delegované povinnosti — instruktor rozhoduje, co se hodí do plánu ponoru. (Poznámka: (d) implicitně vyžaduje, aby asistent skutečně držel rating DM; asistent jen s AI by nemohl působit JAKO DM.)",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-155",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "Assistant Instructor může ____ během akademických lekcí Open Water Diver?",
+      "options": {
+        "a": "Pouze vést závěrečnou zkoušku",
+        "b": "Hodnotit dovednosti studentů",
+        "c": "Vyučovat pod nepřímým dohledem",
+        "d": "Pouze poslouchat přednášky"
+      },
+      "correct": "c",
+      "explanation": "Pravomoc AI v akademických lekcích OWD: vést učebnové / teoretické lekce pod nepřímým dohledem aktivního OWI — OWI nemusí být v místnosti, ale nese celkovou odpovědnost a podepisuje. (a) omezuje AI jen na zkoušku — může mnohem víc. (b) hodnocení dovedností je úkolem instruktora, který vydává certifikaci. (d) 'pouze poslouchat' by smazalo rating AI. Formulace 'nepřímý dohled' je typická pro AI.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-156",
+      "area": "instructor",
+      "subarea": "Methodology — Assistant Role",
+      "question": "Co je hlavní prioritou certifikovaného asistenta během výcviku v otevřené vodě?",
+      "options": {
+        "a": "Předvádění dovedností v hloubce",
+        "b": "Sledování zásoby dýchacího plynu vedoucího instruktora",
+        "c": "Vedení podvodních prohlídek",
+        "d": "Kontrola a dohled nad skupinou"
+      },
+      "correct": "d",
+      "explanation": "Hlavní důvod, proč instruktor bere certifikovaného asistenta na ponory v OW = znásobená pozornost — kontrola skupiny, počítání hlav, sledování problémů. Ukázky (a), prohlídky (c) a další úkoly jsou sekundární delegované povinnosti. (b) je distraktor, který obrací role — instruktor si spravuje vlastní plyn, asistent ho neopatruje. Pomůcka: asistent = další oči na skupině.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-157",
+      "area": "instructor",
+      "subarea": "Methodology — Assistant Role",
+      "question": "Certifikovaný asistent by měl po ponoru _____.",
+      "options": {
+        "a": "Demontovat své vybavení dříve než ostatní",
+        "b": "Zúčastnit se pouze poponorového debriefingu",
+        "c": "Zúčastnit se poponorového debriefingu a zalogovat své ponory",
+        "d": "Vyhýbat se odpovídání na otázky studentů"
+      },
+      "correct": "c",
+      "explanation": "Dvě profesionální povinnosti po ponoru: (1) účast na poponorovém debriefingu — podporuje přenos učení, umožňuje sledovat, jak instruktor zachází s otázkami, modeluje profesionální chování pro studenty; (2) logování každého výcvikového ponoru — Pros jsou povinni vést přesné logbooky. (a) obrací etiketu týmu — Pros pomáhají studentům před sebou. (d) narušuje důvěru a roli mentora; certifikovaní asistenti jsou vybízeni, aby se zapojili do otázek studentů (v rámci svých pravomocí).",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-158",
+      "area": "instructor",
+      "subarea": "Methodology — Specialty Instructor Seminar",
+      "question": "Specialty Instructor Seminar:",
+      "options": {
+        "a": "Vyžaduje pouze dokončení digitálních studijních materiálů",
+        "b": "Vyžaduje doložení 20 zalogovaných ponorů ve specializaci",
+        "c": "Vyučuje kvalifikovaný Assistant Instructor Trainer nebo vyšší",
+        "d": "Vyžaduje pouze složení závěrečné zkoušky"
+      },
+      "correct": "c",
+      "explanation": "SI Seminar = prezenční složka cesty Specialty Instructor, vedená kvalifikovaným AIT, IT nebo MIT, který má oprávnění vyučovat danou specializaci. (a) a (d) jsou příliš úzké — seminář vyžaduje jak materiály, tak prezenční výcvik a hodnocení. (b) uvádí špatný počet ponorů — Specialty Instructor seminars vyžadují 10 zalogovaných ponorů ve specializaci, ne 20.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-159",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Instructor",
+      "question": "Specialty Instructor certifikace pro Navigation:",
+      "options": {
+        "a": "Získává se splněním dalších výcvikových požadavků",
+        "b": "Je automaticky vydána s certifikací Assistant Instructor",
+        "c": "Lze ji získat dokončením ratingu Divemaster",
+        "d": "Je automaticky vydána s certifikací Open Water Instructor"
+      },
+      "correct": "a",
+      "explanation": "SSI Specialty Instructor ratings (Navigation, Deep, Night, Wreck atd.) NIKDY nejsou součástí jiného ratingu — každý se získává individuálně jednou ze tří cest: Specialty Instructor Seminar, Co-Teaching nebo Verification Application. (b) AI nevydává žádný specialty instructor rating; (c) DM je rating bez instruktorského oprávnění a neuděluje žádnou výukovou pravomoc pro specializace; (d) OWI je základní prerekvizita, ne zkratka — specializace se přidávají navrch.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-160",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Potápěč může absolvovat specializovaný výcvik, aby:",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Vyzkoušel nové vybavení",
+        "c": "Naučil se nové dovednosti",
+        "d": "Připravil se na novou destinaci"
+      },
+      "correct": "a",
+      "explanation": "Všechny tři motivace vedou k zápisu do specializace: (b) nové vybavení — Sidemount, Drysuit, Rebreather; (c) nové dovednosti — Navigation, Photography, Deep, Wreck, Boat Diving; (d) příprava na destinaci — Wreck před Egyptem/Truk, Cold Water před Norskem, Altitude před horskými jezery. Propojení retailu a vzdělávání je přesně mechanismus loajality, který buduje SSI Education System: potápěč s cílem se vrací do svého TC pro další program.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-161",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Potápěči absolvující specializovaný výcvik:",
+      "options": {
+        "a": "Mohou si sami vybrat, které dovednosti se chtějí naučit",
+        "b": "Chtějí se naučit nové a pokročilé dovednosti",
+        "c": "Potřebují se znovu naučit základní potápěčské dovednosti",
+        "d": "Nepotřebují si opakovat základní potápěčské dovednosti"
+      },
+      "correct": "b",
+      "explanation": "Hlavní důvod, proč se potápěč zapíše do specializace = chce nové nebo pokročilejší dovednosti (Navigation, Deep, Photo atd.). (a) je špatně — kurikula specializací jsou pevně daná SSI standardy; potápěč si dovednosti nevybírá à la carte, standardy definují povinný obsah. (c) je špatně — základní dovednosti jsou PREREKVIZITY, ne látka k novému učení. (d) je opačná chyba — relevantní základní dovednosti SE V kontextu specializace opakují / oprašují (např. neutrální vyvážení se znovu probírá v rámci Perfect Buoyancy nebo Photography specializací).",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-162",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Vyučování specializovaných programů:",
+      "options": {
+        "a": "Omezuje příjmový potenciál a snižuje rozmanitost",
+        "b": "Měli by jej provádět pouze kvalifikovaní Open Water Instructors",
+        "c": "Mělo by se používat pouze jako alternativa k výcviku Open Water Diver",
+        "d": "Zvyšuje příjmový potenciál a poskytuje rozmanitost"
+      },
+      "correct": "d",
+      "explanation": "Klasická hodnotová nabídka SSI Pro: vrstvení Specialty Instructor ratingů na OWI násobí počet programů, které můžete učit → více zdrojů příjmu + více kurikulární rozmanitosti → méně vyhoření. (a) převrací pravdu. (b) je polopravda — pouze OWI, KTEŘÍ DOKONČÍ cestu SI, mohou učit specializace; ne všichni OWI automaticky. (c) je špatně — specializace doplňují OWD, nenahrazují ho.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-163",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Instructor",
+      "question": "Kterou Specialty Instructor certifikaci mohou Assistant Instructors získat?",
+      "options": {
+        "a": "Navigation",
+        "b": "Deep Diving",
+        "c": "Search and Recovery",
+        "d": "Diver Stress & Rescue"
+      },
+      "correct": "a",
+      "explanation": "AI mají nárok na Specialty Instructor ratings pouze u nízkorizikových specializací — Navigation je kanonický příklad (kompas + dovednosti vzorců, žádná hloubka ani penetrace). Ostatní tři vyžadují OWI jako prerekvizitu: (b) Deep — explicitní hloubkové riziko; (c) Search & Recovery — technická složitost, často hlubší / overhead; (d) Diver Stress & Rescue Instructor — záchranné programy vyžadují plnou pravomoc instruktora. Pomůcka: výuka specializací AI je ohraničena úrovní rizika.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-164",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Training centers, která propagují a vedou specializované programy:",
+      "options": {
+        "a": "Zvyšují příjmy s nižšími náklady",
+        "b": "Zvyšují příjmový potenciál svých dive professionals",
+        "c": "Poskytují svým zákazníkům více výcvikových příležitostí",
+        "d": "Všechny odpovědi jsou správné"
+      },
+      "correct": "d",
+      "explanation": "Specializované programy jsou trojí výhrou pro TC: (a) programy s vysokou marží (malé skupiny, kratší doba trvání, návaznost na pronájem vybavení) s nižšími náklady na studenta než vstupní programy; (b) více ratingových variant pro Pros = více zdrojů příjmu = silnější udržení personálu; (c) více možností pro potápěče = lepší retence zákazníků, více důvodů k návratu. Tento trojúhelník pohání loajalitní model SSI Total Diving / Diamond Diver.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-165",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Instructor",
+      "question": "Verification application proces by se měl použít:",
+      "options": {
+        "a": "Pouze pokud nejsou dostupné možnosti seminar nebo co-teaching",
+        "b": "Pokud to vyžaduje Service Center",
+        "c": "Jako alternativa k Specialty Instructor Seminar",
+        "d": "Pokud má kandidát pouze 10 zalogovaných ponorů ve specializaci"
+      },
+      "correct": "a",
+      "explanation": "Cesty Specialty Instructor mají pořadí priority: (1) Seminar, (2) Co-Teaching, (3) Verification Application — poslední je cesta POSLEDNÍ MOŽNOSTI použitá pouze tehdy, když není dostupný ani Seminar, ani Co-Teaching (např. crossover z jiné agentury, kde už kandidát má doloženou výukovou praxi). (c) 'alternativa' nesprávně naznačuje volný výběr — je to záloha, ne paralelní možnost. (b) Service Centers nediktují volbu cesty. (d) samotný počet ponorů verifikaci nespouští — to jsou prerekvizity specializace.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-166",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Instructor",
+      "question": "_____ podepisuje Specialty Instructor Completion Form pro kandidáta cesty Specialty Instructor co-teaching.",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Vlastník training center",
+        "c": "Instructor Trainer",
+        "d": "Training Center QMS Manager"
+      },
+      "correct": "d",
+      "explanation": "Cesta Co-Teaching: kandidát spoluvyučuje s aktivním Specialty Instructor v dané specializaci; po dokončení podepisuje SI Completion Form Training Center QMS Manager jako formální QA autorita odpovědná za soulad ve středisku. (b) a (c) jsou běžnými signatáři v JINÝCH cestách (Seminar = podepisuje IT), ale ne kanonickými signatáři u Co-Teaching. (a) všechny správné je příliš široké — formálním podepisujícím je zde pouze jedna role.",
+      "source": "mySSI: ITC Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-inst-167",
+      "area": "instructor",
+      "subarea": "Professional Standards — Ethics",
+      "question": "Co z následujícího je příkladem negativního etického chování?",
+      "options": {
+        "a": "Udržování rozumné vzdálenosti od živočichů",
+        "b": "Udržování proudově čistého vybavení",
+        "c": "Odebírání kousků živého korálu z útesu",
+        "d": "Podpora dobrých návyků vyvážení"
+      },
+      "correct": "c",
+      "explanation": "Sběr korálů je poškozování životního prostředí, ve většině jurisdikcí nelegální a přímé porušení Diver Responsibility Code. (a) udržování vzdálenosti, (b) proudově čisté vybavení (žádné visící automatiky/manometry) a (d) dobré vyvážení jsou pozitivní chování, která minimalizují dopad potápěče na podvodní prostředí. Pro modeluje všechny tři pro studenty na každém ponoru.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-168",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Presentation",
+      "question": "Profesionálové musí mít profesionální vzhled, profesionální _____ a používat profesionální Total Diving System.",
+      "options": {
+        "a": "Prodejní techniku",
+        "b": "Postoj",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Místo výcviku"
+      },
+      "correct": "b",
+      "explanation": "Tři pilíře profesionální prezentace SSI: Vzhled (jak vypadáte — čistý stejnokroj, úprava, brandované vybavení), Postoj (jak se chováte — sebevědomí, pozitivita, respekt) a Total Diving System (vaše vlastní správně padnoucí, dobře udržované vybavení). Tato trojice komunikuje 'tento Pro je opravdový' ještě před tím, než dělá briefing ponoru. (a) prodejní technika patří do retailu, ne do prezentačního trojúhelníku. (d) místo je nepodstatné.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-169",
+      "area": "instructor",
+      "subarea": "Professional Standards — Ethics",
+      "question": "Co z následujícího je příkladem pozitivní profesionální etiky?",
+      "options": {
+        "a": "Vyučování pouze studentů, kteří se stanou celoživotními potápěči",
+        "b": "Soustředění výukového úsilí pouze na ty nejlepší studenty",
+        "c": "Dodržování pouze těch politik a standardů, se kterými souhlasíte",
+        "d": "Rovné zacházení se všemi studenty"
+      },
+      "correct": "d",
+      "explanation": "Rovné zacházení je základ profesionální etiky — posuzujte podle výkonu vůči standardům, nikdy podle demografie, predikce schopností nebo osobních preferencí. Ostatní tři jsou učebnicové negativy: (a) a (b) vybírají studenty podle predikované budoucí hodnoty nebo aktuálního talentu; (c) je selektivní dodržování, které rozkládá integritu standardového systému. Pomůcka: standardy platí pro všechny — včetně vás.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-170",
+      "area": "instructor",
+      "subarea": "Professional Standards — Active Status Requirements",
+      "question": "Profesionál v active status musí:",
+      "options": {
+        "a": "Udržovat profesionální pojištění odpovědnosti, pokud to vyžaduje zákon",
+        "b": "Dokončit online prodloužení",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Být afiliován s training center v active status"
+      },
+      "correct": "c",
+      "explanation": "Active status = trojice požadavků, které musí platit současně: (a) profesionální pojištění odpovědnosti tam, kde to vyžaduje místní zákon (liší se podle země); (b) každoroční online prodloužení v MySSI (potvrzení aktuálních standardů + zaplacení poplatku za prodloužení); (d) afiliace s SSI Training Center v active status. Pokud kterákoli z nich nesplňuje, Pro klesá do inactive status. Páruje se s mssi-inst-107, které používá jiné formulace možností pro stejnou trojici.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-171",
+      "area": "instructor",
+      "subarea": "Professional Standards — Standards Structure",
+      "question": "Který dokument popisuje požadavky na udržení active status?",
+      "options": {
+        "a": "General Training Standards > SSI Active Status Requirements",
+        "b": "Dive Professional Standards > SSI Professional Status",
+        "c": "Dive Professional Standards > SSI Active Status Requirements",
+        "d": "General Training Standards > SSI Professional Status"
+      },
+      "correct": "d",
+      "explanation": "Past — zdánlivě zřejmý název podsekce 'SSI Active Status Requirements' (a, c) NENÍ tím, co manuál SSI Standards skutečně používá. Udržování active status žije pod General Training Standards > **SSI Professional Status** (kontraintuitivní, ale doslovné). General Training Standards je správná nejvyšší úroveň, protože active status je pravidlo napříč programy platné pro všechny Pros. Ověřeno uživatelem proti manuálu SSI Standards.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-172",
+      "area": "instructor",
+      "subarea": "Professional Standards — Active Status Requirements",
+      "question": "Afiliace s training center:",
+      "options": {
+        "a": "Je vyžadována pro všechny SSI Professionals",
+        "b": "Je vyžadována pouze pro Divemasters",
+        "c": "Je vyžadována pouze pro SSI Resorts",
+        "d": "Je vyžadována pouze pro Open Water Instructors"
+      },
+      "correct": "a",
+      "explanation": "Afiliace s TC v active status je univerzální požadavek pro každý Pro rating — DM, AI, OWI, IT, MIT. Žádný rating není výjimkou. (b), (c), (d) všechny zužují na podmnožinu, což by vytvořilo mezery, ve kterých by Pro mohl učit bez afiliovaného TC v zádech. Celý systém kvality SSI závisí na odpovědnosti TC za každého aktivního Pro. Páruje se s mssi-inst-107 a mssi-inst-170.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-173",
+      "area": "instructor",
+      "subarea": "Professional Standards — Active Status Requirements",
+      "question": "Který profesionál (kteří profesionálové) musí udržovat active status, aby pracovali pro SSI Training Center?",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Open Water Instructor",
+        "c": "Divemaster",
+        "d": "Assistant Instructor"
+      },
+      "correct": "a",
+      "explanation": "Všechny tři (a každý další) SSI Pro rating musí být v active status, aby legitimně pracoval pro TC: OWI, DM, AI — a navrch IT, MIT, Specialty Instructor. Jakákoli odpověď s jediným ratingem (b/c/d) vytváří nereálnou kličku. Disciplína active status je to, co udržuje vymahatelnost dodržování standardů napříč sítí.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-174",
+      "area": "instructor",
+      "subarea": "Professional Standards — Mentorship",
+      "question": "Co z následujícího se učíme od zkušenějších profesionálů?",
+      "options": {
+        "a": "Jak se vyhnout odpovědnosti v training center",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Jak tlačit na zákazníky, aby kupovali vybavení",
+        "d": "Styl výuky a prodejní techniku"
+      },
+      "correct": "d",
+      "explanation": "Zdravý mentoring přenáší POZITIVNÍ dovednosti — vybroušený styl výuky, profesionální prodejní techniku, úsudek, učebnovou prezenci, situační uvědomění. (a) a (c) popisují negativní chování, která by žádný SSI mentor neměl předávat; pokud senior Pro modeluje takové, je to znamení, že by se měl mentee poohlédnout jinde. (b) všechny správné je past — sdružuje pozitiva s negativy.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-175",
+      "area": "instructor",
+      "subarea": "Professional Standards — Continuing Education",
+      "question": "Proč byste měli jako profesionál zvyšovat své znalosti?",
+      "options": {
+        "a": "Zvýšit příjmový potenciál",
+        "b": "Udržuje to váš zájem o sport",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Dělá to z vás bezpečnějšího a schopnějšího instruktora"
+      },
+      "correct": "c",
+      "explanation": "Tři nezávislé důvody, všechny pravdivé: (a) více ratingů → více programů, které můžete učit → více příjmu; (b) průběžné učení brání vyhoření a udržuje vás opravdově zapojené v potápění; (d) aktuálnost ve fyziologii, vybavení, standardech a řízení rizika z vás dělá bezpečnějšího rozhodovatele ve vodě — vyvážení, které stavíte na sobě, je také vyvážením vašich studentů.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-176",
+      "area": "instructor",
+      "subarea": "Professional Standards — Discipline",
+      "question": "Profesionálové, kteří poruší etické standardy, mohou:",
+      "options": {
+        "a": "Být pokutováni SSI International",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Ztratit své experience points",
+        "d": "Být zařazeni do expelled status"
+      },
+      "correct": "d",
+      "explanation": "Disciplinární trasa SSI za etická porušení: varování → suspended status → expelled status (ztráta všech SSI ratingů, bez cesty zpět). Expelled je terminální sankce. (a) je špatně — SSI používá jako vymáhání změny statusu, ne peněžní pokuty. (c) je špatně, protože disciplinární trasa SSI nestrhává experience points; metriky postupu Pro v MySSI existují, ale nejsou nástrojem trestu. (b) všechny správné zahrnuje obě fiktivní sankce jako past.",
+      "source": "mySSI: ITC Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-inst-177",
+      "area": "instructor",
+      "subarea": "Professional Standards — Conservation",
+      "question": "Provedení úklidu potápěčské lokality nebo uspořádání ekologicky orientované společenské akce je příkladem:",
+      "options": {
+        "a": "Policy a Community Change Levels",
+        "b": "Policy Change Level",
+        "c": "Community Change Level",
+        "d": "Personal Change Level"
+      },
+      "correct": "c",
+      "explanation": "Konzervační rámec SSI Blue Oceans má tři úrovně změny: Personal (chování individuálního potápěče — neutrální vyvážení, nedotýkat se, nebrat), Community (skupinová akce na úrovni TC / klubu — úklidy, eko společenské akce, osvětové kampaně) a Policy (prosazování zákonů, mořských chráněných oblastí, zákazů jednorázových plastů). Úklidy a eko akce sahají za jednotlivce, ale zastavují se před legislativou — to je definice úrovně Community.",
+      "source": "mySSI: ITC Lesson 2.4 Review"
+    },
+    {
+      "id": "mssi-inst-178",
+      "area": "instructor",
+      "subarea": "Professional Standards — Conservation",
+      "question": "Proč mají profesionálové povinnost chránit životní prostředí?",
+      "options": {
+        "a": "Zdravé podvodní prostředí je zásadní pro růst a udržitelnost potápěčského průmyslu",
+        "b": "Vyžadují to SSI General Training Standards",
+        "c": "Vyžadují to federální zákony a předpisy",
+        "d": "Nemají žádnou povinnost"
+      },
+      "correct": "a",
+      "explanation": "Základní zdůvodnění: potápěčský průmysl doslova nemůže existovat bez zdravých oceánů — degradované útesy, mizející megafauna a znečištěné lokality znamenají žádné potápěče, žádný byznys, žádné SSI. (b) je částečná pravda (General Training Standards skutečně odkazují na environmentální odpovědnost), ale je odvozená od argumentu o přežití průmyslu. (c) federální zákony se liší podle jurisdikce a nejsou univerzální. (d) je negativní past. Poznámka: 'stabilizability' je doslovná formulace mySSI — pravděpodobně myšleno 'sustainability' (udržitelnost).",
+      "source": "mySSI: ITC Lesson 2.4 Review"
+    },
+    {
+      "id": "mssi-inst-179",
+      "area": "instructor",
+      "subarea": "Professional Standards — Conservation",
+      "question": "Většina akcí prospěšných pro životní prostředí prospěje také:",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Profesionálům v průmyslu a training centers",
+        "c": "Rekreačním potápěčům",
+        "d": "Místním rybářům"
+      },
+      "correct": "a",
+      "explanation": "Zdravé oceány jsou výhrou s pozitivním součtem napříč skupinami zainteresovaných stran: (b) Pros a TC získávají lepší potápěčské lokality a silnější dlouhodobý byznys, (c) rekreační potápěči získávají bohatší podvodní zážitky, což pohání retenci, (d) místní rybáři spoléhají na udržitelné rybí stavy pro svou obživu. Konzervace je málokdy hra s nulovým součtem — degradace škodí všem, obnova všem prospívá.",
+      "source": "mySSI: ITC Lesson 2.4 Review"
+    },
+    {
+      "id": "mssi-inst-180",
+      "area": "instructor",
+      "subarea": "Professional Standards — Conservation",
+      "question": "Sběr odpadků z útesu nebo používání lahve bez plastů bez plastů je příkladem:",
+      "options": {
+        "a": "Community Change Level",
+        "b": "Personal Change Level",
+        "c": "Policy Change Level",
+        "d": "Community a Policy Change Levels"
+      },
+      "correct": "b",
+      "explanation": "Personal Change = každodenní volby individuálního potápěče: zvedněte odpadek, když ho uvidíte, noste opakovaně použitelnou láhev, používejte opalovací krém šetrný k útesům, předvádějte dobré vyvážení. Srovnejte s mssi-inst-177 — tam 'provedení úklidu' nebo 'pořádání' společenské akce bylo úrovní Community, protože potápěč ORGANIZUJE aktivitu na úrovni TC. Stejný fyzický akt (zvedání odpadků) leží v různých úrovních podle toho, zda je individuální nebo organizovaný.",
+      "source": "mySSI: ITC Lesson 2.4 Review"
+    },
+    {
+      "id": "mssi-inst-181",
+      "area": "instructor",
+      "subarea": "Professional Standards — Conservation",
+      "question": "Své studenty byste měli povzbuzovat, aby:",
+      "options": {
+        "a": "Konali pouze na úrovni Policy",
+        "b": "Konali na úrovni, na které se cítí komfortně",
+        "c": "Konali pouze na úrovních Personal a Community",
+        "d": "Konali pouze na úrovni Personal"
+      },
+      "correct": "b",
+      "explanation": "Posílení místo předpisování — začněte tam, kde už student cítí zájem (osobní změny návyků), a nechte ho postupovat vzhůru k organizování v komunitě nebo politické advokacii vlastním tempem. Tlačit do politické advokacie příliš brzy (a) ztrácí lidi; omezování od jakékoli úrovně (c, d) zastropuje jejich potenciální dopad. Role instruktora je zpřístupnit každou úroveň.",
+      "source": "mySSI: ITC Lesson 2.4 Review"
+    },
+    {
+      "id": "mssi-inst-182",
+      "area": "instructor",
+      "subarea": "Professional Standards — Conservation",
+      "question": "Darování nebo dobrovolnictví v nevládní organizaci věnované ochraně moří je příkladem:",
+      "options": {
+        "a": "Personal Change Level",
+        "b": "Community Change Level",
+        "c": "Policy Change Level",
+        "d": "Personal a Community Change Levels"
+      },
+      "correct": "c",
+      "explanation": "Konzervační NGO (Project AWARE, Mission Blue, Ocean Conservancy a podobné) pracují primárně na výsledcích na úrovni Policy: lobbying za legislativu, zajišťování označení mořských chráněných oblastí, prosazování rybolovných kvót, advokacie zákazů jednorázových plastů. Jejich podpora — finančně nebo dobrovolnictvím — tedy zesiluje práci na úrovni Policy, i když individuální příspěvek působí osobně. Srovnejte s mssi-inst-180 (osobní návyk) a mssi-inst-177 (akce organizovaná TC).",
+      "source": "mySSI: ITC Lesson 2.4 Review"
+    },
+    {
+      "id": "mssi-inst-183",
+      "area": "instructor",
+      "subarea": "Methodology — MySSI",
+      "question": "Kde má rekreační uživatel přístup ke svým digitálním studijním materiálům?",
+      "options": {
+        "a": "Logbook and Sites",
+        "b": "Admin",
+        "c": "Services",
+        "d": "Training"
+      },
+      "correct": "d",
+      "explanation": "Rekreační potápěči najdou své digitální materiály v sekci Training v MySSI — kurzy, lekce, postup, zkoušky. (a) Logbook & Sites je pro logy ponorů a knihovnu lokalit; (b) Admin je backend pro Pro/TC; (c) Services pokrývá retail a doplňkové služby. Záložka Training je studentský výukový hub.",
+      "source": "mySSI: ITC Lesson 3.1 Review"
+    },
+    {
+      "id": "mssi-inst-184",
+      "area": "instructor",
+      "subarea": "Methodology — MySSI",
+      "question": "Co z následujícího je dostupné na domovské stránce profesionálního MySSI účtu?",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Registrace do nových programů pro dive professionals",
+        "c": "Experience points a profesionální postup",
+        "d": "Afiliace v active status"
+      },
+      "correct": "a",
+      "explanation": "Pro homepage v MySSI zobrazuje všechny tři: (b) jednoklikový přístup k registraci do dalšího Pro programu na vaší cestě, (c) sledování experience points a postupu (kumulativní výcvik, počet ponorů, získané ratingy), (d) afiliace v active status včetně propojení s TC a stavu prodloužení. Domovská stránka je velitelské centrum Pro.",
+      "source": "mySSI: ITC Lesson 3.1 Review"
+    },
+    {
+      "id": "mssi-inst-185",
+      "area": "instructor",
+      "subarea": "Methodology — MySSI",
+      "question": "Kde si SSI Professional může stáhnout závěrečné zkoušky a instructor manuals?",
+      "options": {
+        "a": "Personal Data",
+        "b": "Center Area",
+        "c": "Training",
+        "d": "Quality Management System"
+      },
+      "correct": "c",
+      "explanation": "Sekce Training je hub pro učení a doručování ze strany Pro: instructor manuals, závěrečné zkoušky, plány lekcí, prezentační pomůcky — vše tam je ke stažení. (a) Personal Data jsou profilové informace, (b) Center Area je plánování a správa studentů specifické pro TC, (d) QMS je workspace pro kvalitu / audit. Zrcadlí mssi-inst-183 — Training slouží jak studentům, tak Pros, ale s obsahem specifickým pro roli.",
+      "source": "mySSI: ITC Lesson 3.1 Review"
+    },
+    {
+      "id": "mssi-inst-186",
+      "area": "instructor",
+      "subarea": "Methodology — MySSI",
+      "question": "Co z následujícího se nachází v profesionálním MySSI účtu?",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Informace o Pro Rewards",
+        "c": "Pro Status",
+        "d": "Downloads"
+      },
+      "correct": "a",
+      "explanation": "Pro MySSI účet agreguje: (b) Pro Rewards — sledování loajality / pobídek z výukové aktivity a podpory střediska; (c) Pro Status — příznak active/inactive s datem prodloužení a historií afiliace; (d) Downloads — instructor manuals, závěrečné zkoušky, prezentační pomůcky, plány lekcí. Všechny tři jsou základními funkcemi Pro dashboardu.",
+      "source": "mySSI: ITC Lesson 3.1 Review"
+    },
+    {
+      "id": "mssi-inst-187",
+      "area": "instructor",
+      "subarea": "Methodology — MySSI",
+      "question": "K MySSI System máte přístup:",
+      "options": {
+        "a": "Pouze přes webový prohlížeč",
+        "b": "Přes webový prohlížeč nebo aplikaci",
+        "c": "Pouze přes aplikaci",
+        "d": "Pomocí specializovaného SSI softwaru"
+      },
+      "correct": "b",
+      "explanation": "MySSI je dvojplatformní: web na my.divessi.com (jakýkoli moderní prohlížeč) a mobilní aplikace MySSI (iOS / Android). Není potřeba žádný specializovaný software. Aplikace je standardní nástroj pro logování ponorů ve vodě a offline přístup k materiálům; verze v prohlížeči má více funkcí pro práci na desktopu.",
+      "source": "mySSI: ITC Lesson 3.1 Review"
+    },
+    {
+      "id": "mssi-inst-188",
+      "area": "instructor",
+      "subarea": "Methodology — MySSI",
+      "question": "Jaký je účel MySSI System?",
+      "options": {
+        "a": "Poskytnout jediné místo pro všechny SSI služby pro potápěče, SSI Professionals a training centers",
+        "b": "Vytvořit příjem pro training centers účtováním instruktorských materiálů",
+        "c": "Vytvořit novou sociální platformu pro potápěče",
+        "d": "Poskytnout studentům způsob, jak nakupovat materiály přímo od SSI"
+      },
+      "correct": "a",
+      "explanation": "MySSI je sjednocující hub spojující všechny tři skupiny zainteresovaných stran SSI — potápěče (logbook, postup ve výcviku, materiály), Pros (downloads, rozvrh, active status, rewards), TC (admin, správa studentů, fakturace). Ostatní možnosti jej zkreslují: (b) materiály jsou součástí programů, ne přídavný zdroj příjmu; (c) MySSI není sociální síť; (d) přímý retail od SSI není modelem — retail teče přes TC.",
+      "source": "mySSI: ITC Lesson 3.1 Review"
+    },
+    {
+      "id": "mssi-inst-189",
+      "area": "instructor",
+      "subarea": "Methodology — MySSI",
+      "question": "Studentské materiály v MySSI aplikaci:",
+      "options": {
+        "a": "Nejsou propojené s MySSI System",
+        "b": "Jsou dostupné pouze SSI Professionals",
+        "c": "Lze je zobrazit pouze s připojením k internetu",
+        "d": "Lze je zobrazit offline po stažení"
+      },
+      "correct": "d",
+      "explanation": "MySSI aplikace je navržena pro offline použití po počátečním stažení — kritické pro liveaboardy, vzdálené potápěčské lokality, studium v kajutě bez wifi. Materiály se synchronizují s MySSI, když se obnoví konektivita. (a) převrací vztah — aplikace JE součástí MySSI. (b) je špatně — studenti dostávají stejný balík připravený pro offline. (c) je opak skutečného designu.",
+      "source": "mySSI: ITC Lesson 3.1 Review"
+    },
+    {
+      "id": "mssi-inst-190",
+      "area": "instructor",
+      "subarea": "Methodology — MySSI",
+      "question": "Které menu v uživatelském účtu MySSI umožňuje uživateli upravit jeho osobní údaje?",
+      "options": {
+        "a": "Logbook and Sites",
+        "b": "Personal Data",
+        "c": "Services",
+        "d": "Programs and Cards"
+      },
+      "correct": "b",
+      "explanation": "Personal Data je menu pro úpravu profilu — jméno, e-mail, kontaktní údaje, heslo, fotografie, nouzový kontakt, preference komunikace. (a) Logbook & Sites slouží pro logbook ponorů a dive sites; (c) Services pokrývá retail a doplňkové služby; (d) Programs & Cards zobrazuje získané certifikace a aktivní zápisy.",
+      "source": "mySSI: ITC Lesson 3.1 Review"
+    },
+    {
+      "id": "mssi-inst-191",
+      "area": "instructor",
+      "subarea": "Methodology — MySSI",
+      "question": "Kde si SSI Professional může zobrazit počty certifikací svých studentů?",
+      "options": {
+        "a": "Toolbox",
+        "b": "Quality Management System",
+        "c": "Pro Area",
+        "d": "Profile"
+      },
+      "correct": "c",
+      "explanation": "Pro Area je dashboard určený pouze pro Pro, který zobrazuje výukové metriky — počty certifikací studentů podle programu, nedávno vydané certifikace, milníky pokroku. (a) Toolbox jsou obecné nástroje; (b) QMS je pracovní prostor pro audity a dodržování standardů; (d) Profile zobrazuje veřejnou identitu, ne statistiky. Pro Area = místo, kde žije výukové skóre.",
+      "source": "mySSI: ITC Lesson 3.1 Review"
+    },
+    {
+      "id": "mssi-inst-192",
+      "area": "instructor",
+      "subarea": "Methodology — Training Records",
+      "question": "SSI Training Records:",
+      "options": {
+        "a": "Jsou vyžadovány pouze pro Pro programy",
+        "b": "Zahrnují většinu požadovaných formulářů pro vedení záznamů",
+        "c": "Nemusí být podepsány SSI Professional",
+        "d": "Musí být nahrány do MySSI"
+      },
+      "correct": "d",
+      "explanation": "Training Records jsou oficiální dokumentace certifikace a QA a musí být v MySSI — to je digitální archiv, audit trail a cesta studenta k vlastní certifikační kartě. (a) je špatně: záznamy jsou požadovány pro VŠECHNY programy (od vstupních po Pro), ne jen pro Pro programy. (c) je špatně: podpis Pro je pevně daný požadavek na každém záznamu. (b) podceňuje roli — training records jsou páteří vedení záznamů, ne jen dílčí podmnožinou.",
+      "source": "mySSI: ITC Lesson 3.2 Review"
+    },
+    {
+      "id": "mssi-inst-193",
+      "area": "instructor",
+      "subarea": "Methodology — Risk Management",
+      "question": "SSI Record-Keeping System:",
+      "options": {
+        "a": "Chrání pouze SSI před odpovědností",
+        "b": "Minimalizuje riziko a chrání SSI Professionals před odpovědností",
+        "c": "Zajišťuje, aby potápěči mohli soudně vymáhat, pokud nejsou spokojeni se svým výcvikem",
+        "d": "Chrání pouze training center a SSI před odpovědností"
+      },
+      "correct": "b",
+      "explanation": "Záznamy chrání každý článek řetězce, ale nejkritičtěji Pro — ti jsou ve vodě rozhodovací autoritou, a tedy nejvíce vystaveni, pokud incident eskaluje. Řádně vyplněné záznamy prokazují, že byly dodrženy standardy, ověřeny předpoklady, provedeny brífinky a podepsána potvrzení studentů. (a) a (d) jsou příliš úzké — Pro nechávají bez ochrany. (c) převrací účel: systém ODKLÁNÍ neopodstatněné spory dokumentováním souladu.",
+      "source": "mySSI: ITC Lesson 3.2 Review"
+    },
+    {
+      "id": "mssi-inst-194",
+      "area": "instructor",
+      "subarea": "Methodology — Assessment",
+      "question": "Pokud student udělá chyby v písemné závěrečné zkoušce:",
+      "options": {
+        "a": "Nedělejte nic, dokud student dosáhne více než 90 %",
+        "b": "Nedělejte nic, dokud student dosáhne více než 80 %",
+        "c": "Projděte každou chybnou otázku a zajistěte, aby student rozuměl správné odpovědi",
+        "d": "Nechte studenta zkoušku opakovat, dokud nedosáhne 100 %"
+      },
+      "correct": "c",
+      "explanation": "Standard SSI: bez ohledu na celkové procento úspěšnosti musí být každá nesprávná odpověď probrána se studentem, dokud nepochopí správnou. Hranice úspěšnosti (typicky 80 %) signalizuje připravenost k certifikaci, ne povolení nechat mezery v znalostech bez řešení. (a) a (b) ignorují mezery. (d) opakování-do-100 % není SSI postup — review-and-understand ano.",
+      "source": "mySSI: ITC Lesson 3.2 Review"
+    },
+    {
+      "id": "mssi-inst-195",
+      "area": "instructor",
+      "subarea": "Methodology — Forms & Paperwork",
+      "question": "Medical Participant Questionnaire:",
+      "options": {
+        "a": "Je vyžadován pouze pro Pro programy",
+        "b": "Může být vyplněn po dokončení výcviku v otevřené vodě",
+        "c": "Musí být vyplněn před jakýmkoli výcvikem ve vodě",
+        "d": "Je vyžadován pouze pro Continuing Education programy"
+      },
+      "correct": "c",
+      "explanation": "Lékařské schválení je pevnou před-vodní branou pro každý SSI program — od Try Scuba po Master Instructor, každou specializaci, každý con-ed kurz. Bez kompletního a (kde je označeno) lékařem schváleného zdravotního prohlášení nemůže student vstoupit do vody. (a), (b) i (d) se snaží požadavek odložit nebo zúžit; standard žádné takové výjimky nedává.",
+      "source": "mySSI: ITC Lesson 3.2 Review"
+    },
+    {
+      "id": "mssi-inst-196",
+      "area": "instructor",
+      "subarea": "Professional Standards — Training Standards",
+      "question": "SSI Training Standards:",
+      "options": {
+        "a": "Stanovují požadavky pouze pro výcvik dive professionals",
+        "b": "Mění se podle regionu a místních dive sites",
+        "c": "Stanovují požadavky pro výcvik studentů",
+        "d": "Měly by být dodržovány pouze pokud to podmínky dovolují"
+      },
+      "correct": "c",
+      "explanation": "Training Standards stanovují univerzální požadavky na výcvik studentů: předpoklady, poměry, hloubkové limity, seznam dovedností, počet ponorů, kritéria certifikace. Platí globálně a pro každý program (nejen Pro). (a) je příliš úzké. (b) je špatně — Standardy se nemění podle regionu nebo lokality (Flexibility Rule pokrývá ZPŮSOB DODÁNÍ, ne požadavky). (d) je nebezpečně špatně — Standardy jsou povinný základ; podmínky mohou pouze vynutit ZRUŠENÍ, nikdy odchylku směrem dolů.",
+      "source": "mySSI: ITC Lesson 3.2 Review"
+    },
+    {
+      "id": "mssi-inst-197",
+      "area": "instructor",
+      "subarea": "Methodology — Risk Management",
+      "question": "Neúplné nebo chybějící záznamy:",
+      "options": {
+        "a": "Jsou povoleny, dokud je student certifikován",
+        "b": "Znemožňují prokázat, že výcvik byl proveden řádně",
+        "c": "Jsou odpovědností training center",
+        "d": "Jsou odpovědností studenta"
+      },
+      "correct": "b",
+      "explanation": "Pokud incident eskaluje k vyšetřování nebo soudnímu sporu, JSOU záznamy důkazem. Chybějící nebo neúplné záznamy přenášejí důkazní břemeno na Pro/TC a v podstatě ruší ochrannou hodnotu SSI Record-Keeping System (mssi-inst-193). Mnemotechnika: 'Co není na papíře, nestalo se.' (a) není nikdy pravda. (c) podceňuje — TC sdílejí odpovědnost, ale Pro ve vodě je nejvíce vystaven. (d) převrací povinnost.",
+      "source": "mySSI: ITC Lesson 3.2 Review"
+    },
+    {
+      "id": "mssi-inst-198",
+      "area": "instructor",
+      "subarea": "Methodology — Forms & Paperwork",
+      "question": "Které podpisy jsou vyžadovány u záznamů, které ověřují výcvik?",
+      "options": {
+        "a": "Student a training center",
+        "b": "Training center a instruktor",
+        "c": "Student a instruktor",
+        "d": "Pouze instruktor"
+      },
+      "correct": "c",
+      "explanation": "Dva podpisy, dva účely: student podepisuje, že výcvik obdržel a porozuměl mu; instruktor podepisuje, že byl proveden podle standardu. Tento dvojitý podpis je právní/rizikovou páteří záznamů — žádná ze stran sama nemůže ověřit, že výcvik proběhl řádně. (a) a (b) vypouštějí jednoho ze dvou nezbytných signatářů; (d) eliminuje potvrzení studenta.",
+      "source": "mySSI: ITC Lesson 3.2 Review"
+    },
+    {
+      "id": "mssi-inst-199",
+      "area": "instructor",
+      "subarea": "Methodology — Training Records",
+      "question": "Předvyplněné training records lze tisknout z:",
+      "options": {
+        "a": "MySSI účtu studenta",
+        "b": "MySSI účtu SSI Professional",
+        "c": "Jakéhokoli SSI Service Center",
+        "d": "MySSI účtu training center"
+      },
+      "correct": "d",
+      "explanation": "MySSI účet TC je institucionálním držitelem předvyplněných, personalizovaných training records — administrátor centra je před lekcí stahuje pro každého studenta. Páruje se s mssi-inst-119 (stejná odpověď, mírně jiná formulace). Jednotliví Pro a studenti vidí své vlastní záznamy, ale tisknutelná, personalizovaná verze je zdrojem na úrovni TC.",
+      "source": "mySSI: ITC Lesson 3.2 Review"
+    },
+    {
+      "id": "mssi-inst-200",
+      "area": "instructor",
+      "subarea": "Methodology — Forms & Paperwork",
+      "question": "Co z následujícího musí Open Water Diver student vyplnit?",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Responsible Diver Code",
+        "c": "Medical Participant Questionnaire",
+        "d": "Závěrečnou zkoušku"
+      },
+      "correct": "a",
+      "explanation": "OWD pre-cert checklist obsahuje všechny tři: (b) Responsible Diver Code — student potvrzuje povinnosti diver-code; (c) Medical Participant Questionnaire — pre-water lékařská brána (mssi-inst-195); (d) Závěrečná zkouška — hodnocení kognitivní domény (mssi-inst-120). Plus samozřejmě provedení dovedností. Vynechání kterékoli ze tří položek paperworku je tvrdé selhání.",
+      "source": "mySSI: ITC Lesson 3.2 Review"
+    },
+    {
+      "id": "mssi-inst-201",
+      "area": "instructor",
+      "subarea": "Professional Standards — Training Standards",
+      "question": "SSI Training Standards:",
+      "options": {
+        "a": "Vztahují se na SSI training programy, SSI Training Centers a SSI Professionals",
+        "b": "Chrání SSI Professionals, kteří jsou nedbalí",
+        "c": "Vztahují se pouze na SSI training programy",
+        "d": "Jsou psány regionálním SSI Service Center"
+      },
+      "correct": "a",
+      "explanation": "Standardy mají třívrstvý rozsah: CO se vyučuje (programy), JAK se to provádí (TC) a KDO to dodává (Pro). Každá vrstva má vlastní sekci, ale tvoří jeden koherentní compliance systém. (b) je špatně a nebezpečné — Standardy výslovně NEchrání nedbalé Pro; zdokumentovaná nedbalost končí vyloučením. (c) vypouští TC a Pro vrstvy. (d) Standardy vlastní SSI HQ; Service Centers překládají/distribuují, neautorizují je.",
+      "source": "mySSI: ITC Lesson 3.2 Review"
+    },
+    {
+      "id": "mssi-inst-202",
+      "area": "instructor",
+      "subarea": "Methodology — Forms & Paperwork",
+      "question": "SSI Recreational Scuba Training Assumption of Risk, Liability Release, & Hold Harmless Agreement:",
+      "options": {
+        "a": "Popisuje odpovědnosti instruktora a studenta",
+        "b": "Popisuje rizika spojená s aktivitami ve vodě",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Popisuje zdravotní požadavky pro účast ve výcviku"
+      },
+      "correct": "b",
+      "explanation": "Formulář Assumption of Risk + Liability Release je laserově zaměřen na rizika potápění — utopení, dekompresní nemoc, barotrauma, selhání vybavení, zranění od mořských živočichů. Podpisem student potvrzuje tato rizika a souhlasí, že nebude SSI / TC / Pro činit odpovědnými za inherentní (nezpůsobená nedbalostí) zranění. Odpovědnosti (a) jsou v Responsible Diver Code; lékařské schválení (d) je Medical Participant Questionnaire — oba samostatné dokumenty.",
+      "source": "mySSI: ITC Lesson 3.2 Review"
+    },
+    {
+      "id": "mssi-inst-203",
+      "area": "instructor",
+      "subarea": "Methodology — Forms & Paperwork",
+      "question": "Responsible Diver Code:",
+      "options": {
+        "a": "Popisuje zdravotní požadavky pro účast ve výcviku",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Popisuje rizika spojená s potápěčskými aktivitami",
+        "d": "Popisuje očekávání ohledně chování potápěče"
+      },
+      "correct": "d",
+      "explanation": "Responsible Diver Code stanovuje závazky chování — potápět se v rámci limitů výcviku a certifikace, vyrovnávat tlak včas a často, plánovat ponor a potápět se podle plánu, používat buddy systém, respektovat prostředí (no-touch / no-take), udržovat dovednosti aktuální. Každý formulář má jediné úzké zaměření: medical = Medical Questionnaire (mssi-inst-195), rizika = Liability Release (mssi-inst-202), chování = Responsible Diver Code. (b) all-correct boří separaci rolí.",
+      "source": "mySSI: ITC Lesson 3.2 Review"
+    },
+    {
+      "id": "mssi-inst-204",
+      "area": "instructor",
+      "subarea": "Methodology — Pre-Course Setup",
+      "question": "Co by měli studenti dokončit před první výukovou lekcí?",
+      "options": {
+        "a": "Training record, registrace programu, hodnocení vodní zdatnosti, stažení aplikace",
+        "b": "Registrace programu, orientace, hodnocení vodní zdatnosti, plánování cesty",
+        "c": "Naplánování ponorů v otevřené vodě, hodnocení vodní zdatnosti, kurzový dotazník",
+        "d": "Orientace v programu, training record, registrace programu, stažení aplikace"
+      },
+      "correct": "d",
+      "explanation": "Předlekciový onboarding balíček: (1) orientace v programu — student ví, do čeho se zapisuje; (2) nastavení training record — paperwork zahájen; (3) registrace programu — oficiální zápis v MySSI; (4) stažená MySSI aplikace — připraveno na offline materiály. Distraktory přimíchávají položky mimo rozsah: hodnocení vodní zdatnosti je obvykle součástí první lekce ve vodě (a, b); plánování cesty (b) je nepodstatné; plánování OW ponorů a kurzový dotazník (c) jsou úkoly v polovině nebo na konci kurzu.",
+      "source": "mySSI: ITC Lesson 3.3 Review"
+    },
+    {
+      "id": "mssi-inst-205",
+      "area": "instructor",
+      "subarea": "Methodology — Instructor Manual",
+      "question": "Instructor manuals:",
+      "options": {
+        "a": "Jsou umístěny v sekci MyDownload aplikace",
+        "b": "Musí být zobrazovány v aplikaci MySSI DivePro",
+        "c": "Jsou integrovány do studentských materiálů",
+        "d": "Musí být zakoupeny zvlášť"
+      },
+      "correct": "c",
+      "explanation": "Instructor manuals jsou strukturálně integrovány s digitálními materiály studenta — každá lekce v manuálu odpovídá příslušné studentské lekci, takže Pro může učit synchronně s tím, co student čte. Tento same-shape design umožňuje instruktorovi odkázat na jakýkoli slide/stránku, kterou student vidí. (a) je příliš vágní (manuály se stahují z Training, ne ze samostatného 'MyDownload'). (b) špatný název aplikace a prohlížení není omezeno. (d) nepravda — manuály jsou součástí balíčku Pro materiálů, ne za příplatek.",
+      "source": "mySSI: ITC Lesson 3.3 Review"
+    },
+    {
+      "id": "mssi-inst-206",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Presentation",
+      "question": "Co byste měli udělat, když se se studenty setkáváte poprvé?",
+      "options": {
+        "a": "Zastrašit je, aby vás respektovali",
+        "b": "Být pozitivní a sebevědomý",
+        "c": "Říct jim, že si musí koupit Total Diving System",
+        "d": "Vyhýbat se odpovědím na jejich otázky, dokud je lépe nepoznáte"
+      },
+      "correct": "b",
+      "explanation": "Cílem prvního dojmu je vybudovat důvěru a snížit úzkost studenta a zároveň signalizovat, že víte, co děláte. Pozitivní + sebevědomý dělá oboje. (a) zastrašování zabíjí psychologické bezpečí — studenti, kteří se vás bojí, se neptají, když ve vodě potřebují pomoc. (c) tvrdý prodej v první den ničí vztah. (d) vyhýbání se otázkám podkopává mentorskou roli.",
+      "source": "mySSI: ITC Lesson 3.3 Review"
+    },
+    {
+      "id": "mssi-inst-207",
+      "area": "instructor",
+      "subarea": "Professional Standards — Training Centers",
+      "question": "Training center obvykle:",
+      "options": {
+        "a": "Vyžaduje, abyste určili lokaci pro výcvik v otevřené vodě",
+        "b": "Umožňuje studentům, aby si nastavili vlastní rozvrh výcviku",
+        "c": "Plánuje časy a lokace pro vaše výukové lekce",
+        "d": "Vyžaduje, abyste rozhodli, kdy a kde provést výcvik"
+      },
+      "correct": "c",
+      "explanation": "Standardní rozdělení práce v SSI Training Center: TC vlastní plánování, výběr lokality, logistiku a rezervaci zdrojů; Pro vlastní výuku. Flexibility Rule umožňuje Pro adaptovat dodání v rámci těchto hranic, ale TC stanovuje kalendář a lokace, protože koordinuje lodě, prostory pro učebnu, vybavení a skupiny studentů. (a) a (d) přetěžují Pro administrativou; (b) studenty nastavovaný rozvrh úplně bortí plánování.",
+      "source": "mySSI: ITC Lesson 3.3 Review"
+    },
+    {
+      "id": "mssi-inst-208",
+      "area": "instructor",
+      "subarea": "Methodology — Certification Processing",
+      "question": "Kdy se certifikace studenta stane oficiální?",
+      "options": {
+        "a": "Jakmile je certifikace zpracována v MySSI",
+        "b": "Jakmile student dokončí minimální akademický výcvik",
+        "c": "Jakmile student podepíše training record",
+        "d": "Jakmile student dokončí veškerý požadovaný výcvik ve vodě"
+      },
+      "correct": "a",
+      "explanation": "(b), (c) i (d) jsou všechno PŘEDPOKLADY pro certifikaci, ale žádný z nich ji nevydává. Certifikace existuje až poté, co ji Pro/TC zpracuje přes MySSI — to je okamžik, kdy SSI HQ uzná rating a potápěč obdrží digitální certifikační kartu. Až do zpracování je student 'pending', i když všechny kroky ve vodě a paperwork jsou hotové. Mnemotechnika: výcvik ≠ certifikace — zpracování je brána.",
+      "source": "mySSI: ITC Lesson 3.3 Review"
+    },
+    {
+      "id": "mssi-inst-209",
+      "area": "instructor",
+      "subarea": "Methodology — MySSI",
+      "question": "Pro mají ____ pro programy, které mohou učit.",
+      "options": {
+        "a": "Přístup pouze k Pro materiálům",
+        "b": "Přístup pouze ke studentským materiálům",
+        "c": "Neomezený přístup ke všem studentským i Pro materiálům",
+        "d": "Přístup ke všem materiálům na jeden rok"
+      },
+      "correct": "c",
+      "explanation": "Pro jakýkoli program, který má Pro oprávnění učit, MySSI poskytuje neomezený přístup k OBĚMA vrstvám: studentským materiálům (aby Pro viděl přesně to, co vidí jeho studenti) a Pro materiálům (instructor manuals, zkoušky, lesson plans, prezentační pomůcky). Žádný časový limit a žádný poloviční přístup — obě sady jsou otevřené, dokud je rating aktivní. (d) jednoletý limit je distraktor přejatý z jiných systémů; SSI takto nefunguje.",
+      "source": "mySSI: ITC Lesson 3.3 Review"
+    },
+    {
+      "id": "mssi-inst-210",
+      "area": "instructor",
+      "subarea": "Methodology — Adult learners",
+      "question": "Poznání ____ vašeho studenta vám pomůže ____.",
+      "options": {
+        "a": "Cílů, přizpůsobit lekci jeho potřebám",
+        "b": "Schopností, vynechat výcvik v bazénu / chráněné vodě",
+        "c": "Dovedností, zaměřit se na výcvik v otevřené vodě",
+        "d": "Všechny odpovědi jsou správné"
+      },
+      "correct": "a",
+      "explanation": "Princip dospělého učení (callback Lekce 1.2): poznání CÍLŮ studenta vám umožňuje propojit každé cvičení s tím, co osobně chce dělat — destinační potápění, fotografování, drysuit work — a přizpůsobit tempo a důraz. (b) je nebezpečně špatně: obsah povinný standardy nelze vynechat na základě domnělých schopností. (c) podceňuje informaci o dovednostech — hodnocení dovedností pomáhá nabriefovat správné bezpečnostní zastávky, ne přesměrovat kurikulum. (d) all-correct zahrnuje špatné odpovědi.",
+      "source": "mySSI: ITC Lesson 3.3 Review"
+    },
+    {
+      "id": "mssi-inst-211",
+      "area": "instructor",
+      "subarea": "Methodology — Pre-Course Setup",
+      "question": "Kdy byste měli poprvé projít student training records?",
+      "options": {
+        "a": "Po první lekci v bazénu / chráněné vodě",
+        "b": "Po prvním tréninkovém ponoru v otevřené vodě",
+        "c": "Před první výukovou lekcí",
+        "d": "Před vydáním certifikace"
+      },
+      "correct": "c",
+      "explanation": "Kontrola záznamů je pre-flight check — ověřit lékařské schválení, předpoklady, předchozí certifikace a jakékoli poznámky o úpravách PŘEDTÍM, než student vstoupí k vodě. Zachycení chybějícího prerekvizita nebo označeného medicalu post-hoc (a, b, d) je příliš pozdě: student už byl vystaven riziku. Mnemotechnika: čti záznamy předtím, než briefing.",
+      "source": "mySSI: ITC Lesson 3.3 Review"
+    },
+    {
+      "id": "mssi-inst-212",
+      "area": "instructor",
+      "subarea": "Methodology — Pre-Course Setup",
+      "question": "Jak byste se měli připravit na první akademickou lekci?",
+      "options": {
+        "a": "Předtisknout certifikační karty a diplomy",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Naplánovat tréninkové ponory v otevřené vodě",
+        "d": "Projít studentské a instruktorské materiály"
+      },
+      "correct": "d",
+      "explanation": "Konkrétní příprava na PRVNÍ akademickou lekci = znovu si projít studentské i instruktorské materiály, abyste věděli přesně, jaký obsah student uvidí a kde se napojuje instructor manual. (a) předtisk cert karet je extrémně předčasný — student ještě nebyl proškolen. (c) OW ponory jsou týdny daleko a nejsou předmětem přípravy první lekce. (b) all-correct zahrnuje předčasné položky.",
+      "source": "mySSI: ITC Lesson 3.3 Review"
+    },
+    {
+      "id": "mssi-inst-213",
+      "area": "instructor",
+      "subarea": "Professional Standards — QMS",
+      "question": "Když je vytvořen QMS Alert:",
+      "options": {
+        "a": "SSI Professional je automaticky uveden ve stavu review",
+        "b": "Automaticky je odeslán e-mail training center a SSI Professional s žádostí o vysvětlení",
+        "c": "Automaticky je odeslán e-mail SSI Professional a studentovi s žádostí o vysvětlení",
+        "d": "Certifikace studenta je automaticky odebrána"
+      },
+      "correct": "b",
+      "explanation": "Workflow QMS Alert je communication-first: SSI posílá e-mail TC a Pro s žádostí o vysvětlení označeného problému, s možností reakce před jakoukoli eskalací. (a) a (d) jsou přemíra automatizovaných represivních reakcí, které obcházejí řádný proces. (c) oslovuje špatnou stranu — student je typicky chráněn před interními QMS výměnami, aby nebyl tažen do procesu, který může být vyřešen bez následků.",
+      "source": "mySSI: ITC Lesson 3.4 Review"
+    },
+    {
+      "id": "mssi-inst-214",
+      "area": "instructor",
+      "subarea": "Professional Standards — QMS",
+      "question": "SSI QMS Committees:",
+      "options": {
+        "a": "Každoročně přezkoumávají všechny QMS Alerts",
+        "b": "Přezkoumávají pouze ústní stížnosti",
+        "c": "Přezkoumávají všechny stížnosti podané proti training center nebo SSI Professional",
+        "d": "Přezkoumávají pouze formální písemné stížnosti"
+      },
+      "correct": "d",
+      "explanation": "QMS Committees jsou formální eskalační orgán — zvažují pouze písemné, zdokumentované stížnosti s jasným audit trailem. Ústní nebo neformální stížnosti jsou filtrovány dříve (řeší je TC, regionální Service Center nebo prostřednictvím QMS Alerts), aby se Committee mohla zaměřit na podstatné případy. (a) roční přezkum je špatně — alerty jsou zpracovávány průběžně, ne dávkově. (c) 'všechny stížnosti' by Committee zahltily běžnými problémy, které lze lépe vyřešit blíže ke zdroji.",
+      "source": "mySSI: ITC Lesson 3.4 Review"
+    },
+    {
+      "id": "mssi-inst-215",
+      "area": "instructor",
+      "subarea": "Professional Standards — QMS",
+      "question": "SSI QMS poskytuje:",
+      "options": {
+        "a": "Systém zpětné vazby pro SSI Training Standards",
+        "b": "Způsob, jak SSI International monitoruje Service Centers",
+        "c": "Program monitorování kvality a compliance pro training centers",
+        "d": "Všechny odpovědi jsou správné"
+      },
+      "correct": "c",
+      "explanation": "QMS je účelově navržený systém zajištění kvality na úrovni TC: audity, alerty, řešení stížností, interní monitoring dodržování standardů. (a) je mimo rozsah — Training Standards vlastní a reviduje SSI HQ, ne přes QMS feedback. (b) špatný směr — HQ nepoužívá QMS k policingu Service Centers; QMS se zaměřuje směrem dolů na TC a Pro. (d) all-correct zahrnuje obě možnosti mimo rozsah.",
+      "source": "mySSI: ITC Lesson 3.4 Review"
+    },
+    {
+      "id": "mssi-inst-216",
+      "area": "instructor",
+      "subarea": "Professional Standards — QMS",
+      "question": "QMS surveys jsou primárně rozesílány pro:",
+      "options": {
+        "a": "Přímou zpětnou vazbu od Service Centers",
+        "b": "Přímou zpětnou vazbu od training centers",
+        "c": "Přímou zpětnou vazbu od studentů",
+        "d": "Anekdotické důkazy pro stanovení výkonu SSI Professional"
+      },
+      "correct": "c",
+      "explanation": "QMS surveys jdou STUDENTŮM po certifikaci — jsou to zákazníci a primární zdroj nezaujaté zpětné vazby na kvalitu výcviku. SC (a) a TC (b) jsou SUBJEKTY QMS dohledu, ne respondenti — dotazování jich na sebe by účel maření. (d) anekdotické důkazy jsou opakem strukturovaného dotazníkového nástroje.",
+      "source": "mySSI: ITC Lesson 3.4 Review"
+    },
+    {
+      "id": "mssi-inst-217",
+      "area": "instructor",
+      "subarea": "Professional Standards — QMS",
+      "question": "Co z následujícího je povinností Training Center QMS Manager?",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Asistovat studentům s jejich dotazníky zpětné vazby",
+        "c": "Stanovovat politiku training center pro training standards",
+        "d": "Zajišťovat compliance a přezkoumávat zpětnou vazbu studentů"
+      },
+      "correct": "d",
+      "explanation": "Hlavní agenda QMS Manager v TC: sledovat dodržování standardů napříč centrem, přezkoumávat příchozí zpětnou vazbu studentů na trendy a varovné signály, provádět interní audity, eskalovat dle potřeby. (b) je špatně — průzkumy jdou studentům přímo bez TC zprostředkovatele (nezávislost zpětné vazby). (c) je špatně — Standardy vlastní HQ; QMS Manager je vymáhá, 'nestanovuje politiku' k nim. (a) all-correct zahrnuje špatné odpovědi.",
+      "source": "mySSI: ITC Lesson 3.4 Review"
+    },
+    {
+      "id": "mssi-inst-218",
+      "area": "instructor",
+      "subarea": "Professional Standards — QMS",
+      "question": "Kdo by měl být Training Center QMS Manager?",
+      "options": {
+        "a": "Kdokoli, pokud je starší 18 let",
+        "b": "Pouze nepotápějící se zaměstnanec",
+        "c": "Jakýkoli zaměstnanec training center",
+        "d": "Nejzkušenější SSI Professional v týmu"
+      },
+      "correct": "d",
+      "explanation": "QMS Manager potřebuje hlubokou expertizu ve standardech I autoritu nad ostatními Pro — nejzkušenější SSI Pro v týmu (typicky Instructor Trainer, Master Instructor nebo zkušený OWI). Dokáže rozpoznat hraniční otázky standardů, konstruktivně auditovat ostatní Pro a důvěryhodně reprezentovat TC vůči SSI HQ. (b) nepotápějícímu se chybí background. (a) a (c) zcela vypouštějí kvalifikaci.",
+      "source": "mySSI: ITC Lesson 3.4 Review"
+    },
+    {
+      "id": "mssi-inst-219",
+      "area": "instructor",
+      "subarea": "Professional Standards — QMS",
+      "question": "QMS Alerts jsou vytvářeny, když:",
+      "options": {
+        "a": "Je v akademických lekcích příliš mnoho studentů",
+        "b": "Existuje možné porušení SSI Training Standards",
+        "c": "Student je mělčeji než minimální hloubka",
+        "d": "Student je nespokojen se svou výukovou zkušeností"
+      },
+      "correct": "b",
+      "explanation": "QMS Alert je systémová vlajka pro jakékoli MOŽNÉ porušení Standardů — automatická detekce anomálií v MySSI datech (poměry mimo rozsah, porušení hloubkového profilu, chybějící prerekvizit, zpoždění zpracování). (a) a (c) jsou konkrétní příklady toho, co může alert spustit, ale obecná definice je samotné porušení. (d) nespokojenost studenta jde přes QMS survey/complaint cestu, ne přes automatické alerty.",
+      "source": "mySSI: ITC Lesson 3.4 Review"
+    },
+    {
+      "id": "mssi-inst-220",
+      "area": "instructor",
+      "subarea": "Professional Standards — QMS",
+      "question": "Na QMS Alerts byste měli reagovat:",
+      "options": {
+        "a": "Telefonátem do Service Center",
+        "b": "Použitím QMS",
+        "c": "E-mailem studentovi",
+        "d": "Formálním e-mailem do Service Center"
+      },
+      "correct": "b",
+      "explanation": "Reakce musí jít přes samotný QMS systém — to udržuje audit trail nedotčený a zajišťuje, že správní reviewers vidí reakci v kontextu. (a) telefonát nezanechává záznam. (c) student není stranou interního QMS workflow. (d) off-channel e-mail končí mimo formální systém záznamů. Mnemotechnika: alerty v systému → odpovědi v systému.",
+      "source": "mySSI: ITC Lesson 3.4 Review"
+    },
+    {
+      "id": "mssi-inst-221",
+      "area": "instructor",
+      "subarea": "Professional Standards — QMS",
+      "question": "Co z následujícího je účelem QMS?",
+      "options": {
+        "a": "Snížit odpovědnost",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Zlepšit spokojenost zákazníků",
+        "d": "Zvýšit bezpečnost a zajistit compliance"
+      },
+      "correct": "b",
+      "explanation": "QMS sleduje všechny tři cíle současně: (a) snížit odpovědnost — řádné záznamy a dodržování standardů obhajuje Pro/TC/SSI při incidentech; (c) zlepšit spokojenost zákazníků — student surveys napájejí smyčky zlepšování kvality; (d) zvýšit bezpečnost a zajistit compliance — hlavní mise, audity + alerty zachycují drift od standardů. Vzájemně se posilují; systém není navržen kolem jediného z nich.",
+      "source": "mySSI: ITC Lesson 3.4 Review"
+    },
+    {
+      "id": "mssi-inst-222",
+      "area": "instructor",
+      "subarea": "Methodology — Academic Sessions",
+      "question": "Každá akademická lekce by měla zahrnovat:",
+      "options": {
+        "a": "Exkurzi na retail floor",
+        "b": "Hodnocení porozumění studenta",
+        "c": "Zkoušku pokrývající akademický materiál",
+        "d": "Hodnocení dovedností studenta"
+      },
+      "correct": "b",
+      "explanation": "Formativní hodnocení je zabudováno do každé akademické lekce — dotazování, diskuze nad scénáři, mini-kvízy, požádání studentů o shrnutí. Vynechání znamená, že nevíte, co se uchytilo. (a) retail návštěvy jsou volitelné a ne v každé lekci. (c) formální závěrečná zkouška přichází jednou na konci programu, ne po každé lekci. (d) hodnocení dovedností patří do bazénu / chráněné vody a OW, ne do učebny.",
+      "source": "mySSI: ITC Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-inst-223",
+      "area": "instructor",
+      "subarea": "Methodology — Academic Sessions",
+      "question": "Akademické lekce hodnotí znalosti studenta a:",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Hodnotí základní potápěčské dovednosti",
+        "c": "Propojují s reálnými potápěčskými zážitky",
+        "d": "Demonstrují očekávání ve vodě"
+      },
+      "correct": "c",
+      "explanation": "Akademické lekce = teorie + relevance (callback Lekce 1.2 adult-learner): každý kognitivní koncept musí být propojen zpět s reálným potápěním. Boyleův zákon je bezvýznamný, dokud student necítí, jak na 5 m doráží mask squeeze. (b) hodnocení dovedností patří do bazénu / chráněné vody nebo OW. (d) demonstrace očekávání ve vodě je příliš úzká — akademická část propojuje teorii s širší zkušeností potápění, ne jen s další lekcí v bazénu.",
+      "source": "mySSI: ITC Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-inst-224",
+      "area": "instructor",
+      "subarea": "Professional Standards — Diver Diamond",
+      "question": "Diver Diamond by měl být použit k:",
+      "options": {
+        "a": "Naučit co nejvíce informací",
+        "b": "Vytvoření potřeby u studentů",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Zastrašování studentů k nákupu vybavení"
+      },
+      "correct": "b",
+      "explanation": "Diver Diamond je rámec rozpoznání potřeby — ukažte studentovi všech šest komponent (Knowledge, Skills, Equipment, Experience, Responsibility, Environment) a student rozpozná své vlastní mezery a chce je vyplnit (další specializace, vlastní výstroj, více ponorů). Je to soft-sell skrze sebeuvědomění. (a) info-dumping ničí jasnost rámce. (d) zastrašování je v rozporu s SSI etikou. (c) all-correct zahrnuje negativní cestu.",
+      "source": "mySSI: ITC Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-inst-225",
+      "area": "instructor",
+      "subarea": "Methodology — Forms & Paperwork",
+      "question": "Závěrečné písemné zkoušky jsou dostupné v:",
+      "options": {
+        "a": "Aplikaci MySSI",
+        "b": "Sekci downloads Pro MySSI účtu",
+        "c": "Webu SSI Service Center",
+        "d": "Instructor manual"
+      },
+      "correct": "b",
+      "explanation": "Závěrečné písemné zkoušky jsou v Pro download sekci uvnitř Pro MySSI účtu — vedle instructor manuals, lesson plans a prezentačních pomůcek. Páruje se s mssi-inst-185 (downloads jsou v sekci Training). (a) je příliš široké — aplikace zobrazuje materiály, ale ne tisknutelnou sadu zkoušek. (c) Service Centers zkoušky nehostují. (d) manuály a zkoušky jsou samostatné soubory, ne v jednom balíčku.",
+      "source": "mySSI: ITC Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-inst-226",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Presentation",
+      "question": "Svou metodu prezentace můžete zlepšit:",
+      "options": {
+        "a": "Soukromým procvičováním",
+        "b": "Necháním mluvit jiného instruktora",
+        "c": "Žádáním studentů o radu",
+        "d": "Vyhýbáním se mluvení až do skutečné prezentace"
+      },
+      "correct": "a",
+      "explanation": "Nácvik — zrcadlo, nahrávání, přítel nebo partner jako testovací publikum — je standardní způsob, jak vyladit tempo, jasnost a načasování před tváří v tvář se studenty. (b) předává práci někomu jinému; vy se nezlepšujete. (c) studenti nejsou prezentační koučové a otázka není o věcné přesnosti obsahu. (d) cold-start v den D je nejhorší možná strategie dodání.",
+      "source": "mySSI: ITC Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-inst-227",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Presentation",
+      "question": "Vaše prezentace musí obsahovat:",
+      "options": {
+        "a": "Jasné a měřitelné cíle",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Diskuzi o environmentálních nebo bezpečných potápěčských postupech",
+        "d": "Bezpečné a přesné informace"
+      },
+      "correct": "b",
+      "explanation": "Tři pilíře SSI akademické prezentace, všechny povinné: (a) SMART cíle — studenti odcházejí s vědomím, co se měli naučit a jak to bude měřeno; (c) prostředí + bezpečné potápěčské postupy — každá lekce posiluje Diver Code a ochranu přírody; (d) bezpečné a přesné technické informace — nediskutovatelné, chyby se propagují do rizika ve vodě. Vynechání kteréhokoli boří standard.",
+      "source": "mySSI: ITC Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-inst-228",
+      "area": "instructor",
+      "subarea": "Methodology — Training Aids",
+      "question": "Training aids specifické pro dané téma:",
+      "options": {
+        "a": "By se neměly používat vůbec",
+        "b": "By se měly používat pouze při výcviku ve vodě",
+        "c": "By měli poskytovat studenti",
+        "d": "Obohacují obsah prezentace"
+      },
+      "correct": "d",
+      "explanation": "Vizuální a hmatové training aids — řezová automatika, průřez hloubkoměrem, model kompasu, lahve s plynovými směsmi, laminovaná dive table — ukotvují abstraktní koncepty v něčem konkrétním a zlepšují retenci (multi-modální kódování). (a) a (b) ignorují přínos v učebně. (c) je špatně — Pro nosí training aids; student přichází se svou osobní výstrojí, ne s kurikulární sadou.",
+      "source": "mySSI: ITC Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-inst-229",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Presentation",
+      "question": "Každá prezentace by měla mít:",
+      "options": {
+        "a": "Úvod, exkurzi, skupinovou diskuzi",
+        "b": "Úvod, hlavní část, shrnutí",
+        "c": "Demonstraci dovedností, čas na nácvik, shrnutí",
+        "d": "Diskuzi v malých skupinách, čas na nácvik, shrnutí"
+      },
+      "correct": "b",
+      "explanation": "Klasická třídílná struktura prezentace — řekněte jim, co jim řeknete (úvod), řekněte jim to (hlavní část), řekněte jim, co jste jim řekli (shrnutí). Struktura funguje, protože hned na začátku připravuje pozornost, dodává obsah a poté ukotvuje retenci. (a), (c) a (d) přimíchávají prvky ve vodě nebo aktivity (skill demo, čas na nácvik, exkurzi) do toho, co by mělo být čistým obloukem akademické prezentace.",
+      "source": "mySSI: ITC Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-inst-230",
+      "area": "instructor",
+      "subarea": "Methodology — Academic Sessions",
+      "question": "Každá akademická lekce by měla ____ digitální výukové materiály.",
+      "options": {
+        "a": "Pouze zkontrolovat chybné otázky z",
+        "b": "Doplnit",
+        "c": "Ignorovat",
+        "d": "Opakovat"
+      },
+      "correct": "b",
+      "explanation": "Klíčový princip SSI metodologie: digitální materiály zvládají rutinní přenos znalostí (definice, ilustrace, mechanika), a instruktor v učebně DOPLŇUJE reálnými příklady, místními podmínkami, demonstracemi, diskuzí scénářů, Q&A. (d) opakování je plýtvání časem studenta — již to probrali. (c) ignorování boří kontinuitu. (a) pouze přezkum chybných otázek je příliš úzký — lekce také obohacují obsah, který student dostal správně.",
+      "source": "mySSI: ITC Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-inst-231",
+      "area": "instructor",
+      "subarea": "Professional Standards — Distance Learning",
+      "question": "Které programy lze dokončit pomocí distančního vzdělávání?",
+      "options": {
+        "a": "Diving Knowledge Specialty",
+        "b": "Všechny specializační programy",
+        "c": "Pool/Confined Water Specialty",
+        "d": "Dedicated Equipment Specialty"
+      },
+      "correct": "a",
+      "explanation": "Diving Knowledge Specialty jsou čistě teoretické programy — Marine Ecology, Stress & Rescue Knowledge, Shark Ecology, Wreck Knowledge — a lze je kompletně absolvovat online bez požadavku na pobyt ve vodě. (b) je příliš široké: cokoli, co vyžaduje práci ve vodě nebo manipulaci s výstrojí, nemůže být plně na dálku. (c) a (d) explicitně vyžadují fyzickou přítomnost (sezení v bazénu, praktické dovednosti s výstrojí).",
+      "source": "mySSI: ITC Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-inst-232",
+      "area": "instructor",
+      "subarea": "Methodology — Assessment",
+      "question": "Závěrečná zkouška:",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Musí být uložena ve výcvikovém záznamu studenta",
+        "c": "Musí být podepsána studentem i instruktorem",
+        "d": "Musí být dokončena každým studentem"
+      },
+      "correct": "a",
+      "explanation": "Tři pevné požadavky na závěrečnou zkoušku: (b) uložení ve výcvikovém záznamu — auditní stopa pro validaci certifikace; (c) dvojí podpis student + instruktor — v souladu s mssi-inst-198 (záznamy vyžadují oba); (d) dokončení individuálně každým studentem — žádné skupinové zkoušky, hodnocení je per-osoba kognitivní kontrola. Vynechání kteréhokoli porušuje SSI standardy a certifikaci nelze zpracovat.",
+      "source": "mySSI: ITC Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-inst-233",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Presentation",
+      "question": "Správná příprava na prezentaci:",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Udrží vás v časovém limitu",
+        "c": "Udrží vás zaměřené na téma",
+        "d": "Zajistí, že budou probrány klíčové body"
+      },
+      "correct": "a",
+      "explanation": "Tři nezávislé přínosy přípravy, všechny pravdivé: (b) časová disciplína — předem nacvičené lekce nepřetahují a neukrajují čas další lekci; (c) tematické zaměření — neodbočujete do vedlejších témat; (d) pokrytí klíčových bodů — nic kritického se v okamžiku nezapomene. „Kdo se nepřipravuje, připravuje se na neúspěch“ platí ve výuce stejně jako kdekoli jinde.",
+      "source": "mySSI: ITC Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-inst-234",
+      "area": "instructor",
+      "subarea": "Methodology — Active learning",
+      "question": "Aktivní učení je:",
+      "options": {
+        "a": "Jakákoli prezentace, která používá slidy ke zvýraznění klíčových bodů",
+        "b": "Jakákoli učební aktivita, která zapojuje studenty do interakce mezi sebou a do práce s materiálem",
+        "c": "Strukturovaná výuková prezentace, která přenáší informace od instruktora ke studentům",
+        "d": "Strukturovaná prezentace, která končí zadáním četby z digitálních materiálů"
+      },
+      "correct": "b",
+      "explanation": "Aktivní učení = studenti DĚLAJÍ něco s materiálem (diskuse, řešení problémů, vzájemná výuka, scénářové role-play) místo pasivního přijímání. (a) samotné slidy jsou stále jen prezentace. (c) je učebnicová definice PASIVNÍHO / přednáškového přenosu. (d) zadání četby je také sólo pasivní. Retence a přenos do vody jsou u aktivních metod dramaticky vyšší.",
+      "source": "mySSI: ITC Lesson 4.3 Review"
+    },
+    {
+      "id": "mssi-inst-235",
+      "area": "instructor",
+      "subarea": "Methodology — Active learning",
+      "question": "Sezení s aktivním učením jsou strukturována tak, aby:",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Poskytovala studentům více příležitostí ke strukturovanému zapojení",
+        "c": "Řešila krátkou pozornost studentů během přednášky",
+        "d": "Rozdělila tradiční přednášku na kratší přednášky oddělené aktivními učebními aktivitami"
+      },
+      "correct": "a",
+      "explanation": "Tři strukturní účely, všechny pravdivé: (b) opakované body zapojení vrývají látku hlouběji než jednorázová přednáška; (c) pozornost v přednáškovém režimu je ~8–12 minut — dál retence prudce klesá; (d) rozdělení přednášky na kratší bloky proložené aktivitami (think-pair-share, krátké úlohy, demo) udržuje opakované zapojení dříve, než pozornost odpluje. Strukturou to celé funguje.",
+      "source": "mySSI: ITC Lesson 4.3 Review"
+    },
+    {
+      "id": "mssi-inst-236",
+      "area": "instructor",
+      "subarea": "Methodology — Training Aids",
+      "question": "Technologie jako televizní obrazovky a bezdrátové internetové připojení:",
+      "options": {
+        "a": "Musí být použity k provádění aktivních učebních aktivit",
+        "b": "Mohou zlepšit učební zážitek vašich studentů",
+        "c": "Jsou vyžadovány SSI Training Standards",
+        "d": "Mají být použity pouze k motivaci znuděných studentů"
+      },
+      "correct": "b",
+      "explanation": "Technologie = nástroj, ne povinnost. Velké obrazovky, wifi a online zdroje pomáhají, pokud se používají dobře, ale skvělý Pro dokáže odučit kompletní OWD kurz s tabulí a opravdovou potápěčskou výstrojí. (a) je předepsané příliš silně. (c) Standards specifikují výstupy a obsah, ne které technologické nástroje musí být přítomny. (d) staví techniku jako poslední záchranu při ztrátě pozornosti, což podceňuje její skutečnou roli.",
+      "source": "mySSI: ITC Lesson 4.3 Review"
+    },
+    {
+      "id": "mssi-inst-237",
+      "area": "instructor",
+      "subarea": "Methodology — Active learning",
+      "question": "Které z následujících tvrzení nejlépe popisuje roli instruktora při aktivním učení?",
+      "options": {
+        "a": "Instruktor prezentuje informace k tématu a shrne přednášku sérií otázek",
+        "b": "Instruktor stojí před třídou a používá slidy ke zvýraznění klíčových bodů tématu",
+        "c": "Instruktor mluví a studenti naslouchají prezentovaným informacím",
+        "d": "Instruktor usnadňuje proces učení tím, že používá aktivity zaměřené na studenta"
+      },
+      "correct": "d",
+      "explanation": "Posun role v aktivním učení: instruktor přechází z pozice „mudrce na pódiu“ (přednášející) do pozice „průvodce po straně“ (facilitátor) — navrhuje a vede aktivity zaměřené na studenta (think-pair-share, vzájemná výuka, scénáře), kde studenti odvádějí kognitivní práci. Odkaz na Lesson 1.2 autonomii dospělých studentů (mssi-inst-109). (a), (b) a (c) všechny popisují jednosměrný přenos informací zaměřený na přednášejícího.",
+      "source": "mySSI: ITC Lesson 4.3 Review"
+    },
+    {
+      "id": "mssi-inst-238",
+      "area": "instructor",
+      "subarea": "Methodology — Active learning",
+      "question": "Účelem provádění sezení s aktivním učením je:",
+      "options": {
+        "a": "Zajistit, aby studenti dokončili všechna zadání digitálního učení",
+        "b": "Aktivně zapojit studenty do procesu učení tím, že facilitujete aktivity, které studenty vedou k objevování, zpracování a aplikaci informací",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Zajistit přenos informací od studentů k instruktorovi tak, aby oba měli stejné znalosti"
+      },
+      "correct": "b",
+      "explanation": "Tři kognitivní slovesa definující aktivní učení: OBJEVOVAT (sami najít otázku nebo problém), ZPRACOVÁVAT (analyzovat, diskutovat, restrukturalizovat), APLIKOVAT (použít na nový scénář). Pro tuto cestu facilituje. (a) je úzká kontrola zadání, ne účel. (d) je nesmysl ohledně směru — informace neproudí od studenta k instruktorovi. (c) všechny správné zahrnuje obě špatné odpovědi.",
+      "source": "mySSI: ITC Lesson 4.3 Review"
+    },
+    {
+      "id": "mssi-inst-239",
+      "area": "instructor",
+      "subarea": "Methodology — Active learning",
+      "question": "Které tvrzení nejlépe popisuje, jak uspořádat typickou učebnu pro aktivní učení?",
+      "options": {
+        "a": "Pult vepředu místnosti se stoly/židlemi studentů otočenými k pultu",
+        "b": "Malé kulaté stoly pro skupiny 3–4 studentů s dostatkem prostoru, aby se instruktor mohl volně pohybovat po místnosti",
+        "c": "Stanoviště instruktora na jedné straně místnosti se stoly/židlemi studentů otočenými k projekčnímu plátnu nebo monitoru vepředu",
+        "d": "Stanoviště instruktora vepředu třídy a stoly/židle studentů otočené k instruktorovi"
+      },
+      "correct": "b",
+      "explanation": "Aktivní učení potřebuje kolaborativní geometrii: malé kulaté stoly (3–4 studenti), aby vrstevníci mohli sedět tváří v tvář k diskusi + prostor pro instruktora, aby procházel mezi skupinami. (a), (c) a (d) jsou všechno klasická PŘEDNÁŠKOVÁ uspořádání — studenti čelí dopředu, žádná interakce vrstevníků, instruktor uvíznutý vepředu. Uspořádání místnosti signalizuje, jaký druh hodiny to je.",
+      "source": "mySSI: ITC Lesson 4.3 Review"
+    },
+    {
+      "id": "mssi-inst-240",
+      "area": "instructor",
+      "subarea": "Methodology — Active learning",
+      "question": "Která aktivní učební aktivita vyžaduje, aby studenti měli dokončené digitální učební materiály?",
+      "options": {
+        "a": "Peer Instruction",
+        "b": "Field Trip",
+        "c": "Group Discussion",
+        "d": "Think-Pair-Share"
+      },
+      "correct": "a",
+      "explanation": "Peer Instruction = studenti učí jeden druhého, což vyžaduje, aby už látku nastudovali — bez předchozího digitálního učení není co vysvětlovat. Ostatní formáty fungují i s lehčí přípravou: (b) field trip ukazuje koncepty v kontextu, (c) group discussion může budovat porozumění z omezených předchozích znalostí, (d) Think-Pair-Share funguje z jakéhokoli výchozího bodu. Peer Instruction explicitně předpokládá, že látka je už v hlavách.",
+      "source": "mySSI: ITC Lesson 4.4 Review"
+    },
+    {
+      "id": "mssi-inst-241",
+      "area": "instructor",
+      "subarea": "Methodology — Active learning",
+      "question": "Která aktivní učební aktivita vyžaduje, aby studenti určili odpověď na problém, který může mít více správných odpovědí?",
+      "options": {
+        "a": "Peer Instruction",
+        "b": "Problem-Solving",
+        "c": "Field Trip",
+        "d": "Small Group Discussion"
+      },
+      "correct": "b",
+      "explanation": "Problem-Solving je z definice otevřená aktivita — položit scénář (naplánovat ponor pro tyto podmínky; vybrat výstroj na tuto výpravu; reagovat na selhání dovednosti) a přijmout více obhajitelných řešení podle priorit. (a) Peer Instruction má často jednu správnou odpověď, kterou předává peer-učitel. (c) Field Trip je pozorovací. (d) Group Discussion může být otevřená nebo uzavřená, ale není zaměřená na řešení problému.",
+      "source": "mySSI: ITC Lesson 4.4 Review"
+    },
+    {
+      "id": "mssi-inst-242",
+      "area": "instructor",
+      "subarea": "Methodology — Active learning",
+      "question": "Která aktivní učební aktivita vyžaduje, aby studenti poskytli okamžitou odpověď na otázku?",
+      "options": {
+        "a": "Think-Pair-Share",
+        "b": "Group Polling",
+        "c": "Field Trip",
+        "d": "Problem-Solving"
+      },
+      "correct": "b",
+      "explanation": "Group Polling = okamžitá zpětná vazba zvednutím ruky, kartami ABCD nebo klikrem — okamžité, v daném okamžiku. (a) Think-Pair-Share záměrně zavádí Pair / diskusní zpoždění před share-out. (c) Field Trip je pozorovací a pomalý. (d) Problem-Solving potřebuje čas na uvažování. Polling je formát rychlého úsudku.",
+      "source": "mySSI: ITC Lesson 4.4 Review"
+    },
+    {
+      "id": "mssi-inst-243",
+      "area": "instructor",
+      "subarea": "Methodology — Active learning",
+      "question": "Která aktivní učební aktivita vede studenty mimo učebnu na prodejní plochu, travel center nebo service center?",
+      "options": {
+        "a": "Group Discussion",
+        "b": "Field Trip",
+        "c": "Peer Instruction",
+        "d": "Think-Pair-Share"
+      },
+      "correct": "b",
+      "explanation": "Field Trip = opustit učebnu, vidět koncepty v aplikovaném kontextu. SSI Field Trips často vedou na prodejní plochu (výstroj v reálné podobě), do travel centra (destinační programy), service centra (servis výstroje) — propojují kurikulum se širší nabídkou centra. Ostatní tři jsou všechno formáty v učebně.",
+      "source": "mySSI: ITC Lesson 4.4 Review"
+    },
+    {
+      "id": "mssi-inst-244",
+      "area": "instructor",
+      "subarea": "Methodology — Active learning",
+      "question": "Která aktivní učební aktivita umožňuje studentům diskutovat nápady a názory se zbytkem třídy?",
+      "options": {
+        "a": "Group Polling",
+        "b": "Žádná odpověď není správná",
+        "c": "Group Discussion",
+        "d": "Field Trip"
+      },
+      "correct": "c",
+      "explanation": "Group Discussion je otevřený formát, kde studenti debatují, obhajují pozice a vyměňují si názory napříč celou třídou, přičemž Pro facilituje. (a) Group Polling zachycuje pozice, ale neotvírá je k argumentaci. (d) Field Trip je pozorovací. (b) „Žádná odpověď není správná“ je typický mySSI distraktor; ignorujte jej, když jedna možnost jasně sedí.",
+      "source": "mySSI: ITC Lesson 4.4 Review"
+    },
+    {
+      "id": "mssi-inst-245",
+      "area": "instructor",
+      "subarea": "Methodology — Active learning",
+      "question": "Které faktory ovlivňují, kterou aktivní učební aktivitu byste měli použít?",
+      "options": {
+        "a": "Tematika, zdroje, délka programu",
+        "b": "Úroveň zkušeností studentů, velikost lokality, věk studentů",
+        "c": "Výcvikové prostředí, věk studentů, délka programu",
+        "d": "Výcvikové prostředí, tematika a zdroje"
+      },
+      "correct": "d",
+      "explanation": "Tři praktické knoflíky: VÝCVIKOVÉ PROSTŘEDÍ (uspořádání učebny, vnitřní/venkovní, dostupné vybavení), TEMATIKA (teorie vs. výstroj vs. scénáře vyhovují různým formátům) a ZDROJE (čas, technika, počet asistentů). Distraktory zatahují faktory, které jsou důležité pro JINÁ rozhodnutí (věk studentů, velikost lokality, délka programu), ale nejsou primárním vodítkem pro výběr aktivního formátu.",
+      "source": "mySSI: ITC Lesson 4.4 Review"
+    },
+    {
+      "id": "mssi-inst-246",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Responsibility",
+      "question": "Co z následujícího je vaše odpovědnost?",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Nechat studenty trénovat dovednosti po certifikaci",
+        "c": "Zajistit bezpečnost a komfort během výcviku",
+        "d": "Zajistit, aby byli studenti svým výcvikem vyzváni"
+      },
+      "correct": "c",
+      "explanation": "Primární odpovědnost Pro = bezpečnost + komfort během výcviku. To je nezredukovatelná povinnost na každé lekci. (b) post-certifikační trénink dovedností je odpovědnost samotného potápěče — po certifikaci si svou kondici drží sám. (d) být „vyzván“ je nice-to-have, ale ne jádro bezpečnosti/komfortu. (a) všechny správné zatahuje (b), které není vaší povinností.",
+      "source": "mySSI: ITC Lesson 5.1 Review"
+    },
+    {
+      "id": "mssi-inst-247",
+      "area": "instructor",
+      "subarea": "Methodology — Skill teaching",
+      "question": "Jak můžete složitou demonstraci učinit srozumitelnější?",
+      "options": {
+        "a": "Zahrňte do demonstrace co nejvíce informací",
+        "b": "Rozdělte ji na menší části",
+        "c": "Projděte ji co nejrychleji",
+        "d": "Nechte studenty trénovat ještě před demonstrací"
+      },
+      "correct": "b",
+      "explanation": "Princip chunkování: rozložte složitou dovednost na malé dílčí kroky, demonstrujte každý čistě, nechte studenty zvládnout každý před spojováním. Mozek kóduje 3–4 chunky najednou, ne 15krokové procedury. (a) přetížení informacemi marí porozumění. (c) rychlost obětuje detail a způsobuje chyby. (d) je v nesprávném pořadí — studenti potřebují vidět správnou techniku PŘED pokusem, jinak si trénují své omyly.",
+      "source": "mySSI: ITC Lesson 5.1 Review"
+    },
+    {
+      "id": "mssi-inst-248",
+      "area": "instructor",
+      "subarea": "Methodology — Risk Management",
+      "question": "Co je zdrojem řízení rizik pro profesionála?",
+      "options": {
+        "a": "Plán řešení mimořádných událostí",
+        "b": "QMS Manager v Training Centru",
+        "c": "Instruktoři v Training Centru",
+        "d": "Všechny odpovědi jsou správné"
+      },
+      "correct": "d",
+      "explanation": "Tři vrstvy podpory řízení rizik, na které se Pro může opřít: (a) zdokumentovaný Incident Management Plan v TC — předpřipravené postupy pro mimořádné události; (b) QMS Manager — poradenství pro shodu se standardy a kontrolu rizik (mssi-inst-217); (c) ostatní instruktoři v TC — peer zkušenosti a mentorství pro hraniční případy. Žádný nenahradí úsudek ve vodě, ale dohromady tvoří vrstvenou bezpečnostní síť.",
+      "source": "mySSI: ITC Lesson 5.1 Review"
+    },
+    {
+      "id": "mssi-inst-249",
+      "area": "instructor",
+      "subarea": "Methodology — Risk Management",
+      "question": "Který z následujících je užitečným zdrojem pro rozhodování a hodnocení rizika?",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Ostatní SSI Professionals",
+        "c": "Personál Training Centra",
+        "d": "Plán řešení mimořádných událostí"
+      },
+      "correct": "a",
+      "explanation": "Zrcadlo mssi-inst-248 s mírně jiným zněním: (b) ostatní SSI Pros přinášejí peer moudrost a rozpoznávání vzorců z minulých ponorů; (c) personál TC má situační přehled o počasí, podmínkách, aktuálních studentech; (d) Incident Management Plan zafixuje správnou reakci, když adrenalin vytlačí myšlení. Všechny tři jsou legitimní zdroje pro rozhodování.",
+      "source": "mySSI: ITC Lesson 5.1 Review"
+    },
+    {
+      "id": "mssi-inst-250",
+      "area": "instructor",
+      "subarea": "Methodology — Skill teaching",
+      "question": "Jakmile studenti dovednost zvládnou:",
+      "options": {
+        "a": "Nechte je samostatně opravovat chyby",
+        "b": "Pokračujte s těsným dohledem",
+        "c": "Nechte je učit ostatní studenty",
+        "d": "Neposkytujte žádnou další zpětnou vazbu"
+      },
+      "correct": "a",
+      "explanation": "Odkaz na autonomii dospělého studenta (Lesson 1.2 — mssi-inst-109): jakmile student dovednost zvládl, předejte mu odpovědnost za zlepšování — z malých chyb se stávají příležitosti k samoopravě místo momentů, kdy zasahuje instruktor. Role Pro se posouvá z mikromanagementu k dohledu. (b) těsný dohled vychovává závislost. (c) studenti nemají oprávnění učit. (d) průběžná zpětná vazba nikdy nekončí, jen mění formu.",
+      "source": "mySSI: ITC Lesson 5.1 Review"
+    },
+    {
+      "id": "mssi-inst-251",
+      "area": "instructor",
+      "subarea": "Methodology — Diver Development",
+      "question": "Autonomní potápěč má dovednosti, znalosti a zkušenosti, aby:",
+      "options": {
+        "a": "Se potápěl bez dohledu instruktora",
+        "b": "Učil základní dovednosti svého buddyho",
+        "c": "Se potápěl bez buddyho nebo dive professional",
+        "d": "Se potápěl v jakýchkoli podmínkách prostředí nebo hloubkách"
+      },
+      "correct": "c",
+      "explanation": "V terminologii SSI má „autonomní“ (Independent / Solo) potápěč dovednosti, redundanci výstroje a zkušenosti, aby se potápěl bez buddyho — to je unikátní charakteristika. (a) jakýkoli certifikovaný OWD se potápí bez dohledu instruktora, takže to není specifické pro autonomního. (b) výuka je oprávněním Pro, nikdy se nedává potápěči. (d) certifikace vždy mají hloubkové/prostředí limity — autonomie je neruší.",
+      "source": "mySSI: ITC Lesson 5.1 Review"
+    },
+    {
+      "id": "mssi-inst-252",
+      "area": "instructor",
+      "subarea": "Methodology — Open Water Training",
+      "question": "První Open Water Training Dive může vyžadovat ____ rozhodování a mít ____ přijatelnou úroveň rizika.",
+      "options": {
+        "a": "Více, nižší",
+        "b": "Méně, vyšší",
+        "c": "Méně, nižší",
+        "d": "Více, vyšší"
+      },
+      "correct": "a",
+      "explanation": "První OW ponor = studenti mají nejméně zkušeností a úsudku ve vodě, takže Pro nese VÍCE rozhodování (volba vstupu/výstupu, hloubky, trasy, kdo s kým je v páru) A přijatelná míra rizika je NIŽŠÍ (žádná rezerva na překvapení — vyberte snadnou lokalitu, snadné podmínky). Jak program postupuje, rozhodování se přesouvá ke studentům a tolerance se rozšiřuje — ale Den 1 je konzervativní.",
+      "source": "mySSI: ITC Lesson 5.1 Review"
+    },
+    {
+      "id": "mssi-inst-253",
+      "area": "instructor",
+      "subarea": "Methodology — Diver Development",
+      "question": "Na konci výcvikového programu by vaši studenti měli být schopni činit:",
+      "options": {
+        "a": "Některá rozhodnutí, pokud s nimi souhlasí jejich buddy",
+        "b": "Vhodná rozhodnutí nebo vyhledat radu dive professional",
+        "c": "Jakékoli rozhodnutí bez asistence",
+        "d": "Pouze rozhodnutí týkající se jejich osobní pohody"
+      },
+      "correct": "b",
+      "explanation": "Cíl absolutoria: nezávislý v rutinních rozhodnutích A se zdravým úsudkem o tom, kdy konzultovat Pro. Ta druhá polovina je znakem zralého potápěče. (a) brána přes souhlas buddyho je nadměrně závislá na konsenzu skupiny. (c) přehnaně sebejistý — žádný certifikovaný potápěč by si neměl myslet, že nepotřebuje pomoc; takový postoj zraňuje. (d) pouze osobní rozhodnutí ignoruje odpovědnost vůči buddymu a týmové myšlení.",
+      "source": "mySSI: ITC Lesson 5.1 Review"
+    },
+    {
+      "id": "mssi-inst-254",
+      "area": "instructor",
+      "subarea": "Methodology — Supervision",
+      "question": "Obecně řečeno studenti vyžadují nejmenší dohled:",
+      "options": {
+        "a": "Mimo vodu",
+        "b": "V mělké vodě",
+        "c": "V hluboké vodě",
+        "d": "Na hladině"
+      },
+      "correct": "a",
+      "explanation": "Mimo vodu = nejnižší akutní riziko: žádný vektor utopení, žádný vektor tlakového zranění, problémy se vyvíjejí dost pomalu, aby je bylo možné odhalit a zasáhnout. (d) Hladina je zrádně nebezpečná — panika, proudy, vlny, problémy s výstrojí se tam dějí a rychle eskalují. (b) Mělká voda potřebuje stálý dohled kvůli problémům s ušima/vztlakem. (c) Hluboká voda nese nejvyšší nárok na dohled. Pořadí intenzity dohledu (nejmenší → největší): mimo vodu → mělká → hladina → hloubka.",
+      "source": "mySSI: ITC Lesson 5.2 Review"
+    },
+    {
+      "id": "mssi-inst-255",
+      "area": "instructor",
+      "subarea": "Methodology — Supervision",
+      "question": "Necertifikovaní studenti:",
+      "options": {
+        "a": "Musí být pod dohledem Open Water Instructor",
+        "b": "Mohou být pod dohledem Divemastera",
+        "c": "Mají být pod těsnějším dohledem",
+        "d": "Mohou dostat větší samostatnost než certifikovaní potápěči"
+      },
+      "correct": "c",
+      "explanation": "Žádný základ dovedností = nejvyšší intenzita dohledu. Cokoli se ve vodě může pokazit, necertifikovaný student to s větší pravděpodobností zažije bez rozpoznání. (a) je příliš úzké — AI mohou dohlížet na bazén/chráněnou vodu pod nepřímým dohledem; není to striktně jen pro OWI. (b) DM mají omezené oprávnění dohledu nad necertifikovanými studenty. (d) převrací pravdu — samostatnost přichází PO certifikaci, nikdy předtím.",
+      "source": "mySSI: ITC Lesson 5.2 Review"
+    },
+    {
+      "id": "mssi-inst-256",
+      "area": "instructor",
+      "subarea": "Methodology — Supervision",
+      "question": "Obecně řečeno studenti vyžadují největší dohled:",
+      "options": {
+        "a": "V hluboké vodě",
+        "b": "Na hladině",
+        "c": "Mimo vodu",
+        "d": "V mělké vodě"
+      },
+      "correct": "a",
+      "explanation": "Hloubka = nejrizikovější výcvikové prostředí: rychlejší spotřeba plynu, nástup narkózy, delší výstup při jakékoli mimořádné události, menší rezerva pro chyby vztlaku. Inverze mssi-inst-254 (nejmenší dohled = mimo vodu). Pořadí intenzity dohledu (největší → nejmenší): hloubka → hladina → mělká → mimo vodu.",
+      "source": "mySSI: ITC Lesson 5.2 Review"
+    },
+    {
+      "id": "mssi-inst-257",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "Certifikovaní asistenti mohou:",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Podepisovat výcvikové záznamy",
+        "c": "Zvyšovat kontrolu a dohlížet na studenty",
+        "d": "Zvyšovat poměry pro všechny SSI programy"
+      },
+      "correct": "c",
+      "explanation": "Hlavní přidaná hodnota certifikovaného asistenta = další páry očí, kontrola skupiny, kapacita dohledu. (b) podepisování výcvikových záznamů je oprávnění Instructor certifikace — asistenti nepodepisují jako vydavatel certifikace. (d) přehání: asistenti zvyšují povolený poměr studentů na instruktora u NĚKTERÝCH programů (vstupní výcvik), ale specializační programy mají často pevné poměry, které se nerozšiřují. (a) všechny správné zatahuje tato špatná tvrzení.",
+      "source": "mySSI: ITC Lesson 5.2 Review"
+    },
+    {
+      "id": "mssi-inst-258",
+      "area": "instructor",
+      "subarea": "Methodology — Supervision",
+      "question": "Poměry student-instruktor by měly být:",
+      "options": {
+        "a": "Sníženy pro snížení výcvikové námahy",
+        "b": "Maximalizovány pro zvýšení zisku",
+        "c": "Sníženy pro zvýšení bezpečnosti",
+        "d": "Maximalizovány pro zvýšení efektivity výcviku"
+      },
+      "correct": "c",
+      "explanation": "Nižší poměry = více párů očí na studenta = lepší bezpečnost + více individuálního koučování = lepší učení. (b) maximalizace zisku na úkor bezpečnosti je cesta k incidentům a žalobám — přímo proti SSI etice. (d) maximalizace počtu studentů na instruktora snižuje individuální pozornost a zhoršuje osvojování dovedností. (a) snižování „námahy“ není zdůvodnění SSI; bezpečnost ano.",
+      "source": "mySSI: ITC Lesson 5.2 Review"
+    },
+    {
+      "id": "mssi-inst-259",
+      "area": "instructor",
+      "subarea": "Methodology — In-Water Communication",
+      "question": "Signály rukou by měly být:",
+      "options": {
+        "a": "Pomalé, jasné a zveličené",
+        "b": "Používat se pouze v hluboké vodě",
+        "c": "Předváděné pouze celé skupině",
+        "d": "Provedené pouze jednou, aby se student nemátl"
+      },
+      "correct": "a",
+      "explanation": "Pod vodou = pouze vizuální + snížená viditelnost + chlad/nervozita zpomalují porozumění. Proto musí být signály POMALÉ (čas na zpracování), JASNÉ (jednoznačné), ZVELIČENÉ (kompenzace vody, výstroje, vidění). (b) signály jsou potřeba v každé hloubce. (c) směrování signálů celé skupině ignoruje individuální koučování. (d) opakujte podle potřeby — opakování pomáhá porozumění, nemate.",
+      "source": "mySSI: ITC Lesson 5.2 Review"
+    },
+    {
+      "id": "mssi-inst-260",
+      "area": "instructor",
+      "subarea": "Methodology — Skill teaching",
+      "question": "Dovednosti by měly být zaváděny:",
+      "options": {
+        "a": "Bez zaměření na mezikroky",
+        "b": "Od jednoduchých ke složitým",
+        "c": "Od složitých k jednoduchým",
+        "d": "Všechny najednou, aby se student nemátl"
+      },
+      "correct": "b",
+      "explanation": "Pedagogika scaffoldingu: nejprve zaveďte jednodušší dovednosti pro budování sebevědomí a motorické paměti, pak vrstvěte složitost (vyčistění masky → nasazení a vyčistění masky → kombinované s výměnou automatiky). (a) přeskakování mezikroků vytváří mezery. (c) opačné pořadí přetěžuje. (d) všechno najednou je nejhorší — studenti se topí v kognitivní zátěži.",
+      "source": "mySSI: ITC Lesson 5.2 Review"
+    },
+    {
+      "id": "mssi-inst-261",
+      "area": "instructor",
+      "subarea": "Methodology — Briefing",
+      "question": "Briefing před ponorem by měl být:",
+      "options": {
+        "a": "Dokončen před vstupem do vody",
+        "b": "Použit před každým výcvikovým sezením ve vodě",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Pochopen všemi účastníky sezení"
+      },
+      "correct": "c",
+      "explanation": "Všechny tři body jsou nepostradatelné: (a) prezentujte, dokud jsou všichni v suchu, v pohodě a slyší vás — komunikace se zhoršuje hned, jak ploutve narazí na vodu; (b) každé sezení, bez výjimky — i rutinní opakovací bazénový ponor dostane briefing; (d) ověřte porozumění (nechte zopakovat, kontrolujte signály, řešte otázky) — briefing, kterému nikdo nerozuměl, je briefing, který se nestal.",
+      "source": "mySSI: ITC Lesson 5.2 Review"
+    },
+    {
+      "id": "mssi-inst-262",
+      "area": "instructor",
+      "subarea": "Methodology — Pool / Confined Water",
+      "question": "Sezení v bazénu/chráněné vodě by měla zahrnovat čas na trénink:",
+      "options": {
+        "a": "Kdykoli to jde, aby si zážitek užili",
+        "b": "Pouze pokud už jsou ve svých dovednostech zdatní",
+        "c": "Pouze pokud si koupí novou výstroj",
+        "d": "Pouze pokud nepojedou do otevřené vody"
+      },
+      "correct": "a",
+      "explanation": "Trénink + zábava jsou SSI playbook pro afektivní doménu (Lesson 1.2 / mssi-inst-114) — extra opakování v prostředí bez tlaku zjemňuje motorickou paměť A ukotvuje pozitivní pocity vůči potápění, obojí zvyšuje retenci a sebevědomí. (b) převrací příčinu a následek — trénink BUDUJE zdatnost. (c) a (d) jsou nesmyslné podmínky; trénink není podmíněn nákupem ani neprogresí.",
+      "source": "mySSI: ITC Lesson 5.3 Review"
+    },
+    {
+      "id": "mssi-inst-263",
+      "area": "instructor",
+      "subarea": "Methodology — Skill teaching",
+      "question": "Jakákoli dovednost prováděná jako součást SSI výcvikového programu musí:",
+      "options": {
+        "a": "Být funkční, fungovat v jakémkoli potápěčském prostředí a pouze s jedním typem konfigurace výstroje",
+        "b": "Být funkční, fungovat pouze v tropickém potápěčském prostředí a pouze s jedním typem konfigurace výstroje",
+        "c": "Být funkční, fungovat v jakémkoli potápěčském prostředí a s jakoukoli konfigurací výstroje",
+        "d": "Být funkční, fungovat pouze v tropickém potápěčském prostředí a s jakoukoli konfigurací výstroje"
+      },
+      "correct": "c",
+      "explanation": "SSI dovednosti jsou navrženy přenositelně: technika nasazení a vyčištění masky musí fungovat stejně v 5°C studené vodě se suchým oblekem jako v 28°C tropech s mokrým, na jedné lahvi nebo v sidemount. Tato univerzálnost je to, co umožňuje maltskému OWD potápěči bezpečně se potápět v Tasmánii. Distraktory omezující na „pouze tropy“ nebo „jednu konfiguraci“ by rozbily přenositelnost certifikace napříč prostředími.",
+      "source": "mySSI: ITC Lesson 5.3 Review"
+    },
+    {
+      "id": "mssi-inst-264",
+      "area": "instructor",
+      "subarea": "Methodology — Pool / Confined Water",
+      "question": "Zvýšení času výcviku vašich studentů ve vodě:",
+      "options": {
+        "a": "Omezuje čas výcviku v otevřené vodě",
+        "b": "Zvyšuje úroveň rizika vašeho výcviku",
+        "c": "Zvyšuje zdatnost, komfort a motivaci",
+        "d": "Snižuje zdatnost, komfort a motivaci"
+      },
+      "correct": "c",
+      "explanation": "Více času ve vodě = více opakování pro motorickou paměť, více pohody pod hladinou, více okamžiků „mám tu vášeň pro potápění“. Trojice (zdatnost + komfort + motivace) je sladká skvrna, kterou SSI metodika sleduje. (a) a (b) chybně čtou vztah — více bazénu/chráněné vody nevytlačuje OW ani neeskaluje riziko v kontrolovaném prostředí. (d) převrací příčinu a následek.",
+      "source": "mySSI: ITC Lesson 5.3 Review"
+    },
+    {
+      "id": "mssi-inst-265",
+      "area": "instructor",
+      "subarea": "Methodology — Skill teaching",
+      "question": "Pokud se student potýká s provedením dovednosti v Diving Position:",
+      "options": {
+        "a": "Musí trénovat, dokud nezvládne dovednost v diving position",
+        "b": "Žádná odpověď není správná",
+        "c": "Přeskočte dovednost, dokud nedosáhne Open Water Training Dives",
+        "d": "Nechte ji provést vstoje na místě nebo v kleku"
+      },
+      "correct": "d",
+      "explanation": "Scaffolding: nejprve zvládněte SAMOTNOU DOVEDNOST v poloze s nízkou kognitivní zátěží (klek na dně, stacionárně), pak navrstvěte výzvu vztlaku + trimu k dosažení Diving Position. Snaha učit obojí najednou studenta přetíží. (a) striktní vynucování Diving Position od začátku frustruje studenty a může maskovat porozumění. (c) přeskočení vytváří díru v sadě dovedností před OW. (b) je standardní mySSI distraktor.",
+      "source": "mySSI: ITC Lesson 5.3 Review"
+    },
+    {
+      "id": "mssi-inst-266",
+      "area": "instructor",
+      "subarea": "Methodology — Skill teaching",
+      "question": "Diving Position během výcviku používejte k tomu, abyste:",
+      "options": {
+        "a": "Zvýšili náročnost provedení dovedností",
+        "b": "Donutili studenty trénovat dovednosti v pokročilé poloze",
+        "c": "Zvýšili komfort studentů a rozvoj dovedností pro reálný svět",
+        "d": "Eliminovali slabé studenty z výcviku"
+      },
+      "correct": "c",
+      "explanation": "Diving Position = neutrální vztlak + horizontální trim, což je přesně to, jak skutečné potápění probíhá — takže dovednosti trénované v této poloze se přenášejí 1:1 do otevřené vody. Komfort se buduje, protože tělo se učí polohu, která se pod vodou cítí přirozeně. (a) „výzva“ je vedlejší efekt, ne účel. (b) a (d) jsou cynické anti-vzorce — SSI metodika je o podpoře, ne eliminaci.",
+      "source": "mySSI: ITC Lesson 5.3 Review"
+    },
+    {
+      "id": "mssi-inst-267",
+      "area": "instructor",
+      "subarea": "Methodology — Open Water Training",
+      "question": "Během Open Water Training Dives:",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Budete hodnotit dovednosti a schopnosti svých studentů",
+        "c": "Budete demonstrovat dovednosti naučené v bazénu/chráněné vodě",
+        "d": "Budete hodnotit schopnosti studentů učit se nové dovednosti"
+      },
+      "correct": "b",
+      "explanation": "OW ponory jsou fáze PŘENOSU + HODNOCENÍ (mssi-inst-148): Pro hodnotí, zda studenti dokážou aplikovat již zvládnuté bazénové dovednosti v reálném vodním prostředí. (c) demonstrace žijí především v bazénu/chráněné vodě, kde jsou kontrolované podmínky. (d) je nesprávné — OW není místem, kde se zavádějí nové dovednosti; kurikulum učí nové dovednosti v bazénu, OW je test přenosu. (a) všechny správné zatahuje špatné položky.",
+      "source": "mySSI: ITC Lesson 5.3 Review"
+    },
+    {
+      "id": "mssi-inst-268",
+      "area": "instructor",
+      "subarea": "Methodology — Pool / Confined Water",
+      "question": "Výcviková sezení v bazénu/chráněné vodě:",
+      "options": {
+        "a": "Umožňují studentům bavit se",
+        "b": "Zvyšují komfort studentů s novou výstrojí",
+        "c": "Umožňují studentům učit se a trénovat nové dovednosti",
+        "d": "Všechny odpovědi jsou správné"
+      },
+      "correct": "d",
+      "explanation": "Tři současné účely práce v bazénu/chráněné vodě: (a) zábava + pozitivní afekt (mssi-inst-114, 262); (b) seznámení s výstrojí v kontrolovaném prostředí před vystavením proudu/vlnám/hloubce; (c) primární doručení kurikula — tady se nové dovednosti VYUČUJÍ a pak se přenášejí do OW. Všechny tři se vzájemně posilují.",
+      "source": "mySSI: ITC Lesson 5.3 Review"
+    },
+    {
+      "id": "mssi-inst-269",
+      "area": "instructor",
+      "subarea": "Methodology — Student Experience",
+      "question": "Pro zlepšení výcvikového zážitku vašich studentů byste měli vždy:",
+      "options": {
+        "a": "Přidávat další výcvikové ponory, i když nejsou vyžadovány",
+        "b": "Učit vše, co víte o konkrétních tématech",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Nutit studenty zkoušet nové dovednosti nebo techniky"
+      },
+      "correct": "a",
+      "explanation": "Princip „jdi nad rámec“: minimum standardů = podlaha, ne strop. Extra tréninkové ponory budují sebevědomí, zjemňují vztlak, ukotvují pozitivní asociace s potápěním. (b) přetížení informacemi odporuje principu chunkování (mssi-inst-247) — učit všechno rozředí to, co se musí umět. (d) nucení je nátlak a porušuje SSI etiku + důvěru studentů. (c) všechny správné zahrnuje špatné odpovědi.",
+      "source": "mySSI: ITC Lesson 5.4 Review"
+    },
+    {
+      "id": "mssi-inst-270",
+      "area": "instructor",
+      "subarea": "Methodology — Skill teaching",
+      "question": "Kde se nacházejí podrobné popisy dovedností?",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "V SSI Training Standards",
+        "c": "V instruktorském manuálu programu a v SSI Skill Review programu",
+        "d": "V digitálních učebních materiálech studenta"
+      },
+      "correct": "c",
+      "explanation": "Krokové procedury dovedností a tipy pro koučování ze strany Pro žijí ve dvou Pro zdrojích: instruktorský manuál programu + SSI Skill Review program (samostatný nástroj s detailními procedurami). (b) Training Standards uvádějí, KTERÉ dovednosti jsou vyžadovány a parametry hloubky/trvání, ale ne podrobný how-to. (d) studentské materiály dávají přehled, ne detail na úrovni Pro. (a) všechny správné to přehání zahrnutím dílčích zdrojů.",
+      "source": "mySSI: ITC Lesson 5.4 Review"
+    },
+    {
+      "id": "mssi-inst-271",
+      "area": "instructor",
+      "subarea": "Methodology — Pool / Confined Water",
+      "question": "Sezení v bazénu/chráněné vodě jsou místem, kde se vaši studenti:",
+      "options": {
+        "a": "Seznamují s novou výstrojí",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Rozvíjejí bezpečné potápěčské návyky",
+        "d": "Učí nové dovednosti"
+      },
+      "correct": "b",
+      "explanation": "Zrcadlo mssi-inst-268 s mírně jiným rámováním: sezení v bazénu/chráněné vodě poskytují (a) seznámení s výstrojí, (c) bezpečné potápěčské návyky (buddy check, rychlost výstupu, situační uvědomění) a (d) osvojení nových dovedností před přenosem do OW. Kontrolované prostředí umožňuje současný pokrok ve všech třech.",
+      "source": "mySSI: ITC Lesson 5.4 Review"
+    },
+    {
+      "id": "mssi-inst-272",
+      "area": "instructor",
+      "subarea": "Methodology — Briefing",
+      "question": "Správný briefing zahrnuje:",
+      "options": {
+        "a": "Cíl, možná rizika, lokalitu a počet opakování",
+        "b": "Pouze cíl, klíčové body a lokalitu",
+        "c": "Cíl, hodnotu, klíčové body, organizaci, ruční signály a lokalitu",
+        "d": "Pouze cíl, hodnotu a lokalitu"
+      },
+      "correct": "c",
+      "explanation": "Standardní SSI briefing má šest komponent: CÍL (jaký skill / ponor), HODNOTA (proč je to pro studenta důležité — relevance), KLÍČOVÉ BODY (na co si dát pozor), ORGANIZACE (kdo je kde, v jakém pořadí, s jakou rolí), RUČNÍ SIGNÁLY (zopakovat komunikaci před ponořením), LOKALITA (vstup, hloubka, výstup). Ostatní možnosti jsou částečné podmnožiny, které vynechávají kritické části — hodnota motivuje k zapojení, organizace předchází chaosu, signály brání nedorozuměním.",
+      "source": "mySSI: ITC Lesson 5.4 Review"
+    },
+    {
+      "id": "mssi-inst-273",
+      "area": "instructor",
+      "subarea": "Methodology — Briefing",
+      "question": "Formát briefingu se mění v závislosti na:",
+      "options": {
+        "a": "Typu výcviku, výcvikovém prostředí a osobním stylu výuky",
+        "b": "Typu výcviku, typu vybavení a osobním stylu výuky",
+        "c": "Počtu studentů, typu vybavení a politice Training Center",
+        "d": "Počtu studentů, osobním stylu výuky a politice Training Center"
+      },
+      "correct": "a",
+      "explanation": "Tři proměnné, které mění formát briefingu: TYP VÝCVIKU (vstupní úroveň potřebuje víc vedení za ruku než Pro program), VÝCVIKOVÉ PROSTŘEDÍ (bazén vs. břeh vs. loď vs. vysoká nadmořská výška — jiné uspořádání, rizika, vstupy/výstupy), OSOBNÍ STYL VÝUKY (váš hlas v rámci 6komponentního SSI rámce). Vybavení, počet studentů a politika TC mohou ovlivnit podání, ale nejsou primárními osami — ty ovlivňují spíš JAK to říkáte, než JAKOU strukturu použijete.",
+      "source": "mySSI: ITC Lesson 5.4 Review"
+    },
+    {
+      "id": "mssi-inst-274",
+      "area": "instructor",
+      "subarea": "Methodology — Pool / Confined Water",
+      "question": "Co z následujícího budete dělat pouze během výcviku v bazénu/chráněné vodě, a ne během Open Water Training Dives?",
+      "options": {
+        "a": "Vynucovat bezpečné a ekologicky šetrné potápěčské postupy",
+        "b": "Procvičovat povědomí o buddym a kontrolu vztlaku",
+        "c": "Demonstrovat a opakovat skilly pro vaše studenty",
+        "d": "Vyhodnocovat komfort a schopnosti vašich studentů"
+      },
+      "correct": "c",
+      "explanation": "Demonstrace a opakování skillů patří do bazénu / chráněné vody — to je kontrolované prostředí, kde probíhá výuka (mssi-inst-148, 267). OW je fáze přenosu a vyhodnocení, studenti aplikují již zvládnuté skilly. (a) bezpečné a ekologické postupy se vynucují v OBOU prostředích; (b) povědomí o buddym a procvičování vztlaku pokračuje i v OW; (d) vyhodnocování komfortu a schopností běží po celý program.",
+      "source": "mySSI: ITC Lesson 5.4 Review"
+    },
+    {
+      "id": "mssi-inst-275",
+      "area": "instructor",
+      "subarea": "Methodology — Training Records",
+      "question": "Kdy byste měli vyplnit záznamy o výcviku studenta?",
+      "options": {
+        "a": "Po každém výcvikovém sezení nebo na konci každého výcvikového dne",
+        "b": "Kdykoli je to pro vás nejvíce vyhovující",
+        "c": "Po dokončení všech sezení v bazénu / chráněné vodě",
+        "d": "Po vydání certifikační karty studenta"
+      },
+      "correct": "a",
+      "explanation": "Disciplína čerstvé paměti: zapisujte záznamy, dokud jsou detaily ještě živé — nejlépe po každém sezení, na konci výcvikového dne je nejzazší termín. (b) „kdykoli vyhovuje“ vede k odchylkám paměti, vynechaným detailům, ztracené dokumentaci. (c) čekat až do konce všech bazénových sezení znamená, že případný incident v polovině programu nemá soudobé záznamy na obhajobu Pro. (d) po vydání certifikace je nesmysl — záznamy jsou PŘEDPOKLADEM pro vydání certifikátu (mssi-inst-208).",
+      "source": "mySSI: ITC Lesson 5.4 Review"
+    },
+    {
+      "id": "mssi-inst-276",
+      "area": "instructor",
+      "subarea": "Methodology — In-Water Communication",
+      "question": "Jaký signál byste měli dát před demonstrací skillu?",
+      "options": {
+        "a": "Sundejte si automatiku",
+        "b": "Dělej skill se mnou",
+        "c": "Všichni se dívejte na mě",
+        "d": "Všichni sledujte svého buddyho"
+      },
+      "correct": "c",
+      "explanation": "Před demonstrací nasměrujte pozornost: „Všichni se dívejte na mě“ říká studentům, ať přestanou hrát s vybavením, podívají se na vás a sledují, co bude následovat. (a) „Sundejte si automatiku“ je specifický signál pro konkrétní cvik, nikdy ne obecný signál před demonstrací — nebezpečně by rozptýlil pozornost. (b) „Dělej skill se mnou“ je signál během skillu, po demonstraci. (d) „Sledujte buddyho“ je signál pro buddy-check, jiný účel.",
+      "source": "mySSI: ITC Lesson 5.4 Review"
+    },
+    {
+      "id": "mssi-inst-277",
+      "area": "instructor",
+      "subarea": "Methodology — Acquisition Programs",
+      "question": "Po dokončení akvizičního programu byste měli:",
+      "options": {
+        "a": "Povzbudit studenty, aby pokračovali v potápění",
+        "b": "Vydat digitální kartu",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Provést rychlé shrnutí zkušeností studentů"
+      },
+      "correct": "c",
+      "explanation": "Tři kroky po akvizici, které uzavírají kruh: (a) povzbudit k pokračování — most na OWD nebo specialitu, akvizice je trychtýř; (b) vydat digitální kartu — oficiální záznam v MySSI, dává studentovi něco hmatatelného; (d) rychlé shrnutí zkušeností — krátký debriefing, který umožní studentovi formulovat, co se naučil, a poskytne Pro zpětnou vazbu. Vynechání kteréhokoli z nich oslabuje konverzi do dalšího programu.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-278",
+      "area": "instructor",
+      "subarea": "Methodology — Acquisition Programs",
+      "question": "Co z následujícího je vyžadováno pro program Try Scuba?",
+      "options": {
+        "a": "Vedení záznamů a plánování",
+        "b": "Nákup vybavení",
+        "c": "Provedení závěrečné zkoušky",
+        "d": "Výběr lokality pro otevřenou vodu"
+      },
+      "correct": "a",
+      "explanation": "I úvodní program jako Try Scuba vyžaduje záznamy (Liability Release, zdravotní formulář, základní profil) a plánování. (b) studenti si nemusí pořizovat vybavení — Try Scuba používá zapůjčenou výstroj. (c) žádná závěrečná zkouška — Try Scuba je ochutnávkový zážitek, ne certifikační program. (d) Try Scuba je jen v bazénu / chráněné vodě, výběr OW lokality není jeho součástí.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-279",
+      "area": "instructor",
+      "subarea": "Methodology — Acquisition Programs",
+      "question": "SSI experience programy jsou určené k tomu, aby:",
+      "options": {
+        "a": "Připravily studenty na pokročilý potápěčský výcvik",
+        "b": "Poskytly zábavný a bezpečný zážitek ve vodě",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Certifikovaly studenty jako vstupní potápěče"
+      },
+      "correct": "b",
+      "explanation": "Experience programy (Try Scuba, Scuba Rangers, Scuba Skills Update) existují, aby poskytly zábavnou a bezpečnou ochutnávku potápění — bez tlaku, s nízkou laťkou, k budování sebedůvěry. NEJSOU to certifikační programy ((d) je nesprávné) — Open Water Diver a Scuba Diver jsou vstupní certifikace. (a) příprava na pokročilý výcvik je vedlejší následný efekt, ne primární účel. (c) „všechny správné“ zatahuje nesprávné tvrzení o certifikaci.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-280",
+      "area": "instructor",
+      "subarea": "Methodology — Acquisition Programs",
+      "question": "Zážitek ve vodě v rámci Try Scuba nebo Basic Diver musí být:",
+      "options": {
+        "a": "Náročný, aby se zajistilo, že je student připravený potápět se",
+        "b": "Zahrnovat komplexní briefing a debriefing",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Co nejvíce příjemný a bez problémů"
+      },
+      "correct": "d",
+      "explanation": "Definující charakteristika zážitku Try Scuba / Basic Diver: maximální požitek, nulové problémy — student odchází s pocitem „chci toho víc“. (a) je úplně špatně nastavený regulátor — náročný program pro úplného začátečníka zabíjí konverzi. (b) komplexní briefing/debriefing je dobrá obecná praxe, ale ne DEFINUJÍCÍ rys těchto akvizičních formátů. (c) „všechny správné“ zahrnuje špatnou možnost „náročný“.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-281",
+      "area": "instructor",
+      "subarea": "Methodology — Acquisition Programs",
+      "question": "Které komponenty SSI Total Teaching System lze použít k výuce akvizičních programů?",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Instructor Manual",
+        "c": "Cue cards a flip chart",
+        "d": "Training Standards"
+      },
+      "correct": "a",
+      "explanation": "Akviziční programy (Try Scuba, Scuba Rangers) mohou využít celou sadu nástrojů TTS: (b) Instructor Manual dává strukturovaný plán lekce; (c) cue cards a flip chart poskytují vizuální pomůcky, které lze použít u bazénu bez obrazovky; (d) Training Standards definují limity, prerekvizity a co je v programu povolené. Stejná páteř TTS, která podporuje OWD, podporuje i akviziční formáty — stejná architektura, menší rozsah.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-282",
+      "area": "instructor",
+      "subarea": "Methodology — Acquisition Programs",
+      "question": "Výuka programů Try Scuba:",
+      "options": {
+        "a": "Rozvíjí vaše schopnosti pro výcvik v otevřené vodě",
+        "b": "Zvyšuje vaše pedagogické zkušenosti a navyšuje výdělečné příležitosti",
+        "c": "Umožňuje vám registrovat se na výcvik Specialty Instructor",
+        "d": "Neposkytuje dive professional žádné výhody"
+      },
+      "correct": "b",
+      "explanation": "Dvojí přínos: skutečné pedagogické opakování v málo rizikovém bazénovém prostředí (skvělé pro mladší Pro k vybroušení briefingu a demonstrací) + další zdroj příjmů pro Pro a TC. (a) Try Scuba je pouze v bazénu, takže přímo nerozšiřuje vaše OW výcvikové kapacity. (c) cesta k Specialty Instructor (mssi-inst-159, 165) není podmíněna výukou Try Scuba. (d) převrací pravdu.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-283",
+      "area": "instructor",
+      "subarea": "Methodology — Acquisition Programs",
+      "question": "Skilly v programu Try Scuba:",
+      "options": {
+        "a": "Musí být vyučovány a vyhodnocovány Assistant Instructor",
+        "b": "Jsou vyžadovány pouze tehdy, když student bude pokračovat na Basic Diver Open Water Training Dive",
+        "c": "Nejsou vyžadovány pro žádný výcvik ve vodě",
+        "d": "Musí být vyučovány a vyhodnocovány Divemaster"
+      },
+      "correct": "b",
+      "explanation": "Podmíněný požadavek: Try Scuba samo o sobě je ochutnávka — skilly se procvičují, ale formálně se nevyhodnocují. Jakmile student plánuje most na Basic Diver OW Training Dive, stejné skilly se stanou prerekvizitami pro tento další krok a musí být vyhodnoceny. (a) a (d) vážou požadavek na konkrétní Pro ratings, což ze standardu takto nevyplývá. (c) je příliš absolutní — skilly JSOU vyžadovány, když je plánováno pokračování.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-284",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "Kdo přímo dohlíží na otevřenovodní část programu Basic Diver?",
+      "options": {
+        "a": "SSI Assistant Instructor nebo vyšší",
+        "b": "SSI Divemaster nebo vyšší",
+        "c": "Jakýkoli dive professional",
+        "d": "SSI Open Water Instructor nebo vyšší"
+      },
+      "correct": "d",
+      "explanation": "Dohled na OW pro programy spojené s certifikacemi vyžaduje plnou autoritu Instructor — OWI nebo vyšší. (a) autorita AI je omezena na bazén / chráněnou vodu pod nepřímým dohledem (mssi-inst-147, 153). (b) DM nemá pravomoc vydávat certifikace ani dohlížet na OW pro vstupní výcvik. (c) „jakýkoli pro“ je příliš široké — DM a AI sem nepatří. Basic Diver OW dive je funkčně vstupní OW Training Dive, takže platí přímý dohled OWI.",
+      "source": "mySSI: ITC Lesson 6.1 Review"
+    },
+    {
+      "id": "mssi-inst-285",
+      "area": "instructor",
+      "subarea": "Methodology — Refresher Programs",
+      "question": "Certifikovaný potápěč musí před zahájením programu Scuba Skills Update dokončit ____.",
+      "options": {
+        "a": "Nový Specialty Diver Training Record",
+        "b": "Novou potápěčskou prohlídku a lékařské vyšetření",
+        "c": "Jakoukoli dokumentaci požadovanou Training Center",
+        "d": "Nový Diver Training Record"
+      },
+      "correct": "c",
+      "explanation": "SSU je refresher pro již certifikované potápěče, takže předprogramová dokumentace je to, co TC potřebuje k ověření aktuálnosti: obvykle čerstvý Liability Release, Medical Participant Questionnaire (s opětovným vyšetřením, pokud se zdravotní stav změnil nebo formulář vypršel) a podpis u zapůjčené výstroje. (a) Specialty Diver Training Record není relevantní — SSU není specialita. (b) automatická nová zdravotní prohlídka není vždy nutná, pokud je stávající stále platná. (d) příliš úzké — TC dokumentace je zastřešující pojem, který pokrývá aktualizace záznamů a všechno další lokální.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-286",
+      "area": "instructor",
+      "subarea": "Methodology — Refresher Programs",
+      "question": "Pokud uplynulo více než dvanáct měsíců od posledního sezení ve vodě, student Open Water Diver:",
+      "options": {
+        "a": "Může absolvovat Scuba Skills Update nebo SSI Specialty program",
+        "b": "Žádné další požadavky neexistují",
+        "c": "Musí absolvovat Scuba Skills Update",
+        "d": "Musí znovu absolvovat celý Open Water Diver program"
+      },
+      "correct": "c",
+      "explanation": "Standardní pravidlo SSI pro návrat po přerušení 12+ měsíců: před pokračováním ve výcviku je vyžadován Scuba Skills Update k ověření aktuálnosti. (a) SSU a specialita nejsou zaměnitelné — pouze SSU je předepsaný refresher. (b) ignorovat přestávku by bylo nedbalé — atrofie skillů po roce je reálná. (d) opakování celého OWD je příliš extrémní — SSU je úměrné řešení.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-287",
+      "area": "instructor",
+      "subarea": "Methodology — Refresher Programs",
+      "question": "Po dokončení Scuba Skills Update by Training Center mělo vydat:",
+      "options": {
+        "a": "Certifikační kartu Basic Diver",
+        "b": "Certifikaci Open Water Diver",
+        "c": "Recognition kartu Scuba Skills Update",
+        "d": "Certifikační kartu Scuba Skills Update"
+      },
+      "correct": "c",
+      "explanation": "Klíčový rozdíl: SSU NENÍ certifikace — je to refresher k ověření aktuálnosti. Proto je výstupem RECOGNITION karta, ne certifikační karta. (d) je učebnicová past — stejná slova, ale „certifikační“ je špatný přívlastek. (a) a (b) by znamenaly vydání ratingu, který SSU neuděluje — Basic Diver a OWD jsou vstupní certifikace získané vlastními programy.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-288",
+      "area": "instructor",
+      "subarea": "Methodology — Refresher Programs",
+      "question": "Sezení ve vodě v rámci Scuba Skills Update by mělo zahrnovat:",
+      "options": {
+        "a": "Opakování základních potápěčských skillů",
+        "b": "Pouze opakování nouzových skillů",
+        "c": "Detailní rozbor každého skillu z programu Open Water Diver",
+        "d": "Pouze pokročilé skilly vztlaku"
+      },
+      "correct": "a",
+      "explanation": "SSU = ověření aktuálnosti základní sady skillů: sundání a nasazení masky, recovery automatiky, neutrální vztlak, rychlost výstupu, základní nouzové postupy. (b) „pouze nouzové“ je příliš úzké — degraduje se celá sada skillů, ne jen nouzové cviky. (c) detailní slovní rozbor patří do akademického opakování, ne do sezení ve vodě. (d) „pouze pokročilý vztlak“ přehlíží základy, na jejichž obnovení je SSU navržené.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-289",
+      "area": "instructor",
+      "subarea": "Methodology — Refresher Programs",
+      "question": "Které materiály by měly být použity pro výuku programu Scuba Skills Update?",
+      "options": {
+        "a": "Pouze digitální výukové materiály Open Water Diver",
+        "b": "Instruktorské materiály Scuba Skills Update",
+        "c": "Digitální výukové materiály Assistant Instructor",
+        "d": "Materiály Diver Stress and Rescue Instructor"
+      },
+      "correct": "b",
+      "explanation": "Každý SSI program má vyhrazené materiály — SSU má vlastní instruktorskou sadu kalibrovanou pro tempo refresheru (přeskočit objevování základů, soustředit se na odstranění rezivění). (a) OWD materiály mají rozsah celého programu a přetížily by obsahem, který už student probral. (c) a (d) patří do úplně jiných programů na jiných úrovních.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-290",
+      "area": "instructor",
+      "subarea": "Methodology — Debrief",
+      "question": "Co byste měli dělat během diskuse po ponoru?",
+      "options": {
+        "a": "Vydat digitální recognition kartu",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Diskutovat o tom, jak budou skilly aplikovány v reálném světě",
+        "d": "Povzbudit studenty, aby pokračovali v potápění, kupovali si vybavení a cestovali"
+      },
+      "correct": "b",
+      "explanation": "Komplexní uzavření pokrývá všechny tři: (a) vydat digitální recognition kartu okamžitě, dokud je to čerstvé a oni jsou stále nabití energií; (c) propojit práci ve vodě zpět k reálnému potápění (princip relevance / Lekce 1.2); (d) ukázat na další krok — Continuing Education program, vybavení, ze kterého budou těžit, potápěčský výjezd — to je SSI funnel pokračování v akci.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-291",
+      "area": "instructor",
+      "subarea": "Methodology — Refresher Programs",
+      "question": "Jaký je účel programu Scuba Skills Update?",
+      "options": {
+        "a": "Poskytnout dodatečný výcvik ve vodě necertifikovaným potápěčům nebo certifikovaným potápěčům, kteří potřebují obnovit znalosti a dovednosti",
+        "b": "Recertifikovat potápěče, kteří byli mimo vodu déle než pět let",
+        "c": "Poskytnout certifikační variantu, která nevyžaduje program Open Water Diver",
+        "d": "Naučit certifikované potápěče specialitní skilly a znalosti"
+      },
+      "correct": "a",
+      "explanation": "SSU má dvě cílové skupiny: (1) NECERTIFIKOVANÉ studenty uprostřed programu, jejichž výcvik byl přerušen 12+ měsíců (mssi-inst-286 — musí dokončit SSU před pokračováním); (2) CERTIFIKOVANÉ potápěče potřebující obnovit aktuálnost (mssi-inst-285, 287, 288). (b) hodnota 5 let je vymyšlená — práh SSI je 12 měsíců. (c) SSU není certifikace (mssi-inst-287); pouze OWD/Scuba Diver jsou vstupní certifikace. (d) specialitní skilly se učí ve specialitních programech, ne v SSU.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-292",
+      "area": "instructor",
+      "subarea": "Methodology — Refresher Programs",
+      "question": "Certifikovaní potápěči absolvují Scuba Skills Update, aby:",
+      "options": {
+        "a": "Získali novou certifikaci Open Water Diver",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Obnovili základní potápěčské znalosti a dovednosti",
+        "d": "Naučili se nové specialitní skilly a znalosti"
+      },
+      "correct": "c",
+      "explanation": "SSU pro již certifikovaného potápěče = obnova aktuálnosti, odstranění rezivění na základní sadě skillů. (a) je nesmyslné — již drží OWD certifikaci, žádná nová se nevydává (mssi-inst-287 — pouze recognition karta). (d) specialitní skilly žijí ve specialitních programech (mssi-inst-160–166), ne v SSU. (b) „všechny správné“ zatahuje špatná tvrzení.",
+      "source": "mySSI: ITC Lesson 6.2 Review"
+    },
+    {
+      "id": "mssi-inst-293",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "____ Training Dive(s) musí být ____ během specialitních programů.",
+      "options": {
+        "a": "Všechny otevřenovodní, přímo dohlížené",
+        "b": "Všechny volitelné, přímo dohlížené",
+        "c": "První otevřenovodní, nepřímo dohlížený",
+        "d": "Všechny povinné, přímo dohlížené"
+      },
+      "correct": "d",
+      "explanation": "Specialitní programy dělí ponory na POVINNÉ (jádro kurikula, musí být přímo dohlížené aktivním Specialty Instructor) a VOLITELNÉ (doplňkové / fun ponory, které mohou běžet s volnějším dohledem). (a) přílišné omezení — aplikovat přímý dohled na všechny OW ponory včetně volitelných není pravidlem. (b) převrací: volitelné ponory z definice nepotřebují přímý dohled. (c) špatná kombinace atributů.",
+      "source": "mySSI: ITC Lesson 6.3 Review"
+    },
+    {
+      "id": "mssi-inst-294",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Specialitní programy Ecology:",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Mohou být vyučovány Assistant Instructor s příslušnou certifikací",
+        "c": "Nelze je kombinovat s výcvikem Open Water Diver",
+        "d": "Vyžadují minimálně dva otevřenovodní ponory"
+      },
+      "correct": "b",
+      "explanation": "Ecology speciality (Marine Ecology, Shark Ecology, Sea Turtle Ecology atd.) jsou znalostně doménové programy bez rizika hloubky / pronikání — spadají do méně rizikového pásma, pro které mohou AI získat ratings Specialty Instructor (konzistentní s mssi-inst-163, Navigation). (c) je nesprávné — Ecology speciality se s OWD výcvikem dobře kombinují. (d) počet ponorů se mění podle speciality; „minimálně dva“ není univerzální.",
+      "source": "mySSI: ITC Lesson 6.3 Review"
+    },
+    {
+      "id": "mssi-inst-295",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Speciality Pool/Confined Water:",
+      "options": {
+        "a": "Musí být vyučovány pouze v bazénu / chráněné vodě",
+        "b": "Musí být vyučovány Open Water Instructor nebo vyšším",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Vyžadují minimálně dvě výcviková sezení ve vodě"
+      },
+      "correct": "d",
+      "explanation": "Univerzální vlastnost specialit Pool/Confined Water: minimálně dvě výcviková sezení ve vodě, aby umožnila řádné osvojení skillů (Perfect Buoyancy, Snorkeling atd. potřebují tento objem nácviku). (a) „pouze“ je příliš striktní — některé Pool/Confined speciality umožňují demonstrace jako most do OW. (b) požadavek na Pro rating se liší podle speciality (některé jsou způsobilé pro AI, mssi-inst-163). (c) „všechny správné“ zatahuje příliš omezující odpovědi.",
+      "source": "mySSI: ITC Lesson 6.3 Review"
+    },
+    {
+      "id": "mssi-inst-296",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Programy Enriched Air Nitrox:",
+      "options": {
+        "a": "Nevyžadují žádný výcvik ve vodě",
+        "b": "Mohou být vyučovány Assistant Instructor",
+        "c": "Mohou být vyučovány Divemaster",
+        "d": "Vyžadují minimálně dva otevřenovodní ponory"
+      },
+      "correct": "a",
+      "explanation": "SSI Enriched Air Nitrox je čistě znalostní specialita: teorie (fyzika plynů, toxicita kyslíku, výpočet MOD) + praktická analýza plynu kyslíkovým analyzátorem — žádný požadavek na výcvik ve vodě. Potápěč prokazuje kompetenci na pracovním stole, ne pod vodou. (c) DM nemá autoritu Specialty Instructor. (d) dva OW ponory jsou v rozporu s čistě znalostní povahou. (b) autorita AI pro EAN se liší dle regionu/standardu, ale univerzální pravdou je vlastnost bez vody.",
+      "source": "mySSI: ITC Lesson 6.3 Review"
+    },
+    {
+      "id": "mssi-inst-297",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Pokud potápěč může prokázat předchozí zkušenostní ponory pro specialitní program:",
+      "options": {
+        "a": "Můžete uznat všechny předchozí zkušenostní ponory",
+        "b": "Můžete uznat dva ponory",
+        "c": "Můžete uznat jeden ponor",
+        "d": "Předchozí zkušenost uznat nemůžete"
+      },
+      "correct": "c",
+      "explanation": "SSI strop pro uznávání předchozích zkušeností = JEDEN ponor na specialitu, je-li doložen (záznam v logbooku, předchozí certifikace). Strop existuje proto, aby specialita stále vyžadovala smysluplný nový výcvik. (a) uznání všech by program rozložilo. (b) dva přesahují standard. (d) odmítnutí všeho ignoruje SSI Flexibility Rule. Mnemotechnika: „one and done“ pro předchozí kredit.",
+      "source": "mySSI: ITC Lesson 6.3 Review"
+    },
+    {
+      "id": "mssi-inst-298",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Speciality Open Water:",
+      "options": {
+        "a": "Mohou být propagovány novým i zkušeným potápěčům",
+        "b": "Vyžadují minimálně dva Open Water Training Dives pro certifikaci",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Zaměřují se na real-world otevřenovodní skilly"
+      },
+      "correct": "c",
+      "explanation": "Tři vlastnosti Open Water specialit, všechny pravdivé: (a) prodejné novým potápěčům (Boat Diving, Navigation hned po OWD) i veteránům doplňujícím portfolio; (b) minimálně dva OW Training Dives pro certifikaci — to je SSI standard pro speciality OW domény; (d) zaměřené na reálné OW skilly (Deep, Wreck, Drift, Night, Photography ve skutečném prostředí, ne simulovaně).",
+      "source": "mySSI: ITC Lesson 6.3 Review"
+    },
+    {
+      "id": "mssi-inst-299",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Science of Diving je specialitní program kategorie ____.",
+      "options": {
+        "a": "Pool/Confined Water",
+        "b": "Open Water",
+        "c": "Dedicated Equipment",
+        "d": "Diving Knowledge"
+      },
+      "correct": "d",
+      "explanation": "Science of Diving je akademický hloubkový průzkum fyziky, fyziologie, vybavení, prostředí a dekompresní teorie — čistá teorie, nulový požadavek na vodu. To ji řadí do kategorie Diving Knowledge specialit vedle EAN, Marine Ecology a podobných čistě znalostních programů. (a), (b) a (c) vyžadují výcvik ve vodě nebo manipulaci s vybavením, který kurikulum SoD nezahrnuje.",
+      "source": "mySSI: ITC Lesson 6.3 Review"
+    },
+    {
+      "id": "mssi-inst-300",
+      "area": "instructor",
+      "subarea": "Professional Standards — Explorer Programs",
+      "question": "Kolik kategorií programů Explorer existuje?",
+      "options": {
+        "a": "6",
+        "b": "3",
+        "c": "5",
+        "d": "10"
+      },
+      "correct": "a",
+      "explanation": "SSI rodina Explorer pokrývá 6 kategorií zaměřených na mládež / úvodní potápění napříč různými věkovými skupinami a úrovněmi pokroku (Snorkeling, Scuba Rangers, Scuba Explorer pathway atd.). Struktura umožňuje TC nabízet věkově přiměřené úvody od velmi malých dětí až po starší teenagery přecházející do vstupních dospělých programů.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-301",
+      "area": "instructor",
+      "subarea": "Methodology — Explorer Programs",
+      "question": "Pokud má student potíže s provedením skillu:",
+      "options": {
+        "a": "Buďte povzbudiví a nenuťte ho skill dokončit",
+        "b": "Nepřestávejte, dokud skill neovládne",
+        "c": "Ukončete sezení a nechte ho opustit vodu",
+        "d": "Nechte ho cvičit samostatně"
+      },
+      "correct": "a",
+      "explanation": "Pozitivní podpora je SSI cesta, zejména v Explorer / programech pro mládež, kde vynucování zabíjí radost a důvěru. Pokud skill teď nezapadne, jděte dál a vraťte se k němu později — mozek potřebuje čas na inkubaci. (b) drilování bez přestávek vytváří frustraci a zafixovává napětí. (c) ukončení sezení je trestající reakce, která ničí vztah pro výuku. (d) nedohlížený nácvik je nebezpečný a v rozporu se SSI standardy.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-302",
+      "area": "instructor",
+      "subarea": "Methodology — Explorer Programs",
+      "question": "Záměrem programu SSI Explorers je poskytnout:",
+      "options": {
+        "a": "Znalosti a dovednosti k bezpečné účasti na šnorchlování, mermaid, freedivingu nebo scuba zážitcích",
+        "b": "Zážitek v prostředí bazénu nebo chráněné vody",
+        "c": "Zážitky pro děti",
+        "d": "Všechny odpovědi jsou správné"
+      },
+      "correct": "d",
+      "explanation": "Tři propojené aspekty programů Explorer: (a) věkově přiměřené znalosti a dovednosti napříč více vodními disciplínami (snorkeling, mermaid, freediving, scuba); (b) kontrolované prostředí bazénu / chráněné vody, na této úrovni nikdy ne otevřená voda — udržuje minimální riziko; (c) cílovou skupinou jsou děti — tempo, jazyk a herní metodologie přátelské k mládeži. Trojice definuje celou hodnotovou nabídku programu.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-303",
+      "area": "instructor",
+      "subarea": "Methodology — Explorer Programs",
+      "question": "Program SSI Explorers:",
+      "options": {
+        "a": "Je určen pro děti ve věku 6-10 let",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Je program pouze v bazénu / chráněné vodě",
+        "d": "Necertifikuje studenty k potápění bez dive professional"
+      },
+      "correct": "b",
+      "explanation": "Tři konzistentní fakta o Explorers: (a) cílový věk 6-10 let — sweet spot demografická skupina pro úroveň Scuba Rangers / Explorer; (c) pouze bazén / chráněná voda — žádná otevřená voda v tomto věku; (d) žádná certifikace pro autonomní potápění — děti se vždy potápějí pod přímým dohledem Pro bez ohledu na dokončení programu. Všechny tři dohromady definují bezpečnostní obálku programu.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-304",
+      "area": "instructor",
+      "subarea": "Methodology — Explorer Programs",
+      "question": "Použití her a zábavných aktivit při výuce:",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Poskytuje nedohlíženou zábavu",
+        "c": "Umožňuje studentům zažít hlubokou vodu",
+        "d": "Spojuje vzdělávání s hraním"
+      },
+      "correct": "d",
+      "explanation": "Gamifikace: děti se učí hrou, retence jezdí na asociaci s potěšením. Propojení nových znalostí s hrou je dělá zapamatovatelné. (b) nedohlížená zábava je v programech pro mládež absolutně zakázaná — dohled nikdy nepoleví. (c) hluboká voda a studenti ve věku Explorer se nikdy nemíchají; programy zůstávají mělké. (a) „všechny správné“ zatahuje nebezpečná tvrzení.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-305",
+      "area": "instructor",
+      "subarea": "Professional Standards — Explorer Programs",
+      "question": "Co z následujícího je program Explorer?",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Lifeguard Explorer",
+        "c": "Blue Oceans Explorer",
+        "d": "Sidemount Explorer"
+      },
+      "correct": "c",
+      "explanation": "Blue Oceans Explorer je program Explorer s tématikou ochrany prostředí — environmentální filozofie SSI Blue Oceans podaná dětem ve věkově přiměřeném formátu. (b) „Lifeguard Explorer“ není název SSI programu. (d) „Sidemount Explorer“ je nesmysl — Sidemount je technická konfigurace pro pokročilé potápěče, nikdy ne pro mládež. (a) „všechny správné“ zatahuje smyšlené názvy.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-306",
+      "area": "instructor",
+      "subarea": "Professional Standards — Explorer Programs",
+      "question": "Jak se získává úroveň recognition Specialty Explorer?",
+      "options": {
+        "a": "Dokončením minimálně deseti sezení ve vodě",
+        "b": "Dokončením jakéhokoli programu Explorer",
+        "c": "Dokončením všech zkušeností Ecology specialit",
+        "d": "Dokončením dvou specialitních zkušeností"
+      },
+      "correct": "d",
+      "explanation": "Specialty Explorer zrcadlí dospělého Specialty Diver (12 ponorů + 2 speciality / mssi-inst-131), ale škálováno do rodiny Explorer — dokončení dvou specialitních zkušeností v rámci programů Explorer získává recognition. (a) deset sezení je vymyšlený počet. (b) jakýkoli jeden Explorer nedosahuje úrovně Specialty Explorer. (c) požadovat VŠECHNY Ecology speciality je přepředepsané — pravidlem jsou dvě jakékoli speciality.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-307",
+      "area": "instructor",
+      "subarea": "Professional Standards — Explorer Programs",
+      "question": "Jaké jsou recognition úrovně Explorers?",
+      "options": {
+        "a": "Advanced, Master a Professional",
+        "b": "Žádná odpověď není správná",
+        "c": "Specialty, Advanced a Master",
+        "d": "Rookie, Intermediate a Advanced"
+      },
+      "correct": "c",
+      "explanation": "Postup SSI Explorer zrcadlí dospělý žebříček Specialty / Advanced / Master Diver: Specialty Explorer (2 specialitní zkušenosti — mssi-inst-306), Advanced Explorer (více specialit), Master Explorer (vrcholová úroveň). (a) propašovává „Professional“, což není úroveň Explorer — Pro nejsou děti. (d) „Rookie / Intermediate / Advanced“ je vymyšlená terminologie. (b) je standardní mySSI distraktor.",
+      "source": "mySSI: ITC Lesson 6.4 Review"
+    },
+    {
+      "id": "mssi-inst-308",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Co z následujícího je příkladem real-world aplikace pro Sekci 4 | Hodnota dive buddyho a provádění vašich ponorů?",
+      "options": {
+        "a": "Zdůraznění rozdílu mezi zapůjčeným a osobním vybavením",
+        "b": "Výpočet gas managementu a plánů ponorů pro různé hloubky na vaší lokální potápěčské lokalitě",
+        "c": "Popis zajímavých nebo unikátních zvířat viděných na vaší oblíbené potápěčské lokalitě",
+        "d": "Diskuse o plánu ponorů pro výjezd vašeho Training Center, který zahrnuje letecké přepravy"
+      },
+      "correct": "b",
+      "explanation": "Sekce 4 pokrývá buddy systém + provádění ponorů — praktické předponorové plánování: gas management (spotřeba SAC/RMV), profily hloubka-čas, sledování NDL, koordinace s buddym. Real-world aplikace = aplikování těchto výpočtů na reálnou lokální lokalitu. (a) témata vybavení žijí v dřívějších sekcích; (c) identifikace mořského života je ekologie / Sekce 5+; (d) logistika výjezdu kolem létání je relevantnější pro téma létání po potápění, ne pro Sekci 4.",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-309",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Co z následujícího je příkladem real-world aplikace pro Sekci 5 | Oceán a vaše potápěčské příležitosti?",
+      "options": {
+        "a": "Poskytování real-world příkladů plánování ponorů s NDL",
+        "b": "Výuka studentů, jak správný vztlak zabraňuje náhodnému kontaktu s mořskými ježky",
+        "c": "Popis postupu sestavení jejich Total Diving System",
+        "d": "Zdůraznění rozdílu mezi zapůjčeným a osobním vybavením"
+      },
+      "correct": "b",
+      "explanation": "Sekce 5 pokrývá oceánské prostředí + potápěčské příležitosti — povědomí o mořském životě, bezpečná interakce s podvodním světem, environmentální odpovědnost. Propojení kontroly vztlaku s vyhýbáním se kontaktu s mořským životem (mořští ježci, ohnivý korál, žahavé hydroidy) je přesně to spojení ekologie-meets-skill v reálném světě. (a) plánování NDL je Sekce 4 (mssi-inst-308). (c) a (d) jsou témata sekce o vybavení.",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-310",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "V programu Open Water Diver lze Open Water Training Dive 1 provést:",
+      "options": {
+        "a": "Před dokončením akademických požadavků a požadavků v bazénu / chráněné vodě",
+        "b": "Až po dokončení prvních tří akademických sezení a sezení v bazénu / chráněné vodě",
+        "c": "Až po dokončení prvních tří sezení v bazénu / chráněné vodě",
+        "d": "Až po dokončení Akademických sezení 1-3"
+      },
+      "correct": "a",
+      "explanation": "Flexibility Rule (mssi-inst-122, 125) v akci: OW1 lze provést dříve, než jsou dokončeny VŠECHNY akademické a bazénové požadavky. Pro pouze potřebuje zajistit, aby konkrétní skilly hodnocené v OW1 byly nejprve zvládnuté v bazénu — mohou se prolínat (bazén ráno, OW1 odpoledne, další bazén další den). Ostatní možnosti zavádějí rigidní brány „nejprve dokončit první tři“, které ve standardu nejsou.",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-311",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Co z následujícího je příkladem real-world aplikace pro Sekci 6 | Vaše scuba zážitky a dál?",
+      "options": {
+        "a": "Propojení jejich akademických znalostí s Open Water Training Dives, které se chystají dokončit",
+        "b": "Popis postupu sestavení jejich Total Diving System",
+        "c": "Zdůraznění rozdílu mezi zapůjčeným a osobním vybavením",
+        "d": "Poskytování real-world příkladů plánování ponorů s NDL"
+      },
+      "correct": "a",
+      "explanation": "Sekce 6 = závěrečná + přechodová sekce: zde teorie zapadne dohromady a student se těší na skutečné potápění + cestu Continuing Education po OWD. Propojení akademických znalostí s nadcházejícími OW Training Dives přesně zapadá do rámování „připraven se potápět“. (b) a (c) patří do sekcí o vybavení; (d) plánování NDL žije v Sekci 4 (mssi-inst-308).",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-312",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Co z následujícího je příkladem real-world aplikace pro Sekci 2 | Použití vašeho life support vybavení?",
+      "options": {
+        "a": "Propagace programu Perfect Buoyancy studentům, kteří se chtějí dozvědět víc o bezpečných potápěčských postupech",
+        "b": "Vysvětlení důležitosti logování ponorů",
+        "c": "Vysvětlení účinků dusíkové narkózy na potápěče",
+        "d": "Propagace programu Science of Diving studentům, kteří se zajímají o účinky tlaku"
+      },
+      "correct": "a",
+      "explanation": "Sekce 2 pokrývá life support vybavení — BCD, automatika, kontrola vztlaku. Propagace speciality Perfect Buoyancy je přirozený cross-sell přímo navázaný na tento obsah (použití BCD → zvládnutí vztlaku → další program). (b) logbook je obecný k jakékoli sekci. (c) narkóza žije v Sekci 4 (fyziologie hloubky/plynů). (d) Science of Diving je samostatná znalostní specialita, ne prodej zaměřený na vybavení.",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-313",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Který z následujících příkladů ilustruje aplikaci v reálném světě pro Sekci 3 | Dýchací plyn a jeho účinky na vaše tělo?",
+      "options": {
+        "a": "Probrání rozpisu ponorů pro výjezd vašeho Training Center, který zahrnuje letecké přesuny",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Povzbuzování studentů, aby absolvovali specializační program Ecology",
+        "d": "Popis zajímavých nebo unikátních živočichů, které jste viděli na vaší oblíbené lokalitě"
+      },
+      "correct": "a",
+      "explanation": "Sekce 3 pokrývá dýchací plyn a fyziologické účinky: dekompresi, zbytkový dusík, časy bez létání. Itinerář potápěčského výjezdu zahrnujícího lety zakotvuje abstraktně vyučované okno bez létání v něčem hmatatelném (18-24 h před letem podle profilu ponoru). (c) a (d) spadají do oblasti ekologie / Sekce 5. (b) varianta „všechny správné“ zametá pod koberec irelevantní obsah.",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-314",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Open Water Training Dive 2 lze provést pouze:",
+      "options": {
+        "a": "Po dokončení pouze akademických lekcí 1-3",
+        "b": "Po dokončení akademických lekcí 1-3 a sezení v bazénu / chráněné vodě 2-3",
+        "c": "Po dokončení všech akademických lekcí a sezení v bazénu / chráněné vodě 1-3",
+        "d": "Po dokončení všech akademických lekcí a všech sezení v bazénu / chráněné vodě"
+      },
+      "correct": "b",
+      "explanation": "Pravidla pro postup v OWD programu: OW2 vyžaduje dokončené akademické lekce 1-3 + sezení v bazénu / chráněné vodě 2-3 — konkrétní milník, ne přepsané „dokonči vše“. (a) zcela vynechává prerekvizitu bazénu. (c) a (d) přehnaně omezují požadavkem na více sezení, než standardy předepisují. Flexibility Rule stále platí: jde o NEJDŘÍVE možný termín OW2, ne o jediné povolené pořadí.",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-315",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Který z následujících příkladů ilustruje aplikaci v reálném světě pro Sekci 1 | Vaše tělo a vodní prostředí?",
+      "options": {
+        "a": "Poskytování reálných příkladů plánování ponorů v rámci bezdekompresních limitů",
+        "b": "Vysvětlení postupu při podezření na dekompresní onemocnění nebo potápěčské zranění",
+        "c": "Vysvětlení účinků dusíkové narkózy na potápěče",
+        "d": "Popis toho, jak kvalitní maska zlepšuje studentův komfort a schopnost vidět pod vodou"
+      },
+      "correct": "d",
+      "explanation": "Sekce 1 pokrývá adaptaci těla na podvodní prostředí — vidění (fyzika masky), sluch, tlak na uši a dutiny, termoregulaci. Kvalita masky a vidění pod vodou je přímá aplikace navázaná na sekci. (a) NDL = Sekce 4. (b) reakce na DCI = Sekce 3 / nouzové postupy. (c) narkóza = Sekce 4 (hloubka / fyziologie plynů).",
+      "source": "mySSI: ITC Lesson 6.5 Review"
+    },
+    {
+      "id": "mssi-inst-316",
+      "area": "instructor",
+      "subarea": "Methodology — Certification Processing",
+      "question": "Kdy musí být vydána certifikační karta?",
+      "options": {
+        "a": "Pouze pokud o ni student požádá",
+        "b": "Pouze pokud Open Water Instructor rozhodne, že je student kvalifikovaný",
+        "c": "Když student splní požadavky programu uvedené v SSI Training Standards",
+        "d": "Jakmile Training Center rozhodne, že je student kvalifikovaný"
+      },
+      "correct": "c",
+      "explanation": "Vydání certifikace je řízeno standardy, ne diskrečním rozhodnutím. Jakmile student splní požadavky stanovené v SSI Training Standards (zvládnuté dovednosti, složená zkouška, kompletní dokumentace), karta se vydá — tečka. (a) studentova žádost by neměla podmiňovat certifikaci (někteří studenti si o ni nikdy neřeknou, ale stejně si ji zasloužili). (b) a (d) ji prezentují jako věc úsudku Pro / TC, ale Standards odstraňují svévoli — stejná kompetence vede ke stejné certifikaci kdekoli v síti SSI.",
+      "source": "mySSI: ITC Lesson 7.1 Review"
+    },
+    {
+      "id": "mssi-inst-317",
+      "area": "instructor",
+      "subarea": "Methodology — Adult learners",
+      "question": "Proč byste se měli dozvědět, jaké jsou motivace vašich studentů pro absolvování programu Open Water Diver?",
+      "options": {
+        "a": "Můžete redukovat počet open water training dives",
+        "b": "Můžete vynechat dovednosti, které nebudou potřebovat",
+        "c": "Můžete přizpůsobit svůj výcvik jejich cílům",
+        "d": "Nemusíte se zabývat jejich motivacemi"
+      },
+      "correct": "c",
+      "explanation": "Princip dospělého učení opakovaný napříč mssi-inst-108, 116, 210: znalost cílů studenta vám umožní naladit důraz a příklady na to, co je pro ně osobně důležité (destinační potápění, fotografie, drysuit). Obsah dle Standards zůstává pevný — ale rámování se přizpůsobuje. (a) a (b) by porušily Training Standards (nelze redukovat povinné ponory ani vynechávat povinné dovednosti na základě cílů). (d) zcela převrací metodiku dospělého učení.",
+      "source": "mySSI: ITC Lesson 7.1 Review"
+    },
+    {
+      "id": "mssi-inst-318",
+      "area": "instructor",
+      "subarea": "Methodology — OWD Curriculum",
+      "question": "Program Open Water Diver je navržen tak, aby:",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Vycvičil studenty pro každé potápěčské prostředí",
+        "c": "Učil pokročilé dovednosti, jako jsou zvedací vaky a hluboké sestupy",
+        "d": "Vytvořil bezpečné, schopné a samostatné potápěče"
+      },
+      "correct": "d",
+      "explanation": "Mise OWD: vytvořit potápěče, který umí naplánovat a provést bezpečný, dobře řízený ponor v limitech OWD bez dohledu instruktora. (b) „každé prostředí“ je nadhodnocené — studená voda, výška, prostředí s překážkou stropu vyžadují samostatný specializační výcvik. (c) zvedací vaky a hluboké sestupy patří do Search & Recovery, Deep Diving a podobných specialit — ne do jádra OWD. (a) varianta „všechny správné“ zametá pod koberec chybné rozsahy.",
+      "source": "mySSI: ITC Lesson 7.1 Review"
+    },
+    {
+      "id": "mssi-inst-319",
+      "area": "instructor",
+      "subarea": "Methodology — Adult learners",
+      "question": "Potápěči absolvující program Open Water Diver:",
+      "options": {
+        "a": "Sdílejí stejný důvod, proč se stávají potápěči",
+        "b": "Mají různé důvody, proč se stávají potápěči",
+        "c": "Jsou vždy motivováni druhými",
+        "d": "Jsou vždy vnitřně motivováni"
+      },
+      "correct": "b",
+      "explanation": "Různorodá motivace napříč populací OWD: vysněné destinace, fitness a sport, rodinná aktivita, změna kariéry, celoživotní bucket-list, tlak od potápěčsky aktivního přítele. Pro přizpůsobuje jazyk a příklady důvodu každého studenta. (a) je past zobecnění. (c) a (d) absolutní nároky „vždy“ ignorují celé spektrum — mnoho studentů míchá vnitřní a vnější motivaci.",
+      "source": "mySSI: ITC Lesson 7.1 Review"
+    },
+    {
+      "id": "mssi-inst-320",
+      "area": "instructor",
+      "subarea": "Methodology — Assessment",
+      "question": "Účelem hodnocení studentů Open Water Diver je:",
+      "options": {
+        "a": "Aby se cítili špatně ohledně svých schopností",
+        "b": "Určit, zda mohou pokračovat v pokročilém výcviku",
+        "c": "Určit, zda mají znalosti, dovednosti a schopnosti k získání certifikace Open Water Diver",
+        "d": "Vyžadovat od nich doplňující výcvik"
+      },
+      "correct": "c",
+      "explanation": "Hodnocení = certifikační brána: splňuje student Training Standards? Ano → certifikace. Ne → další výcvik před opakovaným hodnocením. (a) je negativní pedagogika a porušuje etiku SSI. (b) připravenost na pokročilý výcvik je následný důsledek, ne účel hodnocení. (d) doplňující výcvik je jednou z možných REAKCÍ na výsledky hodnocení, ne jeho účelem.",
+      "source": "mySSI: ITC Lesson 7.1 Review"
+    },
+    {
+      "id": "mssi-inst-321",
+      "area": "instructor",
+      "subarea": "Methodology — Supervision",
+      "question": "Co z následujícího platí o studentech Open Water Diver?",
+      "options": {
+        "a": "Potřebují dohled pouze v hluboké vodě",
+        "b": "Potřebují dohled pouze v otevřené vodě",
+        "c": "Nikdy nesmějí být pod vodou bez dohledu",
+        "d": "Potřebují dohled pouze během hodnocení dovedností"
+      },
+      "correct": "c",
+      "explanation": "Až do certifikace není student OWD nikdy pod vodou bez dohledu Pro — tečka. Bazén, mělčina, hloubka, OW, hodnocení, nácvik — každá minuta pod vodou potřebuje dohled. Po certifikaci se stávají samostatnými v limitech OWD, ale certifikace je tou branou. (a), (b) a (d) všechny vytvářejí falešné bezpečné zóny, kde by mohl dohled vypadnout — žádné takové pro studenty neexistují.",
+      "source": "mySSI: ITC Lesson 7.1 Review"
+    },
+    {
+      "id": "mssi-inst-322",
+      "area": "instructor",
+      "subarea": "Professional Standards — Depth Limits",
+      "question": "Certifikace Open Water Diver vycvičí potápěče do maximální hloubky:",
+      "options": {
+        "a": "15 metrů",
+        "b": "32 metrů",
+        "c": "27 metrů",
+        "d": "18 metrů"
+      },
+      "correct": "d",
+      "explanation": "OWD = maximální hloubka 18 m / 60 ft. Pomůcky pro celý žebříček úrovní: Scuba Diver 12 m, Open Water Diver 18 m, Advanced Open Water Diver 30 m (často uváděno 27 m u starších kurikul), Deep Diving Specialty 40 m. (a) 15 m spadá mezi Scuba Diver a OWD — ne standardní limit. (b) 32 m a (c) 27 m jsou limity vyšších úrovní nebo starší.",
+      "source": "mySSI: ITC Lesson 7.1 Review"
+    },
+    {
+      "id": "mssi-inst-323",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Program Indoor Diver lze dokončit v _____ podle SSI Training Standards.",
+      "options": {
+        "a": "Jakémkoli prostředí pro výcvik v otevřené vodě",
+        "b": "Indoorovém potápěčském zařízení",
+        "c": "Jakémkoli krytém bazénu hlubším než 10 metrů",
+        "d": "Jakémkoli krytém potápěčském prostředí"
+      },
+      "correct": "b",
+      "explanation": "Indoor Diver je specialita navržená pro účelově postavená krytá hlubokovodní zařízení — Deepspot v Polsku, Y-40 v Itálii, NEMO 33 v Belgii, Deep Joy v Belgii. Standardy specifikují „indoorové potápěčské zařízení“ jako kvalifikované prostředí — uznaná zařízení, ne jen libovolný krytý bazén. (a) převrací smysl (open water je antonymum). (c) hloubka sama o sobě nekvalifikuje bazén jako uznané zařízení. (d) příliš široké — musí jít o certifikovanou třídu zařízení.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-324",
+      "area": "instructor",
+      "subarea": "Professional Standards — Standards Structure",
+      "question": "Kde lze najít více informací o požadavcích na standardy programu Scuba Diver?",
+      "options": {
+        "a": "V Open Water Diver Standard",
+        "b": "V Open Water Instructor Standards",
+        "c": "V Entry-Level Program Standards",
+        "d": "V General Training Standards"
+      },
+      "correct": "c",
+      "explanation": "Scuba Diver = vstupní certifikace, takže její standardy spadají pod Entry-Level Program Standards společně s OWD. (a) OWD má vlastní vyhrazenou sekci, oddělenou od Scuba Diver. (b) OWI Standards pokrývají stranu Pro (co OWI smí dělat), ne program samotný. (d) General Training Standards pokrývá pravidla napříč programy — etiku, aktivní status, Flexibility Rule (mssi-inst-121, 171) — ne konkrétní obsah programu.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-325",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Studenti musí dokončit ____ z programu Open Water Diver, aby získali certifikaci Referral Diver.",
+      "options": {
+        "a": "Akademický výcvik a všechny požadavky v bazénu / chráněné vodě",
+        "b": "Pouze akademický výcvik",
+        "c": "Akademický výcvik, sezení v bazénu / chráněné vodě a první dva open water training dives",
+        "d": "Akademický výcvik a první dvě sezení v bazénu / chráněné vodě"
+      },
+      "correct": "a",
+      "explanation": "Referral Diver = klasický scénář „dokonči doma, OW na dovolené“: student dokončí VŠECHEN akademický + VŠECHEN výcvik v bazénu / chráněné vodě v domácím TC, pak letí do destinace a dokončí OW ponory s jiným SSI TC. Milník před odjezdem = akademika + bazén / chráněná voda hotovo, žádný OW. (b) a (d) ponechávají bazénový výcvik nedokončený; (c) implikuje již částečné OW, což znamená, že jsou za stavem referral.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-326",
+      "area": "instructor",
+      "subarea": "Professional Standards — Entry-Level Programs",
+      "question": "Které akademické lekce musí být dokončeny pro certifikaci Scuba Diver?",
+      "options": {
+        "a": "Akademické lekce 1-4",
+        "b": "Akademické lekce 1-6",
+        "c": "Akademické lekce 3-6",
+        "d": "Akademické lekce 1-3"
+      },
+      "correct": "d",
+      "explanation": "Scuba Diver je lehčí vstupní certifikace — pokrývá základy: Sekce 1 (Tělo a vodní prostředí), Sekce 2 (Vybavení pro životní podporu), Sekce 3 (Dýchací plyn / účinky na tělo). Sekce 4-6 (buddy + provádění ponorů, oceán, budoucnost) jsou rozšiřujícím obsahem pouze pro OWD. (a) 1-4 zahrnuje příliš; (b) 1-6 je plný rozsah OWD; (c) 3-6 převrací strukturu.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-327",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Indoor Diver musí dokončit _____, aby povýšil na certifikaci Open Water Diver.",
+      "options": {
+        "a": "Dva open water training dives a všechna hodnocení dovedností",
+        "b": "Alespoň jeden open water training dive a všechna hodnocení dovedností",
+        "c": "Dvě sezení v bazénu / chráněné vodě a dva open water training dives",
+        "d": "Všechny čtyři open water training dives a všechna hodnocení dovedností"
+      },
+      "correct": "a",
+      "explanation": "Indoor Diver již má dokončenou akademickou část + zvládnuté dovednosti v indoorovém zařízení, takže přechodová mezera je převod do otevřené vody: 2 OW training dives + hodnocení dovedností ve skutečné otevřené vodě. (d) „všechny čtyři“ by duplikovalo práci, kterou Indoor certifikace již validuje. (b) jeden ponor není dostatečná expozice otevřené vodě. (c) další bazénová sezení nic nepřidají — ta už mají.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-328",
+      "area": "instructor",
+      "subarea": "Professional Standards — Entry-Level Programs",
+      "question": "Scuba Diver musí dokončit _____, aby povýšil na certifikaci Open Water Diver.",
+      "options": {
+        "a": "Pouze požadavky výcviku ve vodě",
+        "b": "Zbývající akademické lekce a sezení v bazénu / chráněné vodě a čtyři open water training dives.",
+        "c": "Zbývající akademické lekce a sezení v bazénu / chráněné vodě a dva open water training dives.",
+        "d": "Pouze open water training dives"
+      },
+      "correct": "c",
+      "explanation": "Scuba Diver již pokrývá akademické lekce 1-3 + odpovídající práci v bazénu / chráněné vodě + 2 OW ponory (limit 12 m). Mezera pro upgrade na OWD = akademické lekce 4-6 + zbývající sezení v bazénu / chráněné vodě + 2 DALŠÍ OW ponory (k dosažení celkového počtu 4 v OWD). (b) „čtyři OW ponory“ by duplikovalo dva již absolvované. (a) a (d) ignorují akademickou a bazénovou mezeru.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-329",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Referral Diver musí dokončit ____, aby povýšil na certifikaci Open Water Diver.",
+      "options": {
+        "a": "Alespoň dva open water training dives a všechna hodnocení dovedností",
+        "b": "Všechny open water training dives a všechna hodnocení dovedností",
+        "c": "Alespoň dva open water training dives a hodnocení dovedností z prvních dvou open water training dives",
+        "d": "Alespoň čtyři open water training dives"
+      },
+      "correct": "b",
+      "explanation": "Referral Diver má v domácím TC (mssi-inst-325) hotovou akademiku + všechen bazén / chráněnou vodu, ale NULA OW ponorů — to je celá podstata referralu. Cílové TC tedy provede všechny čtyři OW training dives + všechna hodnocení dovedností pro dokončení certifikace. (a) a (c) ponechávají OW práci nedokončenou s pouhými dvěma ponory. (d) vynechává hodnocení dovedností, která jsou povinná.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-330",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Referral Divers se mohou potápět:",
+      "options": {
+        "a": "V prostředí otevřené vody mělčím než 12 metrů s buddy",
+        "b": "V jakémkoli prostředí otevřené vody s certifikovaným asistentem",
+        "c": "V prostředí bazénu / chráněné vody s buddy",
+        "d": "V prostředí bazénu / chráněné vody bez buddyho"
+      },
+      "correct": "c",
+      "explanation": "Referral Diver ještě nedokončil OW výcvik, takže se nemůže potápět v otevřené vodě — jen v bazénu / chráněné vodě a vždy s buddy (žádné sólo, protože ještě nejsou ani certifikovaní). (a) jakákoli OW hloubka je zakázaná, dokud nejsou dokončeny OW ponory. (b) je příliš povolné — asistenti neodemykají OW pro referral. (d) sólo bez buddy je nebezpečné a v této fázi nikdy povolené.",
+      "source": "mySSI: ITC Lesson 7.2 Review"
+    },
+    {
+      "id": "mssi-inst-331",
+      "area": "instructor",
+      "subarea": "Professional Standards — Continuing Education",
+      "question": "Program Advanced Open Water Diver je navržen tak, aby:",
+      "options": {
+        "a": "Certifikoval studenty ve třech specialitách",
+        "b": "Seznámil studenty se třemi specialitami",
+        "c": "Certifikoval studenty v pěti specialitách",
+        "d": "Seznámil studenty s pěti specialitami"
+      },
+      "correct": "d",
+      "explanation": "Program AOW = ochutnávka pěti úvodů do specialit — jeden ponor na specialitu, celkem 5 ponorů. Student získá expozici, ale NEZÍSKÁVÁ jednotlivé certifikace specialit. Liší se od Specialty Diver (2 dokončené speciality + 12 ponorů) a Advanced Specialty Diver (4 dokončené speciality + 24 ponorů — mssi-inst-135). Klíčové slovo je „seznámit“ — plná certifikace ve specialitě vyžaduje plný program této speciality.",
+      "source": "mySSI: ITC Lesson 8.1 Review"
+    },
+    {
+      "id": "mssi-inst-332",
+      "area": "instructor",
+      "subarea": "Professional Standards — Continuing Education",
+      "question": "Vyučování programu Advanced Open Water Diver umožňuje Open Water Instructorovi:",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Seznámit se s různými specializačními programy SSI",
+        "c": "Kvalifikovat se na rating Master Instructor",
+        "d": "Certifikovat studenty jako SSI Specialty Divers"
+      },
+      "correct": "b",
+      "explanation": "AOW je nízkoprahový způsob, jak může OWI získat expozici několika kurikulím specialit — vedení úvodních ponorů buduje obeznámenost, která pomáhá, když OWI později usiluje o plné Specialty Instructor ratingy. (c) Master Instructor je samostatná cesta ratingu s vlastními prerekvizitami. (d) úvodní AOW necertifikuje studenty jako Specialty Divers — plná certifikace vyžaduje kompletní program speciality (mssi-inst-331). (a) varianta „všechny správné“ zametá pod koberec chybná tvrzení.",
+      "source": "mySSI: ITC Lesson 8.1 Review"
+    },
+    {
+      "id": "mssi-inst-333",
+      "area": "instructor",
+      "subarea": "Professional Standards — Continuing Education",
+      "question": "Studenti musí dokončit digitální výukové materiály pro:",
+      "options": {
+        "a": "Alespoň tři open water training dives",
+        "b": "Pro Advanced Open Water Diver nejsou k dispozici žádné digitální výukové materiály",
+        "c": "Alespoň pět open water training dives",
+        "d": "Všechny open water training dives"
+      },
+      "correct": "c",
+      "explanation": "AOW = 5 úvodů do specialit = 5 OW ponorů (mssi-inst-331), každý vyžaduje, aby student před ponorem dokončil odpovídající digitální výukové materiály speciality. Minimum je tedy 5; může jich být více, pokud student přidá další speciality. (a) tři je pod minimem AOW. (b) je nepravda — každá AOW specialita má digitální materiály. (d) „všechny“ je vágní oproti přesnému „alespoň pět“.",
+      "source": "mySSI: ITC Lesson 8.1 Review"
+    },
+    {
+      "id": "mssi-inst-334",
+      "area": "instructor",
+      "subarea": "Professional Standards — Continuing Education",
+      "question": "Sezení v bazénu / chráněné vodě jsou:",
+      "options": {
+        "a": "Doporučená, ale ne povinná",
+        "b": "Vyžadovaná před některými open water training dives v rámci Dedicated Equipment Specialty",
+        "c": "Vyžadovaná před všemi open water training dives",
+        "d": "Vyžadovaná pouze pro studenty Junior Advanced Open Water Diver"
+      },
+      "correct": "b",
+      "explanation": "Sezení v bazénu / chráněné vodě jsou v AOW podmíněná — vyžadovaná před NĚKTERÝMI úvody do Dedicated Equipment Specialty, kde rizika spojená s konkrétním vybavením vyžadují nejprve seznámení v kontrolovaném prostředí (Sidemount, Rebreather, Drysuit, Twin Tank). Znalostní speciality a Open Water speciality bazénovou přípravu nepotřebují. (a) „doporučená“ podhodnocuje pravidlo pro vybavení. (c) a (d) přehnaně zobecňují.",
+      "source": "mySSI: ITC Lesson 8.1 Review"
+    },
+    {
+      "id": "mssi-inst-335",
+      "area": "instructor",
+      "subarea": "Methodology — Debrief",
+      "question": "Po dokončení open water training dives byste měli vždy:",
+      "options": {
+        "a": "Vydat uznávací kartu Advanced Open Water Diver",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Provést závěrečnou zkoušku Advanced Open Water Diver",
+        "d": "Provést debriefing po ponoru"
+      },
+      "correct": "d",
+      "explanation": "Debriefing je univerzální praxe po ponoru — každý ponor, pokaždé. (a) vydání uznávací karty je podmíněno splněním celého programu dle Standards (mssi-inst-316) — ne „vždy“. (c) AOW typicky nemá jednu závěrečnou zkoušku napříč programem (každá specialita má vlastní znalostní složku). (b) varianta „všechny správné“ zametá pod koberec podmíněnost.",
+      "source": "mySSI: ITC Lesson 8.1 Review"
+    },
+    {
+      "id": "mssi-inst-336",
+      "area": "instructor",
+      "subarea": "Professional Standards — Continuing Education",
+      "question": "Jak potápěč povýší na specializační certifikaci po dokončení odpovídajícího Advanced Open Water Dive?",
+      "options": {
+        "a": "Pouze dokončí alespoň jeden další open water training dive",
+        "b": "Dokončí specializační program a alespoň dva open water training dives",
+        "c": "Nic, specializační certifikace se vydá s certifikací Advanced Open Water Diver",
+        "d": "Dokončí specializační program a alespoň jeden další in-water dive (jak vyžadují standardy)"
+      },
+      "correct": "d",
+      "explanation": "Úvodní AOW ponor se může počítat jako jeden z ponorů odpovídajícího kurikula speciality, ale upgrade na plnou Specialty certifikaci vyžaduje dokončení zbytku: akademický obsah + zbývající požadované ponory (alespoň jeden další, jak definují standardy dané speciality). (a) jeden další ponor ignoruje akademiku a zbývající kurikulární mezery. (c) je past — AOW je úvod, NIKOLI certifikace (mssi-inst-331). (b) „dva další ponory“ přepisuje — standard říká alespoň jeden další, ne vždy dva.",
+      "source": "mySSI: ITC Lesson 8.1 Review"
+    },
+    {
+      "id": "mssi-inst-337",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Co z následujícího je výhodou pro Pro, kteří vyučují Enriched Air Nitrox?",
+      "options": {
+        "a": "Snižuje to možnosti výdělku a marketingu pro daného Pro",
+        "b": "Vyučování Enriched Air Nitrox nemá žádnou výhodu",
+        "c": "Certifikuje to instruktora pro výuku Extended Range Nitrox Diving",
+        "d": "Je to prerekvizita pro Decompression Diving"
+      },
+      "correct": "d",
+      "explanation": "Rating EAN Instructor je vstupní branou do Tec instruktorské cesty — Decompression Diving a podobné Extended Range programy vyžadují znalost Nitroxu jako základ správy plynů. Vyučování EAN přináší relevantní kompetence a odemyká vyšší specializační teaching ratingy. (a) a (b) převracejí hodnotu nabídky. (c) Extended Range Nitrox je samostatný specializační rating, ne automaticky udělený s EAN.",
+      "source": "mySSI: ITC Lesson 8.2 Review"
+    },
+    {
+      "id": "mssi-inst-338",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Jaký je účel specializačního programu Enriched Air Nitrox 40?",
+      "options": {
+        "a": "Certifikovat studenty pro potápění s nitroxovými směsmi do 40 % kyslíku",
+        "b": "Certifikovat studenty pro potápění s nitroxovými směsmi do 60 % kyslíku",
+        "c": "Certifikovat studenty pro potápění se směsí ze stage lahve do 50 % kyslíku",
+        "d": "Certifikovat studenty pro potápění s nitroxovými směsmi do 100 % dusíku"
+      },
+      "correct": "a",
+      "explanation": "Číslo v názvu = maximální procento O2. EAN 40 = směsi do 40 % O2, EAN 32 = do 32 %, EAN 36 = do 36 %. (b) 60 % je za standardním rekreačním Nitroxem, již v rozsahu Tec. (c) 50% plyny ve stage lahvi spadají do oblasti Decompression Diving, ne EAN 40. (d) „100 % dusíku“ je nesmysl — vzduch je již ze 78 % N2 a čistý dusík je nedýchatelný.",
+      "source": "mySSI: ITC Lesson 8.2 Review"
+    },
+    {
+      "id": "mssi-inst-339",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Certifikační kartu Enriched Air Nitrox 40 můžete vydat až poté, co student dokončí:",
+      "options": {
+        "a": "Všechny požadované akademické lekce a alespoň dvě sezení v bazénu / chráněné vodě",
+        "b": "Všechny požadované akademické lekce, sezení praktické aplikace a alespoň jeden open water training dive",
+        "c": "Všechny požadované akademické lekce, závěrečnou zkoušku a sezení praktické aplikace",
+        "d": "Všechny požadované akademické lekce a alespoň dva in-water training dives"
+      },
+      "correct": "c",
+      "explanation": "EAN je čistě znalostní specialita (mssi-inst-296) — bez požadavku na ponory. Tři certifikační složky jsou: akademické lekce, závěrečná zkouška a praktická aplikace (použití analyzátoru kyslíku, výpočet MOD, značení plynu). (a), (b) a (d) všechny chybně přidávají požadavky na vodní výcvik, které u EAN neexistují — kompetence se ověřuje na stole, ne pod vodou.",
+      "source": "mySSI: ITC Lesson 8.2 Review"
+    },
+    {
+      "id": "mssi-inst-340",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Certifikace Enriched Air Nitrox umožňuje studentovi _____ ve srovnání s ekvivalentními hloubkami na vzduchu.",
+      "options": {
+        "a": "Zkrátit povrchové intervaly, prodloužit časy na dně a zvýšit hloubky",
+        "b": "Prodloužit povrchové intervaly a prodloužit časy na dně",
+        "c": "Zkrátit povrchové intervaly a zvýšit maximální hloubky",
+        "d": "Zkrátit povrchové intervaly a prodloužit časy na dně"
+      },
+      "correct": "d",
+      "explanation": "Dvě skutečné výhody EAN: méně dusíku → kratší povrchové intervaly + delší časy na dně. Důležitá past: maximální hloubka je s EAN ZMENŠENÁ (toxicita kyslíku omezuje PPO2 ≤ 1,4 ATA, takže MOD klesá s rostoucím % O2) — takže (a) a (c) „zvýšit hloubky“ jsou explicitně chybné. (b) „prodloužit povrchové intervaly“ je opakem výhody.",
+      "source": "mySSI: ITC Lesson 8.2 Review"
+    },
+    {
+      "id": "mssi-inst-341",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Studenti s certifikací Enriched Air Nitrox by měli používat potápěčský počítač, aby:",
+      "options": {
+        "a": "Maximalizovali výhody svého výcviku",
+        "b": "Zvýšili limity maximální hloubky",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Bezpečně překračovali bezdekompresní limity"
+      },
+      "correct": "a",
+      "explanation": "Potápěčský počítač s podporou Nitroxu sleduje skutečné zatížení N2 podle směsi, kterou potápěč právě dýchá, takže získá plnou výhodu prodloužení časů na dně + zkrácení povrchových intervalů (mssi-inst-340) bezpečně. (b) převrací pravdu — EAN ZKRACUJE maximální hloubku kvůli toxicitě kyslíku. (d) NDL je v rekreačním potápění tvrdou hranicí; „bezpečně překračovat“ je oxymóron — to vyžaduje výcvik a vybavení Decompression Diving. (c) varianta „všechny správné“ zametá pod koberec nebezpečná tvrzení.",
+      "source": "mySSI: ITC Lesson 8.2 Review"
+    },
+    {
+      "id": "mssi-inst-342",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Speciality Dedicated Equipment:",
+      "options": {
+        "a": "Mají povinné sezení v bazénu / chráněné vodě",
+        "b": "Vyžadují alespoň čtyři open water training dives",
+        "c": "Mohou být vyučovány Assistant Instructorem nebo vyšším",
+        "d": "Vyžadují alespoň dvě sezení v bazénu / chráněné vodě"
+      },
+      "correct": "a",
+      "explanation": "Univerzální vlastnost Dedicated Equipment specialit (Sidemount, Drysuit, Twinset, Rebreather): povinné sezení v bazénu / chráněné vodě před OW, aby se potápěč nejdřív seznámil s vybavením v kontrolovaném prostředí (v souladu s mssi-inst-334). (b) počet OW ponorů se liší podle speciality. (c) většina equipment specialit omezuje výuku na OWI nebo vyšší kvůli rizikovému profilu vybavení + hloubky (mssi-inst-163). (d) požadavek dvou sezení je přespříliš konkrétní.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-343",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Jak potápěč povýší z Wreck Diving na Advanced Wreck Diving?",
+      "options": {
+        "a": "Dokončí dvě sezení v bazénu / chráněné vodě a jeden open water training dive",
+        "b": "Dokončí sezení na souši a dva další open water training dives",
+        "c": "Žádné další požadavky neexistují",
+        "d": "Dokončí další akademiku, závěrečnou zkoušku Advanced Wreck Diving a alespoň jeden další open water training dive"
+      },
+      "correct": "b",
+      "explanation": "Advanced Wreck = oblast penetrace. Mezera pro upgrade = sezení na souši pro nácvik práce s lankem a navijákem (procvičit lanovou techniku tam, kde je vidět a kde se dýchá), plus dva další OW penetrační training dives k aplikaci techniky uvnitř skutečného vraku pod přímým dohledem. (a) bazénová sezení + jeden ponor podhodnocují potřebnou OW expozici. (c) žádné další požadavky je špatně — penetrace je krok výš. (d) vynechává nácvik s lankem na souši, což je bezpečnostně kritická příprava před OW.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-344",
+      "area": "instructor",
+      "subarea": "Methodology — Open Water Training",
+      "question": "Výcvikové prostředí a podmínky pro tyto programy by měly být ______ než typická výcviková místa.",
+      "options": {
+        "a": "Mělčí a složitější",
+        "b": "Hlubší a složitější",
+        "c": "Mělčí a méně složité",
+        "d": "Stejné jako"
+      },
+      "correct": "c",
+      "explanation": "Pedagogický princip: výcvikové místo < reálné podmínky. Vyberte mělčí hloubky a jednodušší podmínky, aby studenti mohli soustředit mentální kapacitu na novou dovednost, ne na zvládání prostředí. Po jejím zvládnutí mohou dovednost přenést do tvrdších podmínek na vlastních ponorech. (a) a (b) zvyšují kognitivní zátěž během učení a poškozují retenci. (d) „stejné jako“ odstraňuje bezpečnostní rezervu potřebnou při prvních pokusech o dovednost.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-345",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Instructor",
+      "question": "Který z následujících programů smí vyučovat pouze Open Water Instructor s odpovídající Specialty Instructor certifikací?",
+      "options": {
+        "a": "Marine Ecology",
+        "b": "Dry Suit Diving",
+        "c": "Boat Diving",
+        "d": "Všechny odpovědi jsou správné"
+      },
+      "correct": "b",
+      "explanation": "Dry Suit Diving = Dedicated Equipment specialita s vážným rizikovým profilem vybavení (selhání ventilu suchého obleku → nekontrolovaný výstup → DCS). Standards vyžadují autoritu OWI pro tento rizikový pás. (a) Marine Ecology je znalostní specialita — způsobilý AI (mssi-inst-294). (c) Boat Diving je nízkoriziková Open Water specialita — také způsobilý AI. (d) varianta „všechny správné“ zametá pod koberec programy způsobilé pro AI.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-346",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Instructor",
+      "question": "Proč musí Dedicated Equipment specialitu vyučovat Open Water Instructor se Specialty Instructor certifikací?",
+      "options": {
+        "a": "Tyto programy mají vyšší úrovně rizika a složitější požadavky na vybavení",
+        "b": "Mohou je vyučovat všichni SSI Pros",
+        "c": "SSI nechce, aby Assistant Instructors učili všechno",
+        "d": "Tyto programy mají snížené úrovně rizika a složitější požadavky na vybavení"
+      },
+      "correct": "a",
+      "explanation": "Regulace na základě rizika: režimy selhání vybavení (hypoxie u rebreatheru, nekontrolovaný výstup kvůli ventilu suchého obleku, zaklesnutí v sidemountu, izolace ventilů u twinsetu) všechny vyžadují zkušeného OWI s konkrétní Specialty Instructor certifikací. (b) otevírá to všem Pros, včetně DM a AI — příliš povolné. (c) prezentuje omezení jako svévolné, zatímco je řízeno bezpečností. (d) převrací riziko — tyto speciality mají VYŠŠÍ riziko, ne snížené.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-347",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Instructor",
+      "question": "Kterou z následujících instruktorských certifikací může získat pouze Open Water Instructor?",
+      "options": {
+        "a": "Science of Diving Instructor",
+        "b": "Boat Diving Instructor",
+        "c": "Ice Diving Instructor",
+        "d": "Shark Ecology Instructor"
+      },
+      "correct": "c",
+      "explanation": "Ice Diving = prostředí s překážkou stropu (pod ledem — riziko penetrace, omezený východ) + extrémní zima + nebezpečí při vstupu / výstupu. Tato kombinace ji řadí do pásma pouze pro OWI. (a) Science of Diving = znalostní specialita (mssi-inst-299), způsobilý AI. (b) Boat Diving = nízkoriziková Open Water specialita, způsobilý AI. (d) Shark Ecology = znalostní specialita, způsobilý AI.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-348",
+      "area": "instructor",
+      "subarea": "Methodology — Risk Management",
+      "question": "Pro zajištění bezpečnosti studentů během výcviku:",
+      "options": {
+        "a": "Nechte své studenty, ať si navzájem ukáží, jak provést demonstraci dovednosti",
+        "b": "Snižujte poměry a zvyšujte úroveň dohledu",
+        "c": "Vynechte open water training dives",
+        "d": "Procvičujte pouze nenouzové dovednosti"
+      },
+      "correct": "b",
+      "explanation": "Dvě dobře zavedené bezpečnostní páky, v souladu s mssi-inst-258 (nižší poměry = více pozornosti na studenta) a mssi-inst-254/256 (intenzita dohledu podle prostředí). (a) necertifikovaní studenti nemají vyučovací autoritu — peer demonstrace riskuje šíření špatné techniky. (c) vyřazení OW ničí certifikační program. (d) přeskočení nouzových dovedností vytváří nebezpečnou znalostní mezeru.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-349",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Competence",
+      "question": "Jako odborník na danou problematiku musí být vaše porozumění obsahu programu a osobní schopnosti _____ porozumění a schopnosti vašich studentů.",
+      "options": {
+        "a": "Vyšší než",
+        "b": "Nižší než",
+        "c": "Stejné jako",
+        "d": "Odlišné od"
+      },
+      "correct": "a",
+      "explanation": "Princip odborníka na problematiku: Pro musí znát A vykonávat zřetelně nad úrovní studenta, aby mohl učit, hodnotit, předvídat problémy a řešit situace. (b) a (c) ponechávají Pro na úrovni studenta nebo pod ní — nelze učit, co neumíte. (d) „odlišné“ je vágní — záleží na směru.",
+      "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
       "id": "mssi-inst-001",
       "area": "instructor",
       "subarea": "Physics — SAC / RMV",
