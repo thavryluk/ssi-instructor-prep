@@ -3883,6 +3883,621 @@
       "source": "mySSI: ITC Lesson 1.1 Review"
     },
     {
+      "id": "mssi-inst-108",
+      "area": "instructor",
+      "subarea": "Methodology — Adult learners",
+      "question": "Použití facilitovaných výukových strategií, které vedou studenty procesem propojování jejich minulých zkušeností se současnými znalostmi a dovednostními aktivitami, souvisí s kterou charakteristikou učení dospělých?",
+      "options": {
+        "a": "Dospělí jsou autonomní a sebeřízení",
+        "b": "Dospělí akumulují osobní životní zkušenosti",
+        "c": "Dospělí jsou orientovaní na cíl",
+        "d": "Dospělí potřebují respekt"
+      },
+      "correct": "b",
+      "explanation": "Knowlesova andragogika: dospělí přicházejí s rezervoárem nahromaděných životních a pracovních zkušeností. Efektivní výuka dospělých výslovně propojuje novou látku s těmito předchozími zkušenostmi, místo aby s nimi zacházela jako s prázdnými listy. Facilitace tohoto propojení (např. dotaz, co už vědí o chování plynů, předtím než se vyučuje Boylův zákon) je tím, jak tato charakteristika vypadá v praxi.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-109",
+      "area": "instructor",
+      "subarea": "Methodology — Adult learners",
+      "question": "Působení v roli facilitátora, který povzbuzuje a vede studenty procesem získávání znalostí, souvisí s kterou charakteristikou učení dospělých?",
+      "options": {
+        "a": "Dospělí jsou orientovaní na cíl",
+        "b": "Dospělí jsou autonomní a sebeřízení",
+        "c": "Dospělí potřebují respekt",
+        "d": "Dospělí akumulují osobní životní zkušenosti"
+      },
+      "correct": "b",
+      "explanation": "Dospělí jsou autonomní a sebeřízení — chtějí mít své učení pod kontrolou, místo aby jim někdo říkal, co mají dělat. Role instruktora se proto posouvá z autoritativního přednášejícího na facilitátora: průvodce po boku, ne mudrc na pódiu. To se liší od 'zkušeností' (otázka o minulých zkušenostech) — facilitace respektuje studentovu autonomii nad jeho vlastním procesem.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-110",
+      "area": "instructor",
+      "subarea": "Methodology — Learning Domains",
+      "question": "Která doména učení zahrnuje výukovou aktivitu, která vyžaduje, aby student popsal účinky změny tlaku na vzdušné prostory v těle?",
+      "options": {
+        "a": "Kognitivní doména učení",
+        "b": "Psychomotorická doména učení",
+        "c": "Afektivní doména učení",
+        "d": "Žádná odpověď není správná"
+      },
+      "correct": "a",
+      "explanation": "Tři SSI domény učení: Kognitivní = znalosti a porozumění (hlava), Psychomotorická = fyzické dovednosti a pohyb (ruce), Afektivní = postoje, hodnoty a pocity (srdce). 'Popsat účinky změny tlaku' je úkol znalostí/porozumění — vybavování a vysvětlování faktů — proto patří do kognitivní domény. Praktická ukázka vyrovnávání tlaku by byla psychomotorická; oceňování bezpečných potápěčských návyků by bylo afektivní.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-111",
+      "area": "instructor",
+      "subarea": "Methodology — Affective domain",
+      "question": "Studenti s ____ postojem ke svému výcviku se učí a zapamatují si ____ než studenti s negativnějším postojem.",
+      "options": {
+        "a": "Optimistickým, více",
+        "b": "Optimistickým, pomaleji",
+        "c": "Pozitivním, více",
+        "d": "Pozitivním, pomaleji"
+      },
+      "correct": "c",
+      "explanation": "SSI používá formulaci 'pozitivní postoj' (ne 'optimistický') v rámci afektivní domény — úkolem instruktora je budovat pozitivní postoj k potápění a výcviku, což přímo zlepšuje jak rychlost učení, tak dlouhodobou retenci. Negativní postoje (strach, frustrace, vnímaná irelevance) potlačují obojí. Mnemotechnická pomůcka: pozitivní dovnitř, více ven.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-112",
+      "area": "instructor",
+      "subarea": "Methodology — Adult learners",
+      "question": "Zacházení se všemi jako s rovnocennými partnery a vytváření výukového prostředí, kde studenti mohou ve třídě svobodně vyjadřovat své názory, souvisí s kterou charakteristikou učení dospělých?",
+      "options": {
+        "a": "Dospělí jsou orientovaní na cíl",
+        "b": "Dospělí jsou praktičtí",
+        "c": "Dospělí jsou autonomní a sebeřízení",
+        "d": "Dospělí potřebují respekt"
+      },
+      "correct": "d",
+      "explanation": "Zacházení se studenty jako s rovnocennými a vyzvání k jejich vstupu přímo odráží charakteristiku 'potřeba respektu' — dospělí přinášejí do třídy odbornost, status a sebeobraz a odpojují se, když cítí, že se s nimi mluví spatra nebo jsou odmítáni. Orientace na cíl = zaměření na výsledky; praktičnost = relevance pro reálné potápění; autonomie = sebeřízení. Respekt je konkrétně o tom, jak instruktor signalizuje, že studentův hlas je důležitý.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-113",
+      "area": "instructor",
+      "subarea": "Methodology — Learning Domains",
+      "question": "Která doména učení zahrnuje výukovou aktivitu, která spočívá v sundání, nasazení a vyčištění masky?",
+      "options": {
+        "a": "Kognitivní doména učení",
+        "b": "Psychomotorická doména učení",
+        "c": "Žádná odpověď není správná",
+        "d": "Afektivní doména učení"
+      },
+      "correct": "b",
+      "explanation": "Sundání a nasazení masky je praktický motorický úkol — koordinace dechu, pohybu rukou a manipulace s vybavením ve vodě. To je psychomotorická doména (dovednosti/ruce). Kognitivní by bylo vysvětlování, proč se masky zaplavují; afektivní by bylo budování pohodlí a sebejistoty s obličejem ve vodě. Stejné potápěčské téma může spadat do různých domén podle toho, co aktivita po studentovi vyžaduje.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-114",
+      "area": "instructor",
+      "subarea": "Methodology — Learning Domains",
+      "question": "Ponechání volného času pro studenty, aby si na konci bazénové/chráněné lekce mohli procvičit dovednost nebo si zahrát podvodní hry, je spojeno s kterými doménami učení?",
+      "options": {
+        "a": "Afektivní a kognitivní doménou učení",
+        "b": "Psychomotorickou a kognitivní doménou učení",
+        "c": "Žádná odpověď není správná",
+        "d": "Psychomotorickou a afektivní doménou učení"
+      },
+      "correct": "d",
+      "explanation": "Volné procvičování a hry zasahují dvě domény současně: psychomotorickou (další opakování zdokonalují motorické dovednosti pod malým tlakem) a afektivní (zábava, sebejistota, pozitivní asociace s potápěním — přesně účel budování postoje). Není to kognitivní, protože během hry se nepředávají ani nehodnotí žádné nové znalosti. SSI záměrně zařazuje tento 'čas pro zábavu' na konec lekce, aby ukotvil afektivní přínos.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-115",
+      "area": "instructor",
+      "subarea": "Methodology — Affective domain",
+      "question": "Co z následujícího má největší vliv na postoj studenta k SSI programu?",
+      "options": {
+        "a": "Délka času potřebná pro program",
+        "b": "Cena programu",
+        "c": "Kvalita výukových materiálů",
+        "d": "SSI Pro vedoucí program"
+      },
+      "correct": "d",
+      "explanation": "Instruktor je největší jednotlivá proměnná formující postoj studenta — mnohem víc než čas, cena nebo materiály. Výukové materiály SSI jsou v rámci sítě standardizované a kvalitní, takže rozhodujícím faktorem je Pro: nadšení, profesionalita, trpělivost, schopnost vnímat skupinu. Skvělý instruktor promění jakýkoli program v pozitivní zážitek; špatný podkope i nejlepší kurikulum. Proto ITC tolik investuje do prezentace a vystupování instruktora.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-116",
+      "area": "instructor",
+      "subarea": "Methodology — Adult learners",
+      "question": "Tvrzení 'Dospělí chtějí propojit relevanci toho, co se učí, s tím, čeho chtějí dosáhnout' souvisí s kterou charakteristikou učení dospělých?",
+      "options": {
+        "a": "Dospělí potřebují cítit, že věci jsou relevantní",
+        "b": "Dospělí jsou praktičtí",
+        "c": "Dospělí jsou orientovaní na cíl",
+        "d": "Dospělí potřebují respekt"
+      },
+      "correct": "a",
+      "explanation": "Klíčové slovo zde je 'relevance' — doslovný odkaz na charakteristiku relevance. Snadno se zamění s orientací na cíl (zaměření na výsledky) a praktičností (zaměření na aplikaci), ale SSI je rozděluje: 'relevantní' = student musí vidět, proč je to pro něj důležité; 'orientovaný na cíl' = má konkrétní výsledky, které sleduje; 'praktický' = chce to využít v reálném světě. Když text říká 'propojit ... s tím, čeho chtějí dosáhnout,' to propojení je test relevance.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-117",
+      "area": "instructor",
+      "subarea": "Methodology — Learning Domains",
+      "question": "Tři domény učení jsou:",
+      "options": {
+        "a": "Rozvoj znalostí, rozvoj dovedností, rozvoj kompetencí",
+        "b": "Rozvoj dovedností, rozvoj znalostí, rozvoj postojů",
+        "c": "Dovednosti, znalosti, rozvoj kompetencí",
+        "d": "Rozvoj dovedností, rozvoj postojů, rozvoj kompetencí"
+      },
+      "correct": "b",
+      "explanation": "Označení SSI pro Bloomovy tři domény: Rozvoj dovedností = psychomotorická (ruce), Rozvoj znalostí = kognitivní (hlava), Rozvoj postojů = afektivní (srdce). 'Kompetence' není jednou ze tří — je to výsledek na vyšší úrovni, který kombinuje všechny tři. Všechny rozptylovače propašovávají kompetenci do seznamu, což je past.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-118",
+      "area": "instructor",
+      "subarea": "Methodology — Total Teaching System",
+      "question": "Total Teaching System zahrnuje:",
+      "options": {
+        "a": "Digitální výukové materiály, MySSI Logbook",
+        "b": "PEGs, výcvikové záznamy, záznamy o vybavení",
+        "c": "Training Standards, závěrečné zkoušky, instruktorské manuály",
+        "d": "Výcvikové záznamy, cue cards, záznamy o vybavení"
+      },
+      "correct": "c",
+      "explanation": "Total Teaching System (TTS) od SSI je integrovaný balíček materiálů a nástrojů, který umožňuje každému SSI Pro poskytovat standardizovaný výcvik se zárukou kvality kdekoli na světě. Hlavní komponenty TTS jsou Training Standards (co a jak učit), závěrečné zkoušky (hodnocení znalostí) a instruktorské manuály (jak vést každou lekci). Ostatní možnosti přimíchávají věci jako záznamy o vybavení a cue cards, které jsou spíše provozními nástroji než samotným kurikulárním rámcem.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-119",
+      "area": "instructor",
+      "subarea": "Methodology — Training Records",
+      "question": "Tisknutelné personalizované výcvikové záznamy se nacházejí:",
+      "options": {
+        "a": "V MySSI účtu Training Centra",
+        "b": "V MySSI účtu studenta",
+        "c": "V MySSI download oblasti SSI Pro",
+        "d": "Na SSI Service Center"
+      },
+      "correct": "a",
+      "explanation": "Personalizované tisknutelné výcvikové záznamy se generují a ukládají v MySSI účtu Training Centra — odtud si je administrátor centra stahuje pro jednotlivé studenty pro vedení kurzu. Jednotliví Pros a studenti přistupují ke svým vlastním záznamům přes osobní MySSI nástěnky, ale tisknutelná, personalizovaná verze je zdroj na úrovni TC vázaný na účet centra.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-120",
+      "area": "instructor",
+      "subarea": "Methodology — Assessment",
+      "question": "Jaký je účel závěrečné zkoušky?",
+      "options": {
+        "a": "Zajistit, že student je připraven na výcvik v otevřené vodě",
+        "b": "Zhodnotit studentovo porozumění znalostem programu",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Připravit studenta na navazující vzdělávací programy"
+      },
+      "correct": "b",
+      "explanation": "Závěrečná zkouška je nástroj kognitivní domény — konkrétně hodnotí, zda student porozuměl akademickému obsahu programu. Připravenost na otevřenou vodu (a) se prokazuje výkonem dovedností a úsudkem Pro, ne písemnou zkouškou. Příprava na navazující vzdělávání (d) je následná a není účelem zkoušky. Pozor na past 'Všechny odpovědi jsou správné' — závěrečná zkouška testuje znalosti, tečka.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-121",
+      "area": "instructor",
+      "subarea": "Professional Standards — Standards Structure",
+      "question": "Která sekce standardů obsahuje etické standardy?",
+      "options": {
+        "a": "Dive Professional Standards",
+        "b": "Dive Center Standards",
+        "c": "General Training Standards",
+        "d": "Dive Program Standards"
+      },
+      "correct": "c",
+      "explanation": "Etické standardy (čestnost, profesionální chování, zacházení se studenty a kolegy) jsou v General Training Standards, protože se vztahují na celý SSI systém — každého Pro, každé centrum, každý program. Sekce specifické pro programy nebo Pro pokrývají pravidla unikátní pro tyto kontexty; etika je zastřešující rámec, který pokrývá vše ostatní.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-122",
+      "area": "instructor",
+      "subarea": "Professional Standards — Flexibility Rule",
+      "question": "Povinný obsah podle SSI Flexibility Rule zahrnuje:",
+      "options": {
+        "a": "Jak prezentovat dovednosti",
+        "b": "Informace o místním vybavení a prostředí",
+        "c": "Minimální počet výcvikových lekcí",
+        "d": "Akademickou teorii a dovednosti ve vodě"
+      },
+      "correct": "d",
+      "explanation": "Flexibility Rule rozděluje SSI výcvik na 'co je vyžadováno' (obsah — akademická teorie + dovednosti ve vodě) a 'co je flexibilní' (provedení — pořadí, prezentační styl, počet lekcí, místní adaptace). Vyžadováno = kurikulum, které musí student zvládnout. Flexibilní = jak Pro obsah uspořádá a prezentuje. Ostatní rozptylovače popisují flexibilní prvky, které pravidlo záměrně ponechává na instruktorovi.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-123",
+      "area": "instructor",
+      "subarea": "Professional Standards — Logbook",
+      "question": "Logbooky:",
+      "options": {
+        "a": "Musí vyplňovat pouze studenti vstupní úrovně",
+        "b": "Obsahují pouze informace pro záznam zkušenostních ponorů",
+        "c": "Musí být vedeny v digitální i tištěné podobě",
+        "d": "Měl by si je vést každý potápěč, bez ohledu na úroveň zkušeností"
+      },
+      "correct": "d",
+      "explanation": "Logbook je celoživotní nástroj — každý potápěč, od Try Scuba po Master Instructora, by si ho měl vést. Dokumentuje výcvik, zkušenosti a předpoklady pro budoucí programy a kontroly u dive operatorů. Rozptylovače: 'pouze vstupní úroveň' je špatně (Pros si také vedou log), 'pouze zkušenostní ponory' je špatně (výcvikové ponory se počítají), 'digitální i tištěná' je špatně (jakýkoli formát je přijatelný, MySSI digitální verze je plně platná).",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-124",
+      "area": "instructor",
+      "subarea": "Methodology — Total Teaching System",
+      "question": "Komponenty Total Teaching System:",
+      "options": {
+        "a": "Se používají pro výuku jakéhokoli výcvikového programu",
+        "b": "Lze přizpůsobit pomocí SSI Flexibility Rule",
+        "c": "Fungují jako integrovaný systém",
+        "d": "Všechny odpovědi jsou správné"
+      },
+      "correct": "d",
+      "explanation": "TTS je záměrně (a) univerzální — každý SSI program od Try Scuba po Instructor Trainer používá stejnou strukturální sadu nástrojů; (b) přizpůsobitelný — Flexibility Rule umožňuje Pros přizpůsobit provedení místním podmínkám a potřebám studentů, aniž by se porušil standard; (c) integrovaný — standardy, manuály, materiály a záznamy se navzájem odkazují a posilují stejný obsah. Celý smysl TTS je, že všechny tři vlastnosti platí současně.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-125",
+      "area": "instructor",
+      "subarea": "Professional Standards — Flexibility Rule",
+      "question": "Flexibilní obsah podle SSI Flexibility Rule zahrnuje:",
+      "options": {
+        "a": "Jak prezentovat dovednosti",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Informace o místním vybavení a prostředí",
+        "d": "Počet a pořadí výcvikových lekcí"
+      },
+      "correct": "b",
+      "explanation": "Inverze otázky o povinném obsahu: vyžadováno = akademická teorie + dovednosti ve vodě (CO); flexibilní = vše ohledně toho, JAK to dodáváte. To zahrnuje prezentační styl dovedností (a), místní kontext vybavení/prostředí (c) a počet a pořadí lekcí (d). Všechny tři jsou výslovně flexibilní — Pros je přizpůsobují studentům, podmínkám a logistice centra, aniž by porušili standardy.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-126",
+      "area": "instructor",
+      "subarea": "Methodology — Instructor Manual",
+      "question": "Instruktorský manuál programu:",
+      "options": {
+        "a": "Musí být dodržován bez odchylek",
+        "b": "Obsahuje závěrečnou zkoušku",
+        "c": "Poskytuje osnovu pro vedení programu",
+        "d": "Obsahuje výcvikové záznamy a standardy"
+      },
+      "correct": "c",
+      "explanation": "Instruktorský manuál je přesně to — osnova/plán pro provedení každého programu. Rozptylovače: 'bez odchylek' (a) je v rozporu s Flexibility Rule, která výslovně umožňuje přizpůsobené provedení; závěrečné zkoušky (b) jsou samostatné dokumenty; výcvikové záznamy a standardy (d) jsou také samostatné komponenty TTS, ne součást manuálu. Manuál je jednou částí TTS, ne celkem.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-127",
+      "area": "instructor",
+      "subarea": "Professional Standards — Recognition Cards",
+      "question": "Co z následujícího platí o SSI experience recognition cards?",
+      "options": {
+        "a": "Některé recognition cards vyžadují jak zalogované ponory, tak další výcvik",
+        "b": "Logování ponorů je jediným požadavkem pro všechny recognition cards",
+        "c": "Open Water Divers nejsou způsobilí pro recognition cards nad Century Diver",
+        "d": "Každé recognition uznává 100 zalogovaných ponorů"
+      },
+      "correct": "b",
+      "explanation": "Experience recognition cards (Century Diver 100, 200 Diver, 300, 500, 1000, 2000, Platinum Pro 5000 atd.) se udělují čistě podle počtu zalogovaných ponorů — žádný další výcvik, žádný předpoklad certifikace, žádný horní limit. Rozptylovače mixují s tím Continuing Education ratings (jako Master Diver), které DO vyžadují další výcvik, ale nejsou to 'recognition cards'. (d) je špatně, protože každá úroveň je jiné číslo, ne všechny 100. (c) je špatně, protože jakýkoli certifikovaný potápěč může získat vyšší recognition cards logováním ponorů.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-128",
+      "area": "instructor",
+      "subarea": "Methodology — Digital Learning Materials",
+      "question": "Digitální výukové materiály:",
+      "options": {
+        "a": "Zvyšují úroveň učení studenta",
+        "b": "Zvyšují retenci znalostí studenta",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Umožňují instruktorovi soustředit se na aplikace v reálném světě"
+      },
+      "correct": "c",
+      "explanation": "Digitální materiály SSI jsou navrženy jako vrstvený balíček, který dodává akademický obsah, osvobozuje instruktora od přednášení základů a posiluje retenci pomocí interaktivních prvků (videa, kvízy, animace). Všechny tři přínosy platí současně: (a) vyšší úroveň učení díky bohatším médiím, (b) lepší retence díky aktivnímu zapojení a opakovanému procvičování, (d) uvolnění času instruktora pro praktický koučink místo přednášek se slidy.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-129",
+      "area": "instructor",
+      "subarea": "Professional Standards — Training Standards",
+      "question": "Požadavky pro vedení jakéhokoli SSI výcvikového programu:",
+      "options": {
+        "a": "Musí být přezkoumány před zahájením výcviku",
+        "b": "Jsou součástí Flexibility Rule",
+        "c": "Jsou v Training Standards",
+        "d": "Jsou pouze v instruktorském manuálu"
+      },
+      "correct": "c",
+      "explanation": "Training Standards jsou autoritativním zdrojem pro požadavky programu — předpoklady, poměry, hloubkové limity, kvalifikace instruktorů, počty ponorů, certifikační kritéria. Instruktorský manuál (d) ukazuje JAK provést, ale odkazuje na standardy pro CO se musí stát. Flexibility Rule (b) řídí volnost v provedení, ne požadavky. Přezkoumání před zahájením (a) je dobrá praxe, ale neodpovídá na otázku, kde požadavky leží.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-130",
+      "area": "instructor",
+      "subarea": "Professional Standards — Program Categories",
+      "question": "Co z následujícího je vstupní program?",
+      "options": {
+        "a": "Perfect Buoyancy",
+        "b": "Scuba Diver",
+        "c": "Entry-Level instructor",
+        "d": "Specialty Diver"
+      },
+      "correct": "b",
+      "explanation": "Vstupní programy SSI jsou Try Scuba, Scuba Diver a Open Water Diver — to jsou nájezdové rampy do potápění pro nepotápěče. Perfect Buoyancy (a) je specialty / continuing-education program. Specialty Diver (d) je sám o sobě úroveň navazujícího vzdělávání. 'Entry-Level Instructor' (c) není název SSI programu. Mnemotechnická pomůcka: vstupní úroveň = student vchází s nulou certifikací.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-131",
+      "area": "instructor",
+      "subarea": "Professional Standards — Recognition Cards",
+      "question": "Co z následujícího platí o SSI training recognition cards?",
+      "options": {
+        "a": "Specialty Diver vyžaduje 5 zalogovaných ponorů",
+        "b": "Logování ponorů je jediným požadavkem",
+        "c": "Potápěči musí logovat ponory a dokončit další výcvik",
+        "d": "Každé recognition uznává 100 zalogovaných ponorů"
+      },
+      "correct": "c",
+      "explanation": "Spárujte s otázkou o experience recognition cards. SSI dělí recognitions na dvě rodiny: EXPERIENCE recognitions (Century, 200, 300, … Platinum Pro 5000) získané pouze počtem ponorů; TRAINING recognitions (Specialty Diver, Advanced Open Water Diver, Master Diver atd.) vyžadující JAK zalogované ponory, TAK dokončený specialty výcvik. (a) 5 ponorů je špatně — Specialty Diver potřebuje 12 zalogovaných ponorů + 2 specializace. (b) je pravidlo experience cards, ne training. (d) zaměňuje úrovně (každá je jiné číslo).",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-132",
+      "area": "instructor",
+      "subarea": "Professional Standards — Recognition Cards",
+      "question": "Recognition cards:",
+      "options": {
+        "a": "Vyžadují, aby si potápěči zakoupili další vybavení",
+        "b": "Jsou vyžadovány pro získání dalších certifikací",
+        "c": "Žádná odpověď není správná",
+        "d": "Nejsou vyžadovány pro získání dalších certifikací"
+      },
+      "correct": "d",
+      "explanation": "Recognition cards jsou milníky / ocenění — slaví zkušenosti nebo dokončený výcvik, ale nikdy nejsou předpokladem pro další SSI programy. Žádný con-ed kurz nevyžaduje Century Diver nebo 200 Diver kartu k zápisu. (b) toto obrací a je špatně. (a) je nesouvisející — recognitions nespouštějí nákupy vybavení. Past je (c) 'Žádná odpověď není správná', která svádí k druhému uvažování.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-133",
+      "area": "instructor",
+      "subarea": "Professional Standards — Equipment Ownership",
+      "question": "Úspěšní potápěči:",
+      "options": {
+        "a": "Chápou výhody vlastnictví vybavení",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Používají půjčené vybavení pouze při cestování",
+        "d": "Kupují pouze vybavení prodávané jejich Training Centrem"
+      },
+      "correct": "a",
+      "explanation": "Základní filozofie SSI: Vzdělávání + Vybavení + Zkušenosti = tři pilíře úspěšného potápěče. Vlastnit svou výstroj znamená znalost, konzistentní padnutí a sebejistotu ve vodě — to je výhoda, kterou si úspěšní potápěči osvojí. Rozptylovače (c) a (d) jsou absolutní tvrzení, která neodpovídají reálnému chování potápěčů (půjčení doma je v pořádku, nákup z jakéhokoli zdroje je v pořádku). Pozor na past (b) 'všechny správné' — vyžadovala by, aby c a d byly také pravdivé.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-134",
+      "area": "instructor",
+      "subarea": "Professional Standards — Diver Diamond",
+      "question": "Jaké jsou součásti Diver Diamond?",
+      "options": {
+        "a": "Zkušenosti, vybavení, závazek, akvizice, odpovědnost, cestování",
+        "b": "Dovednosti, vybavení, zkušenosti, čas, znalosti, závazek",
+        "c": "Vybavení, zkušenosti, cestování, retail, spolehlivost, prostředí",
+        "d": "Znalosti, dovednosti, vybavení, zkušenosti, odpovědnost, prostředí"
+      },
+      "correct": "d",
+      "explanation": "Diver Diamond od SSI je 6bodový model, který ukazuje komponenty, jež musí zůstat v rovnováze, aby se vyvinul bezpečný, schopný potápěč: Znalosti (kognitivní teorie), Dovednosti (psychomotorická), Vybavení (vlastní výstroj, znalost), Zkušenosti (zalogované ponory), Odpovědnost (úsudek, péče o sebe, péče o buddyho) a Prostředí (vodní svět a ochrana). Rozptylovače propašovávají slova mimo Diamond: závazek, akvizice, cestování, čas, retail, spolehlivost — žádné nejsou oficiálním bodem.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-135",
+      "area": "instructor",
+      "subarea": "Professional Standards — Recognition Cards",
+      "question": "Advanced Specialty Diver recognition vyžaduje:",
+      "options": {
+        "a": "Dokončení 4 ponorů ze 4 specialty programů",
+        "b": "Žádnou předchozí certifikaci",
+        "c": "24 zalogovaných ponorů",
+        "d": "Dokončení 5 ponorů z 5 specialty programů"
+      },
+      "correct": "c",
+      "explanation": "Advanced Specialty Diver patří do rodiny train+experience recognition vedle Specialty Diver (12 ponorů + 2 specializace) a Master Diver (50 ponorů + Stress & Rescue + 4 specializace). Advanced Specialty Diver = 24 zalogovaných ponorů + 4 dokončené specialty programy. Otázka zvýrazňuje komponentu počtu ponorů (c). Rozptylovače (a) a (d) jsou pasti — redukují 'dokončenou specializaci' na 'ponor ze specializace', což podceňuje požadavek na dokončení specializace. (b) je špatně, protože nějaká předchozí certifikace je implicitní (nemůžete získávat specializace bez vstupní certifikace).",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-136",
+      "area": "instructor",
+      "subarea": "Professional Standards — Education System",
+      "question": "SSI Education System:",
+      "options": {
+        "a": "Je použitelný pouze pro vstupní programy",
+        "b": "Je primárně zaměřen na prodej vybavení",
+        "c": "Vytváří bezpečné a schopné potápěče",
+        "d": "Všechny odpovědi jsou správné"
+      },
+      "correct": "c",
+      "explanation": "Education System existuje, aby produkoval bezpečné, schopné potápěče — to je mise a červená nit každého SSI programu od Try Scuba po Instructor Trainer. (a) je špatně: systém pokrývá celé kontinuum, ne pouze vstupní úroveň. (b) je klasický mýtus zvenčí — SSI má retail/centrum model, ale Education System je vzdělávání-první; vybavení je podpůrné, ne primární. (d) selhává, protože a a b jsou špatně.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-137",
+      "area": "instructor",
+      "subarea": "Professional Standards — Education System",
+      "question": "SSI Education System zahrnuje:",
+      "options": {
+        "a": "Akviziční programy",
+        "b": "Programy vstupní certifikace",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Programy navazujícího vzdělávání a recognition"
+      },
+      "correct": "c",
+      "explanation": "Tři vrstvy Education System: (a) Akvizice — pre-cert programy, které přivádějí lidi k potápění (Try Scuba, šnorchlování, Scuba Rangers); (b) Vstupní úroveň — první skutečná certifikace (Scuba Diver, Open Water Diver); (d) Navazující vzdělávání a recognition — specializace, pokročilá hodnocení, recognition cards (Century, Master Diver atd.). Všechny tři vrstvy existují záměrně, aby každý potápěč, bez ohledu na fázi, měl další program.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-138",
+      "area": "instructor",
+      "subarea": "Professional Standards — Education System",
+      "question": "SSI Education System:",
+      "options": {
+        "a": "Vyžaduje, aby se potápěči připojili k jednomu Training Centru",
+        "b": "Podporuje loajalitu zákazníků",
+        "c": "Vyžaduje, aby instruktoři prodávali vybavení",
+        "d": "Je zaměřen pouze na prospěch Training Centra"
+      },
+      "correct": "b",
+      "explanation": "Loajalita zákazníků je strukturálním cílem Education System — Diver Diamond, programy Diamond Diver / Centurion, dlouhý progresní žebřík vše odměňuje setrvání v SSI ekosystému a návrat do stejného centra. (a) je špatně: potápěči mohou trénovat v jakémkoli SSI centru, žádná exkluzivní příslušnost. (c) je špatně: prodej výstroje je podporován, ale není povinný pro instruktory. (d) je špatně: systém prospívá potápěčům, Pros i centrům současně.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-139",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "____ mohou hodnotit a vydávat certifikace pro většinu SSI výcvikových programů.",
+      "options": {
+        "a": "Divemasters",
+        "b": "Open Water Instructors",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Assistant Instructors"
+      },
+      "correct": "b",
+      "explanation": "Open Water Instructor je první hodnocení s nezávislou pravomocí hodnotit studenty a podepisovat / vydávat certifikace pro vstupní programy (Scuba Diver, Open Water Diver), Stress & Rescue a (po výcviku specialty instructor) specializace. Divemasters a Assistant Instructors mohou učit a asistovat, ale nemohou nezávisle vydávat certifikace — vždy pracují pod pravomocí instruktora. (c) 'všechny správné' selhává, protože DM a AI postrádají certifikační pravomoc.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-140",
+      "area": "instructor",
+      "subarea": "Professional Standards — Training Team",
+      "question": "Výcvikový tým Training Centra potřebuje:",
+      "options": {
+        "a": "Dva instruktory s rovnocennými povinnostmi",
+        "b": "Alespoň jednoho aktivního SSI Pro a jednoho podpůrného pracovníka",
+        "c": "Alespoň tři členy personálu",
+        "d": "Pouze jednoho certifikovaného asistenta"
+      },
+      "correct": "b",
+      "explanation": "Minimální SSI výcvikový tým = alespoň jeden Pro v aktivním stavu (instruktor vydávající certifikace) plus jeden podpůrný pracovník (administrace, plánování, logistika, retail). Toto rozdělení dvou rolí umožňuje centru spolehlivě vést programy bez přetížení jedné osoby. (a) dva-rovnocenní-instruktoři a (c) tři-pracovníci jsou nadměrně specifikované; (d) jediný asistent nemá instruktorskou pravomoc a nemůže program vést sám.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-141",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Roles",
+      "question": "Pros:",
+      "options": {
+        "a": "Všechny odpovědi jsou správné",
+        "b": "Trénují a certifikují studenty",
+        "c": "Stanovují plán výcviku Training Centra",
+        "d": "Vytvářejí a udržují výcvikové materiály a standardy"
+      },
+      "correct": "b",
+      "explanation": "Definující rolí každého SSI Pro (od DM po ITrainer) je dodávat výcvik a — pro Instructors a výše — vydávat certifikace. Plánování (c) je funkce centra/managementu, ne univerzální role Pro. Výcvikové materiály a standardy (d) vlastní SSI HQ; Pros je dodávají, neautorují. (a) 'všechny správné' selhává, protože c a d nejsou obecné odpovědnosti Pro.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-142",
+      "area": "instructor",
+      "subarea": "Professional Standards — Training Team",
+      "question": "Nepotápějící personál pomáhá s:",
+      "options": {
+        "a": "Certifikací studentů navazujícího vzdělávání",
+        "b": "Všechny odpovědi jsou správné",
+        "c": "Hodnocením studentů pod nepřímým dohledem",
+        "d": "Logistikou programu a organizací výcvikových programů"
+      },
+      "correct": "d",
+      "explanation": "Nepotápějící personál = recepční, retail, administrativa, marketing, podpora skladu vybavení. Jejich úkolem je logistika: plánování kurzů, zpracování registrací, příprava půjčovny, vyřizování papírování — vše, co umožňuje Pros soustředit se na výuku. (a) certifikování a (c) hodnocení jsou výslovně in-water odpovědnosti Pro a vyžadují aktivní stav Pro; nepotápějící personál takovou pravomoc nemá. (b) všechny správné selhává, protože a a c jsou mimo rozsah.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-143",
+      "area": "instructor",
+      "subarea": "Professional Standards — Service Centers",
+      "question": "SSI Service Centers:",
+      "options": {
+        "a": "Vytvářejí a udržují výcvikové materiály a standardy",
+        "b": "Podporují Training Centers ve svém regionu",
+        "c": "Trénují individuální studenty",
+        "d": "Všechny odpovědi jsou správné"
+      },
+      "correct": "b",
+      "explanation": "Service Centers jsou regionální/národní SSI kanceláře, jejichž úkolem je podporovat Training Centra na svém území — materiály v místním jazyce, distribuce, marketingové podklady, regionální QA, regionálně specifická interpretace standardů. Neautorují globální výcvikové materiály ani standardy (a) — to dělá SSI HQ. Netrénují individuální potápěče (c) — to se děje v Training Centrech. Hierarchie je HQ → Service Centers → Training Centers → Pros → potápěči.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-144",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "____ mohou vyučovat akademickou a bazénovou/chráněnou část programu Open Water Diver pod nepřímým dohledem.",
+      "options": {
+        "a": "Pracovníci Training Centra",
+        "b": "Žádná odpověď není správná",
+        "c": "Open Water Instructors",
+        "d": "Assistant Instructors"
+      },
+      "correct": "d",
+      "explanation": "Definující pravomoc hodnocení Assistant Instructor: AI mohou nezávisle vést akademickou a bazénovou/chráněnou část OWD, ale pouze pod NEPŘÍMÝM dohledem aktivního OWI (instruktor nemusí být u bazénu, ale nese celkovou odpovědnost). OWIs (c) učí s PŘÍMOU pravomocí — ne 'pod nepřímým dohledem'. (a) je příliš široké — generický TC personál nemá výukovou pravomoc. Formulace 'nepřímý dohled' je signál pro AI.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-145",
+      "area": "instructor",
+      "subarea": "Professional Standards — Training Centers",
+      "question": "Training Centers:",
+      "options": {
+        "a": "Každoročně podepisují Training Center Agreement",
+        "b": "Jmenují Training Center QMS Manager pro zajištění kvality",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Stanovují plány pro SSI výcvikové programy"
+      },
+      "correct": "c",
+      "explanation": "Všechny tři jsou odpovědnosti TC: (a) TC Agreement se obnovuje ročně — tak SSI udržuje status centra aktuální; (b) každé TC určuje QMS (Quality Management System) Manager, který vlastní soulad se standardy, hlášení incidentů a interní audity; (d) autonomie plánování je součástí Flexibility Rule — TCs rozhodují, kdy a jak často vést programy v rámci svého území a omezení zdrojů.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-146",
+      "area": "instructor",
+      "subarea": "Professional Standards — SSI International",
+      "question": "SSI International:",
+      "options": {
+        "a": "Trénuje individuální studenty",
+        "b": "Vytváří a udržuje výcvikové materiály a standardy",
+        "c": "Přímo monitoruje personál Training Centra",
+        "d": "Všechny odpovědi jsou správné"
+      },
+      "correct": "b",
+      "explanation": "SSI International (HQ) autoruje a udržuje globální výcvikové materiály, standardy, certifikace a kurikula. Výcvik studentů (a) probíhá v TCs prostřednictvím Pros, ne HQ. Přímé monitorování personálu TC (c) je delegováno na regionální Service Centers — HQ neauditiuje individuální centra přímo. (d) všechny-správné selhává, protože a a c sedí na špatné úrovni SSI hierarchie.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-147",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "Assistant Instructor může _______ během tréninku v bazénu / chráněné vodě v rámci programu Open Water Diver.",
+      "options": {
+        "a": "Učit všechny dovednosti pod nepřímým dohledem",
+        "b": "Učit všechny dovednosti (kromě dovedností nouzového výstupu) pod nepřímým dohledem",
+        "c": "Učit všechny dovednosti nouzového výstupu pod přímým dohledem",
+        "d": "Pouze pozorovat a asistovat s ovládáním skupiny"
+      },
+      "correct": "a",
+      "explanation": "Pravomoc AI v bazénu / chráněné vodě pro OWD je plná — AI mohou vyučovat VŠECHNY dovednosti, včetně cvičení nouzového výstupu (CESA), které probíhají v chráněné vodě, pod nepřímým dohledem aktivního OWI. Restrikce 'kromě nouzového výstupu' (b) se vztahuje na prostředí OTEVŘENÉ VODY, ne na bazén. (c) převrací úroveň dohledu. (d) podhodnocuje rating AI — v chráněné vodě nejsou jen pozorovatelé.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-148",
+      "area": "instructor",
+      "subarea": "Methodology — Open Water Training",
+      "question": "Tréninkové ponory v otevřené vodě:",
+      "options": {
+        "a": "Slouží k výuce dalších dovedností, jako je ovládání vztlaku",
+        "b": "Aplikují dovednosti z bazénu / chráněné vody v reálném prostředí",
+        "c": "Všechny odpovědi jsou správné",
+        "d": "Vyžadují alespoň jednoho certifikovaného asistenta"
+      },
+      "correct": "b",
+      "explanation": "OW tréninkové ponory jsou fáze TRANSFERU: studenti přenášejí dovednosti, které již zvládli v bazénu / chráněné vodě, do skutečného vodního prostředí. (a) je špatně, protože dovednosti jako ovládání vztlaku se učí nejprve v bazénu, ne v OW. (d) je špatně, protože certifikovaný asistent není univerzální požadavek — řídí se poměry student/instruktor ve standardech. (c) all-correct selhává, protože a a d nejsou obecné pravdy o OW ponoru.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
       "id": "mssi-inst-001",
       "area": "instructor",
       "subarea": "Physics — SAC / RMV",

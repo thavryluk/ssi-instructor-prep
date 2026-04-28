@@ -2,11 +2,11 @@
   "version": "1.0",
   "generated_at": "2026-04-25",
   "note": "SSI study bank for Tomas's Instructor prep app. Each question carries a 'source' URL (Quizlet/dive-shop PDF/SSI training pages) where verbatim wording was found, OR 'compiled_from_dive_theory' for items grounded in public SSI standards and dive physics/physiology that I've authored from established theory rather than copied. Always reconcile with the current SSI Training Standards before using as definitive answers.",
-  "total": 677,
+  "total": 718,
   "counts_by_area": {
     "assistant_instructor": 50,
     "divemaster": 50,
-    "instructor": 457,
+    "instructor": 498,
     "science_of_diving": 120
   },
   "questions": [
@@ -3879,6 +3879,621 @@
       "correct": "c",
       "explanation": "Active SSI Pro status requires all three: paying the annual renewal fee, completing the online renewal (acknowledging current standards / quality assurance), and being affiliated with an active SSI Training Center. Missing any one of the three drops the Pro to inactive status.",
       "source": "mySSI: ITC Lesson 1.1 Review"
+    },
+    {
+      "id": "mssi-inst-108",
+      "area": "instructor",
+      "subarea": "Methodology — Adult learners",
+      "question": "Using facilitated training strategies to guide learners through the process of connecting their past experiences to current knowledge and skill-based learning activities relates to which adult learning characteristic?",
+      "options": {
+        "a": "Adults are autonomous and self-directed",
+        "b": "Adults accumulate personal life experiences",
+        "c": "Adults are goal-oriented",
+        "d": "Adults need respect"
+      },
+      "correct": "b",
+      "explanation": "Knowles' andragogy: adults arrive with a reservoir of accumulated life and work experience. Effective adult instruction explicitly connects new material to that prior experience instead of treating learners as blank slates. Facilitating that linkage (e.g. asking what they already know about gas behaviour before teaching Boyle's law) is what this characteristic looks like in practice.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-109",
+      "area": "instructor",
+      "subarea": "Methodology — Adult learners",
+      "question": "Acting as a facilitator who encourages and guides students through the process of acquiring knowledge relates to which adult learning characteristic?",
+      "options": {
+        "a": "Adults are goal-oriented",
+        "b": "Adults are autonomous and self-directed",
+        "c": "Adults need respect",
+        "d": "Adults accumulate personal life experiences"
+      },
+      "correct": "b",
+      "explanation": "Adults are autonomous and self-directed — they want ownership of their learning rather than being told what to do. The instructor's role therefore shifts from authoritative lecturer to facilitator: guide on the side, not sage on the stage. This is distinct from 'experience' (Q on past experience) — facilitation respects the learner's agency over their own process.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-110",
+      "area": "instructor",
+      "subarea": "Methodology — Learning Domains",
+      "question": "Which learning domain includes a learning activity that requires the student to describe the effects of pressure change on the air spaces in the body?",
+      "options": {
+        "a": "The Cognitive Learning Domain",
+        "b": "The Psychomotor Learning Domain",
+        "c": "The Affective Learning Domain",
+        "d": "No answer is correct"
+      },
+      "correct": "a",
+      "explanation": "The three SSI learning domains: Cognitive = knowledge & understanding (head), Psychomotor = physical skills & motor movement (hands), Affective = attitudes, values & feelings (heart). 'Describe the effects of pressure change' is a knowledge/comprehension task — recalling and explaining facts — so it lives in the Cognitive domain. A practical demonstration of equalising would be Psychomotor; valuing safe-diving habits would be Affective.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-111",
+      "area": "instructor",
+      "subarea": "Methodology — Affective domain",
+      "question": "Learners with more ____ attitudes toward their training learn and retain ____ than learners with more negative attitudes.",
+      "options": {
+        "a": "Optimistic, more",
+        "b": "Optimistic, slower",
+        "c": "Positive, more",
+        "d": "Positive, slower"
+      },
+      "correct": "c",
+      "explanation": "SSI uses the wording 'positive attitude' (not 'optimistic') in the affective-domain framing — the instructor's job is to build a positive attitude toward diving and training, which directly improves both rate of learning and long-term retention. Negative attitudes (fear, frustration, perceived irrelevance) suppress both. Memory hook: positive in, more out.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-112",
+      "area": "instructor",
+      "subarea": "Methodology — Adult learners",
+      "question": "Treating everyone as an equal, and creating a training environment where learners are free to voice their opinions in class relates to which adult learning characteristic?",
+      "options": {
+        "a": "Adults are goal-oriented",
+        "b": "Adults are practical",
+        "c": "Adults are autonomous and self-directed",
+        "d": "Adults need respect"
+      },
+      "correct": "d",
+      "explanation": "Treating learners as equals and inviting their input directly addresses the 'need respect' characteristic — adults bring expertise, status and self-image into the classroom and disengage when they feel talked-down-to or dismissed. Goal-oriented = focus on outcomes; practical = relevance to real diving; autonomous = self-direction. Respect is specifically about how the instructor signals that the learner's voice matters.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-113",
+      "area": "instructor",
+      "subarea": "Methodology — Learning Domains",
+      "question": "Which learning domain includes a learning activity that consists of removing, replacing, and clearing a mask?",
+      "options": {
+        "a": "The Cognitive Learning Domain",
+        "b": "The Psychomotor Learning Domain",
+        "c": "No answer is correct",
+        "d": "The Affective Learning Domain"
+      },
+      "correct": "b",
+      "explanation": "Mask R&R is a hands-on motor task — coordinating breath, hand movement and equipment manipulation in the water. That's the Psychomotor domain (skills/hands). Cognitive would be explaining why masks flood; Affective would be building comfort and confidence with face-in-water. The same diving topic can land in different domains depending on what the activity asks the student to do.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-114",
+      "area": "instructor",
+      "subarea": "Methodology — Learning Domains",
+      "question": "Allowing free time for students to practice a skill or play underwater games at the end of a pool/confined water session is associated with which learning domains?",
+      "options": {
+        "a": "Affective and Cognitive Learning Domains",
+        "b": "Psychomotor and Cognitive Learning Domains",
+        "c": "No answer is correct",
+        "d": "Psychomotor and Affective Learning Domains"
+      },
+      "correct": "d",
+      "explanation": "Free practice and games hit two domains at once: Psychomotor (additional reps refine motor skills under low pressure) and Affective (fun, confidence, positive association with diving — exactly the attitude-building purpose). It's not Cognitive because no new knowledge is being delivered or assessed during play. SSI deliberately builds in this 'fun time' to anchor the affective payoff at the end of class.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-115",
+      "area": "instructor",
+      "subarea": "Methodology — Affective domain",
+      "question": "Which of the following has the greatest effect on a student's attitude toward an SSI program?",
+      "options": {
+        "a": "The length of time required for the program",
+        "b": "The cost of the program",
+        "c": "The quality of the training materials",
+        "d": "The SSI Professional conducting the program"
+      },
+      "correct": "d",
+      "explanation": "The instructor is the single biggest variable shaping student attitude — far more than time, cost, or materials. SSI's training materials are standardised and high-quality across the network, so the differentiator is the Pro: enthusiasm, professionalism, patience, ability to read the room. A great instructor turns any program into a positive experience; a poor one undermines even the best curriculum. That's why ITC invests heavily in instructor presentation and presence.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-116",
+      "area": "instructor",
+      "subarea": "Methodology — Adult learners",
+      "question": "The statement, \"Adults want to connect the relevance of what they learn to what they want to achieve,\" relates to which adult learning characteristic?",
+      "options": {
+        "a": "Adults need to feel that things are relevant",
+        "b": "Adults are practical",
+        "c": "Adults are goal-oriented",
+        "d": "Adults need respect"
+      },
+      "correct": "a",
+      "explanation": "The keyword here is 'relevance' — verbatim cue to the relevance characteristic. Easy to confuse with goal-oriented (focus on outcomes) and practical (focus on application), but SSI splits them: 'relevant' = the learner must see why this matters to them; 'goal-oriented' = they have specific outcomes they're chasing; 'practical' = they want to use it in the real world. When the wording says 'connect ... to what they want to achieve,' the connecting bit is the relevance test.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-117",
+      "area": "instructor",
+      "subarea": "Methodology — Learning Domains",
+      "question": "The three learning domains are:",
+      "options": {
+        "a": "Knowledge Development, Skill Development, Competency Development",
+        "b": "Skill Development, Knowledge Development, Attitude Development",
+        "c": "Skills, Knowledge, Competency Development",
+        "d": "Skill Development, Attitude Development, Competency Development"
+      },
+      "correct": "b",
+      "explanation": "SSI's labels for Bloom's three domains: Skill Development = Psychomotor (hands), Knowledge Development = Cognitive (head), Attitude Development = Affective (heart). 'Competency' is not one of the three — it's a higher-level outcome that combines all three. The distractors all sneak Competency into the list, which is the trap.",
+      "source": "mySSI: ITC Lesson 1.2 Review"
+    },
+    {
+      "id": "mssi-inst-118",
+      "area": "instructor",
+      "subarea": "Methodology — Total Teaching System",
+      "question": "The Total Teaching System includes:",
+      "options": {
+        "a": "Digital Learning Materials, MySSI Logbook",
+        "b": "PEGs, Training Records, Equipment Logs",
+        "c": "Training Standards, Final Exams, Instructor Manuals",
+        "d": "Training Records, Cue Cards, Equipment Logs"
+      },
+      "correct": "c",
+      "explanation": "SSI's Total Teaching System (TTS) is the integrated package of materials and tools that lets any SSI Pro deliver standardised, quality-assured training anywhere in the world. The core TTS components are Training Standards (what to teach and how), Final Exams (knowledge assessment), and Instructor Manuals (how to deliver each lesson). The other options mix in things like equipment logs and cue cards which are operational tools rather than the curriculum framework itself.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-119",
+      "area": "instructor",
+      "subarea": "Methodology — Training Records",
+      "question": "Printable personalized training records are found:",
+      "options": {
+        "a": "In the training center's MySSI account",
+        "b": "In the student's MySSI account",
+        "c": "In the SSI Professional's MySSI download area",
+        "d": "At the SSI Service Center"
+      },
+      "correct": "a",
+      "explanation": "Personalized printable training records are generated and stored in the Training Center's MySSI account — that's where the centre's admin pulls them per-student for class delivery. Individual Pros and students access their own records through their personal MySSI dashboards but the printable, personalized version is a TC-level resource tied to the centre's account.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-120",
+      "area": "instructor",
+      "subarea": "Methodology — Assessment",
+      "question": "What is the purpose of the final exam?",
+      "options": {
+        "a": "To ensure the student is ready for open water training",
+        "b": "To evaluate the student's understanding of program knowledge",
+        "c": "All answers are correct",
+        "d": "To prepare the student for continuing education programs"
+      },
+      "correct": "b",
+      "explanation": "The final exam is a Cognitive-domain instrument — it specifically evaluates whether the student has understood the academic content of the program. OW readiness (a) is established through skill performance and Pro judgement, not the written exam. Continuing-ed prep (d) is downstream and not the exam's purpose. Watch out for the 'All answers are correct' trap — final exam tests knowledge, full stop.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-121",
+      "area": "instructor",
+      "subarea": "Professional Standards — Standards Structure",
+      "question": "Which section of the standards includes the ethical standards?",
+      "options": {
+        "a": "Dive Professional Standards",
+        "b": "Dive Center Standards",
+        "c": "General Training Standards",
+        "d": "Dive Program Standards"
+      },
+      "correct": "c",
+      "explanation": "Ethical standards (honesty, professional conduct, treatment of students and peers) live in General Training Standards because they apply across the entire SSI system — every Pro, every Centre, every program. Program-specific or Pro-specific sections cover the rules unique to those contexts; ethics is the umbrella that covers all of it.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-122",
+      "area": "instructor",
+      "subarea": "Professional Standards — Flexibility Rule",
+      "question": "Required content according to the SSI Flexibility Rule includes:",
+      "options": {
+        "a": "How to present skills",
+        "b": "Information on local equipment and environment",
+        "c": "Minimum number of training sessions",
+        "d": "Academic theory and in-water skills"
+      },
+      "correct": "d",
+      "explanation": "The Flexibility Rule splits SSI training into 'what is required' (the content — academic theory + in-water skills) and 'what is flexible' (the delivery — order, presentation style, number of sessions, local adaptations). Required = the curriculum the student must master. Flexible = how the Pro arranges and presents it. The other distractors all describe flexible elements that the rule deliberately leaves up to the instructor.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-123",
+      "area": "instructor",
+      "subarea": "Professional Standards — Logbook",
+      "question": "Logbooks:",
+      "options": {
+        "a": "Must only be completed by entry-level students",
+        "b": "Only include information for recording experience dives",
+        "c": "Must be kept in digital and print form",
+        "d": "Should be kept by every diver, regardless of experience level"
+      },
+      "correct": "d",
+      "explanation": "Logbooks are a lifelong tool — every diver, from Try Scuba through Master Instructor, should keep one. They document training, experience, and prerequisites for future programs and dive operator checks. Distractors: 'entry-level only' is wrong (Pros log too), 'experience dives only' is wrong (training dives count), 'digital and print' is wrong (either format is acceptable, MySSI digital is fully valid).",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-124",
+      "area": "instructor",
+      "subarea": "Methodology — Total Teaching System",
+      "question": "The components of the Total Teaching System:",
+      "options": {
+        "a": "Are used to teach any training program",
+        "b": "Can be adapted using the SSI Flexibility Rule",
+        "c": "Work as an integrated system",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "TTS is by design (a) universal — every SSI program from Try Scuba to Instructor Trainer uses the same structural toolkit; (b) adaptable — the Flexibility Rule lets Pros tailor delivery to local conditions and student needs without breaking the standard; (c) integrated — standards, manuals, materials, and records all reference each other and reinforce the same content. The whole point of TTS is that all three properties hold simultaneously.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-125",
+      "area": "instructor",
+      "subarea": "Professional Standards — Flexibility Rule",
+      "question": "Flexible content according to the SSI Flexibility Rule includes:",
+      "options": {
+        "a": "How to present skills",
+        "b": "All answers are correct",
+        "c": "Information on local equipment and environment",
+        "d": "The number and sequence of training sessions"
+      },
+      "correct": "b",
+      "explanation": "Inverse of the required-content question: required = academic theory + in-water skills (the WHAT); flexible = everything about HOW you deliver it. That covers presentation style of skills (a), local equipment/environment context (c), and the number and sequence of sessions (d). All three are explicitly flexible — Pros tailor them to fit students, conditions and centre logistics without breaking standards.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-126",
+      "area": "instructor",
+      "subarea": "Methodology — Instructor Manual",
+      "question": "The program instructor manual:",
+      "options": {
+        "a": "Must be followed without deviation",
+        "b": "Includes the final exam",
+        "c": "Provides an outline for conducting the program",
+        "d": "Includes training records and standards"
+      },
+      "correct": "c",
+      "explanation": "The Instructor Manual is exactly that — an outline/blueprint for delivering each program. Distractors: 'no deviation' (a) contradicts the Flexibility Rule which explicitly allows tailored delivery; final exams (b) are separate documents; training records and standards (d) are also separate components of TTS, not bundled into the manual. The manual is one piece of TTS, not the whole.",
+      "source": "mySSI: ITC Lesson 1.3 Review"
+    },
+    {
+      "id": "mssi-inst-127",
+      "area": "instructor",
+      "subarea": "Professional Standards — Recognition Cards",
+      "question": "Which of the following is true about SSI experience recognition cards?",
+      "options": {
+        "a": "Some recognition cards require both logged dives and additional training",
+        "b": "Logging dives is the only requirement for all recognition cards",
+        "c": "Open Water Divers are not eligible for recognition cards above Century Diver",
+        "d": "Each recognition recognizes 100 logged dives"
+      },
+      "correct": "b",
+      "explanation": "Experience recognition cards (Century Diver 100, 200 Diver, 300, 500, 1000, 2000, Platinum Pro 5000, etc.) are awarded purely on logged dive count — no additional training, no certification prerequisite, no upper-level cap. Distractors mix in Continuing Education ratings (like Master Diver) which DO require additional training but are not 'recognition cards'. (d) is wrong because each tier is a different number, not all 100. (c) is wrong because any certified diver can earn higher-tier recognition cards by logging dives.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-128",
+      "area": "instructor",
+      "subarea": "Methodology — Digital Learning Materials",
+      "question": "Digital learning materials:",
+      "options": {
+        "a": "Increase the student's learning level",
+        "b": "Increase the student's knowledge retention",
+        "c": "All answers are correct",
+        "d": "Allow the instructor to focus on real-world applications"
+      },
+      "correct": "c",
+      "explanation": "SSI's digital materials are designed as a layered package that delivers the academic content, frees the instructor from lecturing the basics, and reinforces retention through interactive elements (videos, quizzes, animations). All three benefits hold simultaneously: (a) higher learning level via richer media, (b) better retention via active engagement and spaced review, (d) instructor time freed up for hands-on, real-world coaching instead of slide decks.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-129",
+      "area": "instructor",
+      "subarea": "Professional Standards — Training Standards",
+      "question": "The requirements for conducting any SSI training program:",
+      "options": {
+        "a": "Must be reviewed before beginning training",
+        "b": "Are part of the Flexibility Rule",
+        "c": "Are found in the Training Standards",
+        "d": "Are only found in the instructor manual"
+      },
+      "correct": "c",
+      "explanation": "Training Standards are the authoritative source for program requirements — prerequisites, ratios, depth limits, instructor qualifications, dive counts, certification criteria. The Instructor Manual (d) shows you HOW to deliver but defers to Standards for the WHAT-must-happen. Flexibility Rule (b) governs delivery latitude, not requirements. Review-before-start (a) is good practice but doesn't answer where the requirements live.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-130",
+      "area": "instructor",
+      "subarea": "Professional Standards — Program Categories",
+      "question": "Which of the following is an entry-level program?",
+      "options": {
+        "a": "Perfect Buoyancy",
+        "b": "Scuba Diver",
+        "c": "Entry-Level instructor",
+        "d": "Specialty Diver"
+      },
+      "correct": "b",
+      "explanation": "SSI entry-level programs are Try Scuba, Scuba Diver and Open Water Diver — these are the on-ramp into the sport for non-divers. Perfect Buoyancy (a) is a specialty / continuing-education program. Specialty Diver (d) is itself a continuing-education tier. 'Entry-Level Instructor' (c) is not an SSI program name. Memory hook: entry-level = student has zero certifications walking in.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-131",
+      "area": "instructor",
+      "subarea": "Professional Standards — Recognition Cards",
+      "question": "Which of the following is true about SSI training recognition cards?",
+      "options": {
+        "a": "Specialty Diver requires 5 logged dives",
+        "b": "Logging dives is the only requirement",
+        "c": "Divers must log dives and complete additional training",
+        "d": "Each recognition recognizes 100 logged dives"
+      },
+      "correct": "c",
+      "explanation": "Pair with Q on experience recognition cards. SSI splits recognitions into two families: EXPERIENCE recognitions (Century, 200, 300, … Platinum Pro 5000) earned by dive count alone; TRAINING recognitions (Specialty Diver, Advanced Open Water Diver, Master Diver, etc.) requiring BOTH logged dives AND completed specialty training. (a) 5 dives is wrong — Specialty Diver needs 12 logged dives + 2 specialties. (b) is the experience-cards rule, not training. (d) confuses tiers (each is a different number).",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-132",
+      "area": "instructor",
+      "subarea": "Professional Standards — Recognition Cards",
+      "question": "Recognition cards:",
+      "options": {
+        "a": "Require divers to purchase additional equipment",
+        "b": "Are required to earn additional certifications",
+        "c": "No answer is correct",
+        "d": "Are not required to earn additional certifications"
+      },
+      "correct": "d",
+      "explanation": "Recognition cards are milestones / accolades — they celebrate experience or completed training, but they're never prerequisites for further SSI programs. No con-ed course requires a Century Diver or 200 Diver card to enrol. (b) inverts this and is wrong. (a) is unrelated — recognitions don't trigger gear purchases. The trap is (c) 'No answer is correct' which tempts second-guessing.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-133",
+      "area": "instructor",
+      "subarea": "Professional Standards — Equipment Ownership",
+      "question": "Successful divers:",
+      "options": {
+        "a": "Understand the benefits of equipment ownership",
+        "b": "All answers are correct",
+        "c": "Only use rental equipment when they travel",
+        "d": "Only buy equipment sold by their training center"
+      },
+      "correct": "a",
+      "explanation": "Core SSI philosophy: Education + Equipment + Experience = the three pillars of a successful diver. Owning your own gear means familiarity, consistent fit, and confidence in the water — that's the benefit successful divers internalise. Distractors (c) and (d) are absolute statements that don't match real diver behaviour (rental at home is fine, buying from any source is fine). Watch for the (b) 'all correct' trap — it would require c and d to also be true.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-134",
+      "area": "instructor",
+      "subarea": "Professional Standards — Diver Diamond",
+      "question": "What are the components of the Diver Diamond?",
+      "options": {
+        "a": "Experience, Equipment, Commitment, Acquisition, Responsibility, Travel",
+        "b": "Skills, Equipment, Experience, Time, Knowledge, Commitment",
+        "c": "Equipment, Experience, Travel, Retail, Reliability, Environment",
+        "d": "Knowledge, Skills, Equipment, Experience, Responsibility, Environment"
+      },
+      "correct": "d",
+      "explanation": "SSI's Diver Diamond is a 6-point model showing the components that must stay balanced to develop a safe, capable diver: Knowledge (cognitive theory), Skills (psychomotor), Equipment (own gear, familiarity), Experience (logged dives), Responsibility (judgement, self-care, buddy care) and Environment (the aquatic realm and conservation). Distractors smuggle in non-Diamond words: Commitment, Acquisition, Travel, Time, Retail, Reliability — none are official points.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-135",
+      "area": "instructor",
+      "subarea": "Professional Standards — Recognition Cards",
+      "question": "An Advanced Specialty Diver recognition requires:",
+      "options": {
+        "a": "Completing 4 dives from 4 specialty programs",
+        "b": "No previous certification",
+        "c": "24 logged dives",
+        "d": "Completing 5 dives from 5 specialty programs"
+      },
+      "correct": "c",
+      "explanation": "Advanced Specialty Diver sits in the train+experience recognition family alongside Specialty Diver (12 dives + 2 specialties) and Master Diver (50 dives + Stress & Rescue + 4 specialties). Advanced Specialty Diver = 24 logged dives + 4 completed specialty programs. The question highlights the dive-count component (c). Distractors (a) and (d) are traps — they reduce 'completed specialty' to 'a dive from a specialty', which understates the specialty-completion requirement. (b) is wrong because some prior certification is implicit (you can't accrue specialties without an entry-level cert).",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-136",
+      "area": "instructor",
+      "subarea": "Professional Standards — Education System",
+      "question": "The SSI Education System:",
+      "options": {
+        "a": "Is only applicable for entry-level programs",
+        "b": "Is primarily focused on equipment sales",
+        "c": "Creates safe and capable divers",
+        "d": "All answers are correct"
+      },
+      "correct": "c",
+      "explanation": "The Education System exists to produce safe, capable divers — that's the mission and the through-line of every SSI program from Try Scuba to Instructor Trainer. (a) is wrong: the system covers the full continuum, not just entry level. (b) is the classic outsider misconception — SSI has a retail/centre model but the Education System is education-first; equipment is supportive, not primary. (d) fails because a and b are wrong.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-137",
+      "area": "instructor",
+      "subarea": "Professional Standards — Education System",
+      "question": "The SSI Education System includes:",
+      "options": {
+        "a": "Acquisition programs",
+        "b": "Entry-level certification programs",
+        "c": "All answers are correct",
+        "d": "Continuing education and recognition programs"
+      },
+      "correct": "c",
+      "explanation": "Three layers of the Education System: (a) Acquisition — pre-cert programs that bring people into diving (Try Scuba, Snorkelling, Scuba Rangers); (b) Entry-level — first real certification (Scuba Diver, Open Water Diver); (d) Continuing education and recognition — specialties, advanced ratings, recognition cards (Century, Master Diver, etc.). All three layers exist by design so every diver, regardless of stage, has a next program.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-138",
+      "area": "instructor",
+      "subarea": "Professional Standards — Education System",
+      "question": "The SSI Education System:",
+      "options": {
+        "a": "Requires divers to affiliate with one training center",
+        "b": "Encourages customer loyalty",
+        "c": "Requires instructors to sell equipment",
+        "d": "Is only focused on benefiting the training center"
+      },
+      "correct": "b",
+      "explanation": "Customer loyalty is a structural goal of the Education System — the Diver Diamond, the Diamond Diver / Centurion programs, the long progression ladder all reward staying in the SSI ecosystem and returning to the same centre. (a) is wrong: divers can train at any SSI centre, no exclusive affiliation. (c) is wrong: gear sales are encouraged but not mandatory for instructors. (d) is wrong: the system benefits divers, Pros and centres simultaneously.",
+      "source": "mySSI: ITC Lesson 1.4 Review"
+    },
+    {
+      "id": "mssi-inst-139",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "____ can evaluate and issue certifications for most SSI training programs.",
+      "options": {
+        "a": "Divemasters",
+        "b": "Open Water Instructors",
+        "c": "All answers are correct",
+        "d": "Assistant Instructors"
+      },
+      "correct": "b",
+      "explanation": "Open Water Instructor is the first rating with independent authority to evaluate students and sign off / issue certifications for entry-level programs (Scuba Diver, Open Water Diver), Stress & Rescue, and (after specialty-instructor training) specialties. Divemasters and Assistant Instructors can teach and assist but cannot independently issue certifications — they always work under an Instructor's authority. (c) 'all correct' fails because DM and AI lack cert authority.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-140",
+      "area": "instructor",
+      "subarea": "Professional Standards — Training Team",
+      "question": "A training center training team needs:",
+      "options": {
+        "a": "Two instructors with equal responsibilities",
+        "b": "At least one active status SSI Professional and one support staff",
+        "c": "At least three staff members",
+        "d": "Only one certified assistant"
+      },
+      "correct": "b",
+      "explanation": "Minimum SSI training team = at least one active-status Pro (the cert-issuing instructor) plus one support staff (handling admin, scheduling, logistics, retail). That two-role split lets the centre run programs reliably without overloading one person. (a) two-equal-instructors and (c) three-staff are over-specified; (d) a single assistant has no instructor authority and can't run a program alone.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-141",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Roles",
+      "question": "Professionals:",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Train and certify students",
+        "c": "Set the training center training schedule",
+        "d": "Create and maintain training materials and standards"
+      },
+      "correct": "b",
+      "explanation": "The defining role of any SSI Pro (DM through ITrainer) is to deliver training and — for Instructors and above — issue certifications. Scheduling (c) is a centre/management function, not a Pro's universal role. Training materials and standards (d) are owned by SSI HQ; Pros deliver against them, they don't author them. (a) 'all correct' fails because c and d are not generic Pro responsibilities.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-142",
+      "area": "instructor",
+      "subarea": "Professional Standards — Training Team",
+      "question": "Non-diving staff assist with:",
+      "options": {
+        "a": "Certifying continuing education students",
+        "b": "All answers are correct",
+        "c": "Evaluating students under indirect supervision",
+        "d": "Program logistics and organizing training programs"
+      },
+      "correct": "d",
+      "explanation": "Non-diving staff = receptionists, retail, admin, marketing, equipment-room support. Their job is logistics: scheduling classes, processing registrations, prepping rentals, handling paperwork — everything that lets the Pros focus on teaching. (a) certifying and (c) evaluating are explicitly in-water Pro responsibilities and require active Pro status; non-diving staff have no such authority. (b) all-correct fails because a and c are out of scope.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-143",
+      "area": "instructor",
+      "subarea": "Professional Standards — Service Centers",
+      "question": "SSI Service Centers:",
+      "options": {
+        "a": "Create and maintain training materials and Standards",
+        "b": "Support training centers within their region",
+        "c": "Train individual students",
+        "d": "All answers are correct"
+      },
+      "correct": "b",
+      "explanation": "Service Centers are regional/national SSI offices whose job is to support the training centres in their territory — local-language materials, distribution, marketing assets, regional QA, region-specific standards interpretation. They do not author the global training materials or standards (a) — that's SSI HQ. They don't train individual divers (c) — that happens at training centres. The hierarchy is HQ → Service Centers → Training Centers → Pros → Divers.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-144",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "____ can teach the academic and pool/confined water portions of the Open Water Diver program under indirect supervision.",
+      "options": {
+        "a": "Training center staff",
+        "b": "No answer is correct",
+        "c": "Open Water Instructors",
+        "d": "Assistant Instructors"
+      },
+      "correct": "d",
+      "explanation": "Defining authority of the Assistant Instructor rating: AIs can independently conduct the academic and pool/confined-water sessions of OWD but only under INDIRECT supervision of an active OWI (the Instructor doesn't have to be poolside, but takes overall responsibility). OWIs (c) teach with DIRECT authority — not 'indirect supervision'. (a) is too broad — generic TC staff have no teaching authority. The wording 'indirect supervision' is the AI cue.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-145",
+      "area": "instructor",
+      "subarea": "Professional Standards — Training Centers",
+      "question": "Training Centers:",
+      "options": {
+        "a": "Annually sign the Training Center Agreement",
+        "b": "Assign a Training Center QMS Manager for quality assurance",
+        "c": "All answers are correct",
+        "d": "Set schedules for SSI training programs"
+      },
+      "correct": "c",
+      "explanation": "All three are TC responsibilities: (a) the TC Agreement is renewed annually — that's how SSI keeps the centre's status current; (b) every TC designates a QMS (Quality Management System) Manager who owns standards-compliance, incident reporting, and internal audits; (d) schedule autonomy is part of the Flexibility Rule — TCs decide when and how often to run programs within their territory and resource constraints.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-146",
+      "area": "instructor",
+      "subarea": "Professional Standards — SSI International",
+      "question": "SSI International:",
+      "options": {
+        "a": "Trains individual students",
+        "b": "Creates and maintain training materials and standards",
+        "c": "Directly monitors the training center staff",
+        "d": "All answers are correct"
+      },
+      "correct": "b",
+      "explanation": "SSI International (HQ) authors and maintains the global training materials, standards, certifications and curricula. Student training (a) is delivered at TCs by Pros, not HQ. Direct monitoring of TC staff (c) is delegated to regional Service Centers — HQ doesn't audit individual centres directly. (d) all-correct fails because a and c sit at the wrong level of the SSI hierarchy.",
+      "source": "mySSI: ITC Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-inst-147",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "An Assistant Instructor can _______ during training in pool/confined water during the Open Water Diver program.",
+      "options": {
+        "a": "Teach all skills under indirect supervision",
+        "b": "Teach all skills (except the emergency ascent skills) under indirect supervision",
+        "c": "Teach all emergency ascent skills under direct supervision",
+        "d": "Only observe and assist with group control"
+      },
+      "correct": "a",
+      "explanation": "AI authority in pool/confined water for OWD is full — AIs can teach ALL skills, including the practice emergency ascent (CESA) drills that happen in confined water, under indirect supervision of an active OWI. The 'no-emergency-ascent' restriction (b) applies to the OPEN WATER environment, not the pool. (c) flips the supervision level. (d) understates the AI rating — they're not just observers in confined water.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-inst-148",
+      "area": "instructor",
+      "subarea": "Methodology — Open Water Training",
+      "question": "Open water training dives:",
+      "options": {
+        "a": "Are used to teach additional skills like buoyancy control",
+        "b": "Apply the pool/confined water skills in a real-world environment",
+        "c": "All answers are correct",
+        "d": "Require at least one certified assistant"
+      },
+      "correct": "b",
+      "explanation": "OW training dives are the TRANSFER phase: students take skills they've already mastered in pool/confined water and apply them in the actual aquatic environment. (a) is wrong because skills like buoyancy control are taught in pool first, not in OW. (d) is wrong because a certified assistant is not a universal requirement — it's driven by student/instructor ratios in standards. (c) all-correct fails because a and d are not generic OW-dive truths.",
+      "source": "mySSI: ITC Lesson 2.1 Review"
     },
     {
       "id": "mssi-inst-001",
