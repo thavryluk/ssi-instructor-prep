@@ -168,6 +168,16 @@
     <section id="settings-screen" class="screen hidden">
       <h1 data-i18n="settings.title">Settings</h1>
       <div class="card">
+        <h3 data-i18n="settings.source_filter">Source filter</h3>
+        <p class="muted" data-i18n="settings.source_filter_intro">Limit drill to questions from real web sources, agent-compiled-from-theory, or both.</p>
+        <div id="settings-source" class="chip-row">
+          <button class="chip source-filter" data-src="all" data-i18n="settings.src_all">All sources</button>
+          <button class="chip source-filter source-mssi" data-src="mssi" data-i18n="settings.src_mssi">★ mySSI only</button>
+          <button class="chip source-filter source-personal" data-src="personal" id="settings-src-personal" data-i18n="settings.src_personal">🔒 Personal only</button>
+          <button class="chip source-filter source-web" data-src="web" data-i18n="settings.src_web">● Web (other) only</button>
+          <button class="chip source-filter source-compiled" data-src="compiled" data-i18n="settings.src_compiled">○ Compiled only</button>
+        </div>
+        <hr />
         <h3 data-i18n="settings.areas">Areas</h3>
         <p class="muted" data-i18n="settings.areas_intro">Tap chips to add/remove areas from the drill pool. Empty selection = all areas drilled.</p>
         <div id="settings-areas" class="chip-row"></div>
@@ -179,16 +189,6 @@
         <h3 data-i18n="settings.personal_section">🔒 Personal questions</h3>
         <p class="muted" id="personal-status">Locked.</p>
         <button id="btn-personal-toggle" class="ghost" data-i18n="settings.unlock">Unlock…</button>
-        <hr />
-        <h3 data-i18n="settings.source_filter">Source filter</h3>
-        <p class="muted" data-i18n="settings.source_filter_intro">Limit drill to questions from real web sources, agent-compiled-from-theory, or both.</p>
-        <div id="settings-source" class="chip-row">
-          <button class="chip source-filter" data-src="all" data-i18n="settings.src_all">All sources</button>
-          <button class="chip source-filter source-mssi" data-src="mssi" data-i18n="settings.src_mssi">★ mySSI only</button>
-          <button class="chip source-filter source-personal" data-src="personal" id="settings-src-personal" data-i18n="settings.src_personal">🔒 Personal only</button>
-          <button class="chip source-filter source-web" data-src="web" data-i18n="settings.src_web">● Web (other) only</button>
-          <button class="chip source-filter source-compiled" data-src="compiled" data-i18n="settings.src_compiled">○ Compiled only</button>
-        </div>
         <hr />
         <h3 data-i18n="settings.reset_pool">Reset pool stats</h3>
         <p class="muted" data-i18n="settings.reset_pool_intro">Marks all current pool answers as "reset" — they stop counting toward Pool stats, Dashboard and weighted picking, but stay in Total. Useful when you want a fresh accuracy reading after a study session.</p>
