@@ -2,11 +2,11 @@
   "version": "1.0",
   "generated_at": "2026-04-25",
   "note": "SSI study bank for Tomas's Instructor prep app. Each question carries a 'source' URL (Quizlet/dive-shop PDF/SSI training pages) where verbatim wording was found, OR 'compiled_from_dive_theory' for items grounded in public SSI standards and dive physics/physiology that I've authored from established theory rather than copied. Always reconcile with the current SSI Training Standards before using as definitive answers.",
-  "total": 919,
+  "total": 973,
   "counts_by_area": {
     "assistant_instructor": 50,
     "divemaster": 50,
-    "instructor": 699,
+    "instructor": 753,
     "science_of_diving": 120
   },
   "questions": [
@@ -7509,6 +7509,816 @@
       "correct": "a",
       "explanation": "Subject-matter expert principle: the Pro must know AND perform clearly above the student level so they can teach, evaluate, anticipate problems, and recover situations. (b) and (c) leave the Pro at or below student level — can't teach what you don't know. (d) 'different' is vague — direction matters.",
       "source": "mySSI: ITC Lesson 8.3 Review"
+    },
+    {
+      "id": "mssi-inst-350",
+      "area": "instructor",
+      "subarea": "Methodology — In-Water Training",
+      "question": "The in-water sessions should:",
+      "options": {
+        "a": "Only focus on complex scenario management",
+        "b": "Only cover skills the student has not already learned",
+        "c": "Include as many repetitions of every skill as possible",
+        "d": "Progress from basic review to complex scenario management"
+      },
+      "correct": "d",
+      "explanation": "Scaffolding pedagogy (callback mssi-inst-260): start with basic skill review to confirm baseline, then build into complex scenario management as confidence and competence rise. The progression is what consolidates skills under stress. (a) jumping straight to complex skips foundations — students drown cognitively. (b) skipping review misses the chance to catch decayed skills early. (c) max repetitions without structure is busy-work that doesn't grow capability.",
+      "source": "mySSI: ITC Lesson 9.1 Review"
+    },
+    {
+      "id": "mssi-inst-351",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Before earning their certification, students must have:",
+      "options": {
+        "a": "A React Right certification or equivalent",
+        "b": "A Divemaster certification",
+        "c": "The Advanced Open Water Diver recognition card",
+        "d": "At least two additional specialty certifications"
+      },
+      "correct": "a",
+      "explanation": "Diver Stress & Rescue (and the wider rescue-tier programs that this lesson covers) requires a valid CPR + First Aid cert as a prerequisite. SSI's in-house program is React Right, and equivalents (EFR, EFAW, Red Cross First Aid) are accepted. (b) DM is a Pro rating, way past Stress & Rescue. (c) AOW recognition isn't a rescue prereq. (d) two specialties is the Specialty Diver requirement, different program.",
+      "source": "mySSI: ITC Lesson 9.1 Review"
+    },
+    {
+      "id": "mssi-inst-352",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "What is one benefit of the Diver Stress & Rescue program?",
+      "options": {
+        "a": "It refreshes and further develops emergency skills",
+        "b": "All answers are correct",
+        "c": "It teaches divers how to manage decompression diving emergencies",
+        "d": "It qualifies the diver to provide advanced medical care"
+      },
+      "correct": "a",
+      "explanation": "S&R extends the basic emergency skills introduced in OWD (CESA, panicked-diver assist, lost-diver search) into broader rescue scenarios — proactive stress recognition, in-water rescue tows, surface management of an unresponsive diver. (c) decompression emergencies live in Tec / Decompression Diving training. (d) advanced medical care is paramedic-level, far beyond diver rescue scope. (b) all-correct sweeps in the wrong claims.",
+      "source": "mySSI: ITC Lesson 9.1 Review"
+    },
+    {
+      "id": "mssi-inst-353",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "Which of the following topics should be adapted to your local regulations and training center policies?",
+      "options": {
+        "a": "Managing the scene of an incident",
+        "b": "All answers are correct",
+        "c": "Interacting with local authorities",
+        "d": "Transporting victims to advanced medical care"
+      },
+      "correct": "b",
+      "explanation": "All three topics are jurisdiction-dependent: (a) scene management procedures vary by country / state regulation; (c) authorities to contact (coast guard, police, EMS) and how depend entirely on location; (d) transport to advanced medical care depends on local infrastructure (boat-to-shore + ambulance vs. medivac vs. hyperbaric chamber distance). The Pro must localise all three to their region — generic textbook answers can fail at the actual scene.",
+      "source": "mySSI: ITC Lesson 9.1 Review"
+    },
+    {
+      "id": "mssi-inst-354",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "There are ____ pool/confined water sessions, and _____ open water training dives in the Diver Stress & Rescue program.",
+      "options": {
+        "a": "Two, two",
+        "b": "Two, three",
+        "c": "Two, four",
+        "d": "Three, three"
+      },
+      "correct": "d",
+      "explanation": "Diver Stress & Rescue = 3 + 3 structure: three pool/confined sessions (controlled stress recognition + rescue-scenario practice) + three OW training dives (real-environment scenarios). Higher dive count than the typical specialty (often 2 OW) because rescue scenarios need more repetitions to consolidate under pressure.",
+      "source": "mySSI: ITC Lesson 9.1 Review"
+    },
+    {
+      "id": "mssi-inst-355",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "The Diver Stress & Rescue program trains divers to deal with:",
+      "options": {
+        "a": "Recreational diving emergencies",
+        "b": "Personal emergencies only",
+        "c": "Stressed divers only",
+        "d": "Any diving emergency"
+      },
+      "correct": "a",
+      "explanation": "S&R scope = recreational-diving emergencies: panic, out-of-air, lost diver, surface incidents, unresponsive diver, in-water tow. (b) 'personal only' excludes helping others — too narrow. (c) 'stressed divers only' covers just part of the syllabus (rescue + scene management aren't only stress-related). (d) 'any emergency' over-reaches — decompression emergencies belong to Tec training, not S&R.",
+      "source": "mySSI: ITC Lesson 9.1 Review"
+    },
+    {
+      "id": "mssi-inst-356",
+      "area": "instructor",
+      "subarea": "Professional Standards — Specialty Programs",
+      "question": "To begin training, students must have:",
+      "options": {
+        "a": "At least two specialty certifications",
+        "b": "A Referral Diver certification",
+        "c": "A Divemaster certification",
+        "d": "An Open Water Diver certification"
+      },
+      "correct": "b",
+      "explanation": "Key distinction: 'to BEGIN training' is the entry gate, NOT the cert gate. Referral Diver (academic + all pool/confined complete, no OW dives yet — mssi-inst-325) is sufficient to start the S&R academic + pool content. They still need full OWD certification before earning the S&R cert (since rescue evaluation in OW requires OW competence). (d) OWD is required for FINISHING the cert (mssi-inst-351), but not for starting. (a) two specialties and (c) DM are too high a bar for entry.",
+      "source": "mySSI: ITC Lesson 9.1 Review"
+    },
+    {
+      "id": "mssi-inst-357",
+      "area": "instructor",
+      "subarea": "Methodology — Adult learners",
+      "question": "Which of the following will improve your student's learning experience?",
+      "options": {
+        "a": "Acting as a mentor, and teaching them to evaluate their decisions",
+        "b": "Only teaching them one correct way to deal with each scenario",
+        "c": "Only focusing on the equipment configurations used at your training center",
+        "d": "Teaching them every possible emergency scenario"
+      },
+      "correct": "a",
+      "explanation": "Mentorship + decision-evaluation skill (Lesson 1.2 / mssi-inst-109 callback — adults are autonomous and self-directed). Rescue work has too much variability for rote responses; the diver needs the judgement framework to read a situation and choose the right tool. (b) 'one correct way' breaks under any real-world variation. (c) home-TC-only equipment configs hurt transferability. (d) covering every possible scenario is impossible — there are infinite combinations.",
+      "source": "mySSI: ITC Lesson 9.1 Review"
+    },
+    {
+      "id": "mssi-inst-358",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Path",
+      "question": "Which of the following are prerequisites for starting the Divemaster program?",
+      "options": {
+        "a": "Have the Diver Stress & Rescue certification (or equivalent)",
+        "b": "All answers are correct",
+        "c": "Have logged at least 40 open water dives",
+        "d": "Be at least 18 years old"
+      },
+      "correct": "b",
+      "explanation": "All three DM entry requirements: (a) Diver Stress & Rescue cert (or equivalent) — rescue competence is non-negotiable before stepping into a Pro role; (c) at least 40 logged OW dives — minimum experience baseline; (d) age 18+ — legal/insurance threshold for Pro responsibility. Drop any one and DM enrolment is blocked.",
+      "source": "mySSI: ITC Lesson 9.2 Review"
+    },
+    {
+      "id": "mssi-inst-359",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Path",
+      "question": "The Dive Guide program trains candidates to:",
+      "options": {
+        "a": "Lead certified divers on non-commercial recreational dives",
+        "b": "Lead certified divers on extended range dives",
+        "c": "Lead entry-level students on excursion dives",
+        "d": "All answers are correct"
+      },
+      "correct": "a",
+      "explanation": "Dive Guide = entry-tier Pro role focused on guiding ALREADY-certified rec divers around dive sites — site briefing, route planning, group control on sights. Not teaching authority. (b) extended-range dives are Tec territory, far beyond DG scope. (c) leading entry-level STUDENTS is teaching — Instructor authority, not DG. (d) all-correct sweeps in the wrong scopes.",
+      "source": "mySSI: ITC Lesson 9.2 Review"
+    },
+    {
+      "id": "mssi-inst-360",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Counseling",
+      "question": "What is the purpose of a mid-program counseling session?",
+      "options": {
+        "a": "Identify which parts of the program can be eliminated",
+        "b": "Scare the candidates into trying harder",
+        "c": "Eliminate weak candidates from the program",
+        "d": "Provide feedback and constructive criticism to your candidates"
+      },
+      "correct": "d",
+      "explanation": "Halfway formative review: tell the candidate what's working, where they need to improve, what's required before final eval. Catches issues while there's still time to fix them. (a) eliminating program parts breaches Standards (fixed content). (b) intimidation breaks SSI ethics. (c) 'eliminate weak' is the anti-SSI mindset (mssi-inst-266) — the methodology is supportive, not selective.",
+      "source": "mySSI: ITC Lesson 9.2 Review"
+    },
+    {
+      "id": "mssi-inst-361",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Path",
+      "question": "What should your candidates complete before beginning their in-person training?",
+      "options": {
+        "a": "All of the Divemaster digital learning",
+        "b": "Sections 1-3 of the Divemaster digital learning",
+        "c": "The Diver Stress and Rescue and Open Water Diver digital learning",
+        "d": "The Divemaster digital learning and the candidate water fitness evaluation"
+      },
+      "correct": "a",
+      "explanation": "Front-load all academic content via digital learning so in-person time is reserved for application + skills — that's where Pro time has the highest value. (b) Sections 1-3 is partial — they'd hit content gaps during practical sessions. (c) prereq-program materials aren't DM curriculum. (d) water fitness eval is itself part of in-person, not pre-work.",
+      "source": "mySSI: ITC Lesson 9.2 Review"
+    },
+    {
+      "id": "mssi-inst-362",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Path",
+      "question": "What additional training materials are required for the Divemaster program?",
+      "options": {
+        "a": "The Education System Evaluation form",
+        "b": "The Academic Teaching Evaluation form",
+        "c": "Dive Briefing and Dive Guiding Evaluation forms",
+        "d": "The In-Water Teaching Evaluation form"
+      },
+      "correct": "c",
+      "explanation": "DM core competencies = briefing certified divers and guiding them on dives (mssi-inst-359), so the program-specific evaluation forms cover exactly those skills. (a), (b) and (d) are teaching-eval instruments belonging to AI / Instructor levels — DM has no teaching authority, so teaching-eval forms aren't part of DM materials.",
+      "source": "mySSI: ITC Lesson 9.2 Review"
+    },
+    {
+      "id": "mssi-inst-363",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "Candidates gaining the Dive Guide certification may:",
+      "options": {
+        "a": "Guide friends and family on recreational dives",
+        "b": "All answers are correct",
+        "c": "Work for a training center, dive resort, or dive boat",
+        "d": "Register for the Divemaster certification"
+      },
+      "correct": "a",
+      "explanation": "Dive Guide scope is NON-COMMERCIAL recreational guiding (mssi-inst-359) — friends/family on local dives fits cleanly. (c) commercial work at a TC/resort/boat typically requires the Divemaster rating (which adds the commercial-guiding authority and the additional Pro responsibilities). (d) DG can be a stepping stone toward DM, but registration also depends on other prereqs (40 logged dives, 18+, S&R cert) — not automatic. (b) all-correct sweeps in the commercial-scope item.",
+      "source": "mySSI: ITC Lesson 9.2 Review"
+    },
+    {
+      "id": "mssi-inst-364",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Path",
+      "question": "Candidates can earn the Divemaster rating by completing their training and:",
+      "options": {
+        "a": "Completing the Decompression Diving program",
+        "b": "Teaching at least five Scuba Skills Updates",
+        "c": "Meeting the requirements for maintaining active status",
+        "d": "Registering for an Instructor Training Course"
+      },
+      "correct": "c",
+      "explanation": "Two parts to earning ACTIVE DM rating: complete the training + meet active-status requirements (annual renewal fee, online renewal, TC affiliation, insurance where legally required — mssi-inst-107, 170, 172). Without active status the rating sits inactive and unusable. (a) Decompression Diving is Tec, not DM territory. (b) teaching SSUs requires DM authority already — chicken-and-egg. (d) ITC registration is the NEXT Pro-path step, not DM completion criterion.",
+      "source": "mySSI: ITC Lesson 9.2 Review"
+    },
+    {
+      "id": "mssi-inst-365",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Path",
+      "question": "After completing their training, Divemasters must ____ before earning their certification card.",
+      "options": {
+        "a": "Complete the requirements for maintaining active status",
+        "b": "All answers are correct",
+        "c": "Register for the Divemaster program",
+        "d": "Complete the Science of Diving program"
+      },
+      "correct": "d",
+      "explanation": "Science of Diving (a Diving Knowledge specialty — mssi-inst-299) is a SSI corequisite for the DM cert card — it provides the theoretical depth (physics, physiology, equipment, environment) that pure DM training doesn't fully cover, and that DM-level Pros need for downstream teaching prep. (a) active-status maintenance is the rating-activation requirement (mssi-inst-364), not the cert-card-issuance gate. (c) registering happens at the start of training. (b) all-correct sweeps in irrelevant items.",
+      "source": "mySSI: ITC Lesson 9.2 Review"
+    },
+    {
+      "id": "mssi-inst-366",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Path",
+      "question": "What is the purpose of the Divemaster Practical Application Sessions?",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Prepare a candidate to teach the Perfect Buoyancy program",
+        "c": "Evaluate a candidate's abilities to complete the duties of a Divemaster",
+        "d": "Introduce a candidate to the duties of a professional"
+      },
+      "correct": "c",
+      "explanation": "DM Practical Application Sessions = the evaluation phase: candidate has to PERFORM the DM duties (dive briefing, dive guiding, in-water scenario response, surface management) under assessment. (b) Perfect Buoyancy teaching is OWI authority, not DM. (d) introduction to Pro duties happens earlier in training; Application Sessions are the proof-of-competence stage, not intro. (a) all-correct sweeps in the wrong items.",
+      "source": "mySSI: ITC Lesson 9.3 Review"
+    },
+    {
+      "id": "mssi-inst-367",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Path",
+      "question": "A candidate must demonstrate at least a _____ level of proficiency during the Open Water Diver Skills Workshop.",
+      "options": {
+        "a": "Recreational",
+        "b": "Entry",
+        "c": "Expert",
+        "d": "Professional"
+      },
+      "correct": "c",
+      "explanation": "DM candidate doing the OWD Skills Workshop must perform at EXPERT level — clean, slow, exaggerated, demonstration-quality. Consistent with mssi-inst-349 (Pro skill must be ABOVE student level). DMs are role models: students copy whatever they see in the water, so anything less than expert quality propagates errors. (a) recreational and (b) entry are student-target levels, too low. (d) 'professional' is vague and not the SSI verbatim.",
+      "source": "mySSI: ITC Lesson 9.3 Review"
+    },
+    {
+      "id": "mssi-inst-368",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Path",
+      "question": "The Dive Guiding Evaluation:",
+      "options": {
+        "a": "Can be combined with the Dive Briefing Evaluation",
+        "b": "Should not include any problems",
+        "c": "Should only be conducted in the pool/confined water",
+        "d": "Should be one hour long to increase training value"
+      },
+      "correct": "a",
+      "explanation": "Briefing + Guiding evals are a natural pair (briefing leads into guiding the same dive) — combining them is efficient and gives the evaluator a continuous view of the candidate's flow. (b) 'no problems' would defeat the purpose — evaluations need realistic scenarios. (c) pool-only contradicts the role: guiding mostly happens in OW. (d) one-hour is an arbitrary fixed length not in the standard.",
+      "source": "mySSI: ITC Lesson 9.3 Review"
+    },
+    {
+      "id": "mssi-inst-369",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Path",
+      "question": "The Candidate Water Fitness Evaluation:",
+      "options": {
+        "a": "Must be completed after the Dive Guiding evaluation",
+        "b": "Is optional, if the candidate has already completed the Student Water Fitness Evaluation",
+        "c": "Is identical to the entry-level Student Water Fitness Evaluation",
+        "d": "Evaluates a candidate's professional-level in-water comfort"
+      },
+      "correct": "d",
+      "explanation": "Pro-level fitness eval is tougher than the student version — DM candidates need extra reserves to manage rescues, towing, surface work over longer durations (swim distance, tread-water time, gear-tow, breath-hold). (a) ordering relative to Dive Guiding eval isn't fixed by standard. (b) is wrong — Pro fitness is separately required, not waivable by prior student-level test. (c) inverts difficulty — Pro level is harder by design.",
+      "source": "mySSI: ITC Lesson 9.3 Review"
+    },
+    {
+      "id": "mssi-inst-370",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Path",
+      "question": "Divemaster candidates must successfully complete at least ____ Dive Briefing Evaluation, but should complete more if possible.",
+      "options": {
+        "a": "One",
+        "b": "Three",
+        "c": "Two",
+        "d": "Four"
+      },
+      "correct": "a",
+      "explanation": "Standard minimum = 1 successful Dive Briefing Evaluation. The 'should complete more if possible' wording flags it as a floor, not a target — more reps build the candidate's confidence and refine the briefing structure. (b), (c), (d) over-specify the minimum.",
+      "source": "mySSI: ITC Lesson 9.3 Review"
+    },
+    {
+      "id": "mssi-inst-371",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Path",
+      "question": "What kind of scenarios should be included in the Dive Guiding Evaluation?",
+      "options": {
+        "a": "Realistic scenarios with complex problems",
+        "b": "The most complex scenarios possible",
+        "c": "Realistic scenarios with simple problems",
+        "d": "Realistic scenarios without any problems"
+      },
+      "correct": "c",
+      "explanation": "DG Evaluation tests core competence: realistic enough to look like a real dive, but with SIMPLE problems so the evaluator sees the candidate's basic decision-making without overload. (a) and (b) over-stress with complex scenarios — that's not the entry-eval bar. (d) no problems at all leaves nothing to evaluate.",
+      "source": "mySSI: ITC Lesson 9.3 Review"
+    },
+    {
+      "id": "mssi-inst-372",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Path",
+      "question": "The Diver Stress & Rescue Skills Workshop should be done:",
+      "options": {
+        "a": "Using realistic scenarios",
+        "b": "Only if time and scheduling permits",
+        "c": "Only in the open water",
+        "d": "Using very stressful scenarios"
+      },
+      "correct": "a",
+      "explanation": "Workshop scenarios should mirror real rescue conditions — close enough that competence transfers to a real incident, but not contrived. (b) frames the Workshop as optional; it's a required part of DM training, not a bonus. (c) over-restricts environment; pool / confined work fits some scenarios. (d) intentionally cranking up stress beyond realistic crosses into hazing — defeats the learning purpose.",
+      "source": "mySSI: ITC Lesson 9.3 Review"
+    },
+    {
+      "id": "mssi-inst-373",
+      "area": "instructor",
+      "subarea": "Methodology — Pro Path",
+      "question": "What is the purpose of the Deep Dive Guiding Evaluation?",
+      "options": {
+        "a": "To prepare future Divemasters to guide certified divers on deep dives",
+        "b": "Divemasters can qualify as Night & Limited Visibility or Deep Diving Specialty Instructors",
+        "c": "Deep dives will be the primary responsibility of Divemasters worldwide",
+        "d": "To increase the difficulty of the Divemaster program"
+      },
+      "correct": "a",
+      "explanation": "DMs frequently guide certified divers at the deeper end of recreational range (OWD 18 m, AOW 30 m), so the eval verifies the candidate can manage a group safely at depth — gas-monitoring discipline, narcosis awareness, ascent control. (b) Specialty Instructor ratings are a separate teaching pathway, not a DM-eval outcome. (c) over-claims — deep diving is one of many DM duties, not the primary one. (d) difficulty-for-its-own-sake is a non-rationale.",
+      "source": "mySSI: ITC Lesson 9.3 Review"
+    },
+    {
+      "id": "mssi-inst-374",
+      "area": "instructor",
+      "subarea": "Methodology — Dive Industry Media",
+      "question": "Which of the following is a benefit of dive industry media?",
+      "options": {
+        "a": "Shares your experiences with friends and family",
+        "b": "Attracts new customers to the sport",
+        "c": "All answers are correct",
+        "d": "Informs divers and dive professionals about news, events, and technologies"
+      },
+      "correct": "c",
+      "explanation": "Three legitimate roles of dive industry media: (a) sharing experiences (social posts, blogs, photo galleries) reinforces the sport's culture and word-of-mouth; (b) acquisition — well-produced media reaches non-divers and pulls them in; (d) industry information — news, gear releases, conservation events keep Pros and active divers current. All three reinforce each other.",
+      "source": "mySSI: ITC Lesson 10.1 Review"
+    },
+    {
+      "id": "mssi-inst-375",
+      "area": "instructor",
+      "subarea": "Methodology — Dive Industry",
+      "question": "Equipment manufacturers benefit the dive industry by:",
+      "options": {
+        "a": "Researching and developing new equipment",
+        "b": "All answers are correct",
+        "c": "Promoting travel and dive destinations",
+        "d": "Researching and creating new medical procedures"
+      },
+      "correct": "a",
+      "explanation": "Manufacturers' core industry contribution = R&D and innovation: lighter regulators, drysuit valve safety, dive computer decompression algorithms, BCD ergonomics. (c) destination promotion is the travel industry's lane (operators, tourism boards). (d) medical research lives with DAN, hyperbaric medicine groups, dive physiology academia — not equipment makers. (b) all-correct sweeps in out-of-scope items.",
+      "source": "mySSI: ITC Lesson 10.1 Review"
+    },
+    {
+      "id": "mssi-inst-376",
+      "area": "instructor",
+      "subarea": "Methodology — Student Experience",
+      "question": "Which of the following statements is true?",
+      "options": {
+        "a": "The actions of a professional have little to no effect on a diver's career",
+        "b": "Capable and confident divers are more likely to continue to dive",
+        "c": "Divers with a poor training experience will continue to visit your training center",
+        "d": "All answers are correct"
+      },
+      "correct": "b",
+      "explanation": "Causality chain that drives the whole SSI ecosystem: quality training → competence + confidence → diver keeps diving → lifetime value for the diver and the industry. (a) inverts the truth — a Pro's behaviour is a major variable in whether a student becomes a lifelong diver (mssi-inst-115). (c) inverts the retention reality — poor experience = no return. (d) all-correct sweeps in the false claims.",
+      "source": "mySSI: ITC Lesson 10.1 Review"
+    },
+    {
+      "id": "mssi-inst-377",
+      "area": "instructor",
+      "subarea": "Methodology — Dive Industry",
+      "question": "Which of the following is the best resource for a diver looking for additional training and experiences?",
+      "options": {
+        "a": "An unaffiliated professional",
+        "b": "Their non-diving friends and family",
+        "c": "Their local training center",
+        "d": "Internet forums and websites"
+      },
+      "correct": "c",
+      "explanation": "TC = the whole ecosystem under one roof: certified instructors, equipment access, programs, social network, travel options, gear servicing. (a) unaffiliated Pros lack QMS oversight + standards backing — risk + no quality assurance. (b) non-diving people can't advise on training. (d) internet forums have wildly inconsistent quality and often pass on outdated or wrong information.",
+      "source": "mySSI: ITC Lesson 10.1 Review"
+    },
+    {
+      "id": "mssi-inst-378",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "What is the sequence of the Customer Loyalty Cycle?",
+      "options": {
+        "a": "Acquisition, Development, Commitment and Retention",
+        "b": "Acquisition, Retention, Commitment and Development",
+        "c": "Retention, Acquisition, Development and Commitment",
+        "d": "Commitment, Development, Acquisition and Retention"
+      },
+      "correct": "a",
+      "explanation": "Logical funnel: (1) ACQUISITION — Try Scuba / intro programs pull non-divers in; (2) DEVELOPMENT — entry-level cert builds the foundational skills; (3) COMMITMENT — gear ownership, con-ed, emotional buy-in deepens engagement; (4) RETENTION — long-term relationship, repeat business, advocacy / referrals. Each phase feeds the next; the order is causal. The other options scramble the sequence and break the funnel logic.",
+      "source": "mySSI: ITC Lesson 10.1 Review"
+    },
+    {
+      "id": "mssi-inst-379",
+      "area": "instructor",
+      "subarea": "Methodology — Dive Industry",
+      "question": "Travel agencies benefit the dive industry by:",
+      "options": {
+        "a": "Researching and developing new equipment",
+        "b": "Promoting dive industry news and new techniques",
+        "c": "Creating and certifying new divers",
+        "d": "Connecting divers and training centers to new and exciting dive destinations"
+      },
+      "correct": "d",
+      "explanation": "Travel agencies bridge divers and TCs to destinations — booking trips to Egypt, Truk, Galapagos, Mediterranean liveaboards, group expeditions, package deals. (a) R&D is the manufacturers' lane (mssi-inst-375). (b) news / techniques is dive industry media (mssi-inst-374). (c) creating + certifying divers is the TC + Pro role, not travel agencies.",
+      "source": "mySSI: ITC Lesson 10.1 Review"
+    },
+    {
+      "id": "mssi-inst-380",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "Why do you need to earn your customer's trust and respect?",
+      "options": {
+        "a": "Because it is the only way to get them to spend money",
+        "b": "Because they can always choose to take their business elsewhere",
+        "c": "Because they will buy less equipment from you",
+        "d": "Because it's required by the SSI Training Center Agreement"
+      },
+      "correct": "b",
+      "explanation": "Trust + respect = the foundation of retention. Divers have free choice across TCs and Pros — without trust they walk to a competitor at the next opportunity. (a) frames trust as a sales lever only — too transactional, not the whole picture. (c) inverts cause and effect. (d) trust isn't a contractual obligation under the TC Agreement; it's a relationship outcome.",
+      "source": "mySSI: ITC Lesson 10.2 Review"
+    },
+    {
+      "id": "mssi-inst-381",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "By completing the Acquisition phase, your customers:",
+      "options": {
+        "a": "Choose not to do business with you",
+        "b": "Choose to become a professional",
+        "c": "Decide to do business with you",
+        "d": "Choose to become a lifelong customer"
+      },
+      "correct": "c",
+      "explanation": "Acquisition = first stage of the Loyalty Cycle (mssi-inst-378). Output: the customer has decided to engage — signed up for Try Scuba, paid the OWD deposit, booked the first session. That's the WIN of acquisition. (a) is acquisition failing. (b) Pro path is many phases away. (d) lifelong customer is the Retention output — last stage, not first.",
+      "source": "mySSI: ITC Lesson 10.2 Review"
+    },
+    {
+      "id": "mssi-inst-382",
+      "area": "instructor",
+      "subarea": "Methodology — Marketing",
+      "question": "Which part of the training center team should be aware of internal and external marketing efforts?",
+      "options": {
+        "a": "Dive professionals",
+        "b": "The owners",
+        "c": "Retail and travel center staff",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "Marketing alignment is a whole-team responsibility: (a) Pros mention current promos to students during classes; (b) owners set strategy and budget; (c) retail + travel staff are the brand's face in everyday interactions. If anyone on the team doesn't know about an active campaign, customers get mixed messaging — undermines conversion.",
+      "source": "mySSI: ITC Lesson 10.2 Review"
+    },
+    {
+      "id": "mssi-inst-383",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "What is the purpose of positioning yourself as an expert to your customers?",
+      "options": {
+        "a": "They will only ask you about training opportunities",
+        "b": "They will learn that the internet is the best source of advice",
+        "c": "They will come to you for advice on training, purchases, and travel",
+        "d": "They will know to look somewhere else for advice"
+      },
+      "correct": "c",
+      "explanation": "Expert status = first-call status across the entire diving journey: training program selection, gear purchases, dive destination recommendations, equipment service. Trust + competence creates a multi-touchpoint relationship where the customer keeps coming back. (a) limits expertise to one slice. (b) and (d) describe what happens when you LOSE trust — customer goes elsewhere.",
+      "source": "mySSI: ITC Lesson 10.2 Review"
+    },
+    {
+      "id": "mssi-inst-384",
+      "area": "instructor",
+      "subarea": "Methodology — Marketing",
+      "question": "Which of the following is part of a targeted marketing strategy?",
+      "options": {
+        "a": "Consistent messaging and mass-emailing",
+        "b": "Cost effectiveness and consistent messaging",
+        "c": "Cost effectiveness and cold calling",
+        "d": "Cold calling and mass-emailing"
+      },
+      "correct": "b",
+      "explanation": "Targeted marketing = aim at a specific audience efficiently with a clear value proposition. Cost-effective + consistent messaging both reflect that discipline (spend lands where conversion is highest, every touchpoint reinforces the same brand promise). (a), (c) and (d) include mass-emailing or cold calling — both are spray-and-pray UN-targeted techniques that contradict the strategy.",
+      "source": "mySSI: ITC Lesson 10.2 Review"
+    },
+    {
+      "id": "mssi-inst-385",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "Which of the following applies to the Acquisition phase?",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Creating a welcoming environment",
+        "c": "Positioning yourself as the expert",
+        "d": "Targeted marketing"
+      },
+      "correct": "a",
+      "explanation": "Three pillars of effective Acquisition: (b) welcoming environment — the first impression has to feel inclusive (mssi-inst-206); (c) expert positioning (mssi-inst-383) — trust in competence converts interest into action; (d) targeted marketing (mssi-inst-384) — right message reaching the right audience efficiently. Together they make Acquisition work.",
+      "source": "mySSI: ITC Lesson 10.2 Review"
+    },
+    {
+      "id": "mssi-inst-386",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "Why is creating a welcoming atmosphere a key component of the Acquisition phase?",
+      "options": {
+        "a": "It is not a key component of the Acquisition phase",
+        "b": "Customers who do not feel comfortable will seek out a different training center",
+        "c": "It convinces new divers to register for continuing education programs",
+        "d": "It makes experienced divers less likely to become loyal customers"
+      },
+      "correct": "b",
+      "explanation": "Free-choice market (mssi-inst-380): uncomfortable customers don't complain — they just go to a competitor. Welcoming atmosphere removes the entry-barrier (intimidation, judgement, gear-snobbery vibes) and lets the conversation about training actually start. (a) inverts — mssi-inst-385 already confirmed it's a pillar. (c) con-ed enrolment is the Commitment phase, not Acquisition. (d) is nonsense.",
+      "source": "mySSI: ITC Lesson 10.2 Review"
+    },
+    {
+      "id": "mssi-inst-387",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "What is the primary goal of the Development phase?",
+      "options": {
+        "a": "To create lifelong divers",
+        "b": "To convince divers to purchase equipment",
+        "c": "All answers are correct",
+        "d": "To create need in customers"
+      },
+      "correct": "d",
+      "explanation": "Development phase = need-creation, consistent with the Diver Diamond philosophy (mssi-inst-224): show the diver all six components and let them recognise their own gaps — that recognition motivates the next program, gear, or trip. (a) lifelong-diver outcome is the Retention phase output, downstream. (b) equipment purchases are one expression of Development but too narrow as the primary goal. (c) all-correct sweeps in the misframings.",
+      "source": "mySSI: ITC Lesson 10.3 Review"
+    },
+    {
+      "id": "mssi-inst-388",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "What is the purpose of an orientation session?",
+      "options": {
+        "a": "To show off the most expensive equipment available at the training center",
+        "b": "To demonstrate how experienced the dive professionals are",
+        "c": "To highlight the features of the training center and its resources to a customer",
+        "d": "To show the customer how complicated diving can be"
+      },
+      "correct": "c",
+      "explanation": "Orientation = a guided welcome through the whole TC ecosystem — classroom, retail floor, equipment service, travel desk, social events. The customer leaves understanding the full value proposition and what's available beyond the first program. (a) is hard-sell on the priciest gear — kills trust. (b) Pro-experience name-dropping = arrogance. (d) intimidating new customers about complexity destroys confidence.",
+      "source": "mySSI: ITC Lesson 10.3 Review"
+    },
+    {
+      "id": "mssi-inst-389",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "Why is it important for a training center to maintain a professional appearance?",
+      "options": {
+        "a": "It is more attractive to the customer, and builds confidence",
+        "b": "The SSI Service Center can revoke membership if the training center is not well-maintained",
+        "c": "Customers will only visit training centers with the most modern features",
+        "d": "Training centers do not need to maintain a professional appearance"
+      },
+      "correct": "a",
+      "explanation": "Visual polish is a silent quality signal — clean classroom, organised gear room, branded décor all tell the customer 'these people run a professional operation; my safety and training are in good hands'. (b) over-formalises with a Service Center revocation threat — appearance isn't enforced that way. (c) 'only most modern' is elitist and false (well-maintained ≠ flashy). (d) inverts the truth.",
+      "source": "mySSI: ITC Lesson 10.3 Review"
+    },
+    {
+      "id": "mssi-inst-390",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "Which of the following is a technique for developing a relationship with your customer?",
+      "options": {
+        "a": "Encourage them to provide feedback and reviews",
+        "b": "Demonstrate professionalism in appearance and training center activities",
+        "c": "Conduct orientation sessions",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "Three relationship-building moves working together: (a) feedback / reviews — signals that the customer's voice matters and gives the TC data to improve; (b) professional appearance + delivery (mssi-inst-389) — silent quality signal that reinforces trust; (c) orientation sessions (mssi-inst-388) — guided introduction to the full value proposition. Together they form active investment in the customer relationship.",
+      "source": "mySSI: ITC Lesson 10.3 Review"
+    },
+    {
+      "id": "mssi-inst-391",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "What is the purpose of the Development phase of the Customer Loyalty Cycle?",
+      "options": {
+        "a": "To seek out and find potential new customers",
+        "b": "All answers are correct",
+        "c": "To encourage customers to become lifelong divers",
+        "d": "To nurture and strengthen the relationship with your customer"
+      },
+      "correct": "d",
+      "explanation": "Development = middle phase of the Loyalty Cycle (mssi-inst-378). Acquisition is done — customer is already in. Now you nurture: deepen the relationship, build competence, surface their next-step needs (mssi-inst-387). (a) finding new customers belongs to Acquisition. (c) lifelong-diver outcome is Retention's payoff. (b) all-correct sweeps in out-of-phase activity.",
+      "source": "mySSI: ITC Lesson 10.3 Review"
+    },
+    {
+      "id": "mssi-inst-392",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "Reviews and training center/professional evaluations:",
+      "options": {
+        "a": "Help the training center create new travel and training opportunities",
+        "b": "Make the customer feel like their opinion is valid",
+        "c": "Identify areas for improvement",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "Three concurrent functions of customer reviews + evaluations: (a) signal where to expand the offer (e.g. customers asking for drysuit specialty → run one); (b) customer voice validation — feeling heard builds engagement and trust; (c) blind-spot intelligence — surfaces operational issues the TC owners may not see. Together they form a continuous-improvement feedback loop.",
+      "source": "mySSI: ITC Lesson 10.3 Review"
+    },
+    {
+      "id": "mssi-inst-393",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "What is the most important consideration if you want to help a customer commit to your training center?",
+      "options": {
+        "a": "Only give them advice that creates more training opportunities for you to teach",
+        "b": "Only give them advice that benefits your training center",
+        "c": "Listen to their needs, and give them relevant advice",
+        "d": "Listen to their needs, and advise them based on your opinions"
+      },
+      "correct": "c",
+      "explanation": "Customer-first approach: understand the customer's actual goals first, then steer them to programs / gear / trips that fit. Trust grows from 'this Pro listens to ME' rather than 'this Pro pushes their agenda'. (a) self-interested upselling. (b) manipulative TC-first framing. (d) opinion-based advice ignores the customer's specific needs — ego-driven instead of needs-driven.",
+      "source": "mySSI: ITC Lesson 10.4 Review"
+    },
+    {
+      "id": "mssi-inst-394",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "Why would a customer decide to travel with your training center?",
+      "options": {
+        "a": "They don't have any other options",
+        "b": "They want an easy travel experience with a business they are already familiar with",
+        "c": "They want you to sell them additional equipment and training",
+        "d": "They don't know where else to find travel information"
+      },
+      "correct": "b",
+      "explanation": "Convenience + trust drive the decision: the customer already knows the Pros, the gear standards, the group dynamics — pre-trip stress and cognitive load drop dramatically vs. booking with a new operator. (a) frames the TC as a monopoly choice — false in any healthy market. (c) inverts motivation (customer's wish, not the TC's wish). (d) negative-reasoning framing — customers do their research; the TC has to actually be the better option.",
+      "source": "mySSI: ITC Lesson 10.4 Review"
+    },
+    {
+      "id": "mssi-inst-395",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "What should you consider when discussing equipment purchases with a customer?",
+      "options": {
+        "a": "You should recommend equipment that meets their needs and goals",
+        "b": "They should buy the most-expensive equipment available in your training center",
+        "c": "They should buy whatever brands you recommend",
+        "d": "All answers are correct"
+      },
+      "correct": "a",
+      "explanation": "Customer-first principle (consistent with mssi-inst-393): match gear to the student's actual diving plans — cold vs warm water, travel frequency, dive style, budget. Right-fit gear builds long-term trust + repeat purchases. (b) most-expensive hard-sell breaks trust on first transaction. (c) 'whatever brands YOU recommend' is arrogance + loss of customer agency. (d) all-correct sweeps in the manipulative claims.",
+      "source": "mySSI: ITC Lesson 10.4 Review"
+    },
+    {
+      "id": "mssi-inst-396",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "What is one way that you can connect continuing education to your customer's needs?",
+      "options": {
+        "a": "Register them for as many programs as possible",
+        "b": "Emphasize that they should become an SSI Professional",
+        "c": "Find programs that requires them to buy new equipment",
+        "d": "Identify programs that will enhance their personal goals"
+      },
+      "correct": "d",
+      "explanation": "Same customer-first principle as mssi-inst-393, 395 — link education to the diver's own goals. They have a camera → recommend Photography; they're going on a Norway trip → Cold Water + Drysuit; they want to see wrecks → Wreck Diving. (a) 'as many as possible' is upsell anti-pattern. (b) pushing the Pro path is too aggressive on a recreational customer. (c) gear-tied programs as a sales tactic is manipulative bundling.",
+      "source": "mySSI: ITC Lesson 10.4 Review"
+    },
+    {
+      "id": "mssi-inst-397",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "What is the primary purpose of the Commitment phase of the Customer Loyalty Cycle?",
+      "options": {
+        "a": "To create new dive professionals",
+        "b": "To create need in your customers, and reinforce their connection to your training center",
+        "c": "To convince customers to buy as much equipment as possible",
+        "d": "To bring new customers into the training center"
+      },
+      "correct": "b",
+      "explanation": "Phase 3 of the Loyalty Cycle (mssi-inst-378). Customer is past Development (relationship nurtured, competence built); Commitment moves them into invested-state — gear ownership, con-ed enrolment, community participation. Need-creation continues, emotional bond strengthens. (a) Pro path is a separate (and rare) outcome. (c) 'as much as possible' is the manipulative read — actual goal is fitting commitment, not maximising it. (d) new customers belong to Acquisition (phase 1).",
+      "source": "mySSI: ITC Lesson 10.4 Review"
+    },
+    {
+      "id": "mssi-inst-398",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "After completing the Retention phase of the Customer Loyalty Cycle, the customer:",
+      "options": {
+        "a": "Will be a customer for life",
+        "b": "Restarts the cycle at one of the earlier phases",
+        "c": "All answers are correct",
+        "d": "Does not require any additional effort from the training center"
+      },
+      "correct": "b",
+      "explanation": "Loyalty Cycle is a LOOP, not a linear endpoint (mssi-inst-378). Each new program triggers a fresh Development phase, each new specialty kicks off Commitment again — continuous engagement loop. (a) 'customer for life' over-states the static endpoint; the cycle has to keep moving or commitment fades. (d) 'no additional effort' is the inverted truth — Retention is the most active phase, requiring continuous attention. (c) all-correct sweeps in those static-endpoint claims.",
+      "source": "mySSI: ITC Lesson 10.5 Review"
+    },
+    {
+      "id": "mssi-inst-399",
+      "area": "instructor",
+      "subarea": "Professional Standards — Pro Authority",
+      "question": "After passing the Instructor Evaluation, an Open Water Instructor can teach:",
+      "options": {
+        "a": "Open Water Diver, Enriched Air Nitrox, Diver Stress & Rescue, and Divemaster",
+        "b": "Enriched Air Nitrox, Diver Stress & Rescue, and Divemaster",
+        "c": "Open Water Diver, Perfect Buoyancy, Basic Diver and Science of Diving",
+        "d": "Perfect Buoyancy, Open Water Diver, Dive Guide, and Deep Diving"
+      },
+      "correct": "a",
+      "explanation": "Comprehensive OWI scope post-IE in SSI's pathway: entry-level cert (OWD), gas-management specialty (EAN), rescue (S&R), and Pro-level training (Divemaster). The DM-teaching authority lands at OWI in SSI structure (vs other agencies where it sits higher, at AIT/IT). Distractors mix in specialties needing separate Specialty Instructor ratings (Perfect Buoyancy, Deep Diving — would need those SI certs) or programs outside this scope (Basic Diver, Dive Guide, Science of Diving programs aren't in this base bundle).",
+      "source": "mySSI: ITC Lesson 10.5 Review"
+    },
+    {
+      "id": "mssi-inst-400",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "How can you support a diver who is looking for new travel opportunities?",
+      "options": {
+        "a": "Recommend trips that require the diver to take additional training",
+        "b": "Recommend trips that meet their goals and budget",
+        "c": "Only recommend trips that have the highest profit margin for the training center",
+        "d": "Recommend trips that will require the diver to purchase new equipment"
+      },
+      "correct": "b",
+      "explanation": "Customer-first travel advice (consistent with mssi-inst-393, 395, 396): match the trip to goals AND financial reality. Right-fit recommendations build trust + repeat travel through the TC. (a) bundling training as a trip prereq is forced upsell. (c) highest-profit-first is the manipulative TC-first frame. (d) requiring gear purchases as a trip filter is bundling for the wrong reason.",
+      "source": "mySSI: ITC Lesson 10.5 Review"
+    },
+    {
+      "id": "mssi-inst-401",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "People continue to dive because:",
+      "options": {
+        "a": "They have personal goals, enjoy dive traveling, or seek recognition",
+        "b": "They enjoy spending their money on expensive hobbies",
+        "c": "They have no other alternatives",
+        "d": "All answers are correct"
+      },
+      "correct": "a",
+      "explanation": "Three driving motivators for long-term divers: PERSONAL GOALS (skill progression — Master Diver, photography mastery, tec ratings), TRAVEL (destinations they want to see — Egypt, Indonesia, the Pacific), RECOGNITION (logged-dive milestones, AOWD, MD cards, Century Diver). All three are positive engagement loops. (b) cynical mischaracterisation. (c) absurd. (d) all-correct sweeps in the bad framings.",
+      "source": "mySSI: ITC Lesson 10.5 Review"
+    },
+    {
+      "id": "mssi-inst-402",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "Which of the following is a method of retaining divers?",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Nurture customer relationships",
+        "c": "Make diving accessible and easy",
+        "d": "Support non-diving activities and events"
+      },
+      "correct": "a",
+      "explanation": "Three retention strategies that work together: (b) personal touch — follow-up after class, remembering preferences, birthday-message-style attentiveness; (c) accessibility — flexible scheduling, gear rental, beginner-friendly entry points so divers stay active; (d) community building beyond the water — BBQs, club nights, fundraisers, social media engagement, fish-id parties. Together they form a community a diver doesn't want to leave.",
+      "source": "mySSI: ITC Lesson 10.5 Review"
+    },
+    {
+      "id": "mssi-inst-403",
+      "area": "instructor",
+      "subarea": "Methodology — Customer Loyalty",
+      "question": "What is the primary purpose of the Retention phase of the Customer Loyalty Cycle?",
+      "options": {
+        "a": "To get as many sales as possible before a customer stops diving",
+        "b": "To keep your customers actively diving and engaged with your training center",
+        "c": "To focus on attracting new customers to the training center",
+        "d": "To keep your customers in the training center as long as possible"
+      },
+      "correct": "b",
+      "explanation": "Retention = the sustain phase of the Loyalty Cycle (mssi-inst-378, 398). Goal: the diver keeps actually diving + keeps coming back for programs / gear / trips / community events. Active engagement, not passive membership. (a) is defeatist + transactional. (c) is the Acquisition phase, not Retention. (d) 'as long as possible' is vague — physically in the shop? Mentally engaged? Active diving is the right metric.",
+      "source": "mySSI: ITC Lesson 10.5 Review"
     },
     {
       "id": "mssi-inst-001",
