@@ -2,12 +2,12 @@
   "version": "1.0",
   "generated_at": "2026-04-25",
   "note": "SSI study bank for Tomas's Instructor prep app. Each question carries a 'source' URL (Quizlet/dive-shop PDF/SSI training pages) where verbatim wording was found, OR 'compiled_from_dive_theory' for items grounded in public SSI standards and dive physics/physiology that I've authored from established theory rather than copied. Always reconcile with the current SSI Training Standards before using as definitive answers.",
-  "total": 1552,
+  "total": 1575,
   "counts_by_area": {
     "assistant_instructor": 50,
     "divemaster": 150,
     "instructor": 753,
-    "science_of_diving": 349,
+    "science_of_diving": 372,
     "open_water_diver": 100,
     "react_right": 100,
     "diver_stress_rescue": 50
@@ -10242,6 +10242,351 @@
       "correct": "a",
       "explanation": "Evaporation = phase change liquid → vapour. It absorbs latent heat of vaporisation, which is why it cools (sweat is the primary human cooling mechanism on dry land). Diving relevance: minimal underwater (no evaporation while submerged), but topside after a dive a wet wetsuit cools fast as water evaporates from the suit's surface — significant hypothermia path between dives. Distractors match the other heat-transfer modes: (b) radiation, (c) convection, (d) conduction.",
       "source": "mySSI: SoD Lesson 1.5 Review"
+    },
+    {
+      "id": "mssi-sod-030",
+      "area": "science_of_diving",
+      "subarea": "Physics & Chemistry — Gas Management",
+      "question": "What is a diver's SAC rate if they dive for 10 minutes at a depth of 10 meters, and consume 50 bar from a 10-liter cylinder?",
+      "options": {
+        "a": "10 liters per minute",
+        "b": "25 liters per minute",
+        "c": "35 liters per minute",
+        "d": "50 liters per minute"
+      },
+      "correct": "b",
+      "explanation": "SAC (Surface Air Consumption) = breathing rate normalised to 1 ata. Step-by-step: gas consumed at depth = 50 bar × 10 L cylinder = 500 L. Ambient pressure at 10 m = 2 ata (1 atm surface + 1 bar hydrostatic). SAC = 500 L ÷ 10 min ÷ 2 ata = 25 L/min. The pressure division converts the depth-rate to the surface-equivalent rate (the diver actually inhaled gas at 50 L/min RMV at depth, but SAC normalises that back to surface so you can compare divers regardless of depth). Distractors: (a) ignores pressure factor; (d) is the RMV at depth, unnormalised.",
+      "source": "mySSI: SoD Lesson 1.6 Review"
+    },
+    {
+      "id": "mssi-sod-031",
+      "area": "science_of_diving",
+      "subarea": "Physics & Chemistry — Gas Management",
+      "question": "What is the minimum gas required for a buddy pair with a surface air consumption of 18 liters per minute, if they want to dive to 33 meters with 12-liter cylinders, and have a 2 minutes of troubleshooting?",
+      "options": {
+        "a": "78 bar",
+        "b": "60 bar",
+        "c": "53 bar",
+        "d": "36 bar"
+      },
+      "correct": "a",
+      "explanation": "Min-gas = troubleshoot at depth + ascent gas, both divers sharing air. Pressure at 33 m ≈ 4.3 ata. Troubleshoot: 18 L/min × 4.3 × 2 min × 2 divers ≈ 310 L. Ascent + safety stop (33→0 m + 3 min stop, ~7 min average ~2.6 ata): 18 × 2.6 × 7 × 2 ≈ 655 L. Total ≈ 965 L ÷ 12 L cylinder ≈ 80 bar → matches 78 bar (rounding-dependent). The other options stop short: (b) 60 ≈ ascent only; (c) 53 ≈ troubleshoot with 1.5× stress factor; (d) 36 ≈ troubleshoot at depth only with no ascent reserve.",
+      "source": "mySSI: SoD Lesson 1.6 Review"
+    },
+    {
+      "id": "mssi-sod-032",
+      "area": "science_of_diving",
+      "subarea": "Physics & Chemistry — Gas Management",
+      "question": "Assuming they keep a 50 bar reserve, how long will a diver's cylinder last if they intend to dive to 10 meters with a 12-liter cylinder filled to 200 bar, and have a SAC rate of 20 liters per minute?",
+      "options": {
+        "a": "25 minutes",
+        "b": "45 minutes",
+        "c": "10 minutes",
+        "d": "50 minutes"
+      },
+      "correct": "b",
+      "explanation": "Step-by-step: Total gas = 12 L × 200 bar = 2400 L. Reserve = 12 L × 50 bar = 600 L. Usable = 2400 − 600 = 1800 L. At 10 m the ambient pressure is 2 ata, so consumption at depth = 20 L/min × 2 = 40 L/min. Time = 1800 L ÷ 40 L/min = 45 minutes. Distractors: (a) 25 min would correspond to ~40 m / 5 ata; (c) 10 min is nonsensically short; (d) 50 min ignores the 50 bar reserve.",
+      "source": "mySSI: SoD Lesson 1.6 Review"
+    },
+    {
+      "id": "mssi-sod-033",
+      "area": "science_of_diving",
+      "subarea": "Physics & Chemistry — Gas Management",
+      "question": "What is the minimum gas required for a buddy pair with a surface air consumption of 20 liters per minute, if they want to dive to 27 meters with 12-liter cylinders, and have a 2 minutes of troubleshooting?",
+      "options": {
+        "a": "53 bar",
+        "b": "70 bar",
+        "c": "62 bar",
+        "d": "36 bar"
+      },
+      "correct": "c",
+      "explanation": "Min-gas same approach as mssi-sod-031: troubleshoot at depth + ascent gas for both divers sharing air. Pressure at 27 m ≈ 3.7 ata. Troubleshoot: 20 L/min × 3.7 × 2 min × 2 divers ≈ 296 L. Ascent + safety stop (~6 min, average ~2.3 ata): 20 × 2.3 × 6 × 2 ≈ 552 L. Total ≈ 850 L ÷ 12 L cylinder ≈ 62-70 bar depending on the exact ascent / stop profile. Less than mssi-sod-031's 78 bar (which was for 33 m / 4.3 ata) — shallower dive = less min-gas, makes sense.",
+      "source": "mySSI: SoD Lesson 1.6 Review"
+    },
+    {
+      "id": "mssi-sod-034",
+      "area": "science_of_diving",
+      "subarea": "Physics & Chemistry — Gas Management",
+      "question": "Factors that might affect a diver's breathing gas consumption include:",
+      "options": {
+        "a": "Gender, age, body weight, physiology",
+        "b": "Depth, temperature, and environmental conditions",
+        "c": "Mental and physical exertion, experience, and confidence",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "Three categories influence SAC simultaneously: (a) personal physiology — body mass, lung volume, age, gender, fitness; (b) environmental — depth (pressure × consumption), cold water (extra work breathing), currents (extra exertion); (c) psycho-physical — stress, workload, dive experience, confidence. A nervous new diver typically breathes 2-3× faster than a relaxed expert. SAC therefore is both individual and situational — measure your own at multiple sites/conditions, average over many dives.",
+      "source": "mySSI: SoD Lesson 1.6 Review"
+    },
+    {
+      "id": "mssi-sod-035",
+      "area": "science_of_diving",
+      "subarea": "Physics & Chemistry — Gas Management",
+      "question": "What is a diver's surface air consumption?",
+      "options": {
+        "a": "The amount of breathing gas they consume every minute",
+        "b": "The rate per hour of their breathing gas consumed while at effort on the surface",
+        "c": "The rate per minute of their breathing gas consumed while at rest on the surface",
+        "d": "The rate per minute of their breathing gas consumed while at effort under the water"
+      },
+      "correct": "c",
+      "explanation": "SAC's three precise qualifiers: RATE PER MINUTE (not per hour), AT REST (baseline, not under exertion), ON THE SURFACE (1 ata, normalised). That standardisation is why SAC is comparable between divers and dives — anyone at any depth and workload can be back-calculated to this baseline (mssi-sod-030 formula). (a) is too vague, missing the rate / rest / surface qualifiers. (b) hour is wrong unit. (d) under-water + effort produces a depth-and-workload dependent number, not a baseline.",
+      "source": "mySSI: SoD Lesson 1.6 Review"
+    },
+    {
+      "id": "mssi-sod-036",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Safety Stops",
+      "question": "What is the purpose of performing a safety stop during ascent?",
+      "options": {
+        "a": "To regulate off-gassing by making predetermined stop at a progressively shallower depth",
+        "b": "To develop a dissolved nitrogen tension higher than the surrounding pressure",
+        "c": "To maintain an ascent rate of 9 meters per minute",
+        "d": "To prevent the formation of bubbles as the gases separate out of solution"
+      },
+      "correct": "a",
+      "explanation": "Safety stop = a predetermined pause (typically 3 min at 5 m) during ascent that REGULATES the off-gassing rate. By holding at a shallower depth before surfacing, the diver lets the largest gradient pressure-drop happen with extra time, allowing dissolved nitrogen to leave tissues smoothly through the lungs rather than coming out of solution as bubbles. (d) prevents-bubble-formation is the functional OUTCOME of regulated off-gassing, but (a) is the SoD's precise functional wording. (b) describes supersaturation (the state that drives off-gassing), not the stop's purpose. (c) ascent rate is a separate rule.",
+      "source": "mySSI: SoD Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-sod-037",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Gas Loading",
+      "question": "What name do divers give the process of gas moving from a high-concentration area to a low-concentration area at the start of a dive?",
+      "options": {
+        "a": "Supersaturation",
+        "b": "Microbubbles",
+        "c": "Off-gassing",
+        "d": "On-gassing"
+      },
+      "correct": "d",
+      "explanation": "Decompression direction lexicon: ON-GASSING happens during descent / time at depth — ambient pressure is high, the gradient drives N₂ INTO tissues until equilibrium. OFF-GASSING is the reverse (ascent / surface interval) — N₂ leaves tissues. SUPERSATURATION is the STATE during ascent where tissue tension > ambient pressure (the driver of off-gassing). MICROBUBBLES are the silent inert-gas bubbles that always form during ascent — usually harmless, but if they grow / coalesce they become symptomatic DCS.",
+      "source": "mySSI: SoD Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-sod-038",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Gas Solubility",
+      "question": "Increased pressure on the body makes gases:",
+      "options": {
+        "a": "Less soluble",
+        "b": "More soluble",
+        "c": "Has no effect on solubility",
+        "d": "Supersaturated"
+      },
+      "correct": "b",
+      "explanation": "Direct application of Henry's Law (mssi-sod-019): dissolved gas amount ∝ partial pressure. Higher pressure → more gas dissolves into the liquid (blood + tissues). This IS the mechanism for on-gassing during descent — every metre deeper raises N₂ partial pressure, increases solubility, drives more nitrogen into tissues. (a) is the opposite of Henry's. (c) contradicts the entire framework of decompression theory. (d) supersaturation is a state during ascent, not a direct effect of pressure on solubility.",
+      "source": "mySSI: SoD Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-sod-039",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Tissue Compartments",
+      "question": "What does it mean if a body tissue is poorly-perfused?",
+      "options": {
+        "a": "It has a good blood supply",
+        "b": "It eliminates gas quickly",
+        "c": "It eliminates gas more slowly",
+        "d": "It absorbs gas quickly"
+      },
+      "correct": "c",
+      "explanation": "Perfusion = blood flow rate through a tissue → controls how fast gases exchange. WELL-perfused tissues (heart, brain, lungs) = rapid on-gassing AND off-gassing. POORLY-perfused (fat, joints, ligaments, dense bone) = slow gas exchange in BOTH directions. The question asks about elimination, so 'more slowly' (c) is correct. (a), (b) and (d) all describe well-perfused tissue. Practical relevance: slow tissues are the limiting factor for fly-after-diving wait times — even after fast tissues have cleared, slow ones still have residual N₂.",
+      "source": "mySSI: SoD Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-sod-040",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — DCS Mechanisms",
+      "question": "How do microbubbles increase the risks of decompression sickness?",
+      "options": {
+        "a": "All answers are correct",
+        "b": "They can grow or join together to form a mass",
+        "c": "They can grow inside body tissues and cause nerve pain and damage",
+        "d": "They can grow inside the cardiovascular system and block blood flow to organs"
+      },
+      "correct": "a",
+      "explanation": "Three pathways from harmless silent microbubbles to symptomatic DCS: (b) growth + coalescence forms bubbles big enough to cause mass effects; (c) tissue-bound bubbles compress nerves → pain (Type I 'bends') and can damage spinal cord (Type II); (d) intravascular bubbles can block circulation → tissue ischemia, CAGE, organ damage. All three are real mechanisms — controlled ascent + safety stops keep microbubbles small enough to be harmless.",
+      "source": "mySSI: SoD Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-sod-041",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Gas Loading",
+      "question": "A diver becomes supersaturated with inert gas when:",
+      "options": {
+        "a": "All answers are correct",
+        "b": "There is a desaturation gradient",
+        "c": "The amount of gas in their blood exceeds equilibrium levels",
+        "d": "They ascend"
+      },
+      "correct": "a",
+      "explanation": "Three views of the same supersaturation state: (b) the DESATURATION gradient (tissue tension > ambient pressure) IS the supersaturation — it drives off-gassing flow outward; (c) tissue gas tension exceeding the equilibrium level (= ambient PP) is the textbook definition; (d) ASCENT is what triggers it — pressure drops below tissue tension. All three describe the same physical situation from different angles.",
+      "source": "mySSI: SoD Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-sod-042",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — DCS Mechanisms",
+      "question": "What are microbubbles?",
+      "options": {
+        "a": "Small gas bubbles that form only in well-perfused tissues",
+        "b": "Tiny inert gas bubbles that dissolve in a diver's bloodstream and tissues",
+        "c": "Tiny inert gas bubbles that form in a diver's bloodstream and tissues",
+        "d": "Small gas bubbles that a diver breathes out through their regulator"
+      },
+      "correct": "c",
+      "explanation": "Microbubbles = tiny INERT-GAS bubbles that FORM (the opposite of dissolve) in the bloodstream and tissues during ascent — silent, normally harmless if controlled by proper ascent rate + safety stop. (a) is too narrow — they form in any tissue with some blood supply, not only well-perfused. (b) inverts dissolve / form — when bubbles dissolve back, the threat is gone. (d) those are exhalation bubbles from the regulator, completely different — visible in the water column.",
+      "source": "mySSI: SoD Lesson 2.1 Review"
+    },
+    {
+      "id": "mssi-sod-043",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — History",
+      "question": "What condition did early caisson workers experience that led to the identification of decompression sickness?",
+      "options": {
+        "a": "Joint pain and breathlessness",
+        "b": "Feeling hungry",
+        "c": "Hypothermia",
+        "d": "Vomiting"
+      },
+      "correct": "a",
+      "explanation": "'Caisson disease' = the 19th-century original name for DCS. Workers in pressurised caissons (bridge piers, underwater tunnels) experienced joint pain — they hunched over to relieve it, hence 'the bends' — plus respiratory symptoms ('the chokes'). Paul Bert (1878) identified nitrogen as the cause, J.S. Haldane (1908) developed staged decompression — the foundation of all modern dive tables and computers. (b), (c) and (d) are unrelated symptoms.",
+      "source": "mySSI: SoD Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-sod-044",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — History",
+      "question": "The Haldane model calculates decompression stops in increments of:",
+      "options": {
+        "a": "1 meter",
+        "b": "3 meters",
+        "c": "10 meters",
+        "d": "5 meters"
+      },
+      "correct": "b",
+      "explanation": "Haldane (1908) used 10-foot increments — ~3 metres in metric. His algorithm allowed a maximum 2:1 supersaturation ratio (ascent halving the absolute pressure), and stops were placed every ~3 m to control off-gassing. Modern recreational tables and most Tec stops still use 3 m increments today, inherited directly from Haldane's framework. (c) 10 m would be a single Haldane stop spanning multiple compartments — too coarse. (a, d) don't match historical or modern practice.",
+      "source": "mySSI: SoD Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-sod-045",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Algorithms",
+      "question": "What is the main difference between models and algorithms?",
+      "options": {
+        "a": "Models and algorithms are both used to write code",
+        "b": "Models and algorithms are the same thing",
+        "c": "Models calculate future outcomes, algorithms predict them based on initial conditions",
+        "d": "Models predict future outcomes, algorithms calculate them based on initial conditions"
+      },
+      "correct": "d",
+      "explanation": "In decompression context: a MODEL is the theoretical framework that predicts how gases behave in tissues (Bühlmann ZH-L16, RGBM, VPM-B, Haldane originals) — what it expects to happen physically. An ALGORITHM is the computational procedure that takes the model + initial conditions (current dive profile, breathing gas, tissue loadings) and calculates concrete outputs: NDL countdown, required stops, ascent ceiling. (c) inverts predict / calculate. (a, b) collapse the distinction.",
+      "source": "mySSI: SoD Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-sod-046",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Algorithms",
+      "question": "The M-value is the _____ value of nitrogen.",
+      "options": {
+        "a": "Minimum tolerated supersaturation",
+        "b": "Minimum tolerated saturation",
+        "c": "Maximum tolerated saturation",
+        "d": "Maximum tolerated supersaturation"
+      },
+      "correct": "d",
+      "explanation": "M-value (from German Maximalwert) = the maximum nitrogen supersaturation a tissue compartment can tolerate without symptomatic bubble formation. Bühlmann ZH-L16 specifies 16 M-values per compartment, each a linear function of ambient pressure: M = M0 + ΔM·P. Crossing M-value means the compartment's tension exceeds safe supersaturation — DCS risk rises sharply. (a, b) 'minimum' inverts the concept. (c) 'saturation' (without 'super') means equilibrium, which is always tolerated — no decompression rule needed for that state.",
+      "source": "mySSI: SoD Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-sod-047",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Altitude / Flying",
+      "question": "Which of the following statements is true about flying after diving and altitude diving?",
+      "options": {
+        "a": "The diver is exposed to increased atmospheric pressure",
+        "b": "The diver's tissues saturate and desaturate",
+        "c": "All answers are correct",
+        "d": "A reduction in ambient pressure can cause nitrogen to come out of solution"
+      },
+      "correct": "d",
+      "explanation": "Both scenarios share the same physics: REDUCED ambient pressure vs sea-level surface. Flying = cabin altitude ~2400 m → ~0.75 ata; altitude lake diving = high elevation surface pressure already < 1 ata. For a diver carrying residual nitrogen, dropping to lower ambient pressure is effectively continuing the ascent → more off-gassing → bubble formation risk. That's why fly-after-diving wait times exist (typically 18-24 h depending on dive profile). (a) inverts the direction. (b) is vague. (c) all-correct sweeps in the wrong (a).",
+      "source": "mySSI: SoD Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-sod-048",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Algorithms",
+      "question": "Which type of model tracks bubbles as they grow or shrink during a dive?",
+      "options": {
+        "a": "Bubble model",
+        "b": "Dissolved gas model",
+        "c": "SAC model",
+        "d": "Haldanian model"
+      },
+      "correct": "a",
+      "explanation": "Two major decompression model families: DISSOLVED GAS models (Bühlmann ZH-L16, Haldane originals) track only the dissolved-gas tension in tissue compartments and check it against M-values (mssi-sod-046). BUBBLE models (VPM-B = Varying Permeability Model, RGBM = Reduced Gradient Bubble Model) track the bubbles themselves — their nucleation, growth and shrinkage through the dive — and tend to recommend deeper stops earlier in ascent. (c) SAC is a breathing rate, not a deco model. (d) Haldanian is a subset of the dissolved-gas family, so it doesn't track bubbles directly.",
+      "source": "mySSI: SoD Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-sod-049",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Safety Stops",
+      "question": "Why is it important to maintain proper stop depth control during a dive?",
+      "options": {
+        "a": "To prevent oxygen toxicity during ascent",
+        "b": "To increase the time required to reduce nitrogen in the tissues",
+        "c": "To maximize the pressure gradient available for off-gassing and reduce the risk of decompression sickness",
+        "d": "To allow the tissues to efficiently absorb nitrogen"
+      },
+      "correct": "c",
+      "explanation": "Stop depth = optimised balance: shallow enough for a strong off-gassing gradient (tissue tension >> ambient = fast nitrogen elimination), but not so shallow that supersaturation crosses the M-value (mssi-sod-046) and bubbles grow. Example at 5 m safety stop: ambient ~1.5 ata, fast tissues sit well above this → robust off-gassing flow. Going deeper (e.g., 8 m) reduces gradient → slower elimination. Going too shallow (e.g., 2 m or surfacing early) risks crossing M-value → DCS. (a) oxygen toxicity is a PPO₂ issue, not stop-depth; (b) and (d) invert direction.",
+      "source": "mySSI: SoD Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-sod-050",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Decompression Stops",
+      "question": "What must a diver do if their computer calculates that inert gas in a tissue has exceeded its M-value?",
+      "options": {
+        "a": "They must breathe oxygen immediately upon surfacing",
+        "b": "They must make an extra long surface interval",
+        "c": "They must make staged decompression stops",
+        "d": "They must end the dive and surface immediately"
+      },
+      "correct": "c",
+      "explanation": "Crossing M-value means the dive is no longer no-decompression — the diver must perform MANDATORY staged decompression stops at progressively shallower depths (e.g., 9 m, 6 m, 3 m) so each compartment off-gasses below its M-value before continuing the ascent. (a) surface O₂ is first-aid for suspected DCS, not the normal procedure to avoid it. (b) surface intervals sit between dives, not within an ascent. (d) 'surface immediately' is the WORST choice — surfacing while supersaturated above M-value almost guarantees DCS.",
+      "source": "mySSI: SoD Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-sod-051",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Tissue Compartments",
+      "question": "Haldane divided the body into compartments based on:",
+      "options": {
+        "a": "How quickly the tissues metabolize oxygen",
+        "b": "How large the tissues in that area of the body are",
+        "c": "How fast the tissue absorbs and releases gas, and how much pressure the tissue can handle",
+        "d": "Where in the body the tissues are"
+      },
+      "correct": "c",
+      "explanation": "Haldane's compartment framework is a MATHEMATICAL abstraction — not anatomical. Each compartment is characterised by two numbers: (1) HALF-TIME = rate of gas uptake/release (Bühlmann ZH-L16 spans 4 to 635 minutes across 16 compartments — fast tissues like blood at one end, slow tissues like dense bone / fat at the other); (2) M-VALUE = max tolerated supersaturation, the pressure-tolerance ceiling (mssi-sod-046). (a) oxygen metabolism isn't directly tracked — compartments model inert-gas (N₂, He) loading. (b, d) inverts the abstraction — Haldane explicitly does NOT use anatomical size or location.",
+      "source": "mySSI: SoD Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-sod-052",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Algorithms",
+      "question": "What does a dissolved gas model calculate?",
+      "options": {
+        "a": "The amount of dissolved gas in the diver's brain at various depths and times during the dive",
+        "b": "The amount of dissolved gas in each bubble at various depths and times during the dive",
+        "c": "The tracking of one or more bubbles as they grow or shrink during the dive",
+        "d": "The amount of dissolved gas in each compartment at various depths and times during the dive"
+      },
+      "correct": "d",
+      "explanation": "Dissolved-gas models (Bühlmann ZH-L16, Haldane) track inert-gas TENSION in each abstract compartment across the dive's depth-vs-time profile, then compare each compartment's tension to its M-value (mssi-sod-046, 051). (a) 'brain' is a single anatomical area — Haldane is mathematical, not anatomical (mssi-sod-051). (b) bubbles aren't 'dissolved' — bubbles imply gas has come out of solution. (c) describes the bubble-model family (VPM-B / RGBM, mssi-sod-048), not dissolved-gas.",
+      "source": "mySSI: SoD Lesson 2.2 Review"
     },
     {
       "id": "personal-ait-a-001",
