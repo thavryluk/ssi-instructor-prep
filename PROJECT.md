@@ -76,11 +76,14 @@ Dark (default) ↔ Light toggle 🌙/☀️ v topbaru. Persistence v `ssi.theme`
 ## Question bank
 
 ### Counts (k 2026-04-29)
-- Science of Diving: **120**
-- Divemaster: **50**
+- Open Water Diver: **100** (Personal exam Form A+B)
+- Science of Diving: **320** (120 compiled + 200 Personal exam Form A+B, 100 q each)
+- Diver Stress & Rescue: **50** (Personal exam Form A+B, 25 q each — PDF Q26-50 missing)
+- React Right: **100** (Personal exam Form A+B)
+- Divemaster: **150** (50 compiled + 100 Personal Dive Guide exam Form A+B)
 - Assistant Instructor: **50**
-- Instructor: **699** (z toho 200 Personal exam questions, 349 mssi-inst Reviews + Pretest)
-- **Total: 919** (EN i CS plně přeloženo, 1:1 parity)
+- Instructor: **753** (z toho 200 Personal ITC/AIT exam questions, 403 mssi-inst Reviews + Pretest)
+- **Total: 1523** (EN: 1523, CS: 919; CS gap 604 — pending batch translation)
 
 ### Source kategorie (4-way)
 

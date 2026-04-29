@@ -1,0 +1,377 @@
+[
+  {
+    "id": "sr-exam-a-001",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Rescue Skills",
+    "question": "Before attempting to lift an unconscious diver into a boat or onto shore, you should:",
+    "options": {
+      "a": "Perform CPR in the water",
+      "b": "Remove and ditch the victim's equipment",
+      "c": "Take a rest",
+      "d": "Supply oxygen to the victim"
+    },
+    "correct": "b",
+    "explanation": "Removing and ditching the victim's equipment makes the diver lighter and easier to handle, allowing safe and efficient extraction onto a boat or shore before further care can be administered.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-002",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Emergencies",
+    "question": "Decisions about the best method of transportation should be based on the distance to the facility and:",
+    "options": {
+      "a": "The weather forecast",
+      "b": "The water temperature",
+      "c": "The type of oxygen regulator used for first aid",
+      "d": "The severity of the injury"
+    },
+    "correct": "d",
+    "explanation": "Both distance to the medical facility and severity of the injury drive the choice of transportation (e.g., ground vs. helicopter) so the victim reaches definitive care as quickly and safely as needed.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-003",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Rescue Skills",
+    "question": "If the victim is not breathing but has a pulse, your decision on your level of care will be based on:",
+    "options": {
+      "a": "The gender of the victim",
+      "b": "The age of the victim",
+      "c": "Your distance from the next group of divers",
+      "d": "Your distance from the shore or boat"
+    },
+    "correct": "d",
+    "explanation": "When the victim has a pulse but is not breathing, distance to shore or boat determines whether you give in-water rescue breaths (if far) or tow rapidly to a stable platform for proper rescue breathing.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-004",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Procedures",
+    "question": "If you are separated from you dive buddy, you should:",
+    "options": {
+      "a": "Surface immediately",
+      "b": "Surface after making two 360 degree visual sweeps (1 Minute)",
+      "c": "Continue your dive",
+      "d": "Start searching until your breathing gas gets low, then surface"
+    },
+    "correct": "b",
+    "explanation": "SSI's lost-buddy procedure is to look for no more than one minute (two 360-degree sweeps), then surface to reunite. This avoids escalating the situation by both divers searching at depth indefinitely.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-005",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Stress Recognition",
+    "question": "Which level of stress is considered to be healthy?",
+    "options": {
+      "a": "A consistent high level of Stress.",
+      "b": "A consistent low level of Stress, because it keeps us alert and warns us of danger.",
+      "c": "A consistent medium level of Stress outside the water.",
+      "d": "No Level of Stress."
+    },
+    "correct": "b",
+    "explanation": "A consistent low level of stress is healthy because it keeps us alert and aware of danger. Higher levels overwhelm coping ability, while no stress can lead to complacency.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-006",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Rescue Skills",
+    "question": "When you begin to tire, lack the ability to make decisions, or lend support, it is time to:",
+    "options": {
+      "a": "Get a good rest",
+      "b": "Stop the rescue and discontinue",
+      "c": "Inflate your BC",
+      "d": "Get Help"
+    },
+    "correct": "d",
+    "explanation": "When the rescuer becomes exhausted or unable to make sound decisions, calling for help prevents the rescuer from becoming a second victim and brings additional capable resources to the scene.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-007",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Stress Recognition",
+    "question": "Physical causes of stress include:",
+    "options": {
+      "a": "Lack of fitness, fatigue, constriction of movement and hypothermia",
+      "b": "Headache, fitness and a well maintained Total Diving System",
+      "c": "Poor judgment, buddy system failure and warm water",
+      "d": "Equipment loss, equipment failure and hyperthermia"
+    },
+    "correct": "a",
+    "explanation": "Physical causes of stress are tangible bodily factors: poor fitness, fatigue, restricted movement, and hypothermia. They directly tax the body's resources and reduce the diver's capacity to cope.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-008",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Rescue Skills",
+    "question": "In a buddy assist situation, which person do you have to take care first:",
+    "options": {
+      "a": "The victim",
+      "b": "Yourself",
+      "c": "The Boat Captain",
+      "d": "The witnesses"
+    },
+    "correct": "b",
+    "explanation": "Always take care of yourself first. A rescuer who becomes a second victim helps no one, so personal safety, breathing gas, and buoyancy are managed before assisting the buddy.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-009",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Emergencies",
+    "question": "Even when no-decompression limits are strictly adhered to, the following factors can cause some divers to be more susceptible to decompression sickness:",
+    "options": {
+      "a": "Fatigue",
+      "b": "Body weight",
+      "c": "All answers are correct",
+      "d": "Dehydration"
+    },
+    "correct": "c",
+    "explanation": "Fatigue, body weight, and dehydration all increase susceptibility to DCS even within no-deco limits. They affect off-gassing efficiency, so all answers are correct.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-010",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Rescue Skills",
+    "question": "Factors which can impair movement and complicate the rescue process include:",
+    "options": {
+      "a": "Entanglement and Entrapment",
+      "b": "Freediving",
+      "c": "Diving without wetsuit",
+      "d": "Tight mask strap"
+    },
+    "correct": "a",
+    "explanation": "Entanglement (e.g., line, kelp) and entrapment (e.g., overhead, wreck) physically restrict a diver's movement and require special skills and tools to resolve, complicating any rescue.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-011",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — First Aid",
+    "question": "For mild and serious symptoms of DCS and Overexpansion injuries the appropriate first aid is:",
+    "options": {
+      "a": "Administer 100% oxygen",
+      "b": "All Answer are correct",
+      "c": "Activate the emergency medical system",
+      "d": "Watch vital signs"
+    },
+    "correct": "b",
+    "explanation": "First aid for DCS and lung overexpansion injuries combines administering 100% oxygen, activating EMS, and monitoring vital signs — so all answers are correct.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-012",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Procedures",
+    "question": "One of the best arguments in favor of always using the buddy system is:",
+    "options": {
+      "a": "In a stress situation there will almost always be at least two Dive Professionals which maintain control and are able to lend aid.",
+      "b": "In a stress situation there will almost always be at least one diver who maintains control and is able to lend aid",
+      "c": "You will always have someone which can help you setting up your Total Diving System.",
+      "d": "You always can share your diving experiences after the dive."
+    },
+    "correct": "b",
+    "explanation": "The core safety argument for the buddy system is that under stress at least one of the two divers is likely to remain calm and capable of helping the other.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-013",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Equipment",
+    "question": "Each diver will have slight variances in their dive plan that will affect their diving profile, especially during an entire week of diving. This is why:",
+    "options": {
+      "a": "Each diver must dive with their own computer",
+      "b": "You have to stay very close together if you use one computer with you buddy",
+      "c": "Each diver should drink more or less water",
+      "d": "Each diver should use Nitrox 40 at the end of the week"
+    },
+    "correct": "a",
+    "explanation": "Personal profile variances over multiple days mean each diver must wear their own computer so the device tracks that individual's actual exposure and residual nitrogen accurately.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-014",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Emergencies",
+    "question": "Signs and symptoms of lung overexpansion injuries include:",
+    "options": {
+      "a": "Headaches with nosebleed",
+      "b": "Breathing difficulties and chest pain",
+      "c": "Dull pain in the joints",
+      "d": "Euphoria"
+    },
+    "correct": "b",
+    "explanation": "Breathing difficulties and chest pain are classic signs of lung overexpansion injuries (e.g., pneumothorax, mediastinal emphysema). Joint pain is more typical of DCS.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-015",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Diver Psychology",
+    "question": "The following are causes of psychological stress:",
+    "options": {
+      "a": "Lack of fitness, fatigue, constriction of movement and hypothermia",
+      "b": "Equipment loss, equipment failure and hyperthermia",
+      "c": "Headache, fitness and a well maintained Total Diving System",
+      "d": "Lack of mental preparedness, mental control, and mental coping"
+    },
+    "correct": "d",
+    "explanation": "Psychological stress comes from the mind: lack of mental preparedness, control, and coping skills. The other lists describe physical/environmental factors.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-016",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Procedures",
+    "question": "Each and every safe dive starts with?",
+    "options": {
+      "a": "Signing the Total Dive Log",
+      "b": "Pre-dive planning",
+      "c": "Entering the water with an giant stride.",
+      "d": "Entering the water with a back-roll"
+    },
+    "correct": "b",
+    "explanation": "Pre-dive planning establishes objectives, limits, gas, conditions, and emergency procedures. Without it, every other step is built on assumptions instead of an agreed plan.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-017",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Rescue Skills",
+    "question": "Common skills for self-aid are:",
+    "options": {
+      "a": "Buoyancy control and emergency ascents",
+      "b": "Using alternate fin kicks and relieving leg cramps",
+      "c": "All answers are correct",
+      "d": "Switching to alternate air sources and regulator retrieval"
+    },
+    "correct": "c",
+    "explanation": "All listed skills — buoyancy control, emergency ascents, alternate fin kicks, cramp relief, alternate air, regulator retrieval — are core self-aid skills, so all answers are correct.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-018",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Emergencies",
+    "question": "The two most common dive maladies are:",
+    "options": {
+      "a": "Nitrogen Narcosis and Oxygen Toxicity",
+      "b": "Hyperhermia and CO toxicity",
+      "c": "Shark bites and compression sickness",
+      "d": "Overexpansion injury and decompression sickness"
+    },
+    "correct": "d",
+    "explanation": "The two most common pressure-related dive maladies are lung overexpansion injuries and decompression sickness. Both arise from the gas-pressure dynamics of scuba diving.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-019",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Procedures",
+    "question": "Preparation in which area may be the life-saving difference in a panic or rescue situation?",
+    "options": {
+      "a": "CPR",
+      "b": "Accident management",
+      "c": "Oxygen Provider",
+      "d": "Nitrox diving"
+    },
+    "correct": "b",
+    "explanation": "Accident management training teaches you how to coordinate the entire response — assessment, EMS activation, first aid, and evacuation — and is often the life-saving differentiator in a real emergency.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-020",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Procedures",
+    "question": "The main reason people run out of breathing gas is:",
+    "options": {
+      "a": "Failure to maintain neutral buoyancy.",
+      "b": "Failure to maintain buddy system.",
+      "c": "Failure to make visual inspection every year.",
+      "d": "Failure to monitor the pressure gauge or air integrated dive computer."
+    },
+    "correct": "d",
+    "explanation": "Out-of-gas situations are almost always caused by failing to monitor the SPG or air-integrated computer. Regular gas checks are the simplest and most effective prevention.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-021",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Diver Psychology",
+    "question": "All divers should get used to the idea that it's okay to make a no-go diving decision without fear of embarrassment, at which point?",
+    "options": {
+      "a": "Before setting up the Total Diving System",
+      "b": "Before entering the water",
+      "c": "At any time",
+      "d": "After entering the water but before descent"
+    },
+    "correct": "c",
+    "explanation": "A no-go decision is acceptable at any time — before setup, on the surface, or even at depth. Anyone can call any dive at any time without embarrassment.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-022",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Diver Psychology",
+    "question": "Your personal preparedness to stay a step ahead of stress includes:",
+    "options": {
+      "a": "Wearing a isolation system, dive without a buddy and not deeper than allowed",
+      "b": "Being healthy, having the proper skills, and using good quality and well-maintained equipment",
+      "c": "Being healthy, having expensive equipment and using Nitrox 40 only",
+      "d": "Being comfortable, having the number of dives needed and using rental equipment"
+    },
+    "correct": "b",
+    "explanation": "Staying ahead of stress means being healthy, properly skilled, and using good-quality, well-maintained equipment. These three pillars reduce the chance that surprises overwhelm your capacity to respond.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-023",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Stress Recognition",
+    "question": "When you detect stress in your buddy, you need to?:",
+    "options": {
+      "a": "Ignore it, all certified divers can solve any stress situation by themselves",
+      "b": "Keep your distance to not endanger youself if he/she starts panicking",
+      "c": "Immediately assess the source of that stress and deal with it appropriately",
+      "d": "Ascent and call for help"
+    },
+    "correct": "c",
+    "explanation": "Detecting stress early gives you a chance to intervene before it escalates to panic. Immediately assess the cause and deal with it appropriately at the lowest level of intervention needed.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-024",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Diver Psychology",
+    "question": "What is stress?",
+    "options": {
+      "a": "Always the result of pressure at depth and demands to the Total Diving System",
+      "b": "The result of pressures or demands which outweigh a person's ability or capacity to respond to them",
+      "c": "Stress is always the result of going diving",
+      "d": "Nothing we should worry about"
+    },
+    "correct": "b",
+    "explanation": "Stress is defined as pressures or demands that outweigh a person's ability or capacity to respond. It is the imbalance between demand and capability, not depth or diving itself.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  },
+  {
+    "id": "sr-exam-a-025",
+    "area": "diver_stress_rescue",
+    "subarea": "S&R Exam — Emergencies",
+    "question": "Hypothermia is generally defined as:",
+    "options": {
+      "a": "The condition of having one's body temperature rising above normal.",
+      "b": "The condition of having one's body temperature normal",
+      "c": "The condition of too much Oxygen at depth",
+      "d": "The condition of having one's body temperature fall below normal"
+    },
+    "correct": "d",
+    "explanation": "Hypothermia is defined as core body temperature falling below normal. Rising body temperature is hyperthermia; oxygen excess at depth is oxygen toxicity.",
+    "source": "Personal: SSI Diver Stress & Rescue Exam Form A"
+  }
+]

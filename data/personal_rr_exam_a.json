@@ -1,0 +1,752 @@
+[
+  {
+    "id": "rr-exam-a-001",
+    "area": "react_right",
+    "subarea": "React Right Exam — Primary Assessment",
+    "question": "What is the first step of the emergency action plan?",
+    "options": {
+      "a": "Defibrillation",
+      "b": "Danger",
+      "c": "Discuss",
+      "d": "Decide"
+    },
+    "correct": "b",
+    "explanation": "The emergency action plan begins with assessing Danger to ensure the scene is safe before approaching the victim. Personal safety always comes first.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-002",
+    "area": "react_right",
+    "subarea": "React Right Exam — Primary Assessment",
+    "question": "Before approaching a victim you have to determine whether:",
+    "options": {
+      "a": "The victim is breathing",
+      "b": "The victim has a pulse",
+      "c": "All answers are correct",
+      "d": "It is safe for you"
+    },
+    "correct": "d",
+    "explanation": "Scene safety is the first priority. You must determine whether it is safe for you before approaching, otherwise you risk becoming a second victim.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-003",
+    "area": "react_right",
+    "subarea": "React Right Exam — Primary Assessment",
+    "question": "A primary assessment allows you to identify hazards to:",
+    "options": {
+      "a": "Only the victim",
+      "b": "Only to bystanders",
+      "c": "Only to yourself",
+      "d": "Yourself or the victim"
+    },
+    "correct": "d",
+    "explanation": "The primary assessment evaluates hazards to both the rescuer and the victim, ensuring a safe approach and effective care.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-004",
+    "area": "react_right",
+    "subarea": "React Right Exam — Primary Assessment",
+    "question": "After verifying the victim is unresponsive and not breathing normally, the first step in an emergency response is:",
+    "options": {
+      "a": "Yelling for help",
+      "b": "Summon emergency medical services",
+      "c": "Calling the training center",
+      "d": "Starting rescue breaths"
+    },
+    "correct": "b",
+    "explanation": "Once unresponsiveness and abnormal breathing are confirmed, summoning EMS is the first action so professional help is en route while CPR is started.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-005",
+    "area": "react_right",
+    "subarea": "React Right Exam — Secondary Assessment",
+    "question": "What is the purpose of the secondary assessment?",
+    "options": {
+      "a": "To identify any life threatening problems",
+      "b": "To identify any serious problems that may not be immediately life threatening",
+      "c": "To evaluate the scene",
+      "d": "To establish an airway and begin CPR"
+    },
+    "correct": "b",
+    "explanation": "The secondary assessment identifies serious but not immediately life-threatening problems after life threats have been managed in the primary assessment.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-006",
+    "area": "react_right",
+    "subarea": "React Right Exam — Secondary Assessment",
+    "question": "Vital signs include measuring the victim's:",
+    "options": {
+      "a": "Heartbeat and breathing rate",
+      "b": "Pupil dilation and blood pressure",
+      "c": "Body temperature",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Vital signs encompass heartbeat, breathing rate, pupil response, blood pressure and body temperature — together giving a complete picture of the victim's condition.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-007",
+    "area": "react_right",
+    "subarea": "React Right Exam — CPR",
+    "question": "The breathing rate for a normal resting human is:",
+    "options": {
+      "a": "One breath every 2 - 6 seconds",
+      "b": "Two breaths every 2 seconds",
+      "c": "One breath every second",
+      "d": "One breath every 10 seconds"
+    },
+    "correct": "a",
+    "explanation": "A normal resting respiratory rate corresponds to roughly one breath every 2 to 6 seconds (about 10–30 breaths per minute depending on age).",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-008",
+    "area": "react_right",
+    "subarea": "React Right Exam — CPR",
+    "question": "What are the links of the Chain of Survival?",
+    "options": {
+      "a": "Early CPR",
+      "b": "All answers are correct",
+      "c": "Early defibrillation",
+      "d": "Early advanced care by the EMS"
+    },
+    "correct": "b",
+    "explanation": "The Chain of Survival comprises early access/CPR, early defibrillation, and early advanced care — every link must be present for best outcomes.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-009",
+    "area": "react_right",
+    "subarea": "React Right Exam — Primary Assessment",
+    "question": "Keep the airway open and look, listen, and feel for normal breathing for no longer than:",
+    "options": {
+      "a": "30 Seconds",
+      "b": "60 seconds",
+      "c": "10 Seconds",
+      "d": "2 Minutes"
+    },
+    "correct": "c",
+    "explanation": "Spend no more than 10 seconds checking for normal breathing so that CPR is not unnecessarily delayed.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-010",
+    "area": "react_right",
+    "subarea": "React Right Exam — CPR",
+    "question": "If you are unsure, or cannot detect signs of life within 10 seconds on any victim:",
+    "options": {
+      "a": "Start chest compressions or CPR",
+      "b": "Wait for another 10 seconds, then check again",
+      "c": "Wait 30 seconds before starting CPR",
+      "d": "Place the victim in the recovery position"
+    },
+    "correct": "a",
+    "explanation": "When in doubt, start CPR. Delaying compressions in cardiac arrest dramatically reduces survival.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-011",
+    "area": "react_right",
+    "subarea": "React Right Exam — CPR",
+    "question": "To provide rescue breaths to an infant, ensure you have a good seal covering the infant's:",
+    "options": {
+      "a": "Nose only",
+      "b": "Nose and mouth",
+      "c": "Mouth only",
+      "d": "No answer is correct"
+    },
+    "correct": "b",
+    "explanation": "An infant's small face requires the rescuer to seal over both the nose and the mouth to deliver effective rescue breaths.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-012",
+    "area": "react_right",
+    "subarea": "React Right Exam — CPR",
+    "question": "Chest compressions on infants should be done with:",
+    "options": {
+      "a": "One hand",
+      "b": "Two fingers",
+      "c": "Two hands",
+      "d": "Thumb only"
+    },
+    "correct": "b",
+    "explanation": "On infants a single rescuer uses two fingers in the centre of the chest to deliver compressions of appropriate depth.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-013",
+    "area": "react_right",
+    "subarea": "React Right Exam — CPR",
+    "question": "Attempting to measure a victim's pulse rate:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Is often ineffective",
+      "c": "Can lead to an incorrect diagnosis of their condition",
+      "d": "Delaying time-critical emergency care"
+    },
+    "correct": "a",
+    "explanation": "Pulse checks by lay rescuers are unreliable, may yield wrong conclusions, and waste critical time — so all of these statements apply.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-014",
+    "area": "react_right",
+    "subarea": "React Right Exam — CPR",
+    "question": "Chest compressions provide a small but critical amount of:",
+    "options": {
+      "a": "Oxygen to the lungs",
+      "b": "Blood flow to the brain",
+      "c": "Carbon Dioxide to the body tissues",
+      "d": "No answer is correct"
+    },
+    "correct": "b",
+    "explanation": "Effective chest compressions generate blood flow to the brain and other vital organs until spontaneous circulation can be restored.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-015",
+    "area": "react_right",
+    "subarea": "React Right Exam — CPR",
+    "question": "The required depth for chest compressions for an adult victim is:",
+    "options": {
+      "a": "2.5 centimeters",
+      "b": "10 centimeters",
+      "c": "1.25 centimeters",
+      "d": "5 centimeters"
+    },
+    "correct": "d",
+    "explanation": "Adult chest compressions should be at least 5 cm (about 2 inches) deep but not exceeding 6 cm.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-016",
+    "area": "react_right",
+    "subarea": "React Right Exam — CPR",
+    "question": "What is the correct rate for chest compressions during CPR?",
+    "options": {
+      "a": "50 per minute",
+      "b": "100 per minute",
+      "c": "30 per minute",
+      "d": "200 per minute"
+    },
+    "correct": "b",
+    "explanation": "Chest compressions are delivered at a rate of about 100 per minute (100–120 per minute per current guidelines).",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-017",
+    "area": "react_right",
+    "subarea": "React Right Exam — CPR",
+    "question": "What is the ratio for chest compressions and rescue breaths during CPR in adults?",
+    "options": {
+      "a": "30 compressions to 5 rescue breaths",
+      "b": "10 compressions to 1 rescue breath",
+      "c": "30 compressions to 2 rescue breaths",
+      "d": "100 compressions to 2 rescue breaths"
+    },
+    "correct": "c",
+    "explanation": "Standard adult CPR uses a ratio of 30 chest compressions followed by 2 rescue breaths.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-018",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "For small children and infants, it is important to avoid using abdominal thrusts, as this may cause:",
+    "options": {
+      "a": "Hiccups",
+      "b": "Dizziness",
+      "c": "Rescuer exhaustion",
+      "d": "Severe injury"
+    },
+    "correct": "d",
+    "explanation": "Abdominal thrusts in infants and small children can cause severe internal injuries; back slaps and chest thrusts are used instead.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-019",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "What is a sign of a severe airway obstruction?",
+    "options": {
+      "a": "Effectively coughing",
+      "b": "Absent or ineffective cough",
+      "c": "Crying or providing verbal responses",
+      "d": "Breathing before/in between coughing"
+    },
+    "correct": "b",
+    "explanation": "An absent or ineffective cough indicates a severe obstruction requiring immediate intervention; an effective cough indicates a mild obstruction.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-020",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "For a child with a suspected airway obstruction who is effectively coughing, you should:",
+    "options": {
+      "a": "Tell them to stop their efforts and leave them alone",
+      "b": "Give 5 chest thrust with both hands",
+      "c": "Give up to 5 forceful back slaps with your fist",
+      "d": "Encourage them to continue their efforts and monitor them"
+    },
+    "correct": "d",
+    "explanation": "If the child is coughing effectively, encourage them to keep coughing while monitoring for deterioration — do not interfere unless the cough becomes ineffective.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-021",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "Which technique requires the rescuer to deliver five forceful blows between the shoulder blades?",
+    "options": {
+      "a": "Chest thrust",
+      "b": "Abdominal thrust",
+      "c": "Back blow",
+      "d": "Stomach squeeze"
+    },
+    "correct": "c",
+    "explanation": "Back blows are delivered between the shoulder blades to dislodge an airway obstruction.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-022",
+    "area": "react_right",
+    "subarea": "React Right Exam — Bleeding & Shock",
+    "question": "Shock is the body's attempt to protect:",
+    "options": {
+      "a": "The brain from receiving too much oxygen",
+      "b": "Vital organs during a medical emergency",
+      "c": "The body from hypothermia when it overheats",
+      "d": "The extremities and skin during an emergency"
+    },
+    "correct": "b",
+    "explanation": "Shock is the body's compensatory response that shunts blood away from extremities to protect vital organs during a medical emergency.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-023",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "Many of the medical problems addressed in first aid training are usually:",
+    "options": {
+      "a": "Immediately life-threatening",
+      "b": "Easily corrected by untrained personnel",
+      "c": "Not immediately life-threatening",
+      "d": "Only correct by emergency medical services"
+    },
+    "correct": "c",
+    "explanation": "Most first aid scenarios are not immediately life-threatening; first aid focuses on stabilising the victim until professional care arrives.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-024",
+    "area": "react_right",
+    "subarea": "React Right Exam — Bleeding & Shock",
+    "question": "Any bleeding that may be life-threatening should be treated:",
+    "options": {
+      "a": "After checking the victim's pulse",
+      "b": "Immediately",
+      "c": "After getting permission from the victim",
+      "d": "At the hospital"
+    },
+    "correct": "b",
+    "explanation": "Life-threatening bleeding must be controlled immediately — even before performing other steps — because rapid blood loss is fatal.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-025",
+    "area": "react_right",
+    "subarea": "React Right Exam — Burns & Injuries",
+    "question": "What is a classification of a burn?",
+    "options": {
+      "a": "Level 1",
+      "b": "Heavy",
+      "c": "All answers are correct",
+      "d": "Superficial"
+    },
+    "correct": "d",
+    "explanation": "Burns are classified as superficial (first-degree), partial-thickness (second-degree) and full-thickness (third-degree).",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-026",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "For a victim who may be suffering from a heart attack, you should summon emergency medical personnel:",
+    "options": {
+      "a": "Only if the victim tells you to call",
+      "b": "Only if the victim is unconscious",
+      "c": "Immediately, even if the victim tells you not to call",
+      "d": "After monitoring their symptoms for at least 10 minutes"
+    },
+    "correct": "c",
+    "explanation": "Heart attack victims often deny their condition; call EMS immediately regardless of their wishes — early intervention saves heart muscle.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-027",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "What is hyperthermia?",
+    "options": {
+      "a": "A medical condition where the body produces or absorbs more heat than it can dissipate.",
+      "b": "A medical condition caused by freezing of the skin and underlying tissues.",
+      "c": "A medical condition where the body loses heat faster than it can produce heat.",
+      "d": "A medical condition where the body produces too much carbon dioxide."
+    },
+    "correct": "a",
+    "explanation": "Hyperthermia is overheating: the body gains or produces more heat than it can shed, leading to heat exhaustion or heat stroke.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-028",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "Which heat-related illness requires you to immediately to call emergency medical services?",
+    "options": {
+      "a": "Heat stroke",
+      "b": "Heat exhaustion",
+      "c": "Heat cramps",
+      "d": "All answers are correct"
+    },
+    "correct": "a",
+    "explanation": "Heat stroke is a true medical emergency that can be fatal — it requires immediate EMS activation and aggressive cooling.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-029",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "Which of the following is a common cold-related problem?",
+    "options": {
+      "a": "Hyperthermia",
+      "b": "Hyperoxia",
+      "c": "Hypothermia",
+      "d": "Hypoxia"
+    },
+    "correct": "c",
+    "explanation": "Hypothermia occurs when body heat is lost faster than it is produced — a common consequence of prolonged cold exposure.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-030",
+    "area": "react_right",
+    "subarea": "React Right Exam — AED",
+    "question": "What do you do if the victim is not breathing and has no signs of circulation or a pulse?",
+    "options": {
+      "a": "Search for an AED",
+      "b": "Summon emergency medical services immediately",
+      "c": "Check the color of the skin",
+      "d": "Press the \"shock\" button of the AED"
+    },
+    "correct": "b",
+    "explanation": "When the victim has no breathing and no circulation, EMS must be summoned immediately so advanced care is on the way while CPR/AED is performed.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-031",
+    "area": "react_right",
+    "subarea": "React Right Exam — AED",
+    "question": "While preparing the AED you should not delay:",
+    "options": {
+      "a": "Minor first aid",
+      "b": "Monitoring vital signs",
+      "c": "CPR",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "CPR must continue without interruption while the AED is being readied — chest compressions are the highest priority.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-032",
+    "area": "react_right",
+    "subarea": "React Right Exam — AED",
+    "question": "The AED patches should be attached to the victim's:",
+    "options": {
+      "a": "Head",
+      "b": "Chest",
+      "c": "Legs",
+      "d": "Arms"
+    },
+    "correct": "b",
+    "explanation": "AED pads are placed on the bare chest as shown on the pad diagrams — typically upper-right and lower-left of the torso.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-033",
+    "area": "react_right",
+    "subarea": "React Right Exam — AED",
+    "question": "If the AED states that a shock is required, verify that nobody is:",
+    "options": {
+      "a": "Talking to the victim",
+      "b": "Closer than 1 meter to the victim",
+      "c": "Touching the victim",
+      "d": "Closer than 2 meters to the victim"
+    },
+    "correct": "c",
+    "explanation": "Before delivering a shock, ensure no one is touching the victim to prevent injury to bystanders or the rescuer.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-034",
+    "area": "react_right",
+    "subarea": "React Right Exam — AED",
+    "question": "Some AEDs have a button that must be pushed for the unit to start analyzing the:",
+    "options": {
+      "a": "Heart rhythm of the victim",
+      "b": "Battery",
+      "c": "Breathing rate of the victim",
+      "d": "Respiratory volume of the victim"
+    },
+    "correct": "a",
+    "explanation": "Some AEDs require an \"analyze\" button press so the device can examine the victim's heart rhythm and decide whether a shock is advised.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-035",
+    "area": "react_right",
+    "subarea": "React Right Exam — AED",
+    "question": "Before initiating the AED shock, what verbal command should you give:",
+    "options": {
+      "a": "Only \"I am clear\"",
+      "b": "Only \"All clear\"",
+      "c": "No command is given",
+      "d": "\"Stand clear\""
+    },
+    "correct": "d",
+    "explanation": "The clear and standardised command \"Stand clear\" warns everyone to step back from the victim before the shock is delivered.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-036",
+    "area": "react_right",
+    "subarea": "React Right Exam — AED",
+    "question": "Once the shock has been delivered, what signs should you check for on the victim:",
+    "options": {
+      "a": "Circulation",
+      "b": "Skin color",
+      "c": "Skin temperature",
+      "d": "Pupil reflex"
+    },
+    "correct": "c",
+    "explanation": "After a shock, evaluate the victim for signs of circulation; per the answer key the exam credits skin temperature among the rapid post-shock circulation indicators.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-037",
+    "area": "react_right",
+    "subarea": "React Right Exam — AED",
+    "question": "After delivering an AED shock, check for signs of circulation for at least:",
+    "options": {
+      "a": "2 seconds",
+      "b": "10 seconds",
+      "c": "5 minutes",
+      "d": "2 minutes"
+    },
+    "correct": "b",
+    "explanation": "After a shock, allow at least 10 seconds to assess for signs of circulation before deciding on the next action.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-038",
+    "area": "react_right",
+    "subarea": "React Right Exam — AED",
+    "question": "If the victim has circulation but is not breathing, perform:",
+    "options": {
+      "a": "Abdominal thrusts",
+      "b": "Rescue breaths",
+      "c": "Additional shocks with the AED",
+      "d": "60 chest compressions"
+    },
+    "correct": "b",
+    "explanation": "When a victim has a pulse but is not breathing, deliver rescue breaths only — chest compressions are not needed while circulation is present.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-039",
+    "area": "react_right",
+    "subarea": "React Right Exam — AED",
+    "question": "Do not shock a victim if:",
+    "options": {
+      "a": "Someone is touching the victim",
+      "b": "The victim is laying in, or surrounded by, liquid",
+      "c": "All answers are correct",
+      "d": "The AED does not prompt to do so"
+    },
+    "correct": "c",
+    "explanation": "All listed conditions prohibit a shock — anyone touching the victim, presence of conductive liquid, or no AED prompt all preclude shock delivery.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-040",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "Oxygen is usually extremely beneficial in situations that impair ability of the victim's lungs to transfer:",
+    "options": {
+      "a": "Nitrogen to the body tissues",
+      "b": "Oxygen to the bloodstream",
+      "c": "Carbon dioxide out of the brain",
+      "d": "Carbon monoxide to the bloodstream"
+    },
+    "correct": "b",
+    "explanation": "Emergency oxygen helps when the lungs cannot adequately transfer oxygen into the bloodstream — raising inspired O2 raises arterial O2.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-041",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "Oxygen is a critical component:",
+    "options": {
+      "a": "When using an AED",
+      "b": "To sustain life",
+      "c": "In any first aid situation",
+      "d": "For any diving incident"
+    },
+    "correct": "b",
+    "explanation": "Oxygen is essential to sustain life — every cell in the body relies on a continuous oxygen supply for normal metabolism.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-042",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "Administering high concentrations of oxygen decreases the workload required to deliver that oxygen to:",
+    "options": {
+      "a": "Only the brain",
+      "b": "The cells",
+      "c": "Only the lungs",
+      "d": "Only the muscles"
+    },
+    "correct": "b",
+    "explanation": "Higher inspired oxygen concentrations raise the partial pressure gradient, easing oxygen delivery to all body cells, not just one organ.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-043",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "Diffusion means that a high concentration of a substance will travel to areas where there is a:",
+    "options": {
+      "a": "Equal concentration",
+      "b": "High or low concentration",
+      "c": "Low concentration",
+      "d": "No answer is correct"
+    },
+    "correct": "c",
+    "explanation": "Diffusion drives molecules from a region of higher concentration to one of lower concentration until equilibrium is reached.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-044",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "We can potentially decrease any progression in the symptoms or injuries caused by hyperbaric incident by:",
+    "options": {
+      "a": "Adding gas that has caused symptoms",
+      "b": "Eliminating gas that has caused symptoms",
+      "c": "Eliminating gas that has not formed symptoms",
+      "d": "Adding gas that has not yet formed symptoms"
+    },
+    "correct": "b",
+    "explanation": "Removing the offending gas (typically nitrogen) by breathing oxygen accelerates off-gassing and limits worsening of decompression illness.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-045",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "A basic oxygen delivery system consists of:",
+    "options": {
+      "a": "Cylinder with a specialized valve made specifically for oxygen systems",
+      "b": "Regulator designed to fit the special valve",
+      "c": "A mask or tube system designed to deliver oxygen from the regulator",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "A complete oxygen system consists of an O2 cylinder with the proper valve, a matched regulator and a mask/tube delivery interface.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-046",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "What percentage of oxygen is best for emergency oxygen delivery:",
+    "options": {
+      "a": "100%",
+      "b": "75%",
+      "c": "50%",
+      "d": "21%"
+    },
+    "correct": "a",
+    "explanation": "Emergency oxygen is delivered at the highest possible concentration — ideally 100% — to maximise oxygen availability in serious situations.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-047",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "Which of the following is a regulator used in emergency oxygen systems?",
+    "options": {
+      "a": "Demand",
+      "b": "All answers are correct",
+      "c": "Constant Flow",
+      "d": "Multi-type"
+    },
+    "correct": "b",
+    "explanation": "Demand, constant-flow and multi-type (combination) regulators are all used in emergency oxygen systems for different victim conditions.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-048",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "Emergency oxygen regulators must provide at least a ___ flow rate.",
+    "options": {
+      "a": "50 liter/min",
+      "b": "10 liter/min",
+      "c": "15 liters/min",
+      "d": "5 liters/min"
+    },
+    "correct": "c",
+    "explanation": "Emergency oxygen regulators must deliver at least 15 L/min to adequately supply non-rebreather masks and similar devices.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-049",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "Which mask may be used for both non-breathing and breathing victims (medium oxygen concentrations up to fifty percent)?",
+    "options": {
+      "a": "Nasal cannula",
+      "b": "Pocket masks",
+      "c": "Diving mask",
+      "d": "Non-rebreather mask"
+    },
+    "correct": "d",
+    "explanation": "Per the React Right answer key, the non-rebreather mask is identified as suitable for both breathing and non-breathing victims at the indicated concentration; in practice a pocket mask with O2 inlet is also used for non-breathing victims.",
+    "source": "Personal: SSI React Right Exam Form A"
+  },
+  {
+    "id": "rr-exam-a-050",
+    "area": "react_right",
+    "subarea": "React Right Exam — First Aid",
+    "question": "Which device provides the highest concentration of oxygen to a victim?",
+    "options": {
+      "a": "Non-rebreather mask with a reservoir bag",
+      "b": "Pocket mask",
+      "c": "Nasal cannula",
+      "d": "Rebreather mask without reservoir bag"
+    },
+    "correct": "a",
+    "explanation": "A non-rebreather mask with reservoir bag delivers the highest oxygen concentration of common first aid devices — up to roughly 90% with adequate flow.",
+    "source": "Personal: SSI React Right Exam Form A"
+  }
+]

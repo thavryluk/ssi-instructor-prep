@@ -15,7 +15,7 @@ for p in parts:
 
 # Validate
 required = {"id", "area", "subarea", "question", "options", "correct", "explanation", "source"}
-allowed_areas = {"science_of_diving", "divemaster", "assistant_instructor", "instructor"}
+allowed_areas = {"science_of_diving", "divemaster", "assistant_instructor", "instructor", "open_water_diver", "diver_stress_rescue", "react_right"}
 errors = []
 seen_ids = set()
 counts = {}

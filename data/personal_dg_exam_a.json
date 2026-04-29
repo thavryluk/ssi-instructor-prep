@@ -1,0 +1,752 @@
+[
+  {
+    "id": "dg-exam-a-001",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Roles & Authority",
+    "question": "Dives Guides can:",
+    "options": {
+      "a": "Act as a dive instructor for certified divers",
+      "b": "Lead certified divers, like their friends and family",
+      "c": "Issue certifications for SSI Scuba Diver programs",
+      "d": "All answers are correct"
+    },
+    "correct": "b",
+    "explanation": "Dive Guides are qualified to lead certified divers (e.g., friends and family) on dives, but cannot teach or issue certifications.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-002",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Roles & Authority",
+    "question": "What is the first part of the Responsible Diver Code?",
+    "options": {
+      "a": "Evaluate the conditions before every dive, and make sure they fit my personal capabilities",
+      "b": "Accept responsibility for my personal well-being on every dive",
+      "c": "Be environmentally conscious on every dive",
+      "d": "Dive within the limits of my ability and training"
+    },
+    "correct": "d",
+    "explanation": "The Responsible Diver Code begins with diving within the limits of one's ability and training.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-003",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Environment",
+    "question": "What should you do before visiting a well-known dive site?",
+    "options": {
+      "a": "Only ask the boat captain what to expect",
+      "b": "Nothing if you know the site well",
+      "c": "Ask your divers what to expect at the site",
+      "d": "Review any available information on the site"
+    },
+    "correct": "d",
+    "explanation": "Always review any available information about the site beforehand, even if it is well-known, because conditions change.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-004",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Environment",
+    "question": "Visibility can be affected by:",
+    "options": {
+      "a": "Changing weather patterns",
+      "b": "All answers are correct",
+      "c": "Other divers or dive groups",
+      "d": "Currents and tides"
+    },
+    "correct": "b",
+    "explanation": "Visibility is influenced by weather, currents/tides, and other divers stirring sediment.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-005",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Environment",
+    "question": "Weather conditions:",
+    "options": {
+      "a": "Always remain constant throughout the day",
+      "b": "May change quickly and with little warning",
+      "c": "Only change quickly in the tropical ocean regions",
+      "d": "Will not affect in-water conditions"
+    },
+    "correct": "b",
+    "explanation": "Weather can change rapidly with little warning, which is why ongoing monitoring is part of the Dive Guide's responsibility.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-006",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Roles & Authority",
+    "question": "Divemasters are responsible for:",
+    "options": {
+      "a": "Updating the diver's logbook",
+      "b": "All answers are correct",
+      "c": "Assembling the diver's equipment",
+      "d": "The diver's well-being and safety"
+    },
+    "correct": "d",
+    "explanation": "The Divemaster's core responsibility is the diver's well-being and safety; logbook updates and equipment assembly remain the diver's own responsibility.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-007",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Group Management",
+    "question": "What are the three components to establishing group control?",
+    "options": {
+      "a": "Be an authority figure, be prepared, and choose an appropriate group size",
+      "b": "Be strict, uncompromising, and choose an appropriate group size",
+      "c": "Be prepared, uncompromising, and let the divers determine the group size",
+      "d": "Be an authority figure, be prepared, let the group decide what is best for themselves"
+    },
+    "correct": "a",
+    "explanation": "Group control rests on being an authority figure, being prepared, and choosing an appropriate group size.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-008",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Group Management",
+    "question": "What is a check dive primarily conducted for?",
+    "options": {
+      "a": "To celebrate a diver's achievements",
+      "b": "To assess the diver's skills",
+      "c": "To introduce new equipment",
+      "d": "To complete paperwork"
+    },
+    "correct": "b",
+    "explanation": "A check dive is used to assess the diver's skills and comfort before more challenging dives.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-009",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Environment",
+    "question": "Which of the following dive parameters can only be determined at the dive site?",
+    "options": {
+      "a": "Depth and visibility",
+      "b": "Diver experience and local weather",
+      "c": "Local weather and visibility",
+      "d": "Diver enthusiasm and depth"
+    },
+    "correct": "c",
+    "explanation": "Local weather and visibility can only be assessed accurately at the dive site itself on the day of the dive.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-010",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Standards",
+    "question": "If you or your divers are doing repetitive dives, you should:",
+    "options": {
+      "a": "Add an extra margin of conservatism for safety",
+      "b": "Dive to the no-decompression limit on each dive",
+      "c": "Plan decompression stops using your computer so you can continue diving",
+      "d": "Schedule a rest day at least one every two weeks"
+    },
+    "correct": "a",
+    "explanation": "Repetitive diving accumulates nitrogen, so adding conservatism (shallower depths, shorter times, longer surface intervals) is the standard practice.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-011",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Equipment",
+    "question": "What equipment should be included on every dive?",
+    "options": {
+      "a": "First aid kit, save-a-dive kit, and backup Total Diving System",
+      "b": "First aid kit, emergency action plan, save-a-dive kit",
+      "c": "Emergency action plan, save-a-dive kit, and personal lights",
+      "d": "Save-a-dive kit, backup Total Diving System, and personal lights"
+    },
+    "correct": "b",
+    "explanation": "A first aid kit, emergency action plan, and save-a-dive kit should accompany every dive.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-012",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Equipment",
+    "question": "Safety cylinders are used:",
+    "options": {
+      "a": "Only at the end of deep or wreck dives",
+      "b": "Only in low-on-air situations or out-of-air emergencies",
+      "c": "Only by the Divemaster",
+      "d": "Only during difficult or high-current dives"
+    },
+    "correct": "b",
+    "explanation": "Safety cylinders are reserved exclusively for low-on-air or out-of-air emergencies.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-013",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Briefings",
+    "question": "The purpose of a dive briefing is to:",
+    "options": {
+      "a": "Share information about the dive with your divers",
+      "b": "Show your divers how experienced and capable you are",
+      "c": "Ask your divers questions about their expectations",
+      "d": "All answers are correct"
+    },
+    "correct": "a",
+    "explanation": "The dive briefing shares essential information about the dive with the divers.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-014",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Briefings",
+    "question": "During the dive briefing, you should:",
+    "options": {
+      "a": "Describe maximum and minimum depths only",
+      "b": "Describe maximum depth limits and maximum dive time",
+      "c": "Let the divers determine their maximum depths",
+      "d": "Let the divers determine their depth limits and dive time"
+    },
+    "correct": "b",
+    "explanation": "The Dive Guide sets the maximum depth and maximum dive time during the briefing.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-015",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Briefings",
+    "question": "To avoid overheating or fatigue, your diver should:",
+    "options": {
+      "a": "Put their equipment on at the same time",
+      "b": "Only put their wetsuit on halfway",
+      "c": "Leave their wetsuit unzipped during the briefing",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All listed practices help reduce overheating and fatigue before the dive.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-016",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Equipment",
+    "question": "Why should you conduct a pre-dive check?",
+    "options": {
+      "a": "It will prevent you from entering the water with faulty equipment",
+      "b": "All answers are correct",
+      "c": "It ensures your cylinder valve is properly opened",
+      "d": "It ensures your buddy understands your equipment configuration"
+    },
+    "correct": "b",
+    "explanation": "Pre-dive checks catch faulty equipment, confirm valves are open, and familiarize buddies with each other's gear.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-017",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Equipment",
+    "question": "If a diver has an equipment failure:",
+    "options": {
+      "a": "Do whatever is necessary to get them in the water",
+      "b": "Give them your equipment, and use theirs during the dive",
+      "c": "Do not attempt repair without the proper training",
+      "d": "Offer to be their dive buddy, and watch them closely"
+    },
+    "correct": "c",
+    "explanation": "Never attempt equipment repair without the proper training; refer to a qualified technician.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-018",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Equipment",
+    "question": "A diver should enter the water with their mask:",
+    "options": {
+      "a": "Around their neck",
+      "b": "Around their arm",
+      "c": "Securely clipped to their buoyancy compensator",
+      "d": "On their face"
+    },
+    "correct": "d",
+    "explanation": "Divers should enter the water with the mask on their face to avoid losing it on entry.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-019",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Group Management",
+    "question": "Verify remaining breathing gas supplies:",
+    "options": {
+      "a": "Only if a diver is low-on-gas",
+      "b": "At regular intervals through the dive",
+      "c": "At least once before starting the ascent",
+      "d": "Every five minutes during the dive"
+    },
+    "correct": "b",
+    "explanation": "The Dive Guide should check remaining gas at regular intervals throughout the dive.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-020",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Standards",
+    "question": "Dives deeper than thirty meters:",
+    "options": {
+      "a": "Do not require any special considerations",
+      "b": "Should only be done in groups of four or less",
+      "c": "Require two Divemasters to supervise",
+      "d": "Require divers to be alert for nitrogen narcosis"
+    },
+    "correct": "d",
+    "explanation": "Dives deeper than 30 m require divers to be alert for nitrogen narcosis.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-021",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Equipment",
+    "question": "Diving with a computer:",
+    "options": {
+      "a": "Allows a diver to plan limited decompression diving",
+      "b": "Eliminates the need for dive planning",
+      "c": "Accurately tracks bottom time, depth and nitrogen absorption",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "A dive computer accurately tracks bottom time, depth, and nitrogen absorption, but does not replace planning.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-022",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Standards",
+    "question": "You must always _____, regardless of the dive type.",
+    "options": {
+      "a": "Plan a dive within the limits of your diver's experience and ability",
+      "b": "All answers are correct",
+      "c": "Dive conservatively, and within the no-decompression limits",
+      "d": "Ensure your divers' safety and well-being at all times"
+    },
+    "correct": "b",
+    "explanation": "All three principles apply on every dive: plan within divers' limits, dive conservatively, and ensure safety/well-being.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-023",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Group Management",
+    "question": "Once they reach the surface, divers should:",
+    "options": {
+      "a": "Establish positive buoyancy",
+      "b": "Keep a regulator or snorkel in their mouth",
+      "c": "All answers are correct",
+      "d": "Keep their mask in place"
+    },
+    "correct": "c",
+    "explanation": "On surfacing, divers should establish positive buoyancy, keep a regulator or snorkel in their mouth, and keep their mask in place.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-024",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Group Management",
+    "question": "Divers exiting to a boat should always:",
+    "options": {
+      "a": "Exit using any available ladder or rope",
+      "b": "Stay well clear of the exit zone until they are ready to exit",
+      "c": "Take their equipment off in the water",
+      "d": "Wait until the Divemaster exits"
+    },
+    "correct": "b",
+    "explanation": "Divers should stay clear of the exit area until they are ready to exit, to avoid contact with the ladder/boat.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-025",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Briefings",
+    "question": "Every debriefing should include:",
+    "options": {
+      "a": "A detailed review of the descent and ascent",
+      "b": "A group discussion of the next dive",
+      "c": "A list of the negative experiences from each diver",
+      "d": "Depth, bottom time, and interesting underwater features"
+    },
+    "correct": "d",
+    "explanation": "A debriefing covers depth, bottom time, and notable underwater features so divers can update logs and reflect on the dive.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-026",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Roles & Authority",
+    "question": "Regarding their attitude during emergencies, what is the key difference between a recreational diver and a Divemaster?",
+    "options": {
+      "a": "Divemasters learn advanced rescue skills",
+      "b": "Divemasters must always direct rescues",
+      "c": "Divemasters are responsible for other divers",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "The defining attitude of a Divemaster in emergencies is responsibility for other divers, not just for themselves.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-027",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "As a Divemaster, your rescue skills must be:",
+    "options": {
+      "a": "At a higher level than those of a recreational diver",
+      "b": "At instructor-level quality",
+      "c": "Only as good as the strongest diver in the group",
+      "d": "Equal to those of the divers in the group"
+    },
+    "correct": "a",
+    "explanation": "A Divemaster's rescue skills must exceed those of a recreational diver because they may need to assist others.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-028",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "An incident management plan provides:",
+    "options": {
+      "a": "Guidance on how to handle emergency situations",
+      "b": "Detailed procedures for every possible emergency scenario",
+      "c": "Only enough information to rescue a diver",
+      "d": "Skill descriptions for conducting in-water rescues"
+    },
+    "correct": "a",
+    "explanation": "An incident management plan provides general guidance for handling emergencies; it cannot cover every possible scenario.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-029",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "When should you have an incident management plan?",
+    "options": {
+      "a": "Only when there are no instructors at the dive site",
+      "b": "Only when the dive boat requires one",
+      "c": "For any dive site where you work as a Divemaster",
+      "d": "Whenever you are more than one hour from the training center"
+    },
+    "correct": "c",
+    "explanation": "Always have an incident management plan for any dive site where you work as a Divemaster.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-030",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "The dive site should have enough oxygen to at least:",
+    "options": {
+      "a": "Transport at least three divers to emergency medical care",
+      "b": "Transport a diver to emergency medical care",
+      "c": "Support a victim for a three-hour boat ride",
+      "d": "Support at least two victims for a one-hour boat ride"
+    },
+    "correct": "b",
+    "explanation": "Minimum oxygen supply must be sufficient to transport a diver to emergency medical care.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-031",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "Which of the following injuries is not caused by breathing compressed gas?",
+    "options": {
+      "a": "Arterial Gas Embolism",
+      "b": "Pneumothorax",
+      "c": "Sea Sickness",
+      "d": "Decompression Sickness"
+    },
+    "correct": "c",
+    "explanation": "Sea sickness is motion-induced, not caused by breathing compressed gas; the others are dive-related injuries.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-032",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "Which injury is caused by gas trapped between the lung and the chest cavity?",
+    "options": {
+      "a": "Decompression Sickness",
+      "b": "Pneumothorax",
+      "c": "Arterial Gas Embolism",
+      "d": "Subcutaneous Emphysema"
+    },
+    "correct": "b",
+    "explanation": "Pneumothorax is gas trapped between the lung and the chest cavity, collapsing the lung.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-033",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "What is the primary consideration for treating a lung overexpansion injury?",
+    "options": {
+      "a": "Get the victim under shade",
+      "b": "Recompress the victim at five meters",
+      "c": "Provide supplemental oxygen",
+      "d": "Immediately fly the victim to emergency medical services"
+    },
+    "correct": "c",
+    "explanation": "Provide supplemental (high-concentration) oxygen as the primary first aid for lung overexpansion injuries.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-034",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "A victim of decompression sickness may:",
+    "options": {
+      "a": "Require recompression in a hyperbaric chamber",
+      "b": "Never dive again",
+      "c": "Immediately begin diving again",
+      "d": "Require in-water recompression"
+    },
+    "correct": "a",
+    "explanation": "Decompression sickness is treated by recompression in a hyperbaric chamber under medical supervision.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-035",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "Which of the following is a general guideline for managing stress before the dive?",
+    "options": {
+      "a": "Only take divers on dives they are qualified for",
+      "b": "Help everyone make a safe and thorough dive plan",
+      "c": "Create a fun, positive atmosphere",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three guidelines together help manage diver stress before the dive.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-036",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "Eliminating stress before starting the dive:",
+    "options": {
+      "a": "Keeps it from becoming worse as the dive continues",
+      "b": "Ensures the divers will have no problems once the dive begins",
+      "c": "Means you do not have to watch the divers as close during the dive",
+      "d": "All answers are correct"
+    },
+    "correct": "a",
+    "explanation": "Resolving stress before the dive prevents it from compounding once the dive begins.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-037",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "Stressed divers at depth may:",
+    "options": {
+      "a": "Have trouble understanding hand signals",
+      "b": "All answers are correct",
+      "c": "Have wide, staring eyes",
+      "d": "Breathe rapidly and shallowly"
+    },
+    "correct": "b",
+    "explanation": "Stressed divers exhibit all of these signs: comprehension problems, wide eyes, and rapid shallow breathing.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-038",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "A diver who is panicking:",
+    "options": {
+      "a": "Will describe their problem to their Divemaster",
+      "b": "Has no control over their actions",
+      "c": "Should only be assisted if they request help",
+      "d": "Can usually correct the problem themselves"
+    },
+    "correct": "b",
+    "explanation": "A panicking diver has lost rational control over their actions and cannot be expected to self-rescue.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-039",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "If you observe a diver panicking:",
+    "options": {
+      "a": "Allow the diver to attempt to solve the problem first",
+      "b": "Have their buddy provide assistance first",
+      "c": "Take immediate action to correct the issue",
+      "d": "Immediately remove the diver from the water"
+    },
+    "correct": "c",
+    "explanation": "A panicking diver cannot solve the problem themselves; the Divemaster must take immediate action.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-040",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "Your priority when assisting a panicked diver at the surface is to:",
+    "options": {
+      "a": "Keep their equipment in place",
+      "b": "Establish positive buoyancy",
+      "c": "Calm the diver down",
+      "d": "Allow the diver to attempt to solve the problem first"
+    },
+    "correct": "b",
+    "explanation": "Establishing positive buoyancy is the first priority for a panicked diver at the surface.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-041",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "Emergencies usually occur:",
+    "options": {
+      "a": "In isolated situations without warning",
+      "b": "As the culmination of several smaller problems",
+      "c": "To the entire dive group at once",
+      "d": "Only to very new or inexperienced divers"
+    },
+    "correct": "b",
+    "explanation": "Emergencies are typically the result of several smaller, unmanaged problems compounding over time.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-042",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "The last-seen point is:",
+    "options": {
+      "a": "Always determined by the missing diver's buddy",
+      "b": "The point where the underwater search should begin",
+      "c": "Only important if multiple divers are missing",
+      "d": "Only used for searches using rescue mode"
+    },
+    "correct": "b",
+    "explanation": "The last-seen point is the location where the underwater search begins.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-043",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "Choose a search pattern based on:",
+    "options": {
+      "a": "Your plan of action",
+      "b": "The size of the search area",
+      "c": "All answers are correct",
+      "d": "Environmental and dive site conditions"
+    },
+    "correct": "c",
+    "explanation": "Search pattern selection depends on the plan, the area size, and environmental/site conditions together.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-044",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "While you wait for emergency services to arrive, you should:",
+    "options": {
+      "a": "Leave the victim to signal the emergency services personnel",
+      "b": "Start disassembling everyone's equipment",
+      "c": "Stay with the victim and provide care",
+      "d": "Report the incident to your training center"
+    },
+    "correct": "c",
+    "explanation": "Stay with the victim and continue providing care until emergency medical services arrive.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-045",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "Local authorities should:",
+    "options": {
+      "a": "Wait until emergency medical services arrive to take control",
+      "b": "Allow the Divemaster to manage the scene",
+      "c": "Not be involved with incident management",
+      "d": "Take control of the scene once they arrive"
+    },
+    "correct": "d",
+    "explanation": "Local authorities take control of the scene as soon as they arrive.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-046",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "What should you record on the incident report form?",
+    "options": {
+      "a": "Every fact that you learn at the scene",
+      "b": "Facts and opinions that you learn at the scene",
+      "c": "Only information about the victim",
+      "d": "Only information about the scene management"
+    },
+    "correct": "a",
+    "explanation": "Record only facts (no opinions) gathered at the scene on the incident report form.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-047",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Emergencies",
+    "question": "If you take possession of the victim's equipment:",
+    "options": {
+      "a": "Return it to the victim or their family as soon as possible",
+      "b": "Record its condition and secure it in a safe location",
+      "c": "Provide it to the emergency medical services personnel",
+      "d": "Give a receipt to the local authorities if they request one"
+    },
+    "correct": "b",
+    "explanation": "Document the condition of the victim's equipment and secure it in a safe location for investigation.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-048",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Standards",
+    "question": "The purpose of the SSI Snorkel Diver program is to:",
+    "options": {
+      "a": "Develop new candidates for the SSI Freediver program",
+      "b": "Provide an alternative to the SSI Scuba Diver program",
+      "c": "Provide a basic introduction to snorkeling equipment and skills",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "The SSI Snorkel Diver program offers a basic introduction to snorkeling equipment and skills.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-049",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Standards",
+    "question": "You will be issued the _____ certification after completing this program.",
+    "options": {
+      "a": "Professional Divemaster",
+      "b": "Dive Guide",
+      "c": "Certified assistant",
+      "d": "Snorkel Instructor"
+    },
+    "correct": "b",
+    "explanation": "Completing this program issues the Dive Guide certification (entry to the professional path).",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  },
+  {
+    "id": "dg-exam-a-050",
+    "area": "divemaster",
+    "subarea": "Dive Guide Exam — Standards",
+    "question": "What is required to upgrade to Divemaster?",
+    "options": {
+      "a": "Study the Science of Diving materials and pass the digital final exam",
+      "b": "Complete 100 dives and pass the Ecology exam",
+      "c": "Teach beginners and lead key programs",
+      "d": "Log at least 50 dives and complete a specialty instructor course"
+    },
+    "correct": "a",
+    "explanation": "To upgrade Dive Guide to Divemaster, study the Science of Diving materials and pass the digital final exam.",
+    "source": "Personal: SSI Dive Guide Exam Form A"
+  }
+]

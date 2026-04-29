@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "sod-exam-b-001",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Environment",
+    "question": "A thermocline is a water layer where:",
+    "options": {
+      "a": "Salinity changes rapidly with depth",
+      "b": "Water becomes rapidly hot",
+      "c": "All answers are correct",
+      "d": "Temperature changes rapidly"
+    },
+    "correct": "d",
+    "explanation": "Thermocline = layer where temperature changes rapidly with depth (halocline = salinity).",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-002",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "What are components of the blood?",
+    "options": {
+      "a": "Red blood cells",
+      "b": "White blood cells and platelets",
+      "c": "Water, enzymes, hormones, and clotting factors",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Blood contains red and white cells, platelets, plus plasma (water, enzymes, hormones, clotting factors) - all components.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-003",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physics",
+    "question": "A diver has a mass of 87 kilograms when neutrally buoyant in seawater. To be neutrally buoyant in fresh water, they must:",
+    "options": {
+      "a": "Add weight",
+      "b": "Use the same weight",
+      "c": "Remove weight",
+      "d": "Use different equipment"
+    },
+    "correct": "c",
+    "explanation": "Fresh water is less dense than seawater, so it provides less buoyant support; the diver must remove weight.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-004",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "Signs and symptoms of inert gas narcosis include:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Euphoria",
+      "c": "Poor memory",
+      "d": "Increased response times"
+    },
+    "correct": "a",
+    "explanation": "Inert gas narcosis causes euphoria, impaired memory, and slowed responses - all are symptoms.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-005",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "When can signs of decompression sickness appear?",
+    "options": {
+      "a": "Immediately upon surfacing",
+      "b": "All answers are correct",
+      "c": "Within 15 minutes of a dive",
+      "d": "Within 12 hours of a dive"
+    },
+    "correct": "b",
+    "explanation": "DCS signs can appear immediately on surfacing, within 15 minutes, or up to 12+ hours later - all timeframes possible.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-006",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Environment",
+    "question": "Salinity increases in regions affected by:",
+    "options": {
+      "a": "Low rainfall and high evaporation",
+      "b": "High rainfall and low evaporation",
+      "c": "Especially salty rocks",
+      "d": "Ice melt"
+    },
+    "correct": "a",
+    "explanation": "Low rainfall plus high evaporation concentrates dissolved salts, increasing salinity.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-007",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "Regulator icing is caused by the:",
+    "options": {
+      "a": "Rapid compression of breathing gas",
+      "b": "Swimming around icebergs",
+      "c": "Rapid expansion of breathing gas",
+      "d": "Thin regulator materials"
+    },
+    "correct": "c",
+    "explanation": "Rapid expansion of breathing gas at the first/second stage cools moisture and can freeze the regulator.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-008",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "Signs and symptoms of central nervous system oxygen toxicity include:",
+    "options": {
+      "a": "Coughing and a burning sensation in the lungs",
+      "b": "Cherry red lips and coughing",
+      "c": "Numbness and tingling",
+      "d": "Convulsions and twitching"
+    },
+    "correct": "d",
+    "explanation": "CNS oxygen toxicity classic signs include convulsions and twitching (the 'C' in ConVENTID).",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-009",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "Where does gas exchange take place in the lungs?",
+    "options": {
+      "a": "Through pulmonary capillaries in the alveoli",
+      "b": "Through pulmonary capillaries in the trachea",
+      "c": "Through arteries in the vena cava",
+      "d": "All answers are correct"
+    },
+    "correct": "a",
+    "explanation": "Gas exchange occurs across pulmonary capillaries surrounding the alveoli.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-010",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "What is a function of the cardiovascular system?",
+    "options": {
+      "a": "To transport carbon dioxide from the lungs to the body, and transport oxygen back to the lungs",
+      "b": "To keep blood vessels vasodilated",
+      "c": "To transport oxygen from the lungs to the body, and transport carbon dioxide back to the lungs",
+      "d": "To decompress adipose tissue"
+    },
+    "correct": "c",
+    "explanation": "The cardiovascular system transports oxygen from lungs to body tissues and CO2 back to lungs for exhalation.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-011",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "Neoprene provides insulation because it contains:",
+    "options": {
+      "a": "Closed cells of gas",
+      "b": "Heated filaments",
+      "c": "Dissolved gas",
+      "d": "Thick layers"
+    },
+    "correct": "a",
+    "explanation": "Neoprene insulates because of closed gas-filled cells; this is also why it compresses with depth.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-012",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Gas Laws",
+    "question": "When is a gas supersaturated?",
+    "options": {
+      "a": "When there is less gas in solution than the substance can hold at equilibrium",
+      "b": "When the pressure of the gases in and out of solution become equal",
+      "c": "When the pressure of the gas in solution exceeds the pressure of the gas out of solution",
+      "d": "When it is full of gas"
+    },
+    "correct": "c",
+    "explanation": "A gas is supersaturated when its dissolved-pressure exceeds the surrounding (out-of-solution) pressure.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-013",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "When does a diver deploy a delayed surface marker buoy?",
+    "options": {
+      "a": "To mark the ascent or at the end of the dive",
+      "b": "Throughout the dive",
+      "c": "To mark the descent at the beginning of the dive",
+      "d": "All answers are correct"
+    },
+    "correct": "a",
+    "explanation": "A delayed SMB is deployed at the start of the ascent (or end of dive) to mark position for the boat.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-014",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "What are two potential hazards of breathing higher concentrations of oxygen?",
+    "options": {
+      "a": "Histotoxic hypoxia and anemic hypoxia",
+      "b": "Hyperventilation and pulmonary oxygen toxicity",
+      "c": "Central nervous system oxygen toxicity and pulmonary oxygen toxicity",
+      "d": "Hemoglobin dysfunction and carbon monoxide poisoning"
+    },
+    "correct": "c",
+    "explanation": "Breathing high pO2 risks both CNS and pulmonary oxygen toxicity.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-015",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "The term “decompression illness\" covers which diving- related disorders?",
+    "options": {
+      "a": "Type I and Type II decompression sickness and hyperoxia",
+      "b": "Subcutaneous emphysema and narcosis",
+      "c": "Hypercapnia and arterial gas embolism",
+      "d": "Decompression sickness, lung overexpansion, and arterial gas embolism"
+    },
+    "correct": "d",
+    "explanation": "Decompression illness umbrella covers DCS, lung overexpansion injuries, and arterial gas embolism.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-016",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "Why does hypothermia increase the risk of decompression sickness?",
+    "options": {
+      "a": "The dilation of blood vessels reduces circulation",
+      "b": "The dilation of blood vessels increases heat absorption",
+      "c": "The constriction of blood vessels reduces circulation",
+      "d": "The constriction of blood vessels increases blood flow"
+    },
+    "correct": "c",
+    "explanation": "Hypothermia constricts peripheral blood vessels, reducing circulation and impairing inert-gas elimination.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-017",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Environment",
+    "question": "What is plankton?",
+    "options": {
+      "a": "A diverse group of organisms that cannot swim effectively and drift with ocean currents",
+      "b": "Microscopic bacteria only",
+      "c": "Microscopic algae only",
+      "d": "A group of protists"
+    },
+    "correct": "a",
+    "explanation": "Plankton is a diverse group of drifting organisms that cannot swim effectively against currents.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-018",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "What are the main inflation mechanisms on a buoyancy compensator?",
+    "options": {
+      "a": "The power inflator and oral inflator",
+      "b": "The power inflator and power deflator",
+      "c": "The power inflator and dump valves",
+      "d": "The oral inflator and exhaust button"
+    },
+    "correct": "a",
+    "explanation": "A BC is inflated via the power inflator and the oral inflator (backup).",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-019",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physics",
+    "question": "What is a diver’s SAC rate if they dive for 10 minutes at a depth of 10 meters, and consume 50 bar from a 10-liter cylinder?",
+    "options": {
+      "a": "50 liters per minute",
+      "b": "35 liters per minute",
+      "c": "10 liters per minute",
+      "d": "25 liters per minute"
+    },
+    "correct": "d",
+    "explanation": "SAC: 50 bar x 10 L = 500 L over 10 min at 2 ATA = 25 L/min surface equivalent.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-020",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Environment",
+    "question": "How do colors change as a diver descends?",
+    "options": {
+      "a": "They fade rapidly",
+      "b": "Red, orange and yellow lose their color quite shallow",
+      "c": "On a deep dive in clear water divers will see blue, indigo, and violet",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Colors fade rapidly with depth - red/orange/yellow first, then on deep clear dives blue/indigo/violet remain.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-021",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "Which of the following statements about steel cylinders is true?",
+    "options": {
+      "a": "They are made of denser and stronger material than aluminum",
+      "b": "They are generally more negatively or neutrally buoyant compared to aluminum cylinders",
+      "c": "All answers are correct",
+      "d": "They may be preferred when thicker wetsuits increase buoyancy"
+    },
+    "correct": "c",
+    "explanation": "Steel is denser/stronger than aluminum, more negatively/neutrally buoyant, and preferred with thick wetsuits - all true.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-022",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "Gradient factors adjust the level of conservatism by:",
+    "options": {
+      "a": "Increasing the maximum tolerated supersaturation in the tissues compared to Bühlmann’s original values",
+      "b": "Adjusting the temperature gradient in water",
+      "c": "Lowering the maximum tolerated supersaturation in the tissues compared to Bühlmann’s original values",
+      "d": "Adjusting the diver’s inert gas absorption"
+    },
+    "correct": "c",
+    "explanation": "Gradient factors lower the maximum tolerated supersaturation vs. Buhlmann original M-values to add conservatism.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-023",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Environment",
+    "question": "Which of the following best describes the relationship between wind and wave formation?",
+    "options": {
+      "a": "Wind creates waves by increasing ocean salinity",
+      "b": "Wind has little effect on ocean surface conditions",
+      "c": "Wind transfers energy to the water’s surface, generating waves",
+      "d": "Wind causes water to cool, preventing waves from forming"
+    },
+    "correct": "c",
+    "explanation": "Wind transfers energy to the water surface, generating waves.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-024",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "During transport, cylinders should be:",
+    "options": {
+      "a": "Completely empty",
+      "b": "Cooled down",
+      "c": "Properly secured",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "Cylinders being transported should be properly secured to prevent movement and damage.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-025",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "Signs and symptoms of severe hypothermia can include:",
+    "options": {
+      "a": "Uncontrollable shivering, decreased heart and breathing rate, and unconsciousness",
+      "b": "Absence of shivering, decreased heart and breathing rate, and unconsciousness",
+      "c": "A core temperature between about 32–35°C",
+      "d": "Uncontrollable shivering, increased heart and breathing rate, and unconsciousness"
+    },
+    "correct": "b",
+    "explanation": "Severe hypothermia: shivering stops, heart and breathing rate decrease, and unconsciousness occurs.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-026",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "What is the definition of “half-time\" ?",
+    "options": {
+      "a": "The number of minutes required for a body tissue to absorb half the total amount of an inert gas that it would contain if it were completely saturated at a specific depth or partial pressure",
+      "b": "The number of minutes required for a body tissue to absorb twice the total amount of an inert gas that it would contain if it were completely saturated at a specific depth or partial pressure",
+      "c": "The number of minutes required for a body tissue to eliminate the nitrogen it contains",
+      "d": "The number of minutes required for a diver complete half their dive"
+    },
+    "correct": "a",
+    "explanation": "Half-time = minutes for a tissue to absorb half of the inert gas it would hold at full saturation for that pressure.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-027",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "What is the basic purpose of the first and second stages?",
+    "options": {
+      "a": "The first stage reduces high- pressure cylinder gas to intermediate pressure",
+      "b": "The second stage reduces intermediate-pressure gas to ambient pressure",
+      "c": "All answers are correct",
+      "d": "First- and second-stage valves open and close according to demand"
+    },
+    "correct": "c",
+    "explanation": "First stage: HP -> IP. Second stage: IP -> ambient on demand. Valves open/close per demand. All correct.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-028",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "Multi-level diving complicates decompression theory because:",
+    "options": {
+      "a": "The diver is exposed to reduced atmospheric pressure",
+      "b": "The drop in pressure can release nitrogen from solution",
+      "c": "The diver’s tissues continually saturate with nitrogen throughout the dive",
+      "d": "The diver’s tissues saturate and desaturate throughout the dive"
+    },
+    "correct": "d",
+    "explanation": "In multilevel dives, tissues both saturate (deeper) and desaturate (shallower) throughout the dive, complicating modeling.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-029",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "Which of the following statements about wetsuit compression is true?",
+    "options": {
+      "a": "It decreases positive buoyancy at depth",
+      "b": "Neoprene compresses under pressure",
+      "c": "Insulation is reduced",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "With depth, neoprene compresses, insulation drops, and positive buoyancy decreases - all true.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-030",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "What is the no- decompression limit based on?",
+    "options": {
+      "a": "Dive depth, duration, surface interval, and tissue nitrogen absorption",
+      "b": "Oxygen levels in the atmosphere",
+      "c": "Time spent at maximum depth",
+      "d": "The number of required decompression stops"
+    },
+    "correct": "a",
+    "explanation": "NDL is computed from depth, duration, surface interval, and the resulting tissue nitrogen loading.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-031",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "Which of the following statements about evaporative heat loss is true?",
+    "options": {
+      "a": "When water evaporates it takes heat energy away from the body",
+      "b": "Divers can experience evaporative heat loss when water evaporates from their skin",
+      "c": "Dry breathing gas can cause evaporative heat loss as mucus linings dry out in the lungs",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Evaporation removes heat from skin and from drying mucus in the lungs - all answers describe true mechanisms.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-032",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "What does it mean if a body tissue is poorly-perfused?",
+    "options": {
+      "a": "It eliminates gas more slowly",
+      "b": "It has a good blood supply",
+      "c": "It absorbs gas quickly",
+      "d": "It eliminates gas quickly"
+    },
+    "correct": "a",
+    "explanation": "Poorly-perfused tissues have poor blood supply and therefore eliminate (and absorb) inert gas slowly.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-033",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "What preventative measures can help prevent barotrauma?",
+    "options": {
+      "a": "Equalize the ears, sinuses and lungs frequently",
+      "b": "Avoid rapid pressure changes",
+      "c": "All answers are correct",
+      "d": "Never hold the breath"
+    },
+    "correct": "c",
+    "explanation": "Equalize early/often, avoid rapid pressure changes, and never hold the breath - all help prevent barotrauma.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-034",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "What are the two different types of valve connections?",
+    "options": {
+      "a": "Yoke and DIN connections",
+      "b": "Aluminum and steel connections",
+      "c": "DIN and steel connections",
+      "d": "Brass and steel connections"
+    },
+    "correct": "a",
+    "explanation": "The two valve connection standards are yoke (international/A-clamp) and DIN.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-035",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "When wetsuits get thicker, buoyancy:",
+    "options": {
+      "a": "Decreases",
+      "b": "Stays the same",
+      "c": "Increases",
+      "d": "Is not a problem"
+    },
+    "correct": "c",
+    "explanation": "Thicker wetsuits contain more closed gas cells, which increases buoyancy (and requires more lead).",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-036",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "What is the mammalian dive reflex?",
+    "options": {
+      "a": "A series of psychological changes that result from seeing mammals in the water",
+      "b": "A series of physiological changes that result from breath-holds, especially during immersion",
+      "c": "A reflex that makes humans want to dive",
+      "d": "A series of physiological changes that result from tachypnea during a dive"
+    },
+    "correct": "b",
+    "explanation": "The mammalian dive reflex is a set of physiological changes (bradycardia, vasoconstriction) triggered by breath-hold and facial immersion.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-037",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Gas Laws",
+    "question": "Understanding how gas solubility relates to pressure helps divers understand:",
+    "options": {
+      "a": "How far they can push their limits",
+      "b": "How gases expand and compress in equipment",
+      "c": "How much gas they can safely breathe on a dive",
+      "d": "How gases are absorbed into body tissues and the risks associated with decompression illness"
+    },
+    "correct": "d",
+    "explanation": "Gas-solubility/pressure relationships explain inert-gas absorption in tissues and the resulting decompression risks.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-038",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "What is the established treatment for decompression illness?",
+    "options": {
+      "a": "Recompression underwater",
+      "b": "Recompression in a hyperbaric chamber",
+      "c": "No treatment, the diver must wait to off-gas",
+      "d": "Recompression on the boat"
+    },
+    "correct": "b",
+    "explanation": "Definitive DCI treatment is recompression in a hyperbaric chamber with oxygen.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-039",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "What is hypothermia?",
+    "options": {
+      "a": "A medical condition where the body loses heat faster than it can produce heat.",
+      "b": "A medical condition where the body produces or absorbs more heat than it can dissipate.",
+      "c": "A medical condition caused by freezing of the skin and underlying tissues.",
+      "d": "A medical condition where the body produces too much carbon dioxide."
+    },
+    "correct": "a",
+    "explanation": "Hypothermia = body loses heat faster than it can produce it.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-040",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "Which of the following statements is true about cylinder care and maintenance?",
+    "options": {
+      "a": "Cylinders should be inspected frequently for signs of damage or corrosion",
+      "b": "All answers are correct",
+      "c": "Cylinders should be kept with a minimum gas pressure of twenty to fifty bar",
+      "d": "Valves used with aluminum cylinders must be periodically lubricated"
+    },
+    "correct": "b",
+    "explanation": "Inspect for damage/corrosion, keep 20-50 bar minimum residual pressure, lubricate aluminum-cylinder valves periodically - all true.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-041",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Environment",
+    "question": "What happens when a wave reaches the surf zone?",
+    "options": {
+      "a": "The wave speeds up and continues moving offshore",
+      "b": "The wave completely stops moving forward",
+      "c": "The wave slows down, increases in height, and breaks",
+      "d": "The wave becomes a tidal bore and moves inland"
+    },
+    "correct": "c",
+    "explanation": "In the surf zone the wave slows, builds height, then breaks.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-042",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "Oxygen-compatible equipment is equipment that is:",
+    "options": {
+      "a": "Needs adapting for use with nitrox",
+      "b": "All equipment is oxygen- compatible",
+      "c": "No answers are correct",
+      "d": "Manufactured ready for use with nitrox"
+    },
+    "correct": "d",
+    "explanation": "Oxygen-compatible equipment is manufactured ready for use with nitrox (cleaned/built for elevated O2).",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-043",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "How might gas bubbles enter arterial blood vessels?",
+    "options": {
+      "a": "Through a cut in the diver’s skin",
+      "b": "Pulmonary barotrauma or shunting through a patent foramen ovale",
+      "c": "Due to excessive vasoconstriction",
+      "d": "Because of a tight wetsuit"
+    },
+    "correct": "b",
+    "explanation": "Arterial bubbles enter via pulmonary barotrauma or by shunting through a patent foramen ovale (PFO).",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-044",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "What is an advantage of using a watch-style computer as a dive computer?",
+    "options": {
+      "a": "They do not require additional hoses or consoles",
+      "b": "They are designed to be worn on the wrist like a regular watch",
+      "c": "All answers are correct",
+      "d": "They are lightweight and streamlined"
+    },
+    "correct": "c",
+    "explanation": "Watch-style computers are wrist-worn, lightweight, streamlined, and need no extra hose/console - all advantages.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-045",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physics",
+    "question": "What is a pressure gradient?",
+    "options": {
+      "a": "The force resulting from equal pressures",
+      "b": "The force resulting from a difference in pressure",
+      "c": "The force of a substance of higher pressure",
+      "d": "The difference in concentrations within a substance or across two areas"
+    },
+    "correct": "b",
+    "explanation": "A pressure gradient is the force resulting from a difference in pressure between two regions.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-046",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "Styles of dive flag include:",
+    "options": {
+      "a": "The Alpha flag and national flag",
+      "b": "The Alpha flag and recreational diver flag",
+      "c": "The recreational diver flag and boat flag",
+      "d": "The recreational diver flag and national flag"
+    },
+    "correct": "b",
+    "explanation": "Recreational diver flag (red with white diagonal stripe) and Alpha flag (international maritime) are the two dive-flag styles.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-047",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "What actions can divers take to reduce the risks of hyperthermia?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Drink plenty of fluids",
+      "c": "Don wetsuits just before the dive",
+      "d": "Minimize effort and exertion"
+    },
+    "correct": "a",
+    "explanation": "Hydrate, don wetsuits just before entry, and minimize exertion - all reduce hyperthermia risk.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-048",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "Why should divers carry multiple signaling devices?",
+    "options": {
+      "a": "To be prepared for different emergency situations",
+      "b": "Carrying more devices lessens the chance of losing any single one",
+      "c": "Device diversity helps divers maintain buoyancy control",
+      "d": "Having multiple devices encourages faster underwater navigation"
+    },
+    "correct": "a",
+    "explanation": "Multiple signaling devices cover varied emergencies and provide redundancy if one is lost.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-049",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "What are signs and symptoms of sinus barotrauma?",
+    "options": {
+      "a": "Pain behind the eyes, teeth, or cheekbones",
+      "b": "Nasal congestion or bleeding",
+      "c": "All answers are correct",
+      "d": "Headache"
+    },
+    "correct": "c",
+    "explanation": "Sinus barotrauma symptoms include pain behind eyes/teeth/cheekbones, congestion or bleeding, and headache - all of the above.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-050",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physics",
+    "question": "Archimedes’ Principle states that:",
+    "options": {
+      "a": "The sum of partial pressures in a gas mixture is equal to the total gas pressure",
+      "b": "The amount of a gas dissolved in a liquid is proportional to its partial pressure",
+      "c": "An object placed in a fluid will be depressed by a force equal to the weight of the fluid it displaces",
+      "d": "An object placed in a fluid will be buoyed up by a force equal to the weight of the fluid it displaces"
+    },
+    "correct": "d",
+    "explanation": "Archimedes: an object in a fluid is buoyed up by a force equal to the weight of the displaced fluid.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-051",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "How does an increase in gas pressure influence tissue saturation?",
+    "options": {
+      "a": "It increases tissue saturation",
+      "b": "It decreases tissue saturation",
+      "c": "It causes tissue supersaturation",
+      "d": "It saturates tissues with microbubbles"
+    },
+    "correct": "a",
+    "explanation": "Higher ambient gas pressure raises the partial pressure gradient driving inert gas into tissues, increasing saturation.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-052",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "Which of the following statements about carbon dioxide is true?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "It is a natural byproduct of the body's metabolism",
+      "c": "It should be eliminated from breathing mixtures",
+      "d": "High concentrations will disrupt normal bodily functions"
+    },
+    "correct": "a",
+    "explanation": "CO2 is a metabolic byproduct, must be eliminated from breathing gas, and high levels disrupt normal function - all true.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-053",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physics",
+    "question": "The \"apparent mass\" (the buoyancy) of an object can be calculated:",
+    "options": {
+      "a": "By adding the weight of the displaced water to the mass of the immersed object",
+      "b": "By subtracting the mass of the displaced water from the mass of the immersed object",
+      "c": "By testing the mass of the object using scales in water",
+      "d": "By weighing it down and seeing if it will float"
+    },
+    "correct": "b",
+    "explanation": "Apparent mass = mass of object minus mass of displaced water (Archimedes).",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-054",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "What are parts of the ear?",
+    "options": {
+      "a": "The outer ear, eardrum, middle ear, ossicles, Eustachian tube, and bronchioles",
+      "b": "The outer ear, eardrum, middle ear, ossicles, inner ear, round and oval windows, and Eustachian tube",
+      "c": "The outer ear, eardrum, middle ear, inner ear, Eustachian tube, and maxillary sinuses",
+      "d": "The earlobe, middle ear, inner ear, and Valsalva"
+    },
+    "correct": "b",
+    "explanation": "Ear anatomy: outer ear, eardrum, middle ear with ossicles, inner ear with round/oval windows, and the Eustachian tube.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-055",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Environment",
+    "question": "What should divers do if they are caught in a strong current?",
+    "options": {
+      "a": "Swim directly against the current",
+      "b": "Fight the current for as long as they can",
+      "c": "Add more weight so they can stay in one place",
+      "d": "Swim parallel/at an angle to the shore or drift with the current and wait to be picked up"
+    },
+    "correct": "d",
+    "explanation": "Don't fight a current; swim parallel/at an angle to shore or drift and signal for pickup.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-056",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physics",
+    "question": "The absolute pressure at a depth of fifty meters:",
+    "options": {
+      "a": "5.0 bar",
+      "b": "5.1 bar",
+      "c": "5.6 bar",
+      "d": "6.0 bar"
+    },
+    "correct": "d",
+    "explanation": "Absolute pressure = 1 bar (surface) + 5 bar (50 m water) = 6.0 bar.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-057",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "Which blood vessels are used for gas exchange in the body?",
+    "options": {
+      "a": "The aorta",
+      "b": "Arteries",
+      "c": "The vena cava",
+      "d": "Capillaries"
+    },
+    "correct": "d",
+    "explanation": "Capillaries are the thin-walled vessels where gas, nutrient, and waste exchange occurs at the tissues and lungs.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-058",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "A physiological condition called a squeeze occurs when:",
+    "options": {
+      "a": "The pressure on the inside of an air space is greater than the external pressure",
+      "b": "The pressure on the outside of an closed air space is greater than the internal pressure",
+      "c": "The pressure on the inside of an air space is increasing to equalize with the external pressure",
+      "d": "None of the answers are correct"
+    },
+    "correct": "b",
+    "explanation": "A squeeze (descent barotrauma) occurs when external pressure exceeds internal pressure of a closed air space.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-059",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "How often should equipment be serviced?",
+    "options": {
+      "a": "Once a year",
+      "b": "At least annually and according to manufacturer instructions",
+      "c": "Once a week and according to manufacturer instructions",
+      "d": "No answers are correct"
+    },
+    "correct": "b",
+    "explanation": "Service equipment at least annually and follow the manufacturer's specific instructions/intervals.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-060",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "Hypoxia is a condition resulting from:",
+    "options": {
+      "a": "Short breath-holds",
+      "b": "Excess oxygen in the body tissues",
+      "c": "Lack of oxygen in the body",
+      "d": "Elevated carbon dioxide levels in the blood"
+    },
+    "correct": "c",
+    "explanation": "Hypoxia = insufficient oxygen reaching the body tissues.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-061",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "What is inert gas narcosis?",
+    "options": {
+      "a": "Physical and mental disturbance caused by breathing gas at a reduced pressure",
+      "b": "A disturbance caused by divers drinking too many martinis",
+      "c": "The reduced effects of nitrogen",
+      "d": "Physical and mental disturbance caused by breathing gas at an elevated pressure"
+    },
+    "correct": "d",
+    "explanation": "Inert gas narcosis is physical and mental impairment from breathing inert gases (esp. nitrogen) at elevated partial pressures.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-062",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "Why should divers carry a cutting device?",
+    "options": {
+      "a": "To respond to underwater entanglements hazards",
+      "b": "To carve navigational markers into underwater rocks",
+      "c": "To signal other divers through metal clanging",
+      "d": "To hunt underwater creatures more effectively"
+    },
+    "correct": "a",
+    "explanation": "A cutting device is essential for freeing yourself or your buddy from line/net entanglements.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-063",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "What factors can increase the risk of immersion pulmonary edema?",
+    "options": {
+      "a": "Pre-existing cardiac problems",
+      "b": "Diving in cold water and inspiring against a negative pressure",
+      "c": "Exertion and stress",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "IPE risk factors include cardiac history, cold water with negative inspiratory pressure, and exertion/stress - all of the above.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-064",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "Which of the following statements about nitrox dive computers is true?",
+    "options": {
+      "a": "Most standard dive computers are nitrox-capable",
+      "b": "Nitrox computers can be used for air dives",
+      "c": "Nitrox computers calculate data based on increased oxygen levels",
+      "d": "All answers are correct"
+    },
+    "correct": "b",
+    "explanation": "Nitrox computers can also be used on air (set FO2 = 21%); not all dive computers are nitrox-capable.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-065",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Gas Laws",
+    "question": "Which if the following statements about argon is true?",
+    "options": {
+      "a": "It is half as narcotic as nitrogen and used as a diluent gas",
+      "b": "It has a low density and half the insulating capacity of air",
+      "c": "It is more narcotic than nitrogen and not used as a breathing gas",
+      "d": "It is expensive and not used as a dry suit inflation gas"
+    },
+    "correct": "a",
+    "explanation": "Argon has roughly half the narcotic potency of nitrogen; it is sometimes used as a diluent or drysuit-inflation gas.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-066",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "Hypercapnia can be prevented:",
+    "options": {
+      "a": "By breathing in a controlled manner",
+      "b": "By minimizing workload at depth",
+      "c": "With proper equipment maintenance",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Controlled breathing, low workload, and well-maintained gear all help prevent CO2 buildup (hypercapnia).",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-067",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "What are microbubbles?",
+    "options": {
+      "a": "Small gas bubbles that a diver breathes out through their regulator",
+      "b": "Tiny inert gas bubbles that form in a diver's bloodstream and tissues",
+      "c": "Tiny inert gas bubbles that dissolve in a diver's bloodstream and tissues",
+      "d": "Small gas bubbles that form only in well-perfused tissues"
+    },
+    "correct": "b",
+    "explanation": "Microbubbles are tiny inert-gas bubbles that form in the bloodstream and tissues during/after ascent.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-068",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "At what partial pressure of oxygen can hypoxia occur?",
+    "options": {
+      "a": "0.18",
+      "b": "0.21",
+      "c": "0.16",
+      "d": "1.60"
+    },
+    "correct": "c",
+    "explanation": "Hypoxia can occur at pO2 below approximately 0.16 bar.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-069",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Environment",
+    "question": "Understanding the period of a wave helps divers:",
+    "options": {
+      "a": "Calculate underwater plant growth rates",
+      "b": "Time their movements and navigate safely",
+      "c": "All answers are correct",
+      "d": "Manage their depth more accurately"
+    },
+    "correct": "b",
+    "explanation": "Wave period helps divers time entries, exits, and movements to navigate safely through surf.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-070",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "Which of the following statements about carbon monoxide is true?",
+    "options": {
+      "a": "It is harmless and can be breathed by divers",
+      "b": "It is highly toxic",
+      "c": "It is not produced by the burning of fuel and oil",
+      "d": "It is easily seen, smelled, and tasted"
+    },
+    "correct": "b",
+    "explanation": "Carbon monoxide is highly toxic, colorless, odorless, and tasteless - it binds hemoglobin far more strongly than oxygen.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-071",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Environment",
+    "question": "How can divers minimize negative interactions with marine life?",
+    "options": {
+      "a": "Move cautiously, avoid sudden movements, maintain buoyancy, and avoid covered areas",
+      "b": "Observe, but do not touch or bait animals",
+      "c": "All answers are correct",
+      "d": "Wear appropriate exposure suits and follow local regulations"
+    },
+    "correct": "c",
+    "explanation": "Cautious movement, observe-don't-touch, proper exposure protection and following local rules - all minimize negative interactions.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-072",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Gas Laws",
+    "question": "Which of the following statements about nitrogen is true?",
+    "options": {
+      "a": "It is not metabolized by the body but can diffuse in and out of body tissues",
+      "b": "Dissolved nitrogen can come out of solution and increase the risk of decompression sickness",
+      "c": "It can cause narcosis at high partial pressures",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Nitrogen is inert (not metabolized) but diffuses in/out of tissues, can come out of solution causing DCS, and is narcotic at high pp - all true.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-073",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "What is a reverse block?",
+    "options": {
+      "a": "A squeeze in reverse that happens when compressing gas becomes trapped on descent",
+      "b": "A blockage in the middle ear",
+      "c": "A squeeze in reverse that happens when expanding gas becomes trapped on ascent",
+      "d": "A arterial blockage caused by gas bubbles"
+    },
+    "correct": "c",
+    "explanation": "Reverse block: expanding gas trapped in an air space (sinus, ear) on ascent unable to vent, causing pain/barotrauma.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-074",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "How does a gas-integrated dive computer help divers manage their gas?",
+    "options": {
+      "a": "By automatically adjusting the diver's breathing rate",
+      "b": "All answers are correct",
+      "c": "By storing historical data about the diver's gas consumption",
+      "d": "By monitoring and displaying the remaining gas supply in real- time"
+    },
+    "correct": "d",
+    "explanation": "Gas-integrated computers monitor cylinder pressure and display remaining gas in real time (and often calculate gas time).",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-075",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physics",
+    "question": "Where does the greatest expansion or compression per meter occur?",
+    "options": {
+      "a": "30–40 meters",
+      "b": "0–10 meters",
+      "c": "10–20 meters",
+      "d": "20–30 meters"
+    },
+    "correct": "b",
+    "explanation": "Boyle's law: greatest relative volume change occurs near the surface (0-10 m), where pressure doubles.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-076",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "How might divers be at risk of hyperthermia?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "They overheat by wearing thermal insulation in warm environments",
+      "c": "Through overexertion",
+      "d": "Through inadequate hydration"
+    },
+    "correct": "a",
+    "explanation": "Wearing thermal insulation in warm conditions, overexertion, and inadequate hydration all raise hyperthermia risk.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-077",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physics",
+    "question": "Factors that might affect a diver's breathing gas consumption include:",
+    "options": {
+      "a": "Depth, temperature, and environmental conditions",
+      "b": "All answers are correct",
+      "c": "Gender, age, body weight, physiology",
+      "d": "Mental and physical exertion, experience, and confidence"
+    },
+    "correct": "b",
+    "explanation": "Depth/temperature/environment, personal physiology, and mental/physical state all affect gas consumption - all of the above.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-078",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "What is the immediate care in a suspected decompression illness emergency?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Seek medical assistance",
+      "c": "Administer 100% oxygen",
+      "d": "Monitor vital signs and be ready to perform CPR"
+    },
+    "correct": "a",
+    "explanation": "Immediate DCI care: seek medical help, give 100% O2, monitor vitals and be ready for CPR - all correct.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-079",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "A dive computer algorithm considers _____ to provide conservative estimates.",
+    "options": {
+      "a": "Water temperature, weather, and visibility",
+      "b": "Type of marine life present, and duration of dive",
+      "c": "All answers are correct",
+      "d": "Dive profile, depth, time, surface interval, and gas mixture"
+    },
+    "correct": "d",
+    "explanation": "Algorithms use dive profile, depth, time, surface interval, and gas mixture to compute conservative decompression estimates.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-080",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "How does hyperventilation possibly cause hypoxia?",
+    "options": {
+      "a": "It massively increases the amount of oxygen a diver inhales",
+      "b": "It causes an imbalance between oxygen intake and carbon dioxide levels",
+      "c": "It decreases hemoglobin levels",
+      "d": "It decreases blood carbon monoxide levels"
+    },
+    "correct": "b",
+    "explanation": "Hyperventilation lowers CO2, removing the breathing trigger; the diver may then black out from hypoxia before feeling air hunger.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-081",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "Which features distinguish a reel from a spool?",
+    "options": {
+      "a": "A spool is preferred for longer deployments",
+      "b": "A reel has a handle, a brake or locking mechanism, and a winding knob",
+      "c": "All answers are correct",
+      "d": "A reel is always smaller and lighter"
+    },
+    "correct": "b",
+    "explanation": "A reel has a handle, a brake/locking mechanism, and a winding knob - distinguishing it from a simple spool.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-082",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "What areas of the body are typically affected by Type II decompression sickness?",
+    "options": {
+      "a": "The central nervous system",
+      "b": "The inner ear",
+      "c": "The cardiorespiratory system",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Type II (serious) DCS can affect the CNS, inner ear, and cardiorespiratory system - all of the above.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-083",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physiology",
+    "question": "A diver experiencing pain in their ears or sinuses while descending should:",
+    "options": {
+      "a": "Ascend until the pressure is relieved and then attempt equalization",
+      "b": "Return to the surface and re-initiate the descent",
+      "c": "Ascend 2 meters and force equalization",
+      "d": "Stop and wait until the discomfort subsides"
+    },
+    "correct": "a",
+    "explanation": "If pain develops on descent, ascend slightly until pressure is relieved, then equalize before continuing.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-084",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Gas Laws",
+    "question": "What is the partial pressure of a gas?",
+    "options": {
+      "a": "The sum of all the pressures of gases in a mixture",
+      "b": "The individual pressure of a gas in a mixture of gases",
+      "c": "The total pressure of the gas minus the gas that a diver breathes",
+      "d": "The pressure of argon in a mixture"
+    },
+    "correct": "b",
+    "explanation": "Partial pressure = the individual pressure exerted by one gas component in a mixture (Dalton's Law).",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-085",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Gas Laws",
+    "question": "Which gas law says that pressure and volume are inversely related?",
+    "options": {
+      "a": "Dalton's Law",
+      "b": "Henry's Law",
+      "c": "Charles' Law",
+      "d": "Boyle's Law"
+    },
+    "correct": "d",
+    "explanation": "Boyle's Law: at constant temperature, pressure and volume of a gas are inversely proportional (P1V1 = P2V2).",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-086",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "What is the purpose of performing a safety stop during ascent?",
+    "options": {
+      "a": "To maintain an ascent rate of 9 meters per minute",
+      "b": "To regulate off-gassing by making predetermined stop at a progressively shallower depth",
+      "c": "To prevent the formation of bubbles as the gases separate out of solution",
+      "d": "To develop a dissolved nitrogen tension higher than the surrounding pressure"
+    },
+    "correct": "b",
+    "explanation": "Safety stops regulate off-gassing by pausing at progressively shallower depths to allow controlled inert gas elimination.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-087",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Environment",
+    "question": "What are the three main groups of fishes?",
+    "options": {
+      "a": "Bony fishes, cartilaginous fishes, and orca",
+      "b": "Cartilaginous fishes, bony fishes, and carnivorous fishes",
+      "c": "All answers are correct",
+      "d": "Bony fishes, cartilaginous fishes, and jawless fishes"
+    },
+    "correct": "d",
+    "explanation": "The three main groups of fishes are bony fishes (Osteichthyes), cartilaginous fishes (Chondrichthyes), and jawless fishes (Agnatha).",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-088",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Gas Laws",
+    "question": "How might helium be used in diving?",
+    "options": {
+      "a": "Specially trained divers use it in trimix and heliox gas mixtures to increase the effects of narcosis at depth",
+      "b": "Specially trained divers use it in trimix and heliox gas mixtures to reduce the effects of narcosis at depth",
+      "c": "Specially trained divers use it to inflate their dry suits for extra buoyancy",
+      "d": "It is not used in diving"
+    },
+    "correct": "b",
+    "explanation": "Helium is used in trimix/heliox to reduce narcosis at depth, since it is far less narcotic than nitrogen.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-089",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physics",
+    "question": "What is the minimum gas required for a buddy pair with a surface air consumption of 18 liters per minute, if they want to dive to 33 meters with 12-liter cylinders, and have a 2 minutes of troubleshooting?",
+    "options": {
+      "a": "36 bar",
+      "b": "53 bar",
+      "c": "60 bar",
+      "d": "78 bar"
+    },
+    "correct": "d",
+    "explanation": "Minimum gas (rock-bottom) for buddy pair at 33 m (4.3 ATA), 18 L/min SAC, with troubleshooting and ascent allowance, in 12 L cylinders works out to about 78 bar.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-090",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Environment",
+    "question": "Plants and phytoplankton use carbon dioxide to:",
+    "options": {
+      "a": "Kill bacteria during chemosynthesis",
+      "b": "Generate bubbles during photosynthesis",
+      "c": "Decrease water salinity",
+      "d": "Produce energy and release oxygen during photosynthesis"
+    },
+    "correct": "d",
+    "explanation": "Photosynthesis: plants/phytoplankton use CO2 (and water + sunlight) to produce energy and release oxygen.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-091",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "Which predisposing factors can increase the risk of decompression sickness?",
+    "options": {
+      "a": "A high fitness level, being under the age of 40, and exposure to warm water",
+      "b": "Being well-rested, having a healthy diet, and being an experienced diver",
+      "c": "A low fitness level, being over the age of 50, and exposure to cold water",
+      "d": "Using loose-fitting equipment, being dehydrated, and diving in clear water"
+    },
+    "correct": "c",
+    "explanation": "Low fitness, older age, and cold-water exposure all increase DCS risk.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-092",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "Why is it important to maintain proper stop depth control during a dive?",
+    "options": {
+      "a": "To increase the time required to reduce nitrogen in the tissues",
+      "b": "To prevent oxygen toxicity during ascent",
+      "c": "To allow the tissues to efficiently absorb nitrogen",
+      "d": "To maximize the pressure gradient available for off-gassing and reduce the risk of decompression sickness"
+    },
+    "correct": "d",
+    "explanation": "Proper stop depth maximizes the off-gassing pressure gradient while keeping bubble growth controlled, reducing DCS risk.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-093",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Environment",
+    "question": "What is the primary function of seagrass beds in marine ecosystems?",
+    "options": {
+      "a": "They provide food and habitat for various marine species",
+      "b": "They generate waves and strong currents",
+      "c": "They prevent all sediment from settling on the seafloor",
+      "d": "They stop seahorses being consumed by predators"
+    },
+    "correct": "a",
+    "explanation": "Seagrass beds are primary habitat and food source for many marine species; they also stabilize sediment.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-094",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "A submersible pressure gauge is connected to the:",
+    "options": {
+      "a": "Regulator's low-pressure port",
+      "b": "Regulator's high-pressure port",
+      "c": "Power inflator",
+      "d": "Bourdon tube"
+    },
+    "correct": "b",
+    "explanation": "An SPG measures cylinder pressure and connects to the regulator's high-pressure (HP) port.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-095",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "What is an arterial gas embolism?",
+    "options": {
+      "a": "A bleed on the brain",
+      "b": "The blockage of a vein by bubbles",
+      "c": "Blue lips caused by low oxygen",
+      "d": "The blockage of an arterial blood vessel by bubbles"
+    },
+    "correct": "d",
+    "explanation": "Arterial gas embolism (AGE) = blockage of an artery by gas bubbles, often from pulmonary barotrauma.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-096",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Decompression",
+    "question": "The M-value is the _____ value of nitrogen.",
+    "options": {
+      "a": "Maximum tolerated supersaturation",
+      "b": "Minimum tolerated supersaturation",
+      "c": "Maximum tolerated saturation",
+      "d": "Minimum tolerated saturation"
+    },
+    "correct": "a",
+    "explanation": "M-value = maximum tolerated tissue supersaturation (per tissue compartment) before symptoms become likely.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-097",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "What are trim weights?",
+    "options": {
+      "a": "Extra weights carried for emergencies",
+      "b": "Adjustable weights that help the diver achieve proper trim",
+      "c": "Weights used only at the surface to assist with flotation",
+      "d": "All answers are correct"
+    },
+    "correct": "b",
+    "explanation": "Trim weights are adjustable weights placed strategically (e.g., on the BC/back) to help achieve proper horizontal body trim.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-098",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Equipment",
+    "question": "Why must o-rings be properly maintained and replaced if necessary?",
+    "options": {
+      "a": "They help the equipment move through the water",
+      "b": "They provide additional buoyancy to the equipment",
+      "c": "They regulate the speed breathing gas",
+      "d": "They prevent water from entering equipment and keep the internal parts dry"
+    },
+    "correct": "d",
+    "explanation": "O-rings seal equipment against water ingress, keeping internal parts dry; failure causes leaks and damage.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-099",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Environment",
+    "question": "How can waves affect diving conditions?",
+    "options": {
+      "a": "Larges waves in the surf zone can be hazardous",
+      "b": "Choppy seas and rough conditions can make exits and entries difficult",
+      "c": "All answers are correct",
+      "d": "Wave action can reduce underwater visibility"
+    },
+    "correct": "c",
+    "explanation": "Surf hazards, difficult entries/exits, and reduced visibility - all are ways waves affect diving.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  },
+  {
+    "id": "sod-exam-b-100",
+    "area": "science_of_diving",
+    "subarea": "SoD Exam — Physics",
+    "question": "What is mass?",
+    "options": {
+      "a": "The force exerted on an object by gravity",
+      "b": "The thermal energy of an amount of matter",
+      "c": "The amount of matter in a given substance or object",
+      "d": "The molecular movement in an object"
+    },
+    "correct": "c",
+    "explanation": "Mass is the amount of matter in a given object/substance; weight is the gravitational force on that mass.",
+    "source": "Personal: SSI Science of Diving Exam Form B"
+  }
+]

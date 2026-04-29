@@ -45,7 +45,10 @@ const I18N = {
     "setup.include_mastered": "Include questions I marked as mastered (reset)",
 
     // Areas
+    "area.open_water_diver": "Open Water Diver",
     "area.science_of_diving": "Science of Diving",
+    "area.diver_stress_rescue": "Diver Stress & Rescue",
+    "area.react_right": "React Right (CPR / First Aid)",
     "area.divemaster": "Divemaster / Dive Guide",
     "area.assistant_instructor": "Assistant Instructor",
     "area.instructor": "Instructor",
@@ -366,8 +369,11 @@ const I18N = {
     "setup.include_mastered": "Zahrnout otázky, které jsem označil jako naučené (reset)",
 
     // Areas
+    "area.open_water_diver": "Open Water Diver",
     "area.science_of_diving": "Věda o potápění",
-    "area.divemaster": "Divemaster",
+    "area.diver_stress_rescue": "Diver Stress & Rescue",
+    "area.react_right": "React Right (KPR / první pomoc)",
+    "area.divemaster": "Divemaster / Dive Guide",
     "area.assistant_instructor": "Asistent instruktora",
     "area.instructor": "Instruktor",
 
@@ -756,8 +762,11 @@ const STORAGE_KEYS = {
 };
 
 const AREA_LABELS_EN = {
+  open_water_diver: "Open Water Diver",
   science_of_diving: "Science of Diving",
-  divemaster: "Divemaster",
+  diver_stress_rescue: "Diver Stress & Rescue",
+  react_right: "React Right",
+  divemaster: "Divemaster / Dive Guide",
   assistant_instructor: "Assistant Instructor",
   instructor: "Instructor",
 };
@@ -819,14 +828,19 @@ const SUBAREA_GROUPS_CS = {
   "DM Role": "Role DM",
   "DM Standards": "Standardy DM",
   "Decompression Theory": "Teorie dekomprese",
+  "Dive Guide Exam": "Dive Guide zkouška",
   "Environment": "Prostředí",
   "Equipment": "Vybavení",
   "ITC": "ITC",
   "Methodology": "Metodika",
+  "OWD Exam": "OWD zkouška",
   "Physics": "Fyzika",
   "Physiology": "Fyziologie",
   "Professional Standards": "Profesní standardy",
   "Programs": "Programy",
+  "React Right Exam": "React Right zkouška",
+  "S&R Exam": "Stress & Rescue zkouška",
+  "SoD Exam": "SoD zkouška",
   "Standards": "Standardy",
   "(uncategorized)": "(bez kategorie)",
 };

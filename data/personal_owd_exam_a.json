@@ -1,0 +1,752 @@
+[
+  {
+    "id": "owd-exam-a-001",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Procedures",
+    "question": "The term Surface Interval is defined as:",
+    "options": {
+      "a": "The amount of time spent on the surface of the water between dives (excludes time out of the water)",
+      "b": "The amount of time the diver stays out of the water or on the surface between dives",
+      "c": "Travel time to and from the dive site",
+      "d": "The amount of nitrogen expelled while on the surface"
+    },
+    "correct": "b",
+    "explanation": "A Surface Interval is the total time a diver spends out of the water or at the surface between two dives. This time allows residual nitrogen to off-gas before the next dive.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-002",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physiology",
+    "question": "The most serious lung overexpansion injury is:",
+    "options": {
+      "a": "Pneumothorax",
+      "b": "Subcutaneous emphysema",
+      "c": "Mediastinal emphysema",
+      "d": "Arterial Gas Embolism"
+    },
+    "correct": "d",
+    "explanation": "Arterial Gas Embolism (AGE) is the most serious lung overexpansion injury because air bubbles enter the arterial circulation and can block blood flow to the brain, causing stroke-like symptoms or death.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-003",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physiology",
+    "question": "Diving at altitude or flying after diving:",
+    "options": {
+      "a": "Does not require any special considerations for the diver",
+      "b": "Allows the diver to spend a greater amount of time at depth without exceeding the no-decompression limits",
+      "c": "Allows the diver to ignore the no-decompression limits",
+      "d": "Requires special diving computer functions, altitude tables and/or refraining from flying from at least 24 hours after the completion of a dive"
+    },
+    "correct": "d",
+    "explanation": "Reduced atmospheric pressure at altitude or in a pressurized cabin can cause residual nitrogen to form bubbles. Divers must use altitude-corrected tables/computer settings and wait at least 24 hours before flying.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-004",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Marine Life",
+    "question": "If a diver is injured by harmful sea life, it is usually because of:",
+    "options": {
+      "a": "The diver's negligence",
+      "b": "All answers are correct",
+      "c": "The diver's ignorance",
+      "d": "The diver's aggressive behaviour"
+    },
+    "correct": "b",
+    "explanation": "Most marine life injuries are defensive reactions provoked by divers through negligence, ignorance, or aggressive behaviour. Respecting marine life and maintaining good buoyancy prevents almost all such incidents.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-005",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physics",
+    "question": "Which of the statements concerning sound transmission underwater is correct?",
+    "options": {
+      "a": "Divers find it difficult to locate the direction of a sound producing source",
+      "b": "All answers are correct",
+      "c": "Sound will travel farther underwater than in air",
+      "d": "Sound travels four times faster underwater than in air"
+    },
+    "correct": "b",
+    "explanation": "Underwater sound travels about four times faster than in air, propagates farther due to water's density, and reaches both ears almost simultaneously, making directional location very difficult.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-006",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Emergencies",
+    "question": "Panic can be prevented by:",
+    "options": {
+      "a": "Taking Specialty Training",
+      "b": "Honestly evaluating your diving limitations",
+      "c": "Properly maintaining your Total Diving System",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Continued training, honest self-assessment of limits, and reliable, well-maintained equipment all reduce stress and the chance of panic. Together they form the prevention strategy taught in SSI courses.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-007",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Procedures",
+    "question": "Use of the MySSI Logbook is important because:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "It keeps an accurate record of your personal information and dives",
+      "c": "Provides an overview of visited dive sites",
+      "d": "It is an important information resource for future dives"
+    },
+    "correct": "a",
+    "explanation": "The MySSI Logbook records personal information and dive history, gives an overview of visited sites, and is a reference for planning future dives — all of these benefits apply.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-008",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physics",
+    "question": "An object immersed in water will be buoyed upward by a force ______ the weight of the water it displaces.",
+    "options": {
+      "a": "Greater than",
+      "b": "equal to",
+      "c": "Less than",
+      "d": "2 times"
+    },
+    "correct": "b",
+    "explanation": "Archimedes' Principle states that the buoyant force on an immersed object equals the weight of the fluid the object displaces.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-009",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Emergencies",
+    "question": "In an out-of-air emergency, if your buddy is close enough, you should:",
+    "options": {
+      "a": "Perform an emergency swimming ascent",
+      "b": "Perform an emergency buoyant ascent",
+      "c": "Swim to your buddy, give the out-of-air signal, and share air",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "When a buddy is within reach, the safest option is to signal out-of-air and share air using the alternate (octopus) regulator. Independent emergency ascents carry higher risk and are used only when no buddy is available.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-010",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Equipment",
+    "question": "A scuba cylinder for recreational diving should be filled with:",
+    "options": {
+      "a": "Pure, filtered compressed air or Nitrox",
+      "b": "A mixture of helium and oxygen",
+      "c": "A mixture of hydrogen and oxygen",
+      "d": "Pure oxygen"
+    },
+    "correct": "a",
+    "explanation": "Recreational scuba cylinders are filled with clean, filtered compressed air or with Nitrox (enriched air). Pure oxygen and helium-based mixes require specialized training and equipment.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-011",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Emergencies",
+    "question": "Signs of a panicked diver are:",
+    "options": {
+      "a": "Slow and erratic movement underwater",
+      "b": "Wide-eyed, fearful look and a fast and erratic breathing pattern",
+      "c": "A diver giving the out of air sign while moving toward you",
+      "d": "A diver heading toward the surface before the scheduled end of the dive"
+    },
+    "correct": "b",
+    "explanation": "A panicked diver typically shows wide-open, fearful eyes and a rapid, erratic breathing pattern. Recognizing these signs early lets you intervene before the situation escalates.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-012",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Procedures",
+    "question": "During normal diving activities, divers should never exceed an ascent rate of __ meters per minute.",
+    "options": {
+      "a": "30",
+      "b": "9",
+      "c": "20",
+      "d": "18"
+    },
+    "correct": "b",
+    "explanation": "SSI recommends a maximum ascent rate of 9 meters (30 feet) per minute to allow nitrogen to off-gas safely and to avoid lung overexpansion injuries.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-013",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physiology",
+    "question": "Overexpansion injuries can be prevented by:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Never holding your breath while diving",
+      "c": "Learning the correct breathing patterns reinforced in classroom, pool, and open water training",
+      "d": "Dive with a properly maintained high-quality Total Diving System"
+    },
+    "correct": "a",
+    "explanation": "Continuous breathing, properly trained breathing patterns, and a reliable Total Diving System all work together to prevent lung overexpansion. All listed measures are valid prevention.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-014",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physiology",
+    "question": "The most efficient breathing pattern for scuba diving is:",
+    "options": {
+      "a": "Short shallow breaths",
+      "b": "A deep balanced inhalation followed by a long balanced exhalation without any pause between inhaling and exhaling",
+      "c": "Long slow inhalation and faster exhalation",
+      "d": "Rapid inhalation and exhalation cycles"
+    },
+    "correct": "b",
+    "explanation": "Deep, balanced, continuous inhalation and exhalation maximize gas exchange, minimize CO2 retention, and prevent breath-holding — the safest and most gas-efficient pattern for scuba.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-015",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Procedures",
+    "question": "If you lose contact with your buddy, you should:",
+    "options": {
+      "a": "Surface immediately",
+      "b": "Exit the water at a predetermined location",
+      "c": "Continue in the direction you were swimming for one minute and then surface",
+      "d": "Search for no more than a minute by turning 360 degrees and looking up and down and then perform a normal ascent to the surface"
+    },
+    "correct": "d",
+    "explanation": "The standard buddy-separation procedure is to search for no more than one minute (turning around and looking up/down) and then make a normal ascent to reunite at the surface.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-016",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physics",
+    "question": "Absolute pressure is defined as:",
+    "options": {
+      "a": "The pressure at the surface plus 1 bar",
+      "b": "The total pressure exerted on an object",
+      "c": "The weight of the water that surrounds a diver",
+      "d": "All answers are correct"
+    },
+    "correct": "b",
+    "explanation": "Absolute pressure is the total pressure acting on an object, equal to atmospheric pressure plus the water (gauge) pressure at depth.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-017",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physiology",
+    "question": "The first symptom of a sinus squeeze is usually:",
+    "options": {
+      "a": "A sharp pain at the base of the neck",
+      "b": "A dull pain deep within the head",
+      "c": "A sharp pain or wedging sensation above the eyes",
+      "d": "A crushing pain high in the chest"
+    },
+    "correct": "c",
+    "explanation": "A sinus squeeze typically presents as a sharp pain or wedging sensation above the eyes (frontal sinuses), caused by pressure imbalance when sinuses cannot equalize.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-018",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physics",
+    "question": "The greatest relative pressure change in sea water takes place between ____ and ____ meters.",
+    "options": {
+      "a": "10/20",
+      "b": "20/40",
+      "c": "30/60",
+      "d": "0/10"
+    },
+    "correct": "d",
+    "explanation": "The pressure doubles between the surface (1 bar) and 10 meters (2 bar) — the largest relative pressure change in any 10-meter increment of the water column.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-019",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Marine Life",
+    "question": "Divers should avoid contact with all corals because:",
+    "options": {
+      "a": "Contact can damage the coral",
+      "b": "All answers are correct",
+      "c": "Contact can be harmful to the diver",
+      "d": "Touching corals can damage your equipment"
+    },
+    "correct": "b",
+    "explanation": "Even brief contact can kill fragile coral polyps, sting or cut the diver, and abrade equipment. Maintaining good buoyancy and avoiding contact protects everyone involved.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-020",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Emergencies",
+    "question": "The first thing you should do if you observe signs of panic in a diver at the surface is:",
+    "options": {
+      "a": "Drop your weight belt",
+      "b": "Call for help",
+      "c": "Swim to the panicked diver and try to drop the diver's weight belt",
+      "d": "Completely fill your buoyancy compensator and instruct the panicked diver to establish positive buoyancy"
+    },
+    "correct": "d",
+    "explanation": "Establishing positive buoyancy for yourself and instructing the panicked diver to do the same is the first step. It addresses the immediate life threat (drowning) before any further intervention.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-021",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Emergencies",
+    "question": "The proper first aid for Arterial Gas embolism, Subcutaneous emphysema, Pneumothorax, and Mediastinal Emphysema is:",
+    "options": {
+      "a": "Administer oxygen (if qualified)",
+      "b": "Watch Vital signs, treat for shock and stand by to administer cardio-pulmonary resuscitation (if qualified)",
+      "c": "All answers are correct",
+      "d": "Seek proper medical aid (a recompression chamber) as quickly as possible"
+    },
+    "correct": "c",
+    "explanation": "First aid for any lung overexpansion injury includes 100% oxygen (if qualified), monitoring vitals and treating for shock, and getting the victim to definitive medical care including a recompression chamber.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-022",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Equipment",
+    "question": "The Buoyancy Control System components are:",
+    "options": {
+      "a": "Buoyancy compensator, exposure suit, and inflation device",
+      "b": "Buoyancy compensator, inflation device, and weight belt or BC weight pockets",
+      "c": "Regulator, inflation device, and weight belt or BC weight pockets",
+      "d": "Buoyancy compensator and inflation device"
+    },
+    "correct": "b",
+    "explanation": "The SSI Buoyancy Control System consists of the BC, the inflation device (low-pressure inflator), and the weight system (weight belt or integrated weight pockets).",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-023",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Procedures",
+    "question": "The term No-decompression Limit is defined as:",
+    "options": {
+      "a": "The bottom time recorded during a dive",
+      "b": "The maximum depth recorded during the dive",
+      "c": "The maximum allowed time at depth without having to perform a mandatory decompression stop during the ascent",
+      "d": "The maximum surface interval allowed during a day's diving"
+    },
+    "correct": "c",
+    "explanation": "The No-Decompression Limit (NDL) is the maximum time a diver may stay at a given depth and still ascend directly to the surface without needing a mandatory decompression stop.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-024",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Procedures",
+    "question": "The SSI Responsible Diver Code states that you should:",
+    "options": {
+      "a": "Dive within the limits of your training and ability",
+      "b": "All answers are correct",
+      "c": "Accept responsibility for your own well-being on every dive",
+      "d": "Be environmentally responsible on every dive"
+    },
+    "correct": "b",
+    "explanation": "The SSI Responsible Diver Code includes diving within training and ability, accepting personal responsibility, and being environmentally responsible — all of these apply.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-025",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physiology",
+    "question": "If you experience pain in the ear during descent:",
+    "options": {
+      "a": "Continue the descent while gently exhaling into the mask",
+      "b": "Abort the dive",
+      "c": "Place a finger in the ear canal and gently massage the ear until the pain ceases",
+      "d": "Stop the descent and ascend until the pain stops"
+    },
+    "correct": "d",
+    "explanation": "If equalization fails and pain occurs, stop descending and ascend slightly until the pain stops, then try to equalize again. Forcing the descent can cause an ear barotrauma.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-026",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Emergencies",
+    "question": "Causes of panic include:",
+    "options": {
+      "a": "Certain environmental conditions",
+      "b": "Using equipment that is unfamiliar or does not fit well",
+      "c": "All answers are correct",
+      "d": "Diving outside a diver's comfort and ability"
+    },
+    "correct": "c",
+    "explanation": "Panic can be triggered by adverse environmental conditions, unfamiliar or ill-fitting equipment, or exceeding personal comfort and ability — all of these are recognized causes.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-027",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physics",
+    "question": "Underwater, the bending of light rays causes objects to appear to be:",
+    "options": {
+      "a": "Closer",
+      "b": "Farther away",
+      "c": "The same as the surface",
+      "d": "At an angle consistent with the bend of the light"
+    },
+    "correct": "a",
+    "explanation": "Refraction at the air–water interface of the mask makes objects appear about 25% closer (and 33% larger) than they actually are.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-028",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physics",
+    "question": "In air at 1 bar, the partial pressure of nitrogen is___, oxygen is_____.",
+    "options": {
+      "a": "0.79/0.21 bar",
+      "b": "0.21/0.79 bar",
+      "c": "1.5/0.8 bar",
+      "d": "0.8/0.4 bar"
+    },
+    "correct": "a",
+    "explanation": "Air is approximately 79% nitrogen and 21% oxygen, so at 1 bar total pressure the partial pressures are 0.79 bar N2 and 0.21 bar O2 (Dalton's Law).",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-029",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Equipment",
+    "question": "To use a compass to navigate to a sighted object:",
+    "options": {
+      "a": "Point the magnetic needle toward the object and swim",
+      "b": "Point the lubber line toward the object and swim",
+      "c": "Point the compass toward the object, rotate the bezel until the witness marks are over the magnetic needle, and follow the lubber line",
+      "d": "Point the witness marks toward the object and swim"
+    },
+    "correct": "c",
+    "explanation": "Aim the compass at the target with the lubber line, rotate the bezel so the witness (index) marks frame the magnetic needle, then swim while keeping the needle inside the marks and following the lubber line.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-030",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physiology",
+    "question": "Sinus squeeze can be prevented by:",
+    "options": {
+      "a": "Tilting the divers head back and forth",
+      "b": "Not diving with a cold",
+      "c": "The Valsalva technique",
+      "d": "Wearing earplugs"
+    },
+    "correct": "b",
+    "explanation": "Congestion from a cold blocks sinus passages, preventing equalization. The most reliable prevention is simply not diving when congested.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-031",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Procedures",
+    "question": "A good diving buddy:",
+    "options": {
+      "a": "Is able to help in all phases of diving and dive planning",
+      "b": "Is as familiar with their buddy's diving equipment as they are with their own",
+      "c": "All answers are correct",
+      "d": "Makes diving more fun"
+    },
+    "correct": "c",
+    "explanation": "A good buddy assists in planning and execution, knows their partner's equipment, and adds enjoyment to the dive — all qualities apply.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-032",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Equipment",
+    "question": "The purpose of a BC is to:",
+    "options": {
+      "a": "Control ascent and descent rates",
+      "b": "All answers are correct",
+      "c": "Provide surface floatation",
+      "d": "Maintain neutral buoyancy during the dive"
+    },
+    "correct": "b",
+    "explanation": "A buoyancy compensator controls ascent/descent rates, provides positive surface flotation, and lets the diver maintain neutral buoyancy at depth — all listed purposes apply.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-033",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Procedures",
+    "question": "Residual nitrogen is defined as:",
+    "options": {
+      "a": "The amount of excessive nitrogen dissolved in our blood stream and tissues at the beginning of the initial ascent to the surface",
+      "b": "80% of the gas we breathe",
+      "c": "The amount of excessive nitrogen dissolved in our blood stream and tissues after a dive",
+      "d": "The amount of nitrogen dissolved in our blood stream and tissues at the beginning of the first dive of the day"
+    },
+    "correct": "c",
+    "explanation": "Residual nitrogen is the excess (above-equilibrium) nitrogen still dissolved in blood and tissues after a dive. It must be accounted for when planning a repetitive dive.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-034",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Environment",
+    "question": "When diving in Marine Protected Areas like Marine Parks, divers should:",
+    "options": {
+      "a": "Respect and follow the local Marine Park regulations",
+      "b": "Follow the same diving practices as outside the parks",
+      "c": "Only collect marine life that is not protected by federal law",
+      "d": "Only participate in guided dives"
+    },
+    "correct": "a",
+    "explanation": "Each Marine Protected Area has its own regulations designed to protect that ecosystem. Divers must learn and respect those local rules whenever they dive there.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-035",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Equipment",
+    "question": "A dive computer keeps track of a diver's nitrogen absorption levels so that the diver can:",
+    "options": {
+      "a": "Shorten the surface interval",
+      "b": "Avoid an Arterial Gas Embolism",
+      "c": "Dive deeper than 30 meters",
+      "d": "Stay within the no-decompression limits on each dive"
+    },
+    "correct": "d",
+    "explanation": "Dive computers continuously calculate tissue nitrogen loading and display remaining no-decompression time, helping the diver stay within NDL on every dive.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-036",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Equipment",
+    "question": "Dive computers are essential for planning and executing dives because they:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Record all pertinent information",
+      "c": "Monitor ascents and descents",
+      "d": "Help divers stay within the no-decompression limits"
+    },
+    "correct": "a",
+    "explanation": "Dive computers log dive data, monitor ascent/descent rates, and track NDL in real time — all listed functions are valid reasons they are essential tools.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-037",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Equipment",
+    "question": "It is recommended to have your delivery system serviced:",
+    "options": {
+      "a": "Every five years",
+      "b": "Every year",
+      "c": "Every three years",
+      "d": "Every month"
+    },
+    "correct": "b",
+    "explanation": "Annual service of the delivery system (regulator) is the standard recommendation to keep moving parts and seals in safe working order.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-038",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Environment",
+    "question": "Divers can help protect the marine environment by:",
+    "options": {
+      "a": "Maintaining neutral buoyancy at all times",
+      "b": "All answers are correct",
+      "c": "Keep equipment secured and no dangling",
+      "d": "Always being a responsible diver"
+    },
+    "correct": "b",
+    "explanation": "Neutral buoyancy, secured/streamlined equipment, and a responsible diver attitude all reduce environmental impact — every listed action helps protect the marine environment.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-039",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physics",
+    "question": "Salt water weighs ___ kg per liter and freshwater weighs ___ kg per liter.",
+    "options": {
+      "a": "1.0/1.025",
+      "b": "14.7/14.3",
+      "c": "1.025/1.0",
+      "d": "They both weigh the same"
+    },
+    "correct": "c",
+    "explanation": "Salt water weighs about 1.025 kg per liter and fresh water about 1.0 kg per liter. The dissolved salts make seawater denser, providing more buoyancy.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-040",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Marine Life",
+    "question": "Coral reefs are formed by:",
+    "options": {
+      "a": "Limestone deposits that build up over millions of years",
+      "b": "Coral animals called polyps that form skeletal structures",
+      "c": "A group of animals known as the echinoderms",
+      "d": "Christmas tree tubeworms that form a limestone base for coral to grow"
+    },
+    "correct": "b",
+    "explanation": "Coral reefs are built by colonial animals called polyps, which secrete calcium-carbonate skeletons that accumulate over generations to form reef structures.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-041",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physiology",
+    "question": "Ear squeeze can be prevented by:",
+    "options": {
+      "a": "Relaxing",
+      "b": "All answers are correct",
+      "c": "Never diving with a cold",
+      "d": "Rotating the jaw, swallowing or Valsalva"
+    },
+    "correct": "b",
+    "explanation": "Relaxation, avoiding diving with a cold, and using equalization techniques (jaw movement, swallowing, Valsalva) all help prevent ear squeeze — all answers apply.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-042",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Procedures",
+    "question": "To achieve the SSI Advanced Specialty Diver recognition card, a diver is required to:",
+    "options": {
+      "a": "Log an additional 5 dives beyond Open Water Certification under the supervision of an SSI Dive Professional",
+      "b": "Complete 4 specialty programs and log a total of 24 dives",
+      "c": "Complete specialty programs",
+      "d": "All answers are correct"
+    },
+    "correct": "b",
+    "explanation": "The SSI Advanced Open Water Diver / Advanced Specialty Diver recognition requires completing 4 specialty programs and logging a total of 24 dives.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-043",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Emergencies",
+    "question": "The most important rule when assisting a panicked diver is:",
+    "options": {
+      "a": "Do whatever it takes to help the diver survive",
+      "b": "Always maintain positive buoyancy",
+      "c": "Never needlessly endanger yourself",
+      "d": "Always talk in a calm voice"
+    },
+    "correct": "c",
+    "explanation": "Rescuer safety comes first — never needlessly endanger yourself. A panicked diver can pull a rescuer down, turning one casualty into two.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-044",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Procedures",
+    "question": "The Basic Rules of Scuba stated in the proper order of importance are:",
+    "options": {
+      "a": "Breathe continuously, Use compressed air only, and the 3-R Rule",
+      "b": "Maintain neutral buoyancy, breathe continuously, and ascend slowly",
+      "c": "Breathe continuously, ascend slowly and maintain control, and never dive alone or beyond your level of training",
+      "d": "Regain control, respond, and react"
+    },
+    "correct": "c",
+    "explanation": "The SSI Basic Rules of Scuba, in order: 1) breathe continuously, 2) ascend slowly and maintain control, 3) never dive alone or beyond your level of training.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-045",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Procedures",
+    "question": "The term repetitive dive is defined as:",
+    "options": {
+      "a": "A second or subsequent dive at the same location",
+      "b": "Any dive started less than 10 minutes after a previous scuba dive",
+      "c": "Any dive started more than 10 minutes after a previous scuba dive",
+      "d": "Any dive started more than 10 minutes and less than 12 hours after a previous scuba dive"
+    },
+    "correct": "d",
+    "explanation": "A repetitive dive is one started more than 10 minutes but less than 12 hours after a previous scuba dive — the period during which residual nitrogen still affects planning.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-046",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Environment",
+    "question": "Water comprises about ___ of the Earth's surface.",
+    "options": {
+      "a": "71%",
+      "b": "50%",
+      "c": "85%",
+      "d": "66%"
+    },
+    "correct": "a",
+    "explanation": "Water covers approximately 71% of the Earth's surface, with the oceans accounting for the vast majority.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-047",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Procedures",
+    "question": "The safest way to execute your dive is to:",
+    "options": {
+      "a": "Never dive below 30 meters",
+      "b": "Plan your dive and dive your plan",
+      "c": "Never hold your breath",
+      "d": "Dive with a buddy that has a computer"
+    },
+    "correct": "b",
+    "explanation": "\"Plan your dive and dive your plan\" is the cornerstone of safe diving: a thorough plan agreed with your buddy, executed as planned, prevents most incidents.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-048",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physics",
+    "question": "The condition in which certain colors are diminished as depth increases is called:",
+    "options": {
+      "a": "Turbidity",
+      "b": "Refraction",
+      "c": "Absorption",
+      "d": "Diffusion"
+    },
+    "correct": "c",
+    "explanation": "Absorption is the progressive filtering of light wavelengths by water — reds disappear first, then oranges and yellows, leaving blue-green tones at depth.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-049",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Emergencies",
+    "question": "Which of the following would be inappropriate treatment for a diver evidencing symptoms of Decompression Sickness?",
+    "options": {
+      "a": "Administering CPR",
+      "b": "Taking the victim back underwater",
+      "c": "Administering pure oxygen (if qualified)",
+      "d": "Treat for shock"
+    },
+    "correct": "b",
+    "explanation": "In-water recompression is dangerous and not appropriate first aid for DCS. Correct treatment is 100% oxygen, treating for shock, supporting vitals, and rapid transport to a hyperbaric chamber.",
+    "source": "Personal: SSI OWD Exam Form A"
+  },
+  {
+    "id": "owd-exam-a-050",
+    "area": "open_water_diver",
+    "subarea": "OWD Exam — Physics",
+    "question": "The absolute pressure at 30 meters is:",
+    "options": {
+      "a": "4 bar",
+      "b": "3.5 bar",
+      "c": "3 bar",
+      "d": "2.5 bar"
+    },
+    "correct": "a",
+    "explanation": "Every 10 meters of seawater adds 1 bar of pressure. At 30 meters, water pressure is 3 bar plus 1 bar atmospheric = 4 bar absolute.",
+    "source": "Personal: SSI OWD Exam Form A"
+  }
+]
