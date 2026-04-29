@@ -3,7 +3,7 @@ import json, os, glob, sys
 base = os.path.dirname(os.path.abspath(__file__))
 parts = sorted(set(
     glob.glob(os.path.join(base, "*_part*.json")) +
-    glob.glob(os.path.join(base, "mssi_inst_lessons*.json")) +
+    glob.glob(os.path.join(base, "mssi_*_lessons*.json")) +
     glob.glob(os.path.join(base, "personal_*.json"))
 ))
 

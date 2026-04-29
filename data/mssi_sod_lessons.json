@@ -1,0 +1,437 @@
+[
+  {
+    "id": "mssi-sod-001",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Pressure",
+    "question": "What is atmospheric pressure?",
+    "options": {
+      "a": "The sum of absolute pressure and hydrostatic pressure",
+      "b": "The force per unit of area created by gravity acting upon the mass of the atmosphere",
+      "c": "The force per unit of area created by a mass of water acted upon by gravity",
+      "d": "The force per unit of area created by the atmosphere acting upon gravity from space"
+    },
+    "correct": "b",
+    "explanation": "Atmospheric pressure = the weight of the column of air above a given point, expressed as force per unit area. At sea level it's ~1 bar / 14.7 psi. (a) sums two unrelated pressures (atmospheric is itself a COMPONENT of absolute, not its sum with hydrostatic). (c) describes hydrostatic pressure (water column). (d) reverses the causal direction — gravity doesn't act 'upon the atmosphere from space', the atmosphere is held to Earth by gravity.",
+    "source": "mySSI: SoD Lesson 1.1 Review"
+  },
+  {
+    "id": "mssi-sod-002",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Pressure",
+    "question": "What is absolute pressure?",
+    "options": {
+      "a": "The sum of atmospheric pressure and cylinder pressure",
+      "b": "Hydrostatic pressure minus atmospheric pressure",
+      "c": "Atmospheric pressure minus hydrostatic pressure",
+      "d": "The sum of atmospheric pressure and hydrostatic pressure"
+    },
+    "correct": "d",
+    "explanation": "Absolute pressure = atmospheric + hydrostatic. At the surface: 1 bar (atmospheric only, hydrostatic = 0). At 10 m: 2 bar (1 atm + 1 bar from the water column). At 20 m: 3 bar. This is the pressure value used in gas-law calculations (Boyle, Dalton, Henry). (a) cylinder pressure is unrelated. (b) and (c) are differences, not sums — would yield negative or contradictory numbers.",
+    "source": "mySSI: SoD Lesson 1.1 Review"
+  },
+  {
+    "id": "mssi-sod-003",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Mass & Weight",
+    "question": "Which of the following statements about mass is true?",
+    "options": {
+      "a": "It increases when the force of gravity increases",
+      "b": "It remains constant when the force of gravity decreases",
+      "c": "It decreases when the force of gravity decreases",
+      "d": "It increases when the force of gravity decreases"
+    },
+    "correct": "b",
+    "explanation": "Mass = invariant property of matter (kilograms / amount of stuff). Weight = the FORCE that gravity exerts on that mass (Newtons; W = m·g). Changing gravity changes weight, never mass. On the Moon you have the same mass but ~1/6 the weight as on Earth. (a), (c) and (d) all conflate mass with weight — a common diver-physics confusion.",
+    "source": "mySSI: SoD Lesson 1.1 Review"
+  },
+  {
+    "id": "mssi-sod-004",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Pressure",
+    "question": "Divers use gauge pressure to measure:",
+    "options": {
+      "a": "Depth and atmospheric pressure",
+      "b": "Available cylinder gas and buoyancy compensator pressure",
+      "c": "Available cylinder gas and atmospheric pressure",
+      "d": "Depth and available cylinder gas"
+    },
+    "correct": "d",
+    "explanation": "Gauge pressure = pressure relative to ambient atmospheric (reads 0 at the surface, then climbs). Two diving instruments use it: depth gauges / dive computers (0 m = 0 bar gauge) and the SPG / cylinder pressure (full ~200 bar gauge, 0 when matching ambient). (a) and (c) include atmospheric, which is the gauge ZERO reference — measuring atmospheric in gauge units would always read 0. (b) BC pressure isn't a measured instrument value.",
+    "source": "mySSI: SoD Lesson 1.1 Review"
+  },
+  {
+    "id": "mssi-sod-005",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Mass & Weight",
+    "question": "Which of the following statements about mass and weight while diving underwater is true?",
+    "options": {
+      "a": "Equipment with a low mass may feel heavier, and will increase diver effort",
+      "b": "Equipment with a low mass may feel heavier, and will decrease diver effort",
+      "c": "Equipment with a high mass may feel weightless, and will increase diver effort",
+      "d": "Equipment with a high mass may feel weightless, and will decrease diver effort"
+    },
+    "correct": "c",
+    "explanation": "Buoyancy underwater can offset weight to make heavy gear feel weightless, but MASS = inertia stays the same (mssi-sod-003). Pushing or stopping the kit still requires force (F = m·a), so high-mass equipment increases effort even if it sits neutrally. Classic example: a steel cylinder rigged neutral — feels weightless to hold, but accelerating or decelerating it underwater still takes real force. (d) inverts this — inertia doesn't disappear with buoyancy.",
+    "source": "mySSI: SoD Lesson 1.1 Review"
+  },
+  {
+    "id": "mssi-sod-006",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Measurement",
+    "question": "Distance is calculated by:",
+    "options": {
+      "a": "Multiplying a space's length, width, and height",
+      "b": "Measuring the path between two points",
+      "c": "Multiplying a space's length by its width",
+      "d": "Multiplying a space's mass by gravity"
+    },
+    "correct": "b",
+    "explanation": "Distance / length is the 1-dimensional measurement of the path between two points (metres). The distractors give other quantities: (a) L × W × H = volume (3D, m³), (c) L × W = area (2D, m²), (d) mass × gravity = weight / force (Newtons, F = m·g). Knowing which formula yields which physical quantity is the SoD foundation for gas-law and buoyancy calculations.",
+    "source": "mySSI: SoD Lesson 1.1 Review"
+  },
+  {
+    "id": "mssi-sod-007",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Gas Mixtures",
+    "question": "How might helium be used in diving?",
+    "options": {
+      "a": "It is not used in diving",
+      "b": "Specially trained divers use it in trimix and heliox gas mixtures to increase the effects of narcosis at depth",
+      "c": "Specially trained divers use it to inflate their dry suits for extra buoyancy",
+      "d": "Specially trained divers use it in trimix and heliox gas mixtures to reduce the effects of narcosis at depth"
+    },
+    "correct": "d",
+    "explanation": "Helium replaces nitrogen in technical gas blends — trimix (O₂ + He + N₂) and heliox (O₂ + He) — specifically because helium is NARCOSIS-FREE at recreational + technical depths where nitrogen narcosis would impair the diver. (b) inverts the truth (helium reduces narcosis, doesn't increase it). (a) is false — helium is widely used in tech diving. (c) drysuit inflation gas of choice is argon (better insulator than air), NOT helium (helium has high thermal conductivity, makes you cold).",
+    "source": "mySSI: SoD Lesson 1.2 Review"
+  },
+  {
+    "id": "mssi-sod-008",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Gas Properties",
+    "question": "Which of the following statements about water vapor and diving equipment is true?",
+    "options": {
+      "a": "The presence of water is minimized by modern compressors",
+      "b": "All answers are correct",
+      "c": "Freezing water may cause a malfunction in the delivery of breathing gas.",
+      "d": "High concentrations of water vapor can cause equipment to freeze"
+    },
+    "correct": "b",
+    "explanation": "Three linked facts about water vapour in scuba systems: (a) modern compressors carry filters + driers to minimise moisture in the gas; (c) frozen moisture in the 1st stage is a known cold-water failure mode (free-flow or stuck regulator); (d) high humidity + adiabatic cooling as gas expands across the regulator drops temperature below freezing → ice forms inside. Together: that's why cold-water diving needs cold-water-rated, properly serviced regulators with dry gas fills.",
+    "source": "mySSI: SoD Lesson 1.2 Review"
+  },
+  {
+    "id": "mssi-sod-009",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Air Composition",
+    "question": "The 1% trace gases in dry air include:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Carbon dioxide",
+      "c": "Carbon monoxide",
+      "d": "Argon and helium"
+    },
+    "correct": "a",
+    "explanation": "Dry-air composition: N₂ 78%, O₂ 21%, then ~1% trace gases — argon (~0.93%, biggest trace), CO₂ (~0.04%), helium / neon / krypton / xenon / hydrogen (parts-per-million). (b) CO₂ ✓; (d) Argon + helium ✓. Note on (c) CO: although typically listed as a pollutant rather than a 'natural trace', global background CO sits at ~0.05-0.20 ppm from natural sources (wildfires, plant oxidation), and mySSI groups it under trace gases here. All three statements pass.",
+    "source": "mySSI: SoD Lesson 1.2 Review"
+  },
+  {
+    "id": "mssi-sod-010",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Air Composition",
+    "question": "As humidity increases, the percentages of nitrogen, oxygen, and other trace gases:",
+    "options": {
+      "a": "No answers are correct",
+      "b": "Decrease",
+      "c": "Stay the same",
+      "d": "Increase"
+    },
+    "correct": "b",
+    "explanation": "Adding water vapour to the gas mixture takes a share of the 100% total. The fixed N₂/O₂/trace ratios were defined for DRY air, so once humidity is non-zero those percentages drop proportionally to make room for H₂O vapour. The total still sums to 100% — water vapour just claims part of it. (c) 'stay the same' would only hold for dry-air ratios.",
+    "source": "mySSI: SoD Lesson 1.2 Review"
+  },
+  {
+    "id": "mssi-sod-011",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Gas Properties",
+    "question": "Which of the following statements about argon is true?",
+    "options": {
+      "a": "It has a low density and half the insulating capacity of air",
+      "b": "It is expensive and not used as a dry suit inflation gas",
+      "c": "It is more narcotic than nitrogen and not used as a breathing gas",
+      "d": "It is half as narcotic as nitrogen and used as a diluent gas"
+    },
+    "correct": "c",
+    "explanation": "Argon (Ar): atomic mass 40 vs nitrogen 28 — heavier and more narcotic (relative narcotic potency ~2.3× nitrogen), so narcosis would set in much earlier than on air → never used as a breathing gas. But its higher density + lower thermal conductivity make it the standard DRYSUIT inflation gas (better insulation than air). (a) inverts density + insulation. (b) 'not used as drysuit gas' is the opposite of reality. (d) 'half as narcotic' inverts the narcosis comparison and 'diluent' is helium's role, not argon's.",
+    "source": "mySSI: SoD Lesson 1.2 Review"
+  },
+  {
+    "id": "mssi-sod-012",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Gas Properties",
+    "question": "Which of the following statements about carbon monoxide is true?",
+    "options": {
+      "a": "It is easily seen, smelled, and tasted",
+      "b": "It is not produced by the burning of fuel and oil",
+      "c": "It is harmless and can be breathed by divers",
+      "d": "It is highly toxic"
+    },
+    "correct": "d",
+    "explanation": "CO is the 'silent killer' for divers: COLORLESS + ODORLESS + TASTELESS — human senses can't detect it. It's produced by INCOMPLETE combustion of fuel and oil (vehicle exhaust, fires, faulty heaters) — which is why a scuba compressor intake must NEVER be downwind of exhaust. Toxicity is severe: CO binds to haemoglobin ~200× more strongly than O₂, displacing oxygen and causing tissue hypoxia. Under pressure the partial pressure rises and the effect amplifies. (a), (b), (c) are all the wrong-direction myths.",
+    "source": "mySSI: SoD Lesson 1.2 Review"
+  },
+  {
+    "id": "mssi-sod-013",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Gas Laws",
+    "question": "What is an ideal gas?",
+    "options": {
+      "a": "A non-reactive hypothetical gas that turns into a solid",
+      "b": "A hypothetical gas that behaves predictably",
+      "c": "A reactive gas that can change states",
+      "d": "A gas that can turn from a gas to a liquid"
+    },
+    "correct": "b",
+    "explanation": "Ideal gas = theoretical model where molecules have zero volume + zero inter-molecular forces → behaviour follows PV = nRT exactly. Real gases (air, nitrox) approximate this well at normal recreational dive conditions but deviate at extreme pressures or temperatures. Gas-law calculations in diving (Boyle, Charles, Dalton) assume ideal behaviour. The distractors confuse 'ideal' with phase changes — phase change isn't part of the ideal-gas concept.",
+    "source": "mySSI: SoD Lesson 1.3 Review"
+  },
+  {
+    "id": "mssi-sod-014",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Gas Laws",
+    "question": "Where does the greatest expansion or compression per meter occur?",
+    "options": {
+      "a": "0–10 meters",
+      "b": "10–20 meters",
+      "c": "30–40 meters",
+      "d": "20–30 meters"
+    },
+    "correct": "a",
+    "explanation": "Boyle's Law: greatest RELATIVE pressure change in the shallowest range. Pressure profile: surface 1 bar → 10 m 2 bar (+100% — pressure doubles) → 20 m 3 bar (+50%) → 30 m 4 bar (+33%) → 40 m 5 bar (+25%). Volume changes inversely with pressure, so the biggest volume change per metre happens in 0–10 m. That's why ascents from shallow stops are the highest-risk for over-expansion (lung injuries, runaway buoyancy) and need slow controlled rates.",
+    "source": "mySSI: SoD Lesson 1.3 Review"
+  },
+  {
+    "id": "mssi-sod-015",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Diffusion",
+    "question": "What is a diffusion gradient?",
+    "options": {
+      "a": "The force resulting from a difference in the speed of gases",
+      "b": "The difference in concentrations within a substance or across two areas",
+      "c": "The force resulting from equal concentrations",
+      "d": "The force required to ascend to the surface"
+    },
+    "correct": "b",
+    "explanation": "Diffusion gradient = the concentration difference that drives molecular diffusion from HIGH to LOW concentration. Diving applications: nitrogen tissue tension vs ambient pressure controls on-gassing during descent and off-gassing during ascent / surface intervals — that gradient IS the engine of decompression theory. (a) speed-of-gases is unrelated. (c) equal concentrations = NO gradient = no net diffusion. (d) ascent force is buoyancy/gravity, not diffusion.",
+    "source": "mySSI: SoD Lesson 1.4 Review"
+  },
+  {
+    "id": "mssi-sod-016",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Diffusion",
+    "question": "When is a gas solution saturated?",
+    "options": {
+      "a": "When the pressure of the gas in solution is higher than the gas partial pressure",
+      "b": "When the pressures of the gases in and out of solution become equal",
+      "c": "When it is full of gas",
+      "d": "When it holds less gas"
+    },
+    "correct": "b",
+    "explanation": "Saturation = equilibrium: dissolved-gas tension equals the ambient partial pressure → gradient = 0 → no net diffusion in or out. Three-state spectrum: UNDER-saturated (tension < ambient → tissue is on-gassing), SATURATED (steady state), SUPER-saturated (tension > ambient → tissue is off-gassing; if too much, bubbles form = DCS). (a) describes supersaturation. (d) describes undersaturation. (c) 'full' is vague.",
+    "source": "mySSI: SoD Lesson 1.4 Review"
+  },
+  {
+    "id": "mssi-sod-017",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Diffusion",
+    "question": "Which of the following statements about gas solubility is true?",
+    "options": {
+      "a": "Gas molecules remain intact and can diffuse in and out of body tissues",
+      "b": "All answers are correct",
+      "c": "It refers to the ability of a gas to dissolve in a liquid like water or blood",
+      "d": "Different gases can dissolve at different rates"
+    },
+    "correct": "b",
+    "explanation": "Three concurrent truths about gas solubility: (a) physical dissolution — molecules stay intact and can diffuse back out (contrast with chemical binding like CO + haemoglobin, which is much harder to reverse); (c) Henry's Law definition — ability of a gas to dissolve in a liquid (water, blood); (d) different gases have different solubility coefficients + diffusion rates — helium dissolves AND off-gases faster than nitrogen, which is why trimix and heliox use modified decompression schedules.",
+    "source": "mySSI: SoD Lesson 1.4 Review"
+  },
+  {
+    "id": "mssi-sod-018",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Buoyancy",
+    "question": "Archimedes' Principle states that:",
+    "options": {
+      "a": "An object placed in a fluid will be buoyed up by a force equal to the weight of the fluid it displaces",
+      "b": "An object placed in a fluid will be depressed by a force equal to the weight of the fluid it displaces",
+      "c": "The sum of partial pressures in a gas mixture is equal to the total gas pressure",
+      "d": "The amount of a gas dissolved in a liquid is proportional to its partial pressure"
+    },
+    "correct": "a",
+    "explanation": "Classic Archimedes (3rd century BC). Foundation of buoyancy: a diver achieves neutral buoyancy when total weight (diver + gear) equals the weight of the water displaced by their submerged volume. Salt water displaces more weight per volume than fresh, so divers need slightly more weight in salt water. (b) reverses direction. (c) is Dalton's Law (partial pressures). (d) is Henry's Law (dissolved gas).",
+    "source": "mySSI: SoD Lesson 1.4 Review"
+  },
+  {
+    "id": "mssi-sod-019",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Gas Laws",
+    "question": "Henry's Law states that the amount of gas dissolved in a liquid is:",
+    "options": {
+      "a": "Directly proportional to its temperature",
+      "b": "Inversely proportional to its partial pressure",
+      "c": "Proportional to its partial pressure",
+      "d": "Unrelated to its partial pressure"
+    },
+    "correct": "c",
+    "explanation": "Henry's Law: amount dissolved = solubility coefficient × partial pressure. Diving applications: descending raises N₂ partial pressure → tissues on-gas; ascending lowers it → tissues off-gas. This IS the engine of decompression theory. (a) gas solubility is INVERSELY related to temperature (cold liquids dissolve more gas — that's why cold beer fizzes less when opened). (b) inverts the relationship. (d) is wrong — pressure is the dominant variable.",
+    "source": "mySSI: SoD Lesson 1.4 Review"
+  },
+  {
+    "id": "mssi-sod-020",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Diffusion",
+    "question": "Gas diffusion is the movement of gas molecules:",
+    "options": {
+      "a": "From low- to high-concentration areas until concentrations are equal",
+      "b": "From water into the body",
+      "c": "As a diver descends",
+      "d": "From high- to low-concentration areas until concentrations are equal"
+    },
+    "correct": "d",
+    "explanation": "Standard diffusion: the gradient (mssi-sod-015) drives net molecular movement from HIGH to LOW concentration until equilibrium / saturation (mssi-sod-016). The gradient is what determines direction; speed depends on gradient size, temperature, membrane properties (Fick's Law). (a) inverts the direction. (b) and (c) are specific scenarios, not the definition of diffusion.",
+    "source": "mySSI: SoD Lesson 1.4 Review"
+  },
+  {
+    "id": "mssi-sod-021",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Heat Transfer",
+    "question": "What is \"conduction\" in terms of heat transfer?",
+    "options": {
+      "a": "The transfer of heat energy through space by electromagnetic radiation",
+      "b": "The transfer of heat energy from molecule to molecule",
+      "c": "The change from a liquid to a vapor",
+      "d": "The transfer of heat energy in a fluid"
+    },
+    "correct": "b",
+    "explanation": "Three heat-transfer modes: CONDUCTION = direct molecule-to-molecule contact (this is huge for divers — water conducts heat ~25× faster than air, the dominant cold-water heat-loss path); CONVECTION = bulk fluid motion carrying heat (current passing over an exposed diver); RADIATION = electromagnetic waves (sun warming gear topside, even through vacuum). (a) is radiation; (c) is a phase change (evaporation), not a heat-transfer mode itself; (d) is convection.",
+    "source": "mySSI: SoD Lesson 1.5 Review"
+  },
+  {
+    "id": "mssi-sod-022",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Water Properties",
+    "question": "Turbidity is the description of:",
+    "options": {
+      "a": "Strong surface waves",
+      "b": "Water that is cloudy or thick with suspended matter",
+      "c": "Water that has strong currents",
+      "d": "How sandy the seafloor is"
+    },
+    "correct": "b",
+    "explanation": "Standard oceanographic / limnology term: turbidity = optical clarity reduction caused by suspended particles (silt, plankton, algae, sediment, organic matter). Measured in NTU (nephelometric turbidity units). Diving impact: low visibility means tighter group control, more lights, navigation challenges, and often a different supervision strategy. (a) waves, (c) currents and (d) bottom composition are separate water-environment properties.",
+    "source": "mySSI: SoD Lesson 1.5 Review"
+  },
+  {
+    "id": "mssi-sod-023",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Light Underwater",
+    "question": "What is the effect of diffusion in underwater light?",
+    "options": {
+      "a": "Light scattering increases with depth",
+      "b": "All answers are correct",
+      "c": "Light becomes spread out and scattered",
+      "d": "It makes ambient light less visible with depth"
+    },
+    "correct": "b",
+    "explanation": "Three coupled effects of light diffusion underwater: (a) scattering INCREASES with depth — more particle interactions accumulate over the longer water-column path; (c) directional sunlight beams get spread and scattered by water molecules + particles (Rayleigh + Mie scattering); (d) combined absorption + scattering steadily reduces ambient illumination with depth. Practical consequences: colours disappear (red ~5 m, orange ~10 m, yellow ~20 m), visibility degrades, dive lights become essential at depth and in overhead environments.",
+    "source": "mySSI: SoD Lesson 1.5 Review"
+  },
+  {
+    "id": "mssi-sod-024",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Sound Underwater",
+    "question": "The speed of sound underwater means that divers perceive sound to be:",
+    "options": {
+      "a": "Behind them",
+      "b": "All around them",
+      "c": "In front of them",
+      "d": "Above them"
+    },
+    "correct": "b",
+    "explanation": "Sound travels ~4× faster underwater (~1500 m/s vs ~340 m/s in air). Human directional hearing relies on the tiny TIME DELAY between when sound reaches each ear (~0.6 ms typical gap in air). Underwater that gap shrinks below the brain's resolution threshold, so the brain can't pick a direction — sound feels like it's coming from everywhere at once. Practical: divers turn + scan to locate boats / banging tanks rather than trusting initial direction perception.",
+    "source": "mySSI: SoD Lesson 1.5 Review"
+  },
+  {
+    "id": "mssi-sod-025",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Sound Underwater",
+    "question": "Approximately how fast does sound travel underwater compared to air?",
+    "options": {
+      "a": "2 times faster",
+      "b": "10 times faster",
+      "c": "4 times faster",
+      "d": "4 times slower"
+    },
+    "correct": "c",
+    "explanation": "Air: ~340 m/s. Water: ~1500 m/s. Ratio ≈ 4.4× faster. Reason: water is denser AND less compressible than air, so vibrations propagate more efficiently through it. This is why divers can't localise sound direction (mssi-sod-024) and why bangers / shaker rattles work as wide-area attention signals.",
+    "source": "mySSI: SoD Lesson 1.5 Review"
+  },
+  {
+    "id": "mssi-sod-026",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Heat Transfer",
+    "question": "How will a diver be affected by convective heat loss?",
+    "options": {
+      "a": "Heat evaporates from the diver's wetsuit",
+      "b": "Warm water rises towards the surface and cold water drops around the diver",
+      "c": "Cold water drops twenty-five times faster than warm water",
+      "d": "Cold water rises towards the surface and warm water drops past the diver"
+    },
+    "correct": "b",
+    "explanation": "Classic free convection: water heated by the diver (via conduction through skin / wetsuit) is less dense → rises; cooler water sinks down to replace it → continuous current carries heat away. That's why a properly-fitted wetsuit (or drysuit) traps a thin water/air layer next to the body — once it circulates freely, the heat-carrying loop is uninterrupted. (a) evaporation is separate, mostly happens topside, not the main convective mechanism. (d) inverts physics. (c) the '25× faster' figure is for water vs air thermal CONDUCTIVITY, not convection rates.",
+    "source": "mySSI: SoD Lesson 1.5 Review"
+  },
+  {
+    "id": "mssi-sod-027",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Heat Transfer",
+    "question": "What is \"radiation\" in terms of heat transfer?",
+    "options": {
+      "a": "The transfer of heat energy through space by electromagnetic radiation",
+      "b": "The transfer of heat energy from molecule to molecule",
+      "c": "The transfer of heat energy in a fluid",
+      "d": "The change from a liquid to a vapor"
+    },
+    "correct": "a",
+    "explanation": "Radiation = heat transfer via electromagnetic waves, no medium required (sun warms space; infrared heat lamps work through air gaps). Diving relevance is limited compared to conduction and convection (water's main heat-loss paths) but sun radiation IS the engine that warms the surface layer, creating thermoclines. (b) is conduction (mssi-sod-021). (c) is convection (mssi-sod-026). (d) is evaporation, a phase change rather than a heat-transfer mode.",
+    "source": "mySSI: SoD Lesson 1.5 Review"
+  },
+  {
+    "id": "mssi-sod-028",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Light Underwater",
+    "question": "How magnified do objects appear underwater compared to air?",
+    "options": {
+      "a": "No magnification, they appear the same",
+      "b": "100%",
+      "c": "50%",
+      "d": "33%"
+    },
+    "correct": "d",
+    "explanation": "Refraction at the water-air interface inside the mask makes objects appear ~33% LARGER and ~25% CLOSER. Light bends when crossing media of different densities (Snell's Law), so the angles entering the eye correspond to a wider field — the brain interprets the larger retinal image as a closer/bigger object. Practical: depth and distance perception underwater are skewed; new divers misjudge how far away big animals are (they're often further than they look).",
+    "source": "mySSI: SoD Lesson 1.5 Review"
+  },
+  {
+    "id": "mssi-sod-029",
+    "area": "science_of_diving",
+    "subarea": "Physics & Chemistry — Heat Transfer",
+    "question": "What is \"evaporation\" in terms of heat transfer?",
+    "options": {
+      "a": "The change from a liquid to a vapor",
+      "b": "The transfer of heat energy through space by electromagnetic radiation",
+      "c": "The transfer of heat energy in a fluid",
+      "d": "The transfer of heat energy from molecule to molecule"
+    },
+    "correct": "a",
+    "explanation": "Evaporation = phase change liquid → vapour. It absorbs latent heat of vaporisation, which is why it cools (sweat is the primary human cooling mechanism on dry land). Diving relevance: minimal underwater (no evaporation while submerged), but topside after a dive a wet wetsuit cools fast as water evaporates from the suit's surface — significant hypothermia path between dives. Distractors match the other heat-transfer modes: (b) radiation, (c) convection, (d) conduction.",
+    "source": "mySSI: SoD Lesson 1.5 Review"
+  }
+]
