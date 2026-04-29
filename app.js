@@ -87,8 +87,9 @@ const I18N = {
     // Settings
     "settings.title": "Settings",
     "settings.areas": "Areas",
+    "settings.areas_intro": "Tap chips to add/remove areas from the drill pool. Empty selection = all areas drilled.",
     "settings.subareas": "Subareas (advanced)",
-    "settings.subareas_intro": "Empty = all subareas of the area are drilled. Tick to narrow down.",
+    "settings.subareas_intro": "Filtered by selected areas. Tap chips to narrow further. Empty selection = all subareas of the visible areas.",
     "settings.personal_section": "🔒 Personal questions",
     "settings.personal_locked": "🔒 Locked. Personal questions are hidden from the pool.",
     "settings.personal_unlocked": "🔓 Unlocked. Personal questions are visible in the pool.",
@@ -411,8 +412,9 @@ const I18N = {
     // Settings
     "settings.title": "Nastavení",
     "settings.areas": "Oblasti",
+    "settings.areas_intro": "Kliknutím na chip přidáš/odebereš oblast z drill poolu. Žádný výběr = drilluje všechny oblasti.",
     "settings.subareas": "Podoblasti (pokročilé)",
-    "settings.subareas_intro": "Prázdné = zkouší všechny podoblasti dané oblasti. Zaškrtni pro zúžení.",
+    "settings.subareas_intro": "Filtrováno podle vybraných oblastí. Kliknutím na chip zúžíš výběr. Žádný výběr = všechny podoblasti viditelných oblastí.",
     "settings.personal_section": "🔒 Osobní otázky",
     "settings.personal_locked": "🔒 Zamčeno. Osobní otázky jsou skryté.",
     "settings.personal_unlocked": "🔓 Odemčeno. Osobní otázky jsou ve výběru.",
@@ -1685,44 +1687,51 @@ function initSetup() {
 // ───────── Settings screen ─────────
 
 function renderSettings() {
-  const wrap = $("#settings-areas");
-  wrap.innerHTML = "";
-  Object.entries(AREA_LABELS).forEach(([key, label]) => {
-    const row = document.createElement("label");
-    row.className = "check";
-    row.innerHTML = `<input type="checkbox" value="${key}" ${state.selectedAreas.has(key) ? "checked" : ""} /> ${label}`;
-    row.querySelector("input").addEventListener("change", (e) => {
-      if (e.target.checked) state.selectedAreas.add(key);
-      else state.selectedAreas.delete(key);
+  // Area chips (with "All" reset chip, like Browse)
+  const areaWrap = $("#settings-areas");
+  areaWrap.innerHTML = "";
+  areaWrap.appendChild(chipEl("settings-all-areas", t("browse.all"), state.selectedAreas.size === 0, () => {
+    state.selectedAreas.clear();
+    state.selectedSubareas.clear(); // wider area selection invalidates narrower subarea picks
+    saveAreas();
+    saveSubareas();
+    refreshStats();
+    renderSettings();
+  }));
+  for (const [key, label] of Object.entries(AREA_LABELS)) {
+    const count = (subareaIndex[key] || []).reduce((sum, g) => sum + g.count, 0);
+    const chipLabel = count ? `${label} (${count})` : label;
+    areaWrap.appendChild(chipEl(`settings-area-${key}`, chipLabel, state.selectedAreas.has(key), () => {
+      if (state.selectedAreas.has(key)) state.selectedAreas.delete(key);
+      else state.selectedAreas.add(key);
       saveAreas();
       refreshStats();
-    });
-    wrap.appendChild(row);
-  });
+      renderSettings();
+    }));
+  }
 
-  // Subareas, grouped by area
+  // Subarea chips — filtered by selected areas (or all if none), like Browse
   const subWrap = $("#settings-subareas");
   subWrap.innerHTML = "";
-  for (const [areaKey, areaLabel] of Object.entries(AREA_LABELS)) {
+  subWrap.appendChild(chipEl("settings-all-subareas", t("browse.all"), state.selectedSubareas.size === 0, () => {
+    state.selectedSubareas.clear();
+    saveSubareas();
+    refreshStats();
+    renderSettings();
+  }));
+  const showAreas = state.selectedAreas.size ? [...state.selectedAreas] : Object.keys(AREA_LABELS);
+  for (const areaKey of showAreas) {
     const groups = subareaIndex[areaKey] || [];
-    if (!groups.length) continue;
-    const grp = document.createElement("div");
-    grp.className = "subarea-group";
-    grp.innerHTML = `<div class="area-label">${areaLabel}</div>`;
     for (const { group, count } of groups) {
       const k = subareaKey(areaKey, group);
-      const row = document.createElement("label");
-      row.className = "check";
-      row.innerHTML = `<input type="checkbox" data-key="${k}" ${state.selectedSubareas.has(k) ? "checked" : ""} /> ${escapeHtml(subareaGroupDisplay(group))} <span class="muted" style="margin-left:.4rem">${count}</span>`;
-      row.querySelector("input").addEventListener("change", (e) => {
-        if (e.target.checked) state.selectedSubareas.add(k);
-        else state.selectedSubareas.delete(k);
+      subWrap.appendChild(chipEl(`settings-sub-${k}`, `${subareaGroupDisplay(group)} (${count})`, state.selectedSubareas.has(k), () => {
+        if (state.selectedSubareas.has(k)) state.selectedSubareas.delete(k);
+        else state.selectedSubareas.add(k);
         saveSubareas();
         refreshStats();
-      });
-      grp.appendChild(row);
+        renderSettings();
+      }));
     }
-    subWrap.appendChild(grp);
   }
 
   // Source filter chips

@@ -169,11 +169,12 @@
       <h1 data-i18n="settings.title">Settings</h1>
       <div class="card">
         <h3 data-i18n="settings.areas">Areas</h3>
-        <div id="settings-areas"></div>
+        <p class="muted" data-i18n="settings.areas_intro">Tap chips to add/remove areas from the drill pool. Empty selection = all areas drilled.</p>
+        <div id="settings-areas" class="chip-row"></div>
         <hr />
         <h3 data-i18n="settings.subareas">Subareas (advanced)</h3>
-        <p class="muted" data-i18n="settings.subareas_intro">Empty = all subareas of the area are drilled. Tick to narrow down.</p>
-        <div id="settings-subareas"></div>
+        <p class="muted" data-i18n="settings.subareas_intro">Filtered by selected areas. Tap chips to narrow further. Empty selection = all subareas of the visible areas.</p>
+        <div id="settings-subareas" class="chip-row"></div>
         <hr />
         <h3 data-i18n="settings.personal_section">🔒 Personal questions</h3>
         <p class="muted" id="personal-status">Locked.</p>
