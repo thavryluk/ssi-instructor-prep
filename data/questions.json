@@ -2,12 +2,12 @@
   "version": "1.0",
   "generated_at": "2026-04-25",
   "note": "SSI study bank for Tomas's Instructor prep app. Each question carries a 'source' URL (Quizlet/dive-shop PDF/SSI training pages) where verbatim wording was found, OR 'compiled_from_dive_theory' for items grounded in public SSI standards and dive physics/physiology that I've authored from established theory rather than copied. Always reconcile with the current SSI Training Standards before using as definitive answers.",
-  "total": 1621,
+  "total": 1635,
   "counts_by_area": {
     "assistant_instructor": 50,
     "divemaster": 150,
     "instructor": 753,
-    "science_of_diving": 418,
+    "science_of_diving": 432,
     "open_water_diver": 100,
     "react_right": 100,
     "diver_stress_rescue": 50
@@ -11277,6 +11277,216 @@
       "correct": "b",
       "explanation": "MEDIASTINAL EMPHYSEMA — a sub-injury of pulmonary barotrauma. When alveoli rupture, escaping gas tracks along the bronchovascular sheaths up into the MEDIASTINUM (the central chest cavity between the lungs that holds the heart, trachea, esophagus, great vessels). Symptoms: chest tightness, dyspnea, voice change, sometimes 'Hamman's crunch' (crackling synchronized with the heartbeat on auscultation), neck fullness as gas tracks further upward into subcutaneous tissue (subQ emphysema, palpable crepitus). Treatment: 100% O₂ (washes out N₂, accelerates reabsorption), rest, observation; rarely needs invasive intervention unless tension develops. Strictly speaking 'lining of the lungs' = pleura, and gas in the pleural space is PNEUMOTHORAX — but that's not on the option list, so mediastinal emphysema (gas in the adjacent compartment) is the intended answer. (a) Edema = FLUID accumulation in tissue, not gas. (c) 'Hypoxic myopia' is not a recognized term — myopia is short-sightedness, unrelated to lung gas. (d) Hypercapnia = CO₂ retention in BLOOD, a gas-toxicity issue, not gas in tissue.",
       "source": "mySSI: SoD Lesson 3.4 Review"
+    },
+    {
+      "id": "mssi-sod-099",
+      "area": "science_of_diving",
+      "subarea": "Equipment — History",
+      "question": "The first recreational divers in the 1950s used:",
+      "options": {
+        "a": "Jacket-style buoyancy compensators",
+        "b": "Two-stage single-hose regulators",
+        "c": "Bluetooth connectivity",
+        "d": "Single-stage twin-hose regulators"
+      },
+      "correct": "d",
+      "explanation": "Per the SSI SoD curriculum: 1950s recreational scuba was dominated by TWIN-HOSE regulators — both inhalation and exhalation corrugated hoses routed from a back-mounted regulator box atop the cylinder valve. The iconic Cousteau-Gagnan AQUA-LUNG (patented 1943, mass-produced and mainstream by the 1950s through US Divers / La Spirotechnique) is the archetype. Note: the Aqua-Lung itself was actually a two-stage demand valve — Gagnan adapted it from car-engine gas regulators — but SSI simplifies the era as 'single-stage twin-hose' for the curriculum and that is what mySSI grades correct. (a) Jacket-style BCDs are MUCH later: Watergill ATPAC 1971, Scubapro Stab Jacket 1976. (b) Two-stage SINGLE-hose = the MODERN config, popularized only from the late 1950s onward (Sportsways Waterlung 1958, then the Scubapro Mk-5 era). (c) Bluetooth — obvious modern distractor.",
+      "source": "mySSI: SoD Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-sod-100",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Maintenance",
+      "question": "How often should equipment be serviced?",
+      "options": {
+        "a": "Once a week and according to manufacturer instructions",
+        "b": "At least annually and according to manufacturer instructions",
+        "c": "No answers are correct",
+        "d": "Once a year"
+      },
+      "correct": "b",
+      "explanation": "Two-part SSI standard: (1) AT LEAST ANNUALLY — calendar baseline, regardless of how few dives done that year. O-rings dry out and harden, silicone grease degrades, salt creep migrates into tight-tolerance regulator components even with thorough rinsing. (2) AND per MANUFACTURER INSTRUCTIONS — many manufacturers specify additional thresholds that may trigger service sooner: a DIVE-COUNT (e.g., Scubapro / Atomic recommend service at 100 dives OR 1 year, whichever comes first), a HEAVY-USE schedule (every 6 months for instructors / working divers / liveaboard regulars), specific O-ring or seat-replacement kits, and sometimes a STORED-INACTIVE clause (regulator stored unused 2+ years should be inspected before redeployment). (a) Weekly is absurdly over-frequent and uneconomical. (c) Wrong — (b) is right. (d) 'Once a year' alone is INCOMPLETE — it misses the manufacturer-instructions clause, which is the part that picks up dive-count and heavy-use thresholds. (b) is the most complete answer.",
+      "source": "mySSI: SoD Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-sod-101",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Maintenance",
+      "question": "What is the recommended lubricant to use for equipment maintenance?",
+      "options": {
+        "a": "Lubricant recommended by the manufacturer",
+        "b": "Water",
+        "c": "Motor oil",
+        "d": "WD-20"
+      },
+      "correct": "a",
+      "explanation": "Always use the MANUFACTURER-SPECIFIED lubricant. The right grease depends on the service type: SILICONE GREASE — standard for general (air-only) regulator and valve servicing, compatible with rubber/silicone seals. CHRISTO-LUBE MCG-111 or TRIBOLUBE 71 — perfluoropolyether (PFPE) greases that are OXYGEN-COMPATIBLE: mandatory for any O₂-clean equipment (≥40% O₂ nitrox/trimix, full-O₂ deco rigs, partial-pressure blending stations). KRYTOX — high-temp PFPE alternative. Why it matters: (b) WATER is corrosive (especially salt) and provides no lubrication. (c) MOTOR OIL is petroleum-based — degrades silicone and rubber seals over weeks; far more dangerous, petroleum products will AUTO-IGNITE under high PpO₂ (oxygen fires inside the regulator are catastrophic — that's why O₂-clean is a discipline). (d) 'WD-20' is likely a typo for WD-40 — also wrong: WD-40 is a petroleum solvent / water displacer, not a lubricant; same seal damage + combustion risks. Mixing the wrong grease into O₂ service has caused real-world regulator fires.",
+      "source": "mySSI: SoD Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-sod-102",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Maintenance",
+      "question": "Using a lubricant on equipment components helps to:",
+      "options": {
+        "a": "Reduce friction, maintain flexibility, and prevent corrosion",
+        "b": "Reduce friction, avoid motor failure, and stop compartments from drying out",
+        "c": "Make the propeller spin faster, stop o-rings from leaking, and prevent battery discharge",
+        "d": "Prevent corrosion, keep the body tube clean, and reduce friction"
+      },
+      "correct": "a",
+      "explanation": "Three textbook benefits of proper lubrication on dive gear: (1) REDUCE FRICTION — regulator pistons, valve stems, port plugs, BCD inflator buttons, swivel hose joints all move smoothly without binding or grinding wear; (2) MAINTAIN FLEXIBILITY — keeps O-rings and rubber/silicone seals pliable and resistant to COMPRESSION SET (the permanent deformation that develops when a seal stays squashed for too long, the leading cause of seal failures); (3) PREVENT CORROSION — creates a barrier between metal surfaces and water/salt/oxygen, especially in valve threads, cylinder neck-o-ring seats, DIN/yoke fittings. (b) 'Motor failure' — recreational dive gear has no motors (only DPVs/scooters do, specialty equipment outside this lesson). (c) Propellers, batteries — clearly off-topic for scuba regulator/BCD/cylinder maintenance, and lubricant doesn't 'stop o-rings from leaking' — it lets them seat properly. (d) Lubricant doesn't 'keep the body tube clean' — that's what RINSING and proper drying do; lubricant is about friction/seals/corrosion, not cleanliness.",
+      "source": "mySSI: SoD Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-sod-103",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Maintenance",
+      "question": "How often should equipment be inspected for signs of wear and tear?",
+      "options": {
+        "a": "Before and after each use",
+        "b": "Every 6 months",
+        "c": "Once a year",
+        "d": "Never"
+      },
+      "correct": "a",
+      "explanation": "Equipment inspection for wear and tear is a USER-LEVEL routine done EVERY DIVE — both before and after. PRE-DIVE check: visual scan of hoses (cracks, splits, bulging — signs of imminent rupture), cylinder valve o-ring intact and threads clean, LP and HP hose connections snug with no creep-leaks, BCD inflator and dump valves cycle freely and don't free-flow, computer battery state and settings, mask strap and fin straps not dry-rotted. POST-DIVE check: thorough rinse (regulator 1st stage in fresh water with DUST CAP firmly on; press the inflator during BCD rinse to flush salt out of the inflator mechanism), drain any water that found its way into the BCD bladder, look for new damage (scrapes, cuts, lost or loose hardware, hose wear at swivel points), hang to dry away from direct sunlight (UV degrades rubber/neoprene). (b) and (c) describe the SERVICE intervals — that's technician-level work, separate from the visual wear-and-tear check the user does every dive. (d) Clearly wrong. The before/after habit catches the small issues (a tiny hose crack, a loose port plug, a sticky inflator button) BEFORE they become incidents.",
+      "source": "mySSI: SoD Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-sod-104",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Maintenance",
+      "question": "Why must o-rings be properly maintained and replaced if necessary?",
+      "options": {
+        "a": "They provide additional buoyancy to the equipment",
+        "b": "They regulate the speed breathing gas",
+        "c": "They prevent water from entering equipment and keep the internal parts dry",
+        "d": "They help the equipment move through the water"
+      },
+      "correct": "c",
+      "explanation": "O-rings are the primary STATIC and DYNAMIC SEALS in pressurized dive equipment — small toroidal rubber/silicone gaskets that compress between two surfaces to block fluid passage. Their function: PREVENT WATER ENTRY (and keep gas in / contaminants out). Critical locations: (1) CYLINDER VALVE O-RING (DIN or yoke) — seals the tank-to-regulator joint at full HP (200–300 bar); a damaged or missing one is the most common cause of failed pre-dive pressure-up. (2) REGULATOR 1st-STAGE PORT O-RINGS — seal each HP and LP port against gas leakage. (3) 1st-STAGE PISTON or DIAPHRAGM O-RINGS — separate the spring chamber from the water; if the seal fails, salt water floods the spring → corrosion → regulator killed. (4) BCD INFLATOR O-RINGS — seal LP gas into the bladder. (5) DIVE COMPUTER / HOUSING BULKHEAD O-RINGS — keep water out of the electronics (failure = flood = total loss). When o-rings dry out, harden, or take COMPRESSION SET, the result is free-flows, gas leaks, water intrusion, or floods. Hence the protocol: inspect, lubricate with manufacturer-spec grease (see mssi-sod-101), replace at any sign of damage or as part of annual service. (a) Tiny rubber rings provide no meaningful buoyancy. (b) Gas-flow regulation is done by springs / diaphragms / poppets / orifices — o-rings just SEAL. (d) Hydrodynamics is determined by gear shape, not o-rings.",
+      "source": "mySSI: SoD Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-sod-105",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Maintenance",
+      "question": "Which of the following statements about repairs is true?",
+      "options": {
+        "a": "Divers can repair any component themselves",
+        "b": "Divers can take components apart if they have a buddy to help them",
+        "c": "Repairs can be left until just before the dive",
+        "d": "Some components may require a specialist technician"
+      },
+      "correct": "d",
+      "explanation": "Equipment repair has tiers — and choosing the wrong tier voids warranty, can fail at depth, and is professionally catastrophic for an instructor. (1) USER-LEVEL (DIY OK): rinsing, drying, mouthpiece zip-tie change, fin/mask strap replacement, user-replaceable battery on some computers, basic LP hose o-ring swap, BCD inflator lubrication. (2) TECHNICIAN-LEVEL (factory-trained, manufacturer-certified): regulator 1st/2nd-stage rebuilds, BCD inflator overhaul, tank valve service, annual VIP (Visual Inspection of cylinder interior), 5-year HYDROSTATIC TEST of cylinders (pressure-test to 5/3 of working pressure). (3) SPECIALIST-LEVEL: rebreather electronics, OXYGEN-CLEAN service (anything ≥40% O₂), mixed-gas regulators, dive computer mainboard work. (a) Wrong — pressurized components require trained techs. (b) A buddy doesn't grant tech credentials. (c) NEVER dive with known unrepaired gear; 'fix it just before the dive' is the worst possible timing — no test cycle, no leak-down monitoring of the rebuilt regulator. If a student is injured on gear you serviced without authorization, your liability insurance will likely not cover you.",
+      "source": "mySSI: SoD Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-sod-106",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Selection",
+      "question": "Things that divers should consider when choosing equipment include whether it will be:",
+      "options": {
+        "a": "Suitable and reliable for their planned dive",
+        "b": "Overcomplicated",
+        "c": "All answers are correct",
+        "d": "Used consistently"
+      },
+      "correct": "c",
+      "explanation": "Three valid considerations all listed: (a) SUITABLE AND RELIABLE FOR THE PLANNED DIVE — biggest single factor. Match the rig to the conditions: cold water demands environmentally-sealed regulators, drysuit, hooded undersuit; tropical lets you go lighter; depth/decompression dives need redundancy (pony bottle or sidemount, dual computers, redundant masks/lights/cutters); cave/wreck diving demands long-hose primary + bungeed backup, etc. A rec-rated regulator fine for 30 m doesn't belong on 60 m trimix. (b) OVERCOMPLICATED — phrased awkwardly but real: match equipment complexity to your skill level and dive type. A new OWD diver doesn't need a 7-button air-integrated trimix computer with five gas slots — too many menus, too many ways to misconfigure mid-dive, and the diver loses confidence using kit they don't fully understand. (d) USED CONSISTENTLY — gear sitting unused 10 months a year develops more problems than gear in regular service: o-rings dry out, batteries corrode, neoprene cracks, springs lose calibration. Buy what you'll actually use; if you only dive twice a year on holidays, rental kit may beat ownership for both reliability AND budget.",
+      "source": "mySSI: SoD Lesson 4.1 Review"
+    },
+    {
+      "id": "mssi-sod-107",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Mask & Snorkel",
+      "question": "What additional features might a diver look for in a snorkel?",
+      "options": {
+        "a": "A really complex design",
+        "b": "A semi-dry or dry top to keep water out",
+        "c": "An integrated cylinder",
+        "d": "A mouth strap to keep it in the mouth"
+      },
+      "correct": "b",
+      "explanation": "Three snorkel-design tiers with the higher-tier features being the upgrade many divers buy: (1) WET — basic open tube, old-school simple, no failure points; user must purge water after every duck-dive or wave splash. Preferred by spearos / freedivers for low drag. (2) SEMI-DRY — a SPLASH GUARD / BAFFLE at the top deflects waves and surface chop without fully sealing — reduces water entry but airflow is unrestricted. (3) DRY — a FLOAT-ACTUATED VALVE at the top: when submerged the float lifts and closes the airway → zero water entry; on surfacing the float drops and the valve re-opens. Ideal for new divers, surface swims in chop, conditions where water entry would startle a diver. Most snorkels also have a PURGE VALVE at the lower bend (one-way exhaust to clear water with a sharp puff) and a FLEX section so the mouthpiece hangs naturally when not in the mouth. Snorkels attach to the LEFT side of the mask strap via a snorkel keeper / clip. (a) 'Really complex design' is not a specific feature, just an adjective. (c) An integrated cylinder defeats the very purpose of a snorkel (breathe at the surface WITHOUT scuba). (d) Snorkels are retained by the mouthpiece + the mask-strap clip — there's no 'mouth strap.'",
+      "source": "mySSI: SoD Lesson 4.2 Review"
+    },
+    {
+      "id": "mssi-sod-108",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Fins",
+      "question": "What factors should be considered when selecting fins?",
+      "options": {
+        "a": "Suitability",
+        "b": "Buoyancy",
+        "c": "Visibility",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "All three are real selection criteria: (a) SUITABILITY — match fin to dive type. OPEN-HEEL + BOOTIES for cold/temperate water, boat diving, and rocky entries (better foot protection, more kick power). FULL-FOOT for warm-water shore/snorkel use (less bulk, lighter for travel). STIFF BLADE for tech, sidemount, current diving (max thrust per kick, e.g. Hollis F1, OMS Slipstream); FLEXIBLE BLADE for new divers and photographers (less leg-fatigue, finer fine-tuning). SPLIT FINS for easy flutter kicks, low effort; PADDLE FINS for frog kick, helicopter turns, technical trim work. LONG FREEDIVING fins for breath-hold efficiency (impractical for scuba). (b) BUOYANCY — fins span very negative (tech rubber Jet/F1 sink fast) to neutral/positive (travel splits). Negative fins help bring sinking-leg trim back to horizontal in divers whose lung volume / drysuit air sends feet down. Positive fins keep legs floating for those with naturally heavy lower body. Affects whether ankle weights are needed. (c) VISIBILITY — bright contrasting colours (neon yellow, orange) help a buddy track you in murky water or on night dives, especially at distance — more important than divers usually credit, particularly during instructor work where you're tracking 4–6 students at once.",
+      "source": "mySSI: SoD Lesson 4.2 Review"
+    },
+    {
+      "id": "mssi-sod-109",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Mask & Snorkel",
+      "question": "When choosing a mask, divers should consider whether the mask has:",
+      "options": {
+        "a": "Equalization nose pockets and/or a purge valve",
+        "b": "All answers are correct",
+        "c": "Strap locking devices and/or adaptability for vision correction",
+        "d": "A silicone mask skirt"
+      },
+      "correct": "b",
+      "explanation": "All three feature groups are real selection criteria. (a) EQUALIZATION NOSE POCKET — must be SOFT enough to pinch the nostrils for Frenzel / Valsalva (a too-rigid or too-wide nose pocket makes equalizing difficult, especially head-down). PURGE VALVE — a one-way valve in the bottom of the mask skirt that lets you clear water by exhaling through the nose with the head upright (helpful for new divers; tech/wreck divers tend to skip it — fewer leak points, cleared by 'tilt and blow'). (c) STRAP LOCKING DEVICES — ratchet buckles, push-button quick-releases, BUNGEE STRAPS (faster donning, no hair-pulling, especially with a hood). VISION CORRECTION — many manufacturers (Cressi, Tusa, Atomic, Mares) sell drop-in PRESCRIPTION LENS INSERTS, mostly negative diopters but bifocals and stick-on log/computer readers also exist; critical for any diver who normally wears glasses. (d) SILICONE MASK SKIRT — the modern industry standard: soft, hypoallergenic, durable, doesn't yellow with age (unlike old neoprene-rubber). Two skirt colors: CLEAR silicone (more peripheral light, better for photo, occasionally claustrophobic) and BLACK silicone (kills glare, sharpens screen viewing on computers/cameras, popular with spearos and underwater photographers).",
+      "source": "mySSI: SoD Lesson 4.2 Review"
+    },
+    {
+      "id": "mssi-sod-110",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Fins",
+      "question": "What are the two main types of fin?",
+      "options": {
+        "a": "No answers are correct",
+        "b": "Full-foot fins and monofins",
+        "c": "Full-foot fins and open-heel fins",
+        "d": "Open-heel fins and paddle fins"
+      },
+      "correct": "c",
+      "explanation": "Two basic FOOT-MOUNT styles of dive fin: (1) FULL-FOOT FINS — closed-back foot pocket like a shoe; slip on barefoot or with a thin neoprene sock. Lightweight, low drag, popular for warm-water snorkel/free/scuba and travel kit. (2) OPEN-HEEL FINS — open back with an adjustable heel strap (rubber, bungee, or spring); worn with dive BOOTIES. Adjustable fit, protective, the standard for cold/temperate water, boat diving, and technical configurations. (a) Wrong — (c) covers it. (b) MONOFIN = single big blade for both feet, used in competitive finswimming and some freediving — not one of the two basic SCUBA fin foot-mount types. (d) 'Paddle' is a blade STYLE (versus split / vented / hinge), not a foot-mount class — both full-foot and open-heel fins can be paddle blades, so this option mixes categories.",
+      "source": "mySSI: SoD Lesson 4.2 Review"
+    },
+    {
+      "id": "mssi-sod-111",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Fins",
+      "question": "How do open-heel fins differ from full-foot fins?",
+      "options": {
+        "a": "Divers can use boots with them",
+        "b": "They are adjustable",
+        "c": "They allow more protection when used with boots",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "Three real differences, all listed. (a) BOOTS — open-heel fins are designed around bootie use; you cannot get a bootie into a full-foot pocket (which is sized to a bare foot). (b) ADJUSTABLE — the heel strap (rubber, bungee, or stainless-steel spring) lets you fine-tune fit, share fins between divers in a class, accommodate thin tropical booties one trip and 7 mm cold-water booties the next. (c) PROTECTION — booties shield the foot from rocks, sea urchins, hot/cold deck surfaces, and abrasion at the heel; with full-foot fins the foot is exposed apart from a thin sock. Side benefits not in the question: spring or bungee straps don't perish or snap the way old rubber straps do (and won't dump a fin off the foot in a current); a single open-heel fin model fits a wider range of foot sizes than its full-foot equivalent because of the adjustable strap.",
+      "source": "mySSI: SoD Lesson 4.2 Review"
+    },
+    {
+      "id": "mssi-sod-112",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Fins",
+      "question": "Using fins helps reduce a diver's effort because they:",
+      "options": {
+        "a": "Increase the surface area of the feet and displace more water with each kick",
+        "b": "Turn forward thrust into leg motion",
+        "c": "Propel divers through the water with faster kicks",
+        "d": "Decrease the surface area of the feet and displace less water with each kick"
+      },
+      "correct": "a",
+      "explanation": "Fin propulsion is Newton's third law in action. A fin INCREASES the effective foot surface area by roughly 4–10× depending on blade size and style → each kick DISPLACES a much larger mass of water backward → proportionally larger forward reaction force on the diver. Practical result: same speed with FEWER, SLOWER, more powerful kicks (well-trained scuba flutter cadence is around 1 cycle per second or even slower with stiff blades) instead of frantic bare-foot paddling. Why this matters for gas consumption: legs are large muscle groups; high-cadence kicking burns O₂ disproportionately and spikes SAC rate. Slower, bigger, more efficient kicks lower CO₂ production, lower SAC, and reduce DCS-relevant exertion at depth. (b) Wrong causal direction — leg motion creates thrust, not vice versa. (c) FASTER kicks would mean MORE effort; fins enable SLOWER kicks for the same result. (d) Opposite of the truth.",
+      "source": "mySSI: SoD Lesson 4.2 Review"
     },
     {
       "id": "personal-ait-a-001",
