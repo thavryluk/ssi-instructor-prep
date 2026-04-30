@@ -2398,5 +2398,665 @@
     "correct": "c",
     "explanation": "The ALPHA (Alfa) flag — international maritime signal flag, blue and white, swallow-tailed — means: 'I have a diver down — keep clear at slow speed.' Per the INTERNATIONAL CODE OF SIGNALS / COLREGS: a vessel displaying flag A is signaling RESTRICTED MANEUVERABILITY because divers are physically tethered to the boat (on a tag-line, descent line, or returning under the hull). Other vessels must give way and pass at a safe distance and slow speed. This is the INTERNATIONAL standard used worldwide. Distinct from the 'DIVER DOWN' FLAG — red with a white diagonal stripe — used primarily in the US, Caribbean, and some Asian regions; not international maritime law but enforced by US state regulations and dive-industry convention. Many US-based dive boats display BOTH the Alpha and Diver Down flags so foreign and domestic vessels alike recognize divers in the water. Best practice for instructors abroad: know which flag is used in your jurisdiction and carry/display both when in doubt. (a) Alpha flag has no depth meaning — depth is a planning/computer matter. (b) Dangerous marine life uses no specific flag. (d) Fishing restrictions are marked by MPA boundary buoys, signage, or local regulation — not by Alpha.",
     "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-161",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "Why are remote seamounts and oceanic islands often great dive destinations?",
+    "options": {
+      "a": "They usually have healthy coral reefs and abundant marine life.",
+      "b": "Divers will always find sharks, rays, and turtles on every dive.",
+      "c": "They are far away from earthquake areas.",
+      "d": "Island reefs are protected from boat activity."
+    },
+    "correct": "a",
+    "explanation": "Remote seamounts and oceanic islands are world-class destinations because of converging factors that produce HEALTHY CORAL + ABUNDANT MARINE LIFE: (1) LESS HUMAN PRESSURE — far from population centers means less fishing pressure, less coastal pollution runoff, fewer divers per year, less anchor damage; reefs closer to natural state. (2) SEAMOUNT UPWELLING — submerged peaks force deep cold nutrient-rich water UP into the sunlit photic zone → plankton bloom → small-fish bloom → big-fish + pelagic aggregation. The seamount effect is why isolated peaks consistently produce world-class big-animal diving. (3) PELAGIC CROSSROADS — oceanic islands often sit along migration routes of sharks, mantas, tunas, billfish, whales; the reef becomes a cleaning station and aggregation site. (4) ENDEMISM — geographic isolation drives genetic divergence → species found nowhere else (Galapagos, Socorro, Cocos endemics). Iconic examples: Galapagos / Darwin & Wolf, Cocos Island, Socorro / Revillagigedo, Tubbataha, Coral Sea, Maldives outer atolls. (b) Overstated — even at world-class sites, big-animal sightings are statistical, not guaranteed; never promise students 'we'll see X.' (c) Many seamounts and oceanic islands ARE volcanic in origin and seismically active (Hawaiian chain, Galapagos hotspot, Socorro is an active above-water volcano). (d) Lower boat density yes, 'protected' no — many are also far from rescue assets, which is its own challenge.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-162",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "What happens when a wave reaches the surf zone?",
+    "options": {
+      "a": "The wave becomes a tidal bore and moves inland",
+      "b": "The wave completely stops moving forward",
+      "c": "The wave slows down, increases in height, and breaks",
+      "d": "The wave speeds up and continues moving offshore"
+    },
+    "correct": "c",
+    "explanation": "Classic WAVE SHOALING physics. (1) Deep water — wave speed is proportional to √(g·d) where d is depth, low amplitude relative to wavelength. (2) Approaching shore — depth decreases; wave 'feels' the bottom once depth < ½ wavelength. (3) Bottom friction SLOWS the wave. (4) Energy conservation — slowing wave compresses its energy into less space → wave HEIGHT INCREASES (the wave stands up). (5) Wavelength shortens — peaks bunch together, wave gets steeper. (6) Critical instability — when water depth ≈ 1.3× wave height, the crest can no longer be supported → wave BREAKS. Three break types: SPILLING (gradual, foamy, gentle slope — safest beach entries); PLUNGING (abrupt curl-and-crash, steep slope, powerful — surfers' favorite, divers' nightmare); SURGING (runs up a steep beach without curling, dumps water on shore). Diver strategy in the surf zone: time entries/exits between SETS (waves come in groups with calmer gaps); walk through with fins in hand until knee-deep, then put fins on and crouch low through breakers; exit by 'surfing the back' of a wave into shore on belly, fins on; avoid plunging breakers — they can rip masks off and slam you to the bottom. (a) TIDAL BORE is a different phenomenon — rising tide pushes a wave inland up a narrowing river/estuary channel (Severn, Qiantang, Amazon Pororoca). (b) Wave doesn't stop — energy transfers to the beach. (d) OPPOSITE of physics — waves slow approaching shore.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-163",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "The coastal region between high and low tide is also known as:",
+    "options": {
+      "a": "The surf zone",
+      "b": "The littoral zone",
+      "c": "The neritic zone",
+      "d": "The pelagic zone"
+    },
+    "correct": "b",
+    "explanation": "The LITTORAL ZONE (also called INTERTIDAL ZONE or 'foreshore') is the coastal strip between mean high water and mean low water marks — alternately EXPOSED to air at low tide and SUBMERGED at high tide. It's a high-stress habitat: extreme temperature swings, desiccation, wave pounding, salinity fluctuation. Specialized organisms thrive here: barnacles, limpets, mussels, sea stars, hermit crabs, anemones, periwinkles, lower-zone kelp. Subdivided into: SPLASH / SUPRALITTORAL (above high tide, only wetted by wave splash; lichens, periwinkles); HIGH INTERTIDAL (exposed long periods; barnacles, periwinkles, limpets); MID INTERTIDAL (alternating wet/dry; mussels, sea stars, anemones); LOW INTERTIDAL (exposed only at lowest tides; richer life, kelp, urchins, sea cucumbers). Other marine zones: (a) SURF ZONE = where waves break (function-defined by wave shoaling, not tide-defined); often overlaps the littoral but distinct concept. (c) NERITIC ZONE = water column above continental shelf, from low-tide line out to ~200 m depth (much BROADER than intertidal). (d) PELAGIC ZONE = open-ocean water column beyond the continental shelf — totally different ecological zone.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-164",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "Why are rocks and reefs important for coastlines?",
+    "options": {
+      "a": "They act as natural barriers that protect coastlines from erosion and wave damage",
+      "b": "They reduce ocean salinity and alter global currents",
+      "c": "They prevent too much marine life from settling in one area",
+      "d": "They block all tidal movement from reaching the shore"
+    },
+    "correct": "a",
+    "explanation": "Rocks and especially CORAL REEFS function as NATURAL BREAKWATERS that absorb wave energy before it reaches shore. (1) WAVE ENERGY DISSIPATION — waves break on the reef crest before reaching the shore; a healthy fringing reef can absorb 70–97% of incoming wave energy (well-documented for Caribbean coral reefs, Pacific atolls, Great Barrier Reef). (2) REDUCED WAVE HEIGHT — by the time water passes over a reef into the lagoon, wave height is a fraction of what hit the outer reef slope, protecting beaches and coastal infrastructure. (3) SEDIMENT TRAPPING — reefs slow water flow → sediment settles → builds up coastline rather than scouring it. (4) BEACH FORMATION — much of tropical beach sand is REEF-DERIVED (parrotfish-graze coral excretion, broken coral skeleton, foraminifera shells). No reef = no replacement sand → beach disappears over decades. (5) LAGOON PROTECTION — calm water behind reef supports seagrass beds and mangroves, which provide additional shoreline stabilization through root systems holding sediment. Real-world consequence: when coral reefs die (bleaching, ocean acidification, blast fishing, dredging), coastal communities see dramatically increased EROSION, STORM DAMAGE, and BEACH LOSS — a key driver behind reef-restoration projects in Maldives, Indonesia, Caribbean. Same logic for rocky shorelines: outcrops, basalt sills, glacial moraines all function as natural breakwaters. (b) Reefs don't reduce salinity (saltwater organisms themselves) and don't affect global currents at meaningful scale. (c) Opposite — reefs CREATE habitat, supporting ~25% of all marine species despite covering <1% of seafloor. (d) Reefs reduce WAVE energy but don't block TIDES (tides are gravitational, planetary scale, locally unaffected).",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-165",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "A knowledge of underwater terrain helps divers:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Understand marine habitats",
+      "c": "Navigate safely through waves and currents",
+      "d": "With dive planning"
+    },
+    "correct": "a",
+    "explanation": "Terrain awareness is central to all three diving disciplines. (b) UNDERSTAND MARINE HABITATS — terrain DICTATES ecology. Sand vs rock vs coral vs kelp vs muck = totally different species assemblages. Rocky reef = hard corals + reef fish; sandy bottom = rays, flatfish, garden eels; muck = critters, frogfish, octopus; kelp forest = garibaldi, sea otters, leopard sharks; wreck = colonization succession + hiding fish. Knowing substrate tells you what to expect, where to look, what's biologically interesting. (c) SAFE NAVIGATION through waves and currents — terrain creates water-movement patterns. HEADLANDS accelerate currents (water squeezing past); BAYS calm them; channel openings funnel current; WALLS create downcurrent on the lee side; SEAMOUNTS produce upwellings + boil zones; ledges create surge eddies. Knowing bottom topography tells you where surge will be strong, where eddies form, where to hide from current behind a rock. (d) DIVE PLANNING — terrain informs every plan element: entry/exit points, depth profile, route, navigation legs, expected gas consumption, safety-stop location, exit safe haven if conditions deteriorate. Before any unfamiliar site: study the site map, get a thorough briefing, ask the local divemaster about current direction, where to take shelter, where the deepest point is. (a) all correct.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-166",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "What pelagic species might divers see in the open ocean?",
+    "options": {
+      "a": "Sharks, dolphins, and whales",
+      "b": "Crabs, starfish, and corals",
+      "c": "Snails, barnacles, and oysters",
+      "d": "Sea turtles, walruses, and penguins"
+    },
+    "correct": "a",
+    "explanation": "PELAGIC = open-ocean water-column dwellers (Greek 'pelagos' = open sea). Opposed to BENTHIC = seafloor dwellers. Classic pelagic fauna: SHARKS (oceanic species — blue, silky, oceanic whitetip, mako, threshers, whale sharks); DOLPHINS (spinner, common, bottlenose offshore form, Risso's, false killer); WHALES — cetaceans, all marine mammals (humpback, sperm, fin, blue, minke, beaked whales); TUNAS and BILLFISH (yellowfin, bigeye, marlin, sailfish, swordfish — built for open-ocean speed); MANTAS and MOBULAS (large pelagic rays); MOLA MOLA (ocean sunfish, world's largest bony fish); PELAGIC JELLIES + SIPHONOPHORES (Portuguese man-o-war, salps, ctenophores); PELAGIC SQUID (Humboldt, deep-sea species). (b) Crabs, starfish, corals = BENTHIC (bottom-dwellers, attached or crawling on substrate). (c) Snails, barnacles, oysters = BENTHIC / LITTORAL (on rocks / substrate, often in the intertidal zone). (d) Mixed: sea turtles ARE pelagic-capable (cross oceans), but WALRUSES are coastal Arctic / sub-Arctic ice-edge mammals (Pacific walrus stays close to ice), and PENGUINS are coastal birds that come ashore to nest — the trio doesn't fit 'pelagic' cleanly. (a) is the clean classification.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-167",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "What is a key adaptation of deep-sea organisms?",
+    "options": {
+      "a": "Photosynthesis for energy production",
+      "b": "Thick fur to retain heat",
+      "c": "Large lungs for holding extra oxygen",
+      "d": "Bioluminescence for communication and predation"
+    },
+    "correct": "d",
+    "explanation": "BIOLUMINESCENCE is the defining adaptation of deep-sea life — about 75–90% of deep-sea organisms produce light, by far the highest concentration of bioluminescent species anywhere on Earth. WHY SO PREVALENT: below ~1000 m there's zero sunlight (the 'aphotic zone'); the only light comes from organisms themselves. Most deep-sea bioluminescence is BLUE-GREEN (~470–490 nm) — wavelengths that penetrate seawater best (evolutionary tuning, even where penetration is moot). Generated by the LUCIFERIN–LUCIFERASE chemical reaction (cold light, ~95% efficient — almost no heat waste). FUNCTIONS: (1) PREDATION LURES — anglerfish dangling its glowing esca on the illicium; deep-sea dragonfish 'red-light snipers' (the only deep-sea fish producing red — invisible to most prey). (2) COMMUNICATION / MATING — flash patterns to find conspecifics in vast darkness. (3) COUNTER-ILLUMINATION — bottom of organism produces light matching the dim downwelling light → hides silhouette from predators below (cookiecutter shark, hatchet fish, lanternfish). (4) BURGLAR ALARM — when grabbed, some organisms flash bright to attract a bigger predator that might attack the predator. (5) DECOY / SACRIFICE — some squid release glowing ink 'shadow' to confuse pursuers. (6) PREDATOR STARTLING — sudden bright flash buys escape time. (a) Photosynthesis impossible without sunlight (deep-sea hydrothermal vents host CHEMOSYNTHESIS instead — bacteria using H₂S as energy source, totally separate adaptation). (b) No fur on most deep-sea creatures (fish, invertebrates, cephalopods — no mammals at abyssal depths). (c) Lungs aren't fish anatomy; deep-sea fish often have reduced/absent swim bladders due to extreme pressure.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-168",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "What are some habitats found in coastal waters?",
+    "options": {
+      "a": "Rocky shores, salt flats, and desert dunes",
+      "b": "Coral reefs, mangrove forests, and kelp forests",
+      "c": "Rocky shores, coral reefs, sandy bottoms, and seagrass areas",
+      "d": "Mountain ranges, coral reefs, and mangrove forests"
+    },
+    "correct": "c",
+    "explanation": "Major coastal / nearshore habitats divers encounter: ROCKY SHORES — wave-pounded coasts with hard substrate (basalt, granite, limestone), hosts barnacles, mussels, sea stars, urchins, kelp at lower zones, anemones, octopus, crabs. Mediterranean, Pacific Northwest, North Atlantic, South Africa. CORAL REEFS — tropical, warm-water, low-nutrient; stony coral builders + soft corals + huge fish diversity. Caribbean, Indo-Pacific, Red Sea, Maldives, Australia, Coral Triangle. SANDY BOTTOMS — apparently empty but rich in sediment infauna: rays, flatfish, garden eels, sand divers, eel-tail catfish, conch, burrowing crabs, mantis shrimp. SEAGRASS AREAS — submerged grass beds (true flowering plants — Zostera, Thalassia, Posidonia — NOT seaweed). Critical nursery habitat for juvenile fish, dugong/manatee grazing, sea turtle feeding, seahorse refuge — often overlooked but ecologically vital. Other coastal habitats not in this answer but worth knowing: MANGROVE FORESTS (tropical brackish-water trees with prop roots — fish nurseries, mudskippers, crocodiles); KELP FORESTS (temperate giant brown algae — Macrocystis, Nereocystis — Pacific coast US/Mexico, Tasmania, South Africa, Argentina; otters, garibaldi, leopard sharks); ESTUARIES / SALT MARSHES (where freshwater meets sea; oyster beds, fiddler crabs, juvenile fish). (a) DESERT DUNES = terrestrial, not coastal habitats. (b) All three (coral + mangrove + kelp) ARE coastal habitats but answer is less comprehensive than (c) — and misses rocky/sandy bottom which are foundational. (d) MOUNTAIN RANGES = terrestrial.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-169",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "Why are estuaries considered important marine habitats?",
+    "options": {
+      "a": "They are nutrient-rich and contain important food sources",
+      "b": "They are always fully submerged and never experience changes in salinity",
+      "c": "They have extremely high salinity, making them suitable for deep-sea fish",
+      "d": "They are cold-water environments where few species can survive"
+    },
+    "correct": "a",
+    "explanation": "Estuaries are among the most biologically productive ecosystems on Earth, often called CRADLES OF THE SEA or NATURE'S NURSERIES. What makes them so rich: (1) NUTRIENT INPUTS — rivers continuously deliver nitrogen, phosphorus, organic matter, sediment from the watershed. (2) TIDAL MIXING — twice-daily tides churn nutrients up from sediment, distributing them through the water column → fuels phytoplankton bloom → fuels everything else. (3) VARIABLE SALINITY — brackish gradient from fresh (river end) to seawater (ocean end) creates zonation, each band with specialist species. (4) SHELTERED GEOGRAPHY — typically protected bays, deltas, lagoons, fjords → calm conditions favor juvenile survival. (5) ABUNDANT PRIMARY PRODUCTION — phytoplankton, salt-marsh grasses, mangroves, eelgrass, all building a detritus food web that supports juveniles. CRITICAL ECOLOGICAL ROLES: ~70% of commercially-important fish species spend part of their life cycle in estuaries (salmon, striped bass, flounder, blue crab, shrimp); millions of migratory waterbirds stage and feed; oyster beds and salt marshes filter watershed pollution; SALT MARSHES + MANGROVES are major BLUE CARBON sinks. Famous examples: Chesapeake Bay, San Francisco Bay, Sundarbans, Amazon Delta, Wadden Sea, Cape Cod marshes. (b) Estuaries are DEFINED BY salinity variation (0–35 ppt across tide cycles + rainfall); intertidal mudflats are NOT always submerged — they're an essential estuarine feature. (c) Estuaries have LOW / brackish salinity, not high; deep-sea fish don't live there. (d) Many estuaries are warm (Florida, Mexico, tropics) and species-rich.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-170",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "Factors that affect the width and force of the surf zone include:",
+    "options": {
+      "a": "The Coriolis effect and Earth's magnetic field",
+      "b": "Tidal water levels and weather conditions",
+      "c": "The density of seawater versus freshwater",
+      "d": "The presence of bioluminescent organisms"
+    },
+    "correct": "b",
+    "explanation": "Surf-zone width and force vary with two dominant factors. (1) TIDAL WATER LEVELS — at HIGH TIDE the surf zone is pushed shoreward, often narrower right at the beach edge or against a sea wall; at LOW TIDE the zone moves seaward, sometimes exposing wide flat beach with waves breaking 50+ m offshore. The tidal range (spring vs neap) shifts how dramatically this changes through the day; spring tides (full/new moon) maximize range. (2) WEATHER CONDITIONS — WIND DIRECTION: onshore wind builds bigger, choppier waves at the surf zone; OFFSHORE wind flattens incoming wave faces (clean conditions, surfers' and divers' favorite). WIND SPEED: higher = more wave energy = bigger, more violent surf. SWELL DIRECTION + HEIGHT: long-period ocean swells from distant storms can produce massive surf even on calm-wind days locally. STORM SURGE: cyclones / hurricanes raise water level and amplify surf for hours to days. Other factors not listed but real: BOTTOM SLOPE / PROFILE (gradual = wide zone with multiple break lines; steep = narrow zone with single shore-break); reef / sandbar geometry concentrates or disperses wave energy; submarine canyons focus swell. (a) CORIOLIS operates at synoptic scale (storms, ocean gyres) — irrelevant at surf-zone scale; magnetic field doesn't influence waves. (c) Seawater density is only ~3% greater than fresh — negligible for wave-breaking dynamics. (d) Bioluminescent organisms don't affect wave physics.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-171",
+    "area": "science_of_diving",
+    "subarea": "Environment — Conservation",
+    "question": "What is the main cause of ocean acidification?",
+    "options": {
+      "a": "Excess oxygen dissolving into seawater",
+      "b": "Melting sea ice releasing organic carbon",
+      "c": "Increased concentrations of dissolved carbon dioxide",
+      "d": "Increased nitrogen runoff from rivers"
+    },
+    "correct": "c",
+    "explanation": "OCEAN ACIDIFICATION is the systematic drop in seawater pH driven by atmospheric CO₂ dissolving into the ocean. Chemistry: (1) CO₂ (atmosphere) → CO₂ (dissolved) — gas exchange at sea surface, especially in cold polar waters that absorb CO₂ more readily. (2) CO₂ + H₂O ⇌ H₂CO₃ (carbonic acid). (3) H₂CO₃ ⇌ H⁺ + HCO₃⁻ — releases free hydrogen ions. (4) More H⁺ = lower pH = more acidic (pH is the negative log of [H⁺]). NUMBERS: atmospheric CO₂ rose from ~280 ppm (pre-industrial) to ~425 ppm (2024), still climbing ~2.5 ppm/year. Ocean pH fell from 8.2 to 8.1 — a 0.1-unit drop equals roughly 30% MORE H⁺ because the scale is logarithmic. The ocean has absorbed ~30% of all anthropogenic CO₂ emitted since 1850 — buffering atmospheric warming but at the cost of marine chemistry. WHY CATASTROPHIC for marine life: as H⁺ rises, it reacts with carbonate (CO₃²⁻) to form HCO₃⁻ → less CO₃²⁻ available for organisms that build CaCO₃ shells/skeletons (corals, mollusks, pteropods, foraminifera, coralline algae). The ARAGONITE SATURATION HORIZON is rising toward the surface — below it, the aragonite form of CaCO₃ actively DISSOLVES rather than building. Real-world impacts: weakened coral skeletons, slower coral growth, shellfish larvae fail to develop shells (Pacific NW oyster industry hit), pteropod shells dissolving in Arctic waters. Combined with ocean warming + bleaching, ocean acidification is the existential 21st-century threat to coral reefs. (a) Oxygen doesn't acidify water. (b) Ice melt produces fresh water, doesn't carry significant carbon — the issue is atmospheric CO₂ uptake. (d) Nitrogen runoff causes EUTROPHICATION / DEAD ZONES (a separate serious problem), not acidification.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-172",
+    "area": "science_of_diving",
+    "subarea": "Environment — Conservation",
+    "question": "In marine organisms, organic carbon:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Is used to form calcium carbonate skeletons and shells",
+      "c": "Is converted back into carbon dioxide during respiration and decomposition",
+      "d": "Is used for growth and reproduction"
+    },
+    "correct": "a",
+    "explanation": "All three describe how marine organisms process carbon (per SSI's framing of 'organic carbon' broadly as 'biologically-processed carbon'). (b) FORMING CALCIUM CARBONATE SKELETONS AND SHELLS — corals, mollusks, foraminifera, pteropods, echinoderms, coralline algae all build CaCO₃ structures from dissolved carbonate / bicarbonate ions. Technical note: strictly speaking CaCO₃ is INORGANIC carbon (built from HCO₃⁻ and CO₃²⁻ in seawater, not from organic compounds with C-H bonds). The SSI textbook lumps it together with the broader 'carbon utilization' theme. (c) CONVERTED BACK TO CO₂ during respiration and decomposition — every breath of every animal returns CO₂ to the water; bacteria decomposing dead tissue mineralize carbon back to CO₂; closes the marine carbon cycle. (d) GROWTH AND REPRODUCTION — organic carbon (in carbohydrates, proteins, lipids, nucleic acids) is the literal building block of all biomass. Growth = adding carbon to tissue; reproduction = producing offspring built from carbon. The full marine carbon cycle in one sentence: phytoplankton fix dissolved CO₂ via photosynthesis (organic carbon) → eaten by zooplankton → up the food chain → soft tissue + shells/skeletons; respiration releases CO₂ back; dead organisms sink as MARINE SNOW and either decompose (CO₂ recycled) or sequester carbon to deep sediments (the BIOLOGICAL PUMP — long-term storage). Calcifying organisms add a parallel inorganic-carbon (CaCO₃) flux to deep sediments.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-173",
+    "area": "science_of_diving",
+    "subarea": "Environment — Conservation",
+    "question": "Plants and phytoplankton use carbon dioxide to:",
+    "options": {
+      "a": "Generate bubbles during photosynthesis",
+      "b": "Produce energy and release oxygen during photosynthesis",
+      "c": "Decrease water salinity",
+      "d": "Kill bacteria during chemosynthesis"
+    },
+    "correct": "b",
+    "explanation": "Photosynthesis fundamental equation: 6 CO₂ + 6 H₂O + light energy → C₆H₁₂O₆ (glucose) + 6 O₂. What happens: LIGHT ENERGY is captured by CHLOROPHYLL and accessory pigments and drives the endothermic reaction. CO₂ is the carbon source — pulled from the atmosphere (terrestrial plants) or dissolved in seawater (phytoplankton, seaweeds, seagrasses). H₂O provides hydrogen and electrons; oxygen atoms come out as O₂ byproduct. GLUCOSE (organic carbon) is the energy / biomass product, fueling metabolism, growth, reproduction. MARINE IMPLICATIONS: phytoplankton produce ~50% of Earth's atmospheric oxygen — every other breath you take comes from marine photosynthesis. Phytoplankton form the base of nearly every marine food web. They drive the BIOLOGICAL PUMP — fix CO₂ at surface → some sinks as marine snow → long-term carbon sequestration in deep ocean (a major buffer against atmospheric CO₂ rise). (a) Bubbles are sometimes visible from photosynthesizing seaweed/seagrass but aren't the FUNCTION — they're a side effect of O₂ release exceeding water's solubility limit on a sunny day. (c) Photosynthesis doesn't change salinity. (d) CHEMOSYNTHESIS is a totally separate process — bacteria at hydrothermal vents and cold seeps use chemical energy (oxidizing H₂S, methane, hydrogen, ammonia) instead of light to fix carbon; doesn't involve photosynthesis pathway, and the chemosynthetic bacteria are themselves the primary producers (not 'killing' bacteria, ARE the bacteria).",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-174",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Properties",
+    "question": "Salt concentration decreases in regions affected by:",
+    "options": {
+      "a": "High rainfall",
+      "b": "Low evaporation",
+      "c": "Ice melt",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three are freshwater inputs that dilute seawater. (a) HIGH RAINFALL — pure freshwater (~0 ppt salinity) precipitating into the ocean dilutes surface waters; tropical rain belts and monsoon regions show seasonal salinity dips. (b) LOW EVAPORATION — when surface evaporation is suppressed (cool weather, calm conditions, cloudy skies), salt isn't being concentrated; salinity stays stable or drops with any freshwater input. (c) ICE MELT — sea ice formation excludes most salt as it freezes (the salt stays in the surrounding water as 'BRINE REJECTION'). When that ice melts, almost-pure freshwater dilutes the surrounding ocean. Major effect at high latitudes; Arctic Ocean has notably lower surface salinity (~30 ppt vs global average ~35 ppt) due to massive ice melt + river runoff combined. Other dilution sources not in this question: river discharge (the Amazon plume reduces Atlantic salinity for hundreds of km offshore), groundwater seepage, glacial runoff. Salinity is rarely uniform — surface waters in different regions can range from ~30 ppt (heavily diluted) to ~40+ ppt (concentrated by evaporation, see mssi-sod-175).",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-175",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Properties",
+    "question": "Salinity increases in regions affected by:",
+    "options": {
+      "a": "High rainfall and low evaporation",
+      "b": "Especially salty rocks",
+      "c": "Ice melt",
+      "d": "Low rainfall and high evaporation"
+    },
+    "correct": "d",
+    "explanation": "Salinity rises when there's NET water LOSS from a region: HIGH EVAPORATION removes pure water → salt left behind → concentration rises (hot, dry, sunny, windy conditions maximize this). LOW RAINFALL means no freshwater input to offset the evaporation loss → no dilution. Real-world high-salinity hotspots: RED SEA ~38–41 ppt (vs global average ~35 ppt) — high evap, no major rivers, semi-enclosed; MEDITERRANEAN ~38–39 ppt — same dynamic; PERSIAN / ARABIAN GULF ~37–42 ppt — extreme evaporation in shallow basin; DEAD SEA ~340 ppt (10× normal seawater, terminal lake — water flows in, only evaporates out, salt accumulates over millennia). For divers: high-salinity water = HIGHER DENSITY = MORE BUOYANCY = need more lead. A 7 mm wetsuit diver will need ~1–2 kg more weight in the Red Sea than the Caribbean. (a) OPPOSITE — high rain + low evap = DECREASE in salinity. (b) Rocks contribute salt only via long-term geological weathering, not relevant to local salinity gradients. (c) Ice melt = freshwater input = DECREASE in salinity.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-176",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Properties",
+    "question": "What may divers experience if they pass through a halocline?",
+    "options": {
+      "a": "Difficulty breathing",
+      "b": "A feeling of cold",
+      "c": "Visual distortion",
+      "d": "A feeling of warmth"
+    },
+    "correct": "c",
+    "explanation": "A HALOCLINE is a sharp boundary where salinity changes rapidly with depth (or laterally). Diving across one produces a striking optical effect: VISUAL DISTORTION — water looks shimmering, blurry, oily, like swimming through gasoline or reading through wet glass. WHY: different salinities = different densities = different REFRACTIVE INDICES; light bends as it crosses the boundary, producing wavering refraction. Mixing the two layers (with kicks or bubbles) creates visible SCHLIEREN patterns as the differing-density water swirls together. Most famous halocline dives: CENOTES in the Yucatán Peninsula — freshwater layer floats on top of saltwater layer (fresh is less dense), forming a halocline at ~10–15 m depth. Crossing the boundary you go from clear fresh into clear salt, but the boundary itself looks like a 'river of stars' shimmer. Famous sites: ANGELITA (with a deeper H₂S sulfur cloud at the second hydrocline), CARWASH, DOS OJOS, PET CEMETERY. Other halocline locations: anchialine pools (Hawaii, Bahamas), some fjords where rivers meet seawater, the Black Sea above its anoxic deep layer. PRACTICAL DIVER EFFECTS: BUOYANCY SHIFTS at the boundary — crossing from less salty into saltier water adds lift (more dense water = more buoyancy on you); reverse for the other direction. Halocline often coincides with a temperature change too (haloclines + thermoclines often layered together). (a) Breathing is unaffected — gas physics doesn't care about water salinity. (b) COLD feeling = THERMOCLINE (temperature boundary), separate phenomenon. (d) Warm feeling = also a thermocline, opposite direction.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-177",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "At which Beaufort Scale level do strong surface currents significantly increase the risks for divers?",
+    "options": {
+      "a": "6, strong breeze",
+      "b": "3, light breeze",
+      "c": "4, moderate breeze",
+      "d": "5, fresh breeze"
+    },
+    "correct": "d",
+    "explanation": "BEAUFORT 5 (FRESH BREEZE, 29–38 km/h winds) is the typical threshold where conditions degrade significantly for diving. At this level: waves 1–2 m, many whitecaps, spray; surface chop makes boat boarding/exiting hazardous (slamming against the ladder); surface currents noticeably stronger; surface swims become exhausting; navigation harder; visibility can drop as wind churns sediment near shore; boat handling difficult — captains may struggle to hold position over a site. Most dive operators set their go/no-go threshold around Beaufort 4–5 depending on site exposure; for instructor classes with new students, anything beyond Beaufort 3 is questionable. Quick reference: 0 calm (perfect); 1 light air (excellent); 2 light breeze (good); 3 gentle breeze (acceptable, scattered whitecaps); 4 moderate breeze (frequent whitecaps, 1 m waves, manageable); 5 fresh breeze (THIS — significant risk threshold); 6 strong breeze 2–3 m waves (most ops cancel); 7 near gale (no diving). The shift between Beaufort 4 and 5 is where boat ops and divers consistently report 'this just got hard' — that's the SSI threshold to remember. (a) BEAUFORT 6 is even more dangerous, but the SSI text identifies 5 as the threshold where risk significantly increases. (b) BEAUFORT 3 is mild. (c) BEAUFORT 4 is the upper limit of comfortable diving for most.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-178",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "How can high- and low-pressure weather systems affect ocean conditions?",
+    "options": {
+      "a": "Low-pressure systems can contribute to poor water visibility",
+      "b": "High-pressure systems bring calm, stable conditions with lower wave activity",
+      "c": "All answers are correct",
+      "d": "Low-pressure systems bring unstable conditions with increased winds and rain"
+    },
+    "correct": "c",
+    "explanation": "All three describe real weather-pressure effects on dive conditions. (a) LOW-PRESSURE SYSTEMS → poor water visibility through several mechanisms: storm waves churn up sediment from the bottom; rain runoff carries silt and nutrients from coastal watersheds into nearshore waters; reduced sunlight from cloud cover dims underwater visibility; plankton blooms triggered by nutrient pulses post-storm; turbulent surface mixing redistributes deep silty water to the surface. (b) HIGH-PRESSURE SYSTEMS → calm, stable conditions, lower wave activity — anticyclones bring fair weather, light winds, sinking air aloft (which suppresses cloud formation), clear skies. The best diving windows are typically during extended high-pressure ridges that 'park' over a region for several days, letting waves settle and visibility improve. (d) LOW-PRESSURE SYSTEMS → unstable, increased winds and rain — cyclones (depressions) bring rising air, instability, storms, frontal passages, precipitation. Tropical cyclones (hurricanes/typhoons) are the extreme. For dive planning: watch the synoptic chart before a trip. Approaching low pressure = wind picking up + waves building over 12–24 hours; approaching high = conditions improving. Most operators check NOAA / GFS / ECMWF forecast 3–5 days out and time trips to 'high-pressure window' weather.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-179",
+    "area": "science_of_diving",
+    "subarea": "Environment — Conservation",
+    "question": "How does increased ocean acidity impact marine life?",
+    "options": {
+      "a": "It reduces salinity, making water less dense",
+      "b": "It increases the solubility of calcium carbonate shells and skeletons",
+      "c": "It causes rapid warming of deep-sea ecosystems",
+      "d": "It increases oxygen availability in the water"
+    },
+    "correct": "b",
+    "explanation": "Increased acidity = lower pH = more H⁺ ions; these react with carbonate (CO₃²⁻) to form bicarbonate (HCO₃⁻), shifting the carbonate equilibrium so that CaCO₃ shells/skeletons DISSOLVE MORE READILY (= 'increased solubility'). Counterintuitive phrasing but chemically precise: more H⁺ consumes free CO₃²⁻ → less CO₃²⁻ left in seawater → equilibrium of CaCO₃ ⇌ Ca²⁺ + CO₃²⁻ shifts → MORE CaCO₃ dissolves to replenish the consumed carbonate. Below the ARAGONITE SATURATION HORIZON (which is rising as acidification proceeds), aragonite-form CaCO₃ actively dissolves rather than building. PRACTICAL IMPACTS on marine life: CORAL SKELETONS weaken (slower calcification, more porous structures, reduced rigidity); SHELLFISH LARVAE can't successfully build initial shells in increasingly acidic water (Pacific NW oyster industry collapse linked to upwelling acidic water hitting hatcheries); PTEROPOD SHELLS (planktonic snails, base of polar food web) literally dissolving in observation Arctic waters; CORALLINE ALGAE (key reef-cementing organisms) struggle to maintain structure; FORAMINIFERA (huge contributor to deep-sea carbon storage) produce thinner shells. Combined with BLEACHING and WARMING = catastrophic synergy threatening reef ecosystems globally. (a) Acidification doesn't change salinity meaningfully. (c) Warming is a SEPARATE effect — also driven by GHG emissions, but a different mechanism (heat absorption rather than pH chemistry). (d) Opposite — warmer / more-acidic water typically holds LESS dissolved O₂ (Henry's Law: solubility decreases with temperature).",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-180",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "What are wake waves?",
+    "options": {
+      "a": "Waves created by the movement of marine traffic",
+      "b": "Waves created specifically inside enclosed waterways",
+      "c": "Waves generated early in the morning",
+      "d": "Waves created by large ships but not small boats"
+    },
+    "correct": "a",
+    "explanation": "WAKE WAVES are the wave pattern produced by any vessel moving through water — boat traffic of any size. WAKE PHYSICS: a moving vessel pushes water aside as it advances → creates a V-shaped wake pattern (the KELVIN WAKE, described by Lord Kelvin in 1887). Wake angle is roughly 39° from the bow regardless of speed (fundamental of fluid dynamics for displacement vessels in deep water). Faster + heavier + larger = bigger wake; planing vessels (jet skis, fast RIBs) produce different (often smaller) wake than displacement vessels (sailboats, large ships). Wake can travel FAR from the source — visible wake from a passing ship can hit shore minutes after the ship has gone, kilometers away. DIVER-RELEVANT HAZARDS: surface diver SWEPT OFF — wake can capsize divers, knock off masks, push them onto rocks/jetties; moored boats rock violently in passing wake (gear flies off); small dive boats struggle in busy channels with cumulative ferry/cargo wake; gear-up surface intervals on small boats become unstable; beach exits get amplified shore-break from wake hitting shore. OPERATIONAL HANDLING: NO-WAKE ZONES legally enforced near marinas, anchorages, and dive flags; boats should SLOW when passing Alpha or Diver Down flags; divers DESCEND BELOW 5 m to escape wake turbulence; time entries to avoid being at the surface when scheduled ferries pass. (b) Wake happens in open water too, not 'specifically enclosed.' (c) Time of day irrelevant — wake is created by vessel motion regardless of time. (d) Every powered vessel produces wake; even kayaks produce small wake; jet skis produce surprisingly large wake despite being small.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-181",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "Why should divers plan to exit during slack high tide?",
+    "options": {
+      "a": "To prevent encounters with dangerous marine life",
+      "b": "To avoid strong vertical water movements",
+      "c": "To conserve gas during long dives",
+      "d": "For the best visibility and safest conditions"
+    },
+    "correct": "d",
+    "explanation": "SLACK TIDE is the brief window when tidal current is at near-zero between direction changes (high → low ebb, or low → high flood). For shore dives, exit timing matters. WHY SLACK HIGH SPECIFICALLY: (1) BEST VISIBILITY — minimal current means minimal sediment suspended; particulates have settled during the calm window. (2) SAFEST SURFACE SWIM AND BEACH APPROACH — no current dragging you sideways, no rip channel pulling out, no eddy at headlands. (3) MAXIMUM WATER DEPTH AT THE SHORE — rocks, oyster beds, sea urchins, sharp coral are submerged deeper, easier walk-out without slicing booties. (4) EASIER ROCKY OR JETTY EXITS — not climbing over exposed barnacle-encrusted rocks; the water is already close to the high mark, lift is on your side. (5) BOAT ACCESS — pickup boats / dive operators have more depth and easier mooring near shore at high water. AVOID FOR EXIT: SLACK LOW TIDE — hardest exit, exposed rocks, slippery weed, long walk over slippery uneven substrate, sometimes can't reach the water without tide-dependent passages; MID-TIDE FLOODING / EBBING — maximum tidal current, reduced visibility from churning sediment, potential to be swept off course on surface. STANDARD SHORE-DIVE PLAN: enter near slack high (or just past the peak), dive a circular route or with-current-out + against-current-back, exit on slack-high return. (a) Marine life encounters aren't tide-driven in this way. (b) Vertical water movements aren't really tide-related at this scale. (c) Gas conservation isn't a function of tide.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-182",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "Which of the following are types of waves?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Wind-generated waves and swells",
+      "c": "Surge and wake waves",
+      "d": "Rogue waves and storm surges"
+    },
+    "correct": "a",
+    "explanation": "All three pairs name real wave categories. (b) WIND WAVES are local-area waves generated directly by wind blowing over the surface — short period (a few seconds), irregular, persist while wind blows. SWELLS are wind waves that have traveled out of the generating area: longer period (10–20+ seconds), more uniform shape, lower steepness, can cross thousands of km from a distant storm to break on a distant coastline (Hawaiian winter swells originate in North Pacific storms). (c) SURGE = horizontal back-and-forth water movement caused by waves passing over a shallow area (in caves, archways, surge channels) — pushes divers around at depth. WAKE WAVES = vessel-generated (mssi-sod-180). (d) ROGUE WAVES = freak waves >2× the surrounding significant wave height — statistically rare but radar-confirmed at oil platforms; many lost-at-sea incidents attributed; caused by wave focusing in opposing currents (Agulhas Current off South Africa is notorious) or constructive interference of multiple wave trains. STORM SURGES = sea level rise during a tropical / extratropical cyclone, driven by wind pushing water onshore + low-pressure 'inverse barometer' effect; primary killer in hurricanes (Katrina, Sandy, Ike). Different mechanism from regular waves but impacts coastlines like a slow giant wave. Other wave types beyond this question: TSUNAMIS (seismic-generated, very long wavelength, deadly on shallow approach); TIDAL BORES (incoming tide as wave in narrowing rivers); STANDING WAVES; INTERNAL WAVES (between density layers within the water column).",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-183",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "What should divers do if they are caught in a strong current?",
+    "options": {
+      "a": "Swim directly against the current",
+      "b": "Add more weight so they can stay in one place",
+      "c": "Swim parallel/at an angle to the shore or drift with the current and wait to be picked up",
+      "d": "Fight the current for as long as they can"
+    },
+    "correct": "c",
+    "explanation": "Standard SSI current-escape protocol: SWIM PARALLEL TO SHORE (or at an angle out of the current band), or DRIFT WITH THE CURRENT and wait to be picked up. Same logic as escaping a riptide on the surface: don't fight the current head-on (exhausting, gas-burning), get OUT of the narrow current band sideways. If far from shore or in a drift dive, ride with the current — the boat will pick you up downstream. Deploy a dSMB for surface visibility, stay grouped with your buddy, conserve gas and energy. Drift-dive standard practice: dive with the current, exit with the current, boat picks up downstream; never plan a dive that requires upcurrent return at the end. (a) SWIM AGAINST = exhausting and gas-burning; most current-related fatalities involve divers fighting upstream until exhaustion → panic → uncontrolled ascent → DCS / drowning. (b) ADD MORE WEIGHT = won't work; current acts on the whole diver including extra weight, you just sink while being swept. Also kills your ditchable-weight margin. (d) FIGHT AS LONG AS POSSIBLE = the worst answer in current management — exhaustion underwater is the scenario where bad outcomes cascade fast.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-184",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "How can waves affect diving conditions?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Larges waves in the surf zone can be hazardous",
+      "c": "Wave action can reduce underwater visibility",
+      "d": "Choppy seas and rough conditions can make exits and entries difficult"
+    },
+    "correct": "a",
+    "explanation": "All three are real diving impacts. (b) LARGE WAVES IN THE SURF ZONE are hazardous (mssi-sod-162) — entry/exit through breaking waves can rip masks off, lose fins, slam diver onto bottom or shore rocks, smash regulator out of the mouth. Plunging breakers are particularly dangerous. (c) REDUCED UNDERWATER VISIBILITY — wave action churns sand and sediment off the bottom in shallow water (especially over sand or silt substrates); turbid plume can extend tens of meters down, persist hours after the wave activity calms. Storm-stirred sites can take days to clear. Even modest swell at the surface can produce significant near-bottom sediment suspension at 5–10 m depth on sandy bottoms. (d) DIFFICULT ENTRIES AND EXITS — boat boarding in chop is dangerous (slamming against the ladder, ladder rises and drops 1+ m, divers slammed against hull); beach entries through breakers are tough on gear and divers (surf zone management); surface swims become exhausting and disorienting in significant seas. Other wave effects worth knowing: SHALLOW SURGE at depth — calm-looking surface can have powerful rocking motion at 10–15 m above sand or coral; PENDULUM EFFECT in caves/swim-throughs (surge sweeps you back and forth, hard to hover); BOAT SEASICKNESS during surface intervals affects fitness for next dive; WAVE-INDUCED ROLLING of moored dive boats causes gear-injury and seasick crews.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-185",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "Why is slack tide considered ideal for diving activities?",
+    "options": {
+      "a": "Tide levels are their highest, providing deep waters",
+      "b": "Current strengths peak, improving underwater navigation",
+      "c": "Tidal flow eases, providing calm conditions",
+      "d": "It correlates with extreme weather, minimizing risks"
+    },
+    "correct": "c",
+    "explanation": "SLACK TIDE is the brief window when tidal current is at near zero between flood and ebb (or ebb and flood). For divers, the calm window delivers everything you want: MINIMAL CURRENT = minimal swim effort, no being swept off course, no fighting upstream to return; BEST VISIBILITY = sediment that was suspended by tidal flow has settled; EASY NAVIGATION = no current vector to compensate for, compass bearing matches actual track; SAFE BOAT OPERATIONS = boat holds position over site without dragging anchor, divers can ascend the line without being pulled away; COMFORTABLE SURFACE INTERVALS = no drift away from boat; EASIER ENTRIES AND EXITS = beach access stable, no surge in surge channels, no current battles in surface swim. The slack window is typically only 10–30 MINUTES depending on location. Some sites with strong tidal currents (UK channels — Strangford Lough, Saltstraumen Norway, Indonesian straits, Pacific Northwest narrows) MUST be dived at slack tide — the time-limited window is the only safe diving period. Local tide tables give exact slack times. Tide-cycle terms: HIGH tide → SLACK HIGH (often calmest) → EBB (outgoing flow, water falling) → SLACK LOW → FLOOD (incoming, water rising) → back to high. (a) HIGHEST TIDES applies only to slack high, not slack tide generally — slack low is also ideal but with less water depth at shore. (b) Opposite — slack = MINIMUM current, not peak. (d) Slack tide and weather are unrelated phenomena.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-186",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "What is the main focus of the study of marine biology?",
+    "options": {
+      "a": "Earth's geological processes",
+      "b": "The ocean's chemical composition",
+      "c": "Atmospheric processes",
+      "d": "Life in the ocean and its interactions"
+    },
+    "correct": "d",
+    "explanation": "MARINE BIOLOGY is the study of life in the ocean and its interactions — organisms living in saltwater, and how they interact with each other (predation, competition, symbiosis) and with their physical environment (temperature, salinity, depth, light, currents). SCOPE: ORGANISM LEVEL — anatomy, physiology, behavior, life cycles of species from microbes to whales; POPULATION LEVEL — how species' numbers change over time, distribution, migration, breeding; COMMUNITY LEVEL — multi-species interactions, food webs, predator-prey, mutualism, competition; ECOSYSTEM LEVEL — entire habitats as systems (coral reefs, kelp forests, hydrothermal vents, deep sea, polar seas); CONSERVATION BIOLOGY — applied side, marine protected areas, fisheries management, restoration. SISTER DISCIPLINES: (a) MARINE GEOLOGY / GEOLOGICAL OCEANOGRAPHY — seafloor topography, plate tectonics, sediments, mid-ocean ridges, subduction zones; (b) CHEMICAL OCEANOGRAPHY / MARINE CHEMISTRY — water composition, nutrient cycles, carbonate chemistry (ocean acidification — see mssi-sod-171); (c) ATMOSPHERIC SCIENCE / METEOROLOGY — air-sea interactions, hurricanes, El Niño/La Niña; relevant to ocean but a separate field. Together these form OCEANOGRAPHY — the umbrella that combines all approaches to studying the oceans. For divers, marine biology is what makes the dive interesting once buoyancy is dialed in: knowing species + behaviors + relationships multiplies the experience.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-187",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Which of the following statements about prokaryotes and eukaryotes is true?",
+    "options": {
+      "a": "Eukaryotes have cells with a membrane-bound nucleus",
+      "b": "Eukaryotes include all life except bacteria and archaea",
+      "c": "All answers are correct",
+      "d": "Prokaryotes are less complex than eukaryotes"
+    },
+    "correct": "c",
+    "explanation": "All three statements describe the prokaryote–eukaryote divide accurately. (a) EUKARYOTES HAVE A MEMBRANE-BOUND NUCLEUS — the defining feature. EU- (Greek 'true') + KARYON (nucleus) = 'true nucleus'. DNA is enclosed in a nuclear envelope. Eukaryotes also have other membrane-bound organelles: mitochondria (energy), endoplasmic reticulum, Golgi apparatus, lysosomes, chloroplasts in plants/algae. (b) EUKARYOTES INCLUDE ALL LIFE EXCEPT BACTERIA AND ARCHAEA — three-domain classification of life: BACTERIA (prokaryotes, single-celled, no nucleus); ARCHAEA (prokaryotes, single-celled, no nucleus, biochemically distinct; many extremophiles at hydrothermal vents, salt lakes, hot springs); EUKARYOTA (animals, plants, fungi, protists including single-celled amoebas + multicellular algae). Everything you'd recognize as 'an organism with internal cell structure visible under a microscope' is eukaryotic. (d) PROKARYOTES ARE LESS COMPLEX THAN EUKARYOTES structurally: SMALLER (typical prokaryote 1–10 µm vs eukaryote 10–100 µm); SIMPLER (no membrane-bound organelles, smaller ribosomes 70S vs 80S, circular DNA in cytoplasm vs linear chromosomes in nucleus); no internal compartmentalization. But prokaryotes are BIOCHEMICALLY MORE DIVERSE — they invented photosynthesis, nitrogen fixation, sulfur metabolism, methanogenesis. Just less STRUCTURALLY complex. MARINE RELEVANCE: marine bacteria + archaea drive nutrient cycling, decomposition, deep-sea chemosynthesis; CYANOBACTERIA (prokaryotic photosynthesizers) like Prochlorococcus are the most abundant photosynthetic organisms on Earth (~20% of atmospheric O₂ production); all visible marine life (fish, corals, mollusks, mammals) is eukaryotic.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-188",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "What is a heterotroph?",
+    "options": {
+      "a": "An energy producer such as an insect or animal",
+      "b": "An energy producer such as a plant, algae, or phytoplankton",
+      "c": "A mammal like a whale or dolphin",
+      "d": "A consumer like an insect or animal"
+    },
+    "correct": "d",
+    "explanation": "A HETEROTROPH is a CONSUMER — an organism that cannot produce its own food and must consume other organisms (or organic matter) to obtain energy and nutrients. Etymology: Greek HETERO- ('other') + TROPH- ('feeding') = 'feeds on others'. Heterotroph categories by diet: HERBIVORES eat plants/algae (parrotfish, surgeonfish, manatees, dugongs, urchins); CARNIVORES eat animals (sharks, groupers, dolphins, octopus); OMNIVORES eat both (sea turtles, many fish, crabs); DETRITIVORES / SCAVENGERS eat dead organic matter (sea cucumbers, hagfish, isopods); FILTER FEEDERS passively filter plankton (sponges, barnacles, baleen whales, manta rays, whale sharks, oysters); PARASITES feed off living hosts (some isopods, copepods, lampreys). AUTOTROPHS are the opposite — 'self-feeders' (auto + troph): PHOTOAUTOTROPHS use light + CO₂ to make food (plants, algae, phytoplankton, cyanobacteria — the PRIMARY PRODUCERS, base of nearly every food web); CHEMOAUTOTROPHS use chemical energy (oxidizing H₂S, CH₄, NH₃) to fix carbon (deep-sea vent bacteria, sulfur bacteria; base of dark-zone food webs at hydrothermal vents). Trophic flow in marine food webs: PRIMARY PRODUCERS (autotrophs) → PRIMARY CONSUMERS (herbivores) → SECONDARY CONSUMERS (carnivores eating herbivores) → TERTIARY CONSUMERS (top predators eating other predators) → DECOMPOSERS (heterotrophic bacteria + scavengers). (a) Animals as 'producers' is wrong direction — animals are consumers. (b) Plants/algae/phytoplankton are AUTOTROPHS, opposite of heterotroph. (c) Whales/dolphins ARE heterotrophs (they eat other organisms) but the answer phrasing emphasizes 'mammal' which isn't the defining trait of heterotrophy. (d) is the precise definition.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-189",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "What organisms make up zooplankton?",
+    "options": {
+      "a": "Algae",
+      "b": "Protists like diatoms and dinoflagellates",
+      "c": "Archaea and bacteria",
+      "d": "Protozoa, eggs and larvae, and animals"
+    },
+    "correct": "d",
+    "explanation": "ZOOPLANKTON = animal plankton — heterotrophic drifters in the water column. Composition: (1) PROTOZOA — single-celled 'animals' (technically protists): radiolarians, foraminifera, ciliates, tintinnids. Tiny but staggeringly abundant. (2) EGGS AND LARVAE (called MEROPLANKTON because they're plankton only for part of their life): fish eggs and fry; crab/lobster zoea + megalopa larvae; mollusk veligers (snail/clam larvae); echinoderm bipinnaria/pluteus (sea star, urchin larvae); coral planula (free-swimming coral babies); polychaete trochophores. Most marine animals have planktonic larval stages — dispersal mechanism. (3) ANIMALS (HOLOPLANKTON, plankton for whole life): COPEPODS — most abundant animal on Earth (~10²¹ individuals); base of marine food webs above phytoplankton; KRILL (Euphausiids) — base of polar food chains, fed on by whales, fish, penguins; JELLYFISH, SALPS, CTENOPHORES — gelatinous zooplankton; CHAETOGNATHS (arrow worms) — predatory zooplankton; PTEROPODS ('sea butterflies') — planktonic snails; LARVACEANS that build mucous houses to filter food. (a) Algae = PHYTOPLANKTON (plant plankton), opposite category. (b) Diatoms + dinoflagellates = PHYTOPLANKTON (photosynthetic protists; some dinoflagellates are mixotrophic but classified as phyto). (c) Archaea + bacteria = BACTERIOPLANKTON / PICOPLANKTON, separate category.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-190",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Which of the following are key parts of a nutrient cycle?",
+    "options": {
+      "a": "Waste is consumed by detritivores and converted into usable nutrients",
+      "b": "All answers are correct",
+      "c": "Nutrients are excreted by organisms",
+      "d": "Nutrients are consumed by primary producers"
+    },
+    "correct": "b",
+    "explanation": "All three describe key stages of marine nutrient cycling. (a) DETRITIVORES BREAK DOWN WASTE / DEAD MATTER into reusable nutrients — bacteria, fungi, sea cucumbers, sand-dwelling worms, hagfish, scavenging crabs all decompose organic matter, MINERALIZING it back to inorganic nutrient forms (NH₄⁺ → NO₃⁻, phosphates, silicates) that producers can use again. (c) NUTRIENTS EXCRETED BY ORGANISMS — every animal excretes waste (urea, ammonia, feces, scales). These directly fertilize surrounding water; WHALE POOP for example is a major nutrient pump in surface waters (whales feed deep, surface to defecate, fertilizing phytoplankton blooms — known as the 'whale pump'). Fish gill ammonia excretion does the same on smaller scale. (d) NUTRIENTS CONSUMED BY PRIMARY PRODUCERS — phytoplankton uptake dissolved N, P, Si, Fe to fuel photosynthesis and cell building; this is where inorganic nutrients become organic biomass, restarting the cycle. FULL MARINE NUTRIENT CYCLE: producers fix nutrients (CO₂ + N + P + Fe → biomass) → consumers eat producers (transfer up food chain) → excretion + death + decomposition (nutrients return to dissolved form) → detritivores + bacteria mineralize (organic → inorganic) → available again for producers → cycle complete. CRITICAL LIMITING NUTRIENTS in the ocean: NITROGEN (most coastal waters), PHOSPHORUS (some tropical), IRON (open Pacific high-nutrient-low-chlorophyll regions). Iron limitation is why Saharan dust fertilizes Atlantic phytoplankton blooms.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-191",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Which species plays a critical role in maintaining the population structure of an ecosystem?",
+    "options": {
+      "a": "Keystone species",
+      "b": "Holdfast",
+      "c": "Symbiont",
+      "d": "Top predator"
+    },
+    "correct": "a",
+    "explanation": "A KEYSTONE SPECIES has DISPROPORTIONATELY LARGE impact on its ecosystem relative to its abundance. Term coined by ecologist Robert Paine in 1969 based on his work with the OCHRE SEA STAR (Pisaster ochraceus) on Pacific Northwest rocky shores — when he removed Pisaster, mussel monocultures took over and biodiversity collapsed. The 'keystone' name comes from architecture: the central wedge in a stone arch — remove it and the whole structure collapses. CLASSIC MARINE KEYSTONE EXAMPLES: SEA OTTERS (Pacific NW) eat sea urchins; without otters, urchins explode and overgraze kelp forests → 'urchin barrens'. Otter recovery has restored kelp ecosystems. PARROTFISH (Caribbean reefs) graze algae off coral; without them, algae overgrows coral and reefs degrade. SHARKS (reef ecosystems) provide top-down control on mid-trophic predators; in shark-depleted reefs, herbivore populations crash → algae takeover. SEA STARS (Pisaster, original example) prevent mussel monoculture by predation. Distinct concepts: (b) HOLDFAST = root-like attachment structure of kelp/seaweed to substrate, an anatomical feature, not a species. (c) SYMBIONT = partner in a symbiotic relationship (clownfish ↔ anemone, coral ↔ zooxanthellae); not necessarily ecosystem-critical. (d) TOP PREDATOR = at top of food web; many keystones ARE top predators (otters, sharks) but not all keystones are top predators (parrotfish are herbivores), and not all top predators are keystones — depends on whether their removal cascades through the system. Keystone is a function, top predator is a position.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-192",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "What is a food web?",
+    "options": {
+      "a": "A group of consumers",
+      "b": "A complex system of interconnecting food chains",
+      "c": "A sequence of animals from large to small",
+      "d": "A linear sequence demonstrating the flow and energy of nutrients"
+    },
+    "correct": "b",
+    "explanation": "A FOOD WEB is a complex NETWORK of INTERCONNECTED FOOD CHAINS showing all feeding relationships in an ecosystem. Compare with a FOOD CHAIN, which is a LINEAR sequence: phytoplankton → zooplankton → small fish → larger fish → shark. A food web is the REALITY: most organisms eat multiple species and are eaten by multiple predators, so multiple food chains tangle together into a network. Caribbean reef example: parrotfish eats algae + coral polyps + invertebrates → eaten by groupers + barracuda + sharks; barracuda also eats squid + smaller fish; algae also eaten by surgeonfish + urchins... web of arrows, not a single line. WHY FOOD WEBS MATTER: RESILIENCE — if one species crashes, alternative pathways exist for energy flow; CASCADING EFFECTS — removing one node ripples through the web (the basis of keystone-species concept, mssi-sod-191); TROPHIC LEVELS still apply (producers → herbivores → primary carnivores → top carnivores → decomposers) but most species span multiple levels (omnivores, ontogenetic shifts where juveniles eat differently than adults). (a) 'Group of consumers' is too vague and misses producers + decomposers. (c) Size doesn't define trophic position — mantis shrimp eat fish much larger than themselves; small parasites eat huge whales. (d) LINEAR SEQUENCE = food CHAIN, not web.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-193",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Phytoplankton is mainly comprised of:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Prokaryotes like bacteria and archaea",
+      "c": "Protists like diatoms and dinoflagellates",
+      "d": "Algae"
+    },
+    "correct": "a",
+    "explanation": "PHYTOPLANKTON = autotrophic drifting microorganisms — an UMBRELLA TERM that includes diverse photosynthetic groups, all three listed in (b–d). (b) PROKARYOTES — CYANOBACTERIA: PROCHLOROCOCCUS (smallest and most abundant photosynthetic organism on Earth, ~10²⁷ cells) and SYNECHOCOCCUS together produce a major fraction of marine primary production; TRICHODESMIUM is a nitrogen-fixing cyanobacterium that blooms 'red tide'-like in tropical seas (red color gave the Red Sea its name). (c) PROTISTS — DIATOMS (silica-shelled frustules; cold-water/coastal blooms; backbone of polar food webs; produce ~50% of marine primary production); DINOFLAGELLATES (flagellated, often armored with cellulose plates; some bioluminescent — cause 'sea sparkle'; some toxic blooms — Karenia, Alexandrium causing red tides; includes SYMBIODINIUM, the zooxanthellae living in coral); COCCOLITHOPHORES (CaCO₃ plates; major contributor to chalk deposits — White Cliffs of Dover are coccolith fossils). (d) ALGAE (broad term): in strict usage 'algae' = eukaryotic photosynthetic protists + macroalgae; single-celled algae are part of phytoplankton; multi-cellular seaweed is benthic (not plankton). So phytoplankton is the catch-all that includes prokaryotic cyanobacteria + eukaryotic protist algae + other photosynthetic drifters. (a) all correct.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-194",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Seagrasses are considered the only true marine plants because:",
+    "options": {
+      "a": "They can only survive fully submerged in water",
+      "b": "They do not have seeds or roots",
+      "c": "They are the only marine species with true roots, leaves, stems and flowers",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "SEAGRASSES are the only true flowering plants (ANGIOSPERMS) that complete their entire life cycle FULLY SUBMERGED in seawater. They have all the features of land plants — adapted to marine life: TRUE ROOTS (anchor in sediment, uptake nutrients, stabilize substrate); TRUE STEMS (rhizomes spread horizontally underground; vertical shoots support leaves); TRUE LEAVES (chlorophyll, vascular tissue, photosynthesis); TRUE FLOWERS (yes — seagrasses FLOWER UNDERWATER, small and inconspicuous, and produce SEEDS; pollination via water — hydrophilous — or sometimes invertebrates as recent research has found). MAJOR SEAGRASS GENERA: ZOSTERA (eelgrass — temperate); THALASSIA (turtle grass — Caribbean); POSIDONIA OCEANICA (Mediterranean — one of the longest-lived organisms on Earth, clonal beds up to 100,000 years old); HALODULE, CYMODOCEA, SYRINGODIUM (tropical Indo-Pacific). DISTINCT FROM: SEAWEED / MACROALGAE (kelps, sargassum, ulva) — these are NOT plants, they're protists; no true roots (have HOLDFASTS), no flowers, reproduce via spores. MANGROVES are true flowering plants but only roots in water, trunks/leaves above — partially terrestrial. SALT-MARSH GRASSES (Spartina) are true plants but live in the tidal zone, not fully submerged. WHY THIS MATTERS: seagrasses are critical BLUE CARBON ecosystems (huge carbon sequestration), nursery habitat, food for dugongs / manatees / green sea turtles, oxygen producers, sediment stabilizers. (a) True they're fully submerged but not the DEFINING trait of 'true plant'. (b) Wrong — they DO have seeds and roots, that's the WHOLE POINT. (d) Wrong because (b) is false.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-195",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "The maximum number of individuals of a particular species that an ecosystem can support is called the:",
+    "options": {
+      "a": "Abiotic factor",
+      "b": "Diversity",
+      "c": "Exponential growth",
+      "d": "Carrying capacity"
+    },
+    "correct": "d",
+    "explanation": "CARRYING CAPACITY (K) = the maximum population of a species that an environment can sustain INDEFINITELY given available resources (food, habitat, water, space, mates, light) and biotic constraints (predators, disease, competitors). LOGISTIC GROWTH MODEL describes the dynamics: population grows roughly exponentially when small (plenty of resources); growth rate SLOWS as population approaches K (resources scarce); population STABILIZES at K (births ≈ deaths); if population OVERSHOOTS K, mortality > births → crash back down (population cycles). FACTORS DETERMINING K for marine species: FOOD AVAILABILITY (herbivorous urchins limited by algae; predator populations by prey); HABITAT / SPACE (coral reef fish limited by hidey-hole density; territoriality); PREDATION PRESSURE (top predators limited by competition; prey limited by predation); DISEASE / PARASITES (density-dependent transmission); COMPETITION (for any limited resource — mates, nesting sites, territory); ABIOTIC FACTORS (water temperature, salinity, oxygen, pH set baseline range). K IS DYNAMIC, not fixed: climate change alters temperature regimes → K shifts up for warm-water species, down for cold-water; overfishing reduces K by destroying spawning stock; habitat restoration raises K. (a) ABIOTIC FACTOR = non-living environmental component (temperature, salinity, pH, light, depth, current); influences K but isn't the same concept. (b) DIVERSITY = number of species (richness) + their relative abundance (evenness); different metric. (c) EXPONENTIAL GROWTH = unrestricted growth rate (constant per-capita rate); OPPOSITE of carrying-capacity-limited dynamics. Real populations grow exponentially only briefly when far below K.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-196",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Most annelids defend themselves by:",
+    "options": {
+      "a": "Hiding",
+      "b": "Burrowing into sand",
+      "c": "Excreting toxic chemicals",
+      "d": "Changing color"
+    },
+    "correct": "b",
+    "explanation": "Most marine ANNELIDS (segmented worms) defend themselves by BURROWING INTO SAND / SEDIMENT or retracting into protective tubes. Marine annelid cohort: POLYCHAETES (bristle worms) are the most diverse marine group, ~10,000+ species. Includes Christmas tree worms (Spirobranchus), fan worms (Sabella), feather duster worms, fire worms (Hermodice), bobbit worms (Eunice aphroditois), parchment worms, palolo worms, scale worms. DEFENSE STRATEGIES by annelid type: (1) TUBE-DWELLING POLYCHAETES — Christmas tree worms, fan worms, feather dusters — when threatened, RETRACT INSTANTLY into a hard calcareous or parchment tube. The colorful 'feather' or 'tree' visible is just the feeding/respiratory apparatus; the rest of the worm is hidden inside the tube. Touch one with your finger and it disappears in milliseconds. (2) BURROWING POLYCHAETES — bobbit worms, lugworms, sand mason worms — live in U-shaped or vertical burrows in sand/mud; retract or burrow deeper when disturbed. (3) TUBE-LESS POLYCHAETES — some bristle worms, fire worms — have STINGING CHAETAE (calcified/chitinous bristles) that break off in attacker's skin like glass needles; FIRE WORMS (Hermodice carunculata) deliver painful sting to careless divers, bristles stick like cactus spines. (4) SYMBIOTIC / COMMENSAL polychaetes living with sea urchins, brittle stars, sponges — defended by host's armor. The DOMINANT strategy across annelids: withdrawal into tube or burrow (b). (a) 'Hiding' is too vague; mechanism is specifically burrowing or retracting into tubes. (c) Some bristle worms have toxic chaetae but not the majority of annelids. (d) Color change is a CEPHALOPOD specialty (octopus, cuttlefish, squid) — annelids generally lack chromatophores.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-197",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Some flatworms protect themselves by mimicking:",
+    "options": {
+      "a": "Anemones",
+      "b": "Toxic nudibranchs",
+      "c": "Box jellyfish",
+      "d": "Sea cucumbers"
+    },
+    "correct": "b",
+    "explanation": "Marine FLATWORMS (Polycladida — Pseudoceros, Pseudobiceros, etc.) often MIMIC TOXIC NUDIBRANCHS to deter predators — a textbook example of BATESIAN MIMICRY: a harmless species evolves to resemble a harmful one, gaining protection without paying the metabolic cost of producing real defenses. THE MIMICRY PAIR: NUDIBRANCHS are toxic sea slugs (gastropods) that store stinging cells, sponge toxins, or other defensive chemicals SEQUESTERED from their prey. Their bright APOSEMATIC coloration honestly advertises 'don't eat me, I'm poisonous.' FLATWORMS are mostly NOT toxic but have evolved to look uncannily similar in shape, color pattern, and movement — predators that have learned to avoid bright nudibranchs avoid flatworms too. HOW TO TELL THEM APART (the diver/photographer ID trick): FLATWORMS are extremely thin (a few mm thick at most), flutter and ripple gracefully when swimming like a piece of fabric, have at most two 'ears' (pseudo-tentacles) at the front, no gills. NUDIBRANCHS are thicker-bodied with visible RHINOPHORES (sensory tentacles on head), often a tuft of GILLS on the back, and crawl rather than ripple. Iconic mimics: Pseudobiceros flatworms mimic Phyllidia or Chromodoris nudibranchs; Pseudoceros species mimic various brightly-patterned nudibranchs across the Indo-Pacific. (a) Anemones are sessile cnidarians, completely different body plan. (c) Box jellies are pelagic gelatinous predators, very different morphology. (d) Sea cucumbers are sausage-shaped echinoderms — flatworms don't resemble them.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-198",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Nematocysts are capable of:",
+    "options": {
+      "a": "Capturing prey and creating camouflage",
+      "b": "Absorbing carbon dioxide and capturing prey",
+      "c": "Changing colors and injecting toxins",
+      "d": "Injecting toxins or capturing prey"
+    },
+    "correct": "d",
+    "explanation": "NEMATOCYSTS are the stinging cells of phylum Cnidaria — specialized intracellular structures inside CNIDOCYTES (also called nematocytes) that fire EXPLOSIVELY to inject venom or capture prey. HOW THEY WORK (one of the fastest biological processes known): (1) the cnidocyte contains a coiled hollow tube under high osmotic pressure; (2) a CNIDOCIL hair-trigger sensor on the cell surface detects touch / chemical cue; (3) trigger releases internal pressure → the coiled tube fires out at ~5 m/s with accelerations exceeding 5 MILLION g — one of the fastest cellular movements documented, penetrating prey/attacker tissue; (4) toxin is injected through the hollow tube, paralyzing prey. FUNCTIONS: CAPTURE SMALL PREY (plankton, small fish, shrimp — harpoon-and-paralyze); DEFENSE (sting attackers, including divers); some types ADHESION (sticky rather than penetrating). Different cnidocyte specializations: PENETRANTS (harpoon, deep sting — Cubozoa box jellies, Portuguese man-o-war); GLUTINANTS (sticky, no penetration); VOLVENTS (entangling). Cnidarian sting severity for divers: anemones (mild itch), most reef corals (irritation), FIRE CORAL / HYDROIDS (burning sting that lasts hours), most jellyfish (welts), Portuguese man-o-war (severe pain, sometimes systemic effects), box jellyfish + IRUKANDJI syndrome (potentially lethal). (a) Camouflage isn't a nematocyst function — that's chromatophores or behavior. (b) CO₂ absorption isn't a nematocyst role. (c) Color change is via chromatophores (cephalopods), not nematocysts.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-199",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Anemones, jellyfish, and corals belong to Phylum:",
+    "options": {
+      "a": "Cnidaria",
+      "b": "Echinodermata",
+      "c": "Vertebrata",
+      "d": "Porifera"
+    },
+    "correct": "a",
+    "explanation": "PHYLUM CNIDARIA ('nettle animals' — Greek knide = nettle) unifies anemones, jellyfish, corals, hydroids, fire coral, hydra. DEFINING CHARACTERISTICS: (1) NEMATOCYSTS — the namesake stinging cells (mssi-sod-198); (2) RADIAL SYMMETRY — body organized around a central axis (no left/right, just top and bottom); (3) DIPLOBLASTIC — only two embryonic tissue layers (ectoderm + endoderm; no mesoderm); (4) SINGLE BODY OPENING — the same orifice serves as mouth and anus (gastrovascular cavity); (5) TWO BASIC BODY FORMS that alternate in many life cycles: POLYP (sessile, attached, mouth up — anemones, corals, hydra) and MEDUSA (free-swimming, mouth down — jellyfish). CNIDARIAN CLASSES: ANTHOZOA (sea anemones + hard corals + soft corals; only polyp form, no medusa; the largest class); SCYPHOZOA (true jellyfish, medusa-dominant, large bell, e.g. moon jelly Aurelia); CUBOZOA (box jellyfish, cube-shaped bell, complex eyes, deadly toxins, Chironex fleckeri); HYDROZOA (hydroids, FIRE CORAL Millepora — actually a hydrozoan despite the name, Portuguese man-o-war as colonial siphonophore, hydra); STAUROZOA (rare stalked jellyfish, small, sessile). (b) ECHINODERMATA = sea stars, urchins, sand dollars, sea cucumbers, brittle stars — radially symmetric (5-fold), water vascular system, tube feet — completely different phylum. (c) VERTEBRATA = animals with backbones (fish, amphibians, reptiles, birds, mammals) — much higher up the tree. (d) PORIFERA = sponges — simplest animal phylum, no true tissues, no nervous system, no symmetry, filter feeders.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-200",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Why are marine arthropods important to their food chain?",
+    "options": {
+      "a": "Horseshoe crab eggs are a major food source for many shorebirds",
+      "b": "Larger crustaceans are a food source for many marine animals",
+      "c": "Smaller crustaceans eat algae, allowing sunlight and oxygen to reach plants and corals",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three roles describe real ecological functions of marine arthropods. (a) HORSESHOE CRAB EGGS FEED SHOREBIRDS — most famous example: RED KNOT SANDPIPERS (Calidris canutus rufa) time their epic migration from Tierra del Fuego to the Arctic to coincide with horseshoe crab (Limulus polyphemus) mass spawning in Delaware Bay each spring. They gorge on the lipid-rich eggs to fuel the final 3000+ km flight. Horseshoe crab decline (overharvest for the biomedical industry — their blue blood is used in pharmaceutical endotoxin testing — and bait fishery) has driven red knot population collapse. (b) LARGER CRUSTACEANS FEED MARINE ANIMALS — lobsters, crabs, mantis shrimp, slipper lobsters, large prawns are eaten by groupers, snappers, octopuses, eels, sharks, sea otters, even some seabirds. High-protein food source up the food chain. (c) SMALLER CRUSTACEANS GRAZE ALGAE — amphipods, isopods, copepods, krill, mysids graze algae and detritus; their grazing prevents algal overgrowth that would shade reefs and seagrass beds. Amphipods on reefs are particularly important 'lawn mowers' keeping coral surfaces clean of overgrowing turf algae. Krill grazing structures whole polar food webs. Marine arthropods (crustaceans + horseshoe crabs) are a TROPHIC LINCHPIN — both prey for everything bigger AND grazers/cleaners maintaining ecosystem function.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-201",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "As their body grows, arthropods:",
+    "options": {
+      "a": "Molt their exoskeleton",
+      "b": "Grow additional legs",
+      "c": "Merge body segments",
+      "d": "Change colors"
+    },
+    "correct": "a",
+    "explanation": "Arthropods are encased in a hard chitinous EXOSKELETON (cuticle) that CANNOT STRETCH. To grow, they MOLT — shed the old exoskeleton and grow a new larger one. The molting process (ECDYSIS): (1) PRE-MOLT — a new soft cuticle forms beneath the old hard one; old cuticle is partially digested from the inside; animal stops feeding, often hides. (2) ECDYSIS — split appears along a predictable line (often dorsal); animal pulls itself out (hours-long for big lobsters). (3) POST-MOLT — new cuticle is SOFT AND PALE ('soft-shell' stage, most vulnerable; soft-shell crab is just a recently-molted blue crab); animal hides under cover. (4) HARDENING — new cuticle hardens via mineralization (calcium carbonate from seawater) and tanning (sclerotization), 6–48 hours depending on species/size. (5) INTER-MOLT — hard cuticle, normal feeding until next pre-molt starts. FREQUENCY: juveniles molt frequently (days to weeks); adults slowly (annually for large lobsters; some adult crabs go years between molts). SIZE INCREASE: each molt adds typically 10–25% body size. VULNERABILITY: no defense during soft-shell stage — easy predation, cannibalism in captivity, metabolically expensive. CURIOSITIES: stone crab fishery harvests one claw because the crab regrows it; horseshoe crab molts wash up on beaches looking like dead crabs (but the animal is alive elsewhere); American lobsters living 50+ years molt 25+ times reaching impressive sizes. (b) Leg count is FIXED for the species (crabs always have 10). (c) Body segments are fixed at hatching. (d) Some arthropods change color (mantis shrimp, certain camouflaging crabs) but color change is not growth-driven.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-202",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Simple invertebrates are called so because they have a:",
+    "options": {
+      "a": "Simple body structure without respiratory or circulatory systems",
+      "b": "Complex body structure without respiratory or circulatory systems",
+      "c": "Simple body structure with respiratory or circulatory systems",
+      "d": "No legs"
+    },
+    "correct": "a",
+    "explanation": "'SIMPLE INVERTEBRATES' are so named because they have a BASIC BODY STRUCTURE WITHOUT DEDICATED RESPIRATORY OR CIRCULATORY SYSTEMS — gas exchange and nutrient distribution happen by DIRECT DIFFUSION across the body surface or through a gastrovascular cavity. INCLUDES: (1) PORIFERA (sponges) — simplest of all animals, no organs, no tissues in the strict sense; water flows through pores (ostia) into a central cavity (spongocoel) and out the osculum, with collar cells (choanocytes) filtering food and passively exchanging gases. (2) CNIDARIA (anemones, jellyfish, corals) — nerve net but no centralized brain, no heart, no blood vessels; gas exchange across thin body wall via diffusion. (3) PLATYHELMINTHES (flatworms) — flat shape maximizes surface area for diffusion; no respiratory or circulatory system; the gut is branched to deliver nutrients without a vascular system. (4) Some annelids and other early-branching groups vary. WHY NO RESPIRATORY/CIRCULATORY SYSTEM WORKS: thin body walls + small body size + flat or branched shapes = every cell is close enough to the surface for direct diffusion to handle O₂/CO₂ and nutrient transfer. Once animals get larger and more compact (mollusks, arthropods, vertebrates), this stops working — they require dedicated gills/lungs + heart + circulatory vessels. (b) 'Complex without systems' is a contradiction — complex bodies need systems. (c) Simple bodies WITH systems contradicts itself. (d) Many vertebrates have no legs (snakes, fish, eels), so legs aren't the defining trait of body complexity.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-203",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Many echinoderms protect themselves by:",
+    "options": {
+      "a": "Changing colors",
+      "b": "Secreting toxins",
+      "c": "Using pincers",
+      "d": "Burrowing into sand"
+    },
+    "correct": "b",
+    "explanation": "Many echinoderms protect themselves CHEMICALLY — through toxin secretion or defensive compounds. (1) SEA CUCUMBERS are the masters: CUVIERIAN TUBULES — internal sticky (sometimes toxic) threads ejected from the anus when stressed, entangle attackers; HOLOTHURIN / saponins — toxic compounds in body wall, concentrated enough to kill fish in a small aquarium if a stressed sea cucumber releases them (this is why some Indo-Pacific aquarists never put sea cucumbers in tanks with valuable fish). (2) SEA STARS — crown-of-thorns (Acanthaster planci) has venomous spines causing severe pain + tissue damage; many other sea stars are toxic to taste (deters predators chemically). (3) SEA URCHINS — combined defense: spines (mechanical) + some species have VENOMOUS SPINES (flower urchin Toxopneustes pileolus has flower-like pedicellariae carrying toxin, fire urchin); pedicellariae (tiny pincers between spines) are also venomous in some. (4) BRITTLE STARS — some species autotomize (drop) arms when grabbed (regrow later); chemical secretions in some species. While spines (urchins) and rigid skin (sea stars) provide mechanical defense, the unifying chemical strategy across the phylum is TOXIN SECRETION — that's the answer. (a) Color change isn't a notable echinoderm strategy (no chromatophores). (c) PEDICELLARIAE are tiny pincer-like organs on some echinoderms but secondary to toxins + spines. (d) Some sand dollars and heart urchins burrow, but burrowing isn't the dominant echinoderm defense.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-204",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Which of the following roles do marine invertebrates fulfill in an underwater ecosystem?",
+    "options": {
+      "a": "Filtering particles from water",
+      "b": "Cleaning algae from coral reefs and remove parasites from fish",
+      "c": "All answers are correct",
+      "d": "Nutrient cycling"
+    },
+    "correct": "c",
+    "explanation": "Marine invertebrates fulfill all three roles — they are the unsung backbone of every marine ecosystem. (a) FILTERING PARTICLES FROM WATER — countless invertebrate species are filter feeders, dramatically improving water quality: SPONGES pump water through their bodies (a single sponge can filter hundreds of liters per day); BIVALVES (oysters, mussels, clams) — oyster reefs historically filtered Chesapeake Bay's entire volume in 3–4 days, now (post-collapse) it takes a year; mussels, scallops, clams all major filterers; BARNACLES sweep plankton with cirri; SEA SQUIRTS pump water through siphons; TUBE-DWELLING POLYCHAETES use feathery feeding fans (Christmas tree worms, fan worms); SEA CUCUMBERS filter sediment. (b) CLEANING + PARASITE REMOVAL — keystone services: SEA URCHINS graze algae off rocks and reefs (over-grazing produces 'urchin barrens'; under-grazing lets algae overgrow coral); CLEANER SHRIMP (Lysmata, Stenopus) set up CLEANING STATIONS where fish queue up to have parasites, dead tissue, and ectoparasites picked off — symbiotic mutualism; CRABS clean algae and detritus from coral; bristle worms scavenge dead matter. (d) NUTRIENT CYCLING — decomposers and detritivores recycle nutrients back into the food web: sea cucumbers process huge amounts of sediment redistributing nutrients; polychaetes, isopods, amphipods decompose detritus; bacteria + invertebrate scavengers complete nutrient mineralization. Without invertebrates, marine ecosystems collapse — fish are the visible top, but invertebrates do most of the actual work below.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
   }
 ]
