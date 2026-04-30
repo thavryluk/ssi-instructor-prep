@@ -81,6 +81,23 @@
 .user-pill.hidden { display: none; }
 
 .login-card { max-width: 420px; }
+.guest-card {
+  max-width: 420px;
+  text-align: center;
+  border: 2px solid var(--accent);
+  margin-bottom: 1rem;
+}
+.guest-card h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.25rem;
+  color: var(--accent);
+}
+.guest-card p { margin-bottom: 1rem; }
+button.primary.big {
+  font-size: 1.1rem;
+  padding: 0.85rem 1.5rem;
+  width: 100%;
+}
 .login-label { display: block; margin-bottom: 0.75rem; font-size: 0.9rem; color: var(--muted); }
 .login-label input { display: block; width: 100%; margin-top: 0.3rem; padding: 0.55rem 0.75rem; font-size: 1rem; border: 1px solid var(--border); border-radius: 8px; background: var(--bg-elev); color: var(--text); }
 .login-label input:focus { outline: none; border-color: var(--accent); }

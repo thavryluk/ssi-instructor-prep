@@ -60,6 +60,11 @@
     <section id="login-screen" class="screen hidden">
       <h1 data-i18n="login.title">Sign in</h1>
       <p class="muted" data-i18n="login.intro">Each user has their own progress (drill log, mastered, dashboard). Pick a username — register first time, then log in.</p>
+      <div class="card guest-card">
+        <h2 data-i18n="login.guest_title">Just want to try?</h2>
+        <p class="muted" data-i18n="login.guest_intro">No account, no cloud sync — start drilling right away. Your progress is saved on this device only.</p>
+        <button type="button" id="btn-guest" class="primary big" data-i18n="login.guest_cta">Start without an account →</button>
+      </div>
       <div class="card login-card">
         <form id="login-form">
           <label class="login-label">

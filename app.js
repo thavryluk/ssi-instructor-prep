@@ -26,6 +26,9 @@ const I18N = {
     // Login
     "login.title": "Sign in",
     "login.intro": "Each user has their own progress (drill log, mastered, dashboard). Pick a username — register first time, then log in.",
+    "login.guest_title": "Just want to try?",
+    "login.guest_intro": "No account, no cloud sync — start drilling right away. Your progress is saved on this device only.",
+    "login.guest_cta": "Start without an account →",
     "login.username": "Username",
     "login.password": "Password",
     "login.password_placeholder": "anything (or empty)",
@@ -351,6 +354,9 @@ const I18N = {
     // Login
     "login.title": "Přihlášení",
     "login.intro": "Každý uživatel má vlastní postup (záznam odpovědí, naučené otázky, statistiky). Vyber si jméno — poprvé Vytvoř účet, pak Přihlás se.",
+    "login.guest_title": "Jen chceš zkusit?",
+    "login.guest_intro": "Bez účtu, bez cloudu — můžeš drilovat hned. Postup se ukládá jen v tomto zařízení.",
+    "login.guest_cta": "Začít bez účtu →",
     "login.username": "Jméno",
     "login.password": "Heslo",
     "login.password_placeholder": "cokoliv (může být i prázdné)",
@@ -1086,6 +1092,37 @@ function setCurrentUser(name) {
   else localStorage.removeItem(CURRENT_USER_KEY);
 }
 
+// Guest user = no cloud login, state stays local-only on this device.
+// Guest username is auto-generated as `guest-<8 random chars>` and
+// persists in localStorage so the same browser keeps progress across
+// refreshes. Cloud push/pull are skipped for guests.
+function isGuestUser(name) {
+  return typeof name === "string" && name.startsWith("guest-");
+}
+
+function generateGuestId() {
+  const rnd = Math.random().toString(36).slice(2, 10);
+  return `guest-${rnd}`;
+}
+
+async function startGuestSession() {
+  // Reuse existing guest ID on this device, or mint a new one
+  let username = getCurrentUser();
+  if (!isGuestUser(username)) {
+    username = generateGuestId();
+    setCurrentUser(username);
+  }
+  // No cloud pull for guest — load whatever's already in localStorage
+  loadState();
+  buildSubareaIndex();
+  buildMssiSectionIndex();
+  refreshUserPill();
+  renderFooterVersion();
+  refreshStats();
+  renderHome();
+  show("home-screen");
+}
+
 let _syncAvailable = null;        // null = unknown, true/false after first probe
 let _syncTimer = null;
 
@@ -1098,6 +1135,8 @@ function syncEndpoint(user) {
 
 async function loadStateForCurrentUser() {
   const user = getCurrentUser();
+  // Guest users are local-only — skip cloud pull entirely
+  if (isGuestUser(user)) { _syncAvailable = false; return false; }
   // Try cloud (with user) first if logged in, else local /state
   try {
     const url = syncEndpoint(user);
@@ -1134,12 +1173,14 @@ function scheduleStateSync() {
 
 async function pushStateToServer() {
   if (_syncAvailable === false) return;
+  const user = getCurrentUser();
+  // Guests don't have a cloud account — keep state local
+  if (isGuestUser(user)) return;
   const payload = {};
   for (const k of SYNC_KEYS) {
     const v = localStorage.getItem(k);
     if (v != null) payload[k] = v;
   }
-  const user = getCurrentUser();
   try {
     const r = await fetch(syncEndpoint(user), {
       method: "POST",
@@ -2560,6 +2601,14 @@ function showLoginError(msg) {
 function initLogin() {
   const form = $("#login-form");
   if (!form) return;
+  const guestBtn = $("#btn-guest");
+  if (guestBtn) {
+    guestBtn.addEventListener("click", async () => {
+      showLoginError("");
+      try { await startGuestSession(); }
+      catch (e) { showLoginError(e.message); }
+    });
+  }
   $("#btn-register").addEventListener("click", async () => {
     const username = $("#login-username").value.trim().toLowerCase();
     const password = $("#login-password").value;
