@@ -893,11 +893,16 @@ function sourceLabel(k) {
   return t("browse.src." + k);
 }
 
-// All subareas grouped by area, sorted, computed once after questions load
+// All subareas grouped by area, sorted, computed once after questions load.
+// Lock-aware: when Personal is locked, personal-source questions are excluded
+// from the index so chips show real available pool size and don't appear if
+// every question in that group is locked behind password.
 let subareaIndex = {}; // { area: [{ group, count }] }
 function buildSubareaIndex() {
   subareaIndex = {};
+  const unlocked = isPersonalUnlocked();
   for (const q of state.questions) {
+    if (!unlocked && sourceTypeKey(q) === "personal") continue;
     if (!subareaIndex[q.area]) subareaIndex[q.area] = new Map();
     const g = subareaGroup(q);
     subareaIndex[q.area].set(g, (subareaIndex[q.area].get(g) || 0) + 1);
@@ -911,6 +916,25 @@ function buildSubareaIndex() {
 }
 
 function subareaKey(area, group) { return `${area}:${group}`; }
+
+// Drop area + subarea selections that no longer exist after subareaIndex
+// rebuilds (e.g. when Personal locks, Dive-Guide-only divemaster subarea
+// disappears, or fully-personal areas like open_water_diver vanish).
+function pruneInvalidFilterSelections() {
+  const validAreas = new Set(Object.keys(subareaIndex));
+  const validSubKeys = new Set();
+  for (const [a, groups] of Object.entries(subareaIndex)) {
+    for (const { group } of groups) validSubKeys.add(subareaKey(a, group));
+  }
+  let changed = false;
+  for (const a of [...state.selectedAreas]) {
+    if (!validAreas.has(a)) { state.selectedAreas.delete(a); changed = true; }
+  }
+  for (const k of [...state.selectedSubareas]) {
+    if (!validSubKeys.has(k)) { state.selectedSubareas.delete(k); changed = true; }
+  }
+  if (changed) { saveAreas(); saveSubareas(); }
+}
 
 // Extract clean section label (e.g. "Pretest Part 1", "Lesson 1.1", "AIT Exam Form A") from source string
 function mssiSectionLabel(q) {
@@ -1701,7 +1725,8 @@ function renderSettings() {
   }));
   for (const [key, label] of Object.entries(AREA_LABELS)) {
     const count = (subareaIndex[key] || []).reduce((sum, g) => sum + g.count, 0);
-    const chipLabel = count ? `${label} (${count})` : label;
+    if (count === 0) continue; // hide areas with no available questions (e.g. fully Personal-locked areas when locked)
+    const chipLabel = `${label} (${count})`;
     areaWrap.appendChild(chipEl(`settings-area-${key}`, chipLabel, state.selectedAreas.has(key), () => {
       if (state.selectedAreas.has(key)) state.selectedAreas.delete(key);
       else state.selectedAreas.add(key);
@@ -1848,6 +1873,12 @@ function initSettings() {
         const sect = mssiSectionIndex.find((s) => s.label === label);
         if (sect && sect.personal) browseFilters.mssiSections.delete(label);
       });
+      // Rebuild subarea index — Personal-only groups (e.g. Dive Guide Exam,
+      // OWD Exam, React Right Exam) drop out so chips don't appear with
+      // counts that would yield empty pools when selected.
+      buildSubareaIndex();
+      // Drop any selected subareas / areas that no longer exist after rebuild
+      pruneInvalidFilterSelections();
       renderSettings();
       refreshStats();
     } else {
@@ -1855,6 +1886,8 @@ function initSettings() {
       if (ans === null) return; // cancelled
       if (ans === PERSONAL_PASSWORD) {
         localStorage.setItem("ssi.personalUnlocked", "1"); scheduleStateSync();
+        // Rebuild — Personal questions now visible, full chip set returns
+        buildSubareaIndex();
         renderSettings();
         refreshStats();
         alert(t("confirm.unlocked"));
