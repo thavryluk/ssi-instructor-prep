@@ -928,5 +928,545 @@
     "correct": "b",
     "explanation": "Gradient Factors = a configurable PAIR of numbers (GF Low / GF High — mssi-sod-054, 057) entered into advanced dive computers (Shearwater, Garmin, etc.) to bias Bühlmann's algorithm toward more conservative decompression. Lower numbers = lower allowed supersaturation = lower DCS risk. (a) is nonsensical — GF isn't a thermometer. (c) BCD is buoyancy. (d) gas absorption is what the dive's profile + algorithm calculate continuously; GF only modifies the threshold against which absorption is checked.",
     "source": "mySSI: SoD Lesson 2.3 Review"
+  },
+  {
+    "id": "mssi-sod-063",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Cardiovascular",
+    "question": "How does the heart circulate blood for oxygenation?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Deoxygenated blood is pumped to the lungs via the right atrium and ventricle",
+      "c": "The heart pumps oxygenated blood from the lungs out to the body",
+      "d": "Oxygenated blood enters the left atrium and ventricle from the lungs"
+    },
+    "correct": "a",
+    "explanation": "Dual cardiac circuit, all three statements correct: (b) PULMONARY circuit — deoxygenated blood from body returns to right atrium → right ventricle → pulmonary arteries → lungs for gas exchange; (d) PULMONARY VENOUS RETURN — freshly oxygenated blood from lungs enters left atrium → left ventricle; (c) SYSTEMIC circuit — left ventricle pumps oxygenated blood through aorta to the whole body. Right side handles low-pressure pulmonary loop, left side handles high-pressure systemic loop.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-064",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Tissues",
+    "question": "Which of the following are types of body tissue?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Muscular and epithelial tissue",
+      "c": "Adipose tissue",
+      "d": "Connective and nervous tissue"
+    },
+    "correct": "a",
+    "explanation": "Histology classifies all human tissue into four primary types: EPITHELIAL (skin, glands, organ linings), CONNECTIVE (bone, cartilage, blood, adipose, fibrous tendons), MUSCULAR (skeletal voluntary, cardiac, smooth), NERVOUS (brain, spinal cord, peripheral nerves). Together (b) + (c) + (d) cover all four — note (c) adipose is a SUBSET of connective tissue, not separate. All three answer options describe valid tissue categories.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-065",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Cardiovascular",
+    "question": "Which of the following are parts of the heart?",
+    "options": {
+      "a": "Right ventricle",
+      "b": "Right and left atria",
+      "c": "Left ventricle",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Heart has 4 chambers — 2 atria (right + left, top, RECEIVERS taking blood from veins) + 2 ventricles (right + left, bottom, PUMPS pushing blood into arteries). Right pair handles pulmonary circuit (low pressure, blood to lungs); left pair handles systemic circuit (high pressure, blood to body). Consistent with mssi-sod-063 cardiac flow.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-066",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Respiratory",
+    "question": "Which of the following are parts of the lungs?",
+    "options": {
+      "a": "Bronchioles",
+      "b": "Bronchi",
+      "c": "Alveoli",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Respiratory tree branches progressively smaller: TRACHEA → BRONCHI (one main per lung, subdivide into lobar and segmental) → BRONCHIOLES (smaller airways, ~1 mm) → ALVEOLI (terminal grape-like sacs where gas exchange happens, ~300 million per pair of lungs). Alveoli are the critical interface for diving: O₂ in / CO₂ out, AND the failure point for lung overexpansion injuries when ascending while breath-holding (mssi-sod relevant to 026, OWD pneumothorax).",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-067",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Cardiovascular",
+    "question": "What are blood vessels in the cardiovascular system?",
+    "options": {
+      "a": "Alveoli, veins, and lungs",
+      "b": "Arteries, capillaries, and alveoli",
+      "c": "Arteries, capillaries, and veins",
+      "d": "Only arteries and capillaries"
+    },
+    "correct": "c",
+    "explanation": "Three blood vessel types: ARTERIES carry blood AWAY from heart (high pressure, thick walls — e.g. aorta, pulmonary artery); CAPILLARIES are microscopic (~5-10 µm) where gas / nutrient exchange happens at tissue level; VEINS return blood TO heart (low pressure, thinner walls, valves to prevent backflow). (a) and (b) wrongly include alveoli, which are LUNG structures (mssi-sod-066), not blood vessels. (d) drops veins — incomplete.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-068",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Respiratory",
+    "question": "Which of the following statements about alveoli is true?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "They can hold two or more lung volumes",
+      "c": "They are strong and can take a lot of pressure",
+      "d": "They are delicate and can rupture with too much pressure"
+    },
+    "correct": "d",
+    "explanation": "Alveolar membrane is just one cell thick (~0.5 µm) — that thinness is REQUIRED for efficient O₂/CO₂ diffusion across the gas-blood barrier. Trade-off: extreme fragility. Pressure differentials beyond ~0.1 bar can rupture them, causing the lung overexpansion family of injuries: arterial gas embolism (AGE), pneumothorax, mediastinal emphysema, subcutaneous emphysema. That's why divers MUST NEVER hold their breath while ascending — even from shallow depth. (b, c) invert reality; (a) all-correct includes the wrong claims.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-069",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Respiratory",
+    "question": "During inhalation, the diaphragm:",
+    "options": {
+      "a": "Contracts and moves upwards",
+      "b": "Pushes out the rib cage",
+      "c": "Relaxes and moves upwards",
+      "d": "Contracts and moves downwards"
+    },
+    "correct": "d",
+    "explanation": "Inhalation mechanics: diaphragm CONTRACTS → moves DOWN like a piston → chest cavity expands → intra-thoracic pressure drops below ambient → air flows in (Boyle's Law in living form). Exhalation reverses: diaphragm relaxes → moves up → cavity shrinks → pressure rises → air flows out. (a) and (c) muddle the up/down direction. (b) rib-cage expansion is secondary (intercostal muscles); diaphragm is the primary driver of breathing.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-070",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Cardiovascular",
+    "question": "What is vasoconstriction?",
+    "options": {
+      "a": "The way that gas perfuses through the body",
+      "b": "The constriction of blood vessels, which increases blood pressure",
+      "c": "The dilation of blood vessels, which decreases blood pressure",
+      "d": "A physical process which makes the body very cold"
+    },
+    "correct": "b",
+    "explanation": "Vaso- = vessel, constriction = narrowing. Smaller vessel diameter means higher resistance to flow (Poiseuille's Law: R ∝ 1/r⁴), so for the same cardiac output, blood pressure rises. Diving relevance: cold water triggers PERIPHERAL VASOCONSTRICTION — the body shunts blood from skin/extremities to the core to preserve heat. The core fills with extra volume → kidneys read this as 'too much fluid' → cold-induced diuresis (need to pee on every dive). Side effects: dehydration, raised DCS risk. (c) is the OPPOSITE process (vasodilation). (a) describes perfusion. (d) confuses cause/effect — cold causes vasoconstriction, not the other way around.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-071",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Respiratory",
+    "question": "Where does gas exchange take place in the lungs?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Through pulmonary capillaries in the trachea",
+      "c": "Through arteries in the vena cava",
+      "d": "Through pulmonary capillaries in the alveoli"
+    },
+    "correct": "d",
+    "explanation": "Gas exchange happens ONLY at the alveolar-capillary interface: alveoli (~300 million in adult lungs, ~70 m² total surface) are wrapped in a dense mesh of pulmonary capillaries. The barrier is just two cells thick (alveolar epithelium + capillary endothelium, ~0.5 µm) — O₂ diffuses in, CO₂ diffuses out, driven by partial pressure gradients (Henry's Law / Dalton's Law). (b) Trachea = conducting airway only, no exchange (it's part of 'anatomical dead space'). (c) Vena cava is a systemic vein returning deoxygenated blood to the right heart, no lung tissue. (a) wrongly includes the wrong sites.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-072",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Cardiovascular",
+    "question": "How does blood transport oxygen around the body?",
+    "options": {
+      "a": "Red blood cells bind with white blood cells",
+      "b": "Red blood cells dilate to absorb oxygen",
+      "c": "Red blood cells bind oxygen to a protein called hemoglobin",
+      "d": "White blood cells bind oxygen to a protein called hemoglobin"
+    },
+    "correct": "c",
+    "explanation": "About 98% of O₂ in blood is bound to HEMOGLOBIN — an iron-containing protein packed inside RED blood cells (erythrocytes). Each Hb molecule has 4 heme groups, each binds 1 O₂ → 4 O₂ per Hb, ~250 million Hb per RBC. The remaining ~2% O₂ travels dissolved in plasma. WHITE blood cells (leukocytes) handle immunity, NOT gas transport. (a) RBCs and WBCs don't 'bind' to each other. (b) RBCs don't dilate — they passively let O₂ diffuse onto Hb. (d) wrong cell type.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-073",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Cardiovascular",
+    "question": "Which blood vessels are used for gas exchange in the body?",
+    "options": {
+      "a": "The aorta",
+      "b": "The vena cava",
+      "c": "Arteries",
+      "d": "Capillaries"
+    },
+    "correct": "d",
+    "explanation": "CAPILLARIES are the ONLY site of gas/nutrient/waste exchange between blood and tissues. Their walls are a single endothelial cell thick (~1 µm), and blood flow slows dramatically (huge total cross-section) — both factors maximize diffusion time. (a) Aorta is the largest artery, just a high-pressure conduit, walls too thick for exchange. (b) Vena cava is the largest vein, also a conduit returning blood to the heart. (c) Arteries in general carry blood AWAY from the heart but their muscular walls preclude exchange — they branch into arterioles, then capillaries (where exchange happens), then venules, then veins.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-074",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Diving Disorders",
+    "question": "What is immersion pulmonary edema?",
+    "options": {
+      "a": "A condition that occurs when the lung alveoli fill with fluid",
+      "b": "A condition that occurs when an unconscious diver swallows water",
+      "c": "A condition that occurs when the respiratory rate slows down",
+      "d": "The medical definition of drowning"
+    },
+    "correct": "a",
+    "explanation": "Immersion Pulmonary Edema (IPE) — also Swimming-Induced PE (SIPE) — is fluid (a transudate) leaking from pulmonary capillaries INTO the alveoli during immersion. Mechanism: cold + immersion + tight exposure suit → peripheral vasoconstriction shifts ~700 mL of blood from extremities into the thoracic cavity → pulmonary capillary hydrostatic pressure rises → plasma seeps across the alveolar barrier. Symptoms: cough (sometimes pink-frothy sputum), shortness of breath, hypoxia, chest tightness, sometimes hemoptysis. Predisposing factors: hypertension, heart disease, cold water, exertion, tight wetsuit. Treatment: end dive, oxygen, medical evac. (b) is aspiration / near-drowning. (c) is hypoventilation. (d) drowning requires submersion + asphyxiation, not just alveolar fluid (and is distinct medically).",
+    "source": "mySSI: SoD Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-sod-075",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Diving Disorders",
+    "question": "What is the mammalian dive reflex?",
+    "options": {
+      "a": "A series of physiological changes that result from tachypnea during a dive",
+      "b": "A reflex that makes humans want to dive",
+      "c": "A series of psychological changes that result from seeing mammals in the water",
+      "d": "A series of physiological changes that result from breath-holds, especially during immersion"
+    },
+    "correct": "d",
+    "explanation": "The Mammalian Dive Reflex (MDR) is a set of automatic physiological responses triggered by BREATH-HOLD + face/forehead contact with (cold) water — afferent signal via the trigeminal nerve. Four main effects: (1) BRADYCARDIA — heart rate drops 10–30% to conserve O₂; (2) PERIPHERAL VASOCONSTRICTION — blood shunted from limbs to brain and heart; (3) BLOOD SHIFT — at depth, plasma fills the thoracic cavity to keep lungs from compressing below residual volume (lets freedivers go past the once-thought 'crush depth'); (4) SPLEEN CONTRACTION — releases stored RBCs, boosting O₂ carrying capacity ~5–10%. Powerful in marine mammals (seals can dive 60+ min); vestigial but real in humans, foundational to freediving physiology. (a) Tachypnea (rapid breathing) is the OPPOSITE — MDR involves apnea/bradycardia. (b) nonsense. (c) physiological, not psychological — and not triggered by 'seeing mammals'.",
+    "source": "mySSI: SoD Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-sod-076",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Diving Disorders",
+    "question": "Physical responses to a perceived danger include:",
+    "options": {
+      "a": "Increased adrenaline production, increased heart rate, increased breathing, and increased energy demand",
+      "b": "Dehydration",
+      "c": "Immediate cardiac arrest",
+      "d": "Decreased adrenaline production, decreased heart rate, decreased breathing, and decreased energy demand"
+    },
+    "correct": "a",
+    "explanation": "Classic FIGHT-OR-FLIGHT response — sympathetic nervous system activation. Adrenal medulla pumps out epinephrine (adrenaline) and norepinephrine, which drive: ↑ heart rate (β1 receptors), ↑ contractility, ↑ ventilation rate (bronchodilation via β2), ↑ blood pressure (peripheral α1 vasoconstriction in non-essential beds), ↑ glucose mobilization (glycogenolysis in liver), pupillary dilation, sweating. Net effect: more O₂ + fuel to muscles, ready for action. Diving relevance: panic dramatically inflates SAC rate, accelerates CO₂ buildup, can cascade into rapid ascent / lung overexpansion injuries. Hence 'Stop, Breathe, Think, Act'. (b) dehydration is a chronic state, not an acute response. (c) cardiac arrest is the OPPOSITE of mobilization. (d) describes the parasympathetic 'rest and digest' state — opposite of acute stress.",
+    "source": "mySSI: SoD Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-sod-077",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Diving Disorders",
+    "question": "What are triggers of the mammalian dive reflex?",
+    "options": {
+      "a": "Seeing a mammal that is diving",
+      "b": "Breath-holding, facial immersion, and increased ambient pressure",
+      "c": "Rapid breathing, facial immersion, and decreased ambient pressure",
+      "d": "Breath-holding, facial immersion, and decreased ambient pressure"
+    },
+    "correct": "b",
+    "explanation": "Three triggers per the SSI SoD curriculum: (1) BREATH-HOLDING (apnea) — central trigger, activates chemoreceptor-driven O₂ conservation; (2) FACIAL IMMERSION — cold water on the forehead/cheeks/orbits stimulates the trigeminal nerve, which is the strongest afferent driver of the bradycardia component; (3) INCREASED AMBIENT PRESSURE — depth intensifies the response, particularly the blood-shift component (plasma fills thoracic cavity to compensate for compressed lung volume below residual volume). (a) absurd — visual stimulus alone doesn't trigger autonomic reflex. (c) Rapid breathing (tachypnea) is the OPPOSITE of apnea, and ascending (decreased pressure) ends a dive rather than starts the reflex. (d) Two correct triggers but flips the pressure direction.",
+    "source": "mySSI: SoD Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-sod-078",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Diving Disorders",
+    "question": "What might a diver experience if they do not breathe adequately?",
+    "options": {
+      "a": "An overwhelming sense of relaxation and rest",
+      "b": "A sharp increase in oxygen levels and red skin",
+      "c": "Extreme neutral buoyancy",
+      "d": "Fatigue, breathlessness, and a feeling of suffocation"
+    },
+    "correct": "d",
+    "explanation": "Inadequate breathing — skip-breathing, shallow ventilation, or breathing into a too-large dead space — causes CO₂ to accumulate (hypercapnia) and O₂ delivery to lag (relative hypoxia). Symptoms: shortness of breath / 'air hunger', fatigue, headache, sweating, tunnel vision, suffocation feeling, and at the extreme, unconsciousness. Diving consequence: SAC rate spikes when the diver finally tries to catch up, panic risk rises, and rapid uncontrolled ascents are common downstream events. The fix is slow, deep, RHYTHMIC breathing — never skip-breathe to save gas. (a) Opposite — proper breathing brings calm; under-breathing brings distress. (b) Hypoventilation REDUCES O₂ exchange; doesn't raise levels. (c) Buoyancy is governed by lung volume averaging and BCD trim, unrelated to ventilation adequacy.",
+    "source": "mySSI: SoD Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-sod-079",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Diving Disorders",
+    "question": "How does the body's cardiovascular system respond to immersion in water?",
+    "options": {
+      "a": "The heart rate lowers as less effort is required to pump blood",
+      "b": "All answers are correct",
+      "c": "Blood vessels constrict to prevent unnecessary oxygen consumption",
+      "d": "More blood shifts towards the body's core"
+    },
+    "correct": "b",
+    "explanation": "All three statements are accurate descriptions of the immersion response. (a) IMMERSION BRADYCARDIA — hydrostatic pressure assists venous return + neutral buoyancy reduces gravitational load on the heart, so HR settles lower than on land. (c) PERIPHERAL VASOCONSTRICTION — cold + sympathetic / dive-reflex tone narrows extremity vessels, conserving O₂ for core organs. (d) BLOOD SHIFT — roughly 700 mL of blood is displaced from the limbs into the thoracic cavity, which raises pulmonary capillary pressure (and is the mechanism behind IMMERSION PULMONARY EDEMA — see mssi-sod-074). These three responses overlap with the Mammalian Dive Reflex (075/077) but operate even without breath-holding, just from being in the water.",
+    "source": "mySSI: SoD Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-sod-080",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Diving Disorders",
+    "question": "What actions can a diver take if they experience an involuntary stress response?",
+    "options": {
+      "a": "Breathe faster to get rid of the stress",
+      "b": "Stop activity, rest, focus on breathing, and try to alleviate the stressors",
+      "c": "Keep going until the stress passes",
+      "d": "Go for a run and burn off the stress"
+    },
+    "correct": "b",
+    "explanation": "Classic SSI 'STOP — BREATHE — THINK — ACT' protocol for in-water stress: (1) STOP the activity so it doesn't compound the problem; (2) Establish neutral buoyancy / hold a stable position to REST; (3) Focus on SLOW, DEEP, RHYTHMIC BREATHING — this activates the parasympathetic system, breaks the panic-feedback loop, and restores normal CO₂; (4) IDENTIFY the stressor (entanglement, low gas, freeflow, lost buddy, vertigo) and address it. Resume only when calm. (a) Hyperventilating washes out CO₂ → respiratory alkalosis → tingling, dizziness, tetany, even loss of consciousness — and on a freedive precedes shallow-water blackout. (c) Pushing through stress is the textbook ramp-up to full panic and uncontrolled ascent (lung overexpansion / DCS risk). (d) Exertion is impossible underwater and adds sympathetic load.",
+    "source": "mySSI: SoD Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-sod-081",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Barotrauma",
+    "question": "The primary symptom of ear barotrauma in its initial phase is:",
+    "options": {
+      "a": "Rapid, shallow, inefficient breathing",
+      "b": "A pulling sensation in the chest",
+      "c": "Joint and limb pain",
+      "d": "Pain or discomfort that intensifies with depth changes"
+    },
+    "correct": "d",
+    "explanation": "Middle-ear squeeze on descent: as ambient pressure rises faster than the diver can equalize through the Eustachian tube, a pressure differential builds across the tympanic membrane → first FULLNESS, then DISCOMFORT, then sharp PAIN that intensifies with every meter of further descent (more ΔP). Teed scale of middle-ear barotrauma: 0 = symptoms only, 1 = TM injection, 2 = barotitis with hemorrhage, 3 = blood in middle ear, 4 = TM rupture (sudden cold-water inflow → vertigo + hearing loss), 5 = round/oval window damage. Fix: stop descent, ascend a meter or two, equalize gently (Frenzel/Valsalva), descend slowly. NEVER force equalization — that drives the round-window-rupture risk. (a) Tachypnea is a breathing pattern, unrelated. (b) Chest 'pulling' is thoracic / lung squeeze (rare in scuba, more in freediving). (c) Joint pain is DCS Type I, not barotrauma.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-082",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Barotrauma",
+    "question": "Tooth barotrauma is a condition caused by:",
+    "options": {
+      "a": "Dehydration during the dive",
+      "b": "Expanding air in the lungs during ascent",
+      "c": "Expanding air in the teeth during ascent",
+      "d": "Pressure changes in the ear canal during ascent"
+    },
+    "correct": "c",
+    "explanation": "Barodontalgia ('tooth squeeze') = gas trapped in dental defects — under fillings, in cracked teeth, abscesses, decay pockets, recent root canals. Boyle's Law in action: on DESCENT compressed gas can cause vacuum-pain or pull a filling inward; on ASCENT trapped gas EXPANDS sharply, can fracture the tooth or shoot a filling out — usually the most painful and damaging direction. Sometimes severe enough to abort a dive or split a tooth in half. Prevention: pre-trip dental check, NO diving for 24 h after fillings/extractions/root canals (let the cement cure, let voids settle). (a) Dehydration affects DCS risk, not tooth barotrauma. (b) Expanding lung gas during ascent = PULMONARY barotrauma (lung overexpansion / AGE), different organ. (d) Ear-canal pressure change = external/middle-ear barotrauma (mssi-sod-081).",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-083",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Barotrauma",
+    "question": "What are places that barotrauma could occur in the body?",
+    "options": {
+      "a": "The teeth",
+      "b": "The gastrointestinal system",
+      "c": "All answers are correct",
+      "d": "The ears, sinuses, and lungs"
+    },
+    "correct": "c",
+    "explanation": "Every gas-filled body space is a potential barotrauma site (Boyle's Law: a closed gas volume changes inversely with pressure). Full SSI inventory: (1) EARS — external (hooded squeeze, plugged earwax), middle (Eustachian-tube blockage), inner (round/oval-window rupture from forced Valsalva); (2) SINUSES — frontal, maxillary, ethmoid (squeeze on descent, reverse block on ascent); (3) LUNGS — pulmonary overinflation injuries: arterial gas embolism (AGE), pneumothorax, mediastinal & subcutaneous emphysema; (4) TEETH — barodontalgia (mssi-sod-082); (5) GI TRACT — aerogastralgia from swallowed air, carbonation, or gas-producing meals expanding on ascent; (6) MASK — face squeeze (vacuum on descent if not exhaled into); (7) DRYSUIT — skin pinch in folded areas. So 'all answers are correct'.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-084",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Barotrauma",
+    "question": "What is a type of barotrauma that can occur during descents and ascents?",
+    "options": {
+      "a": "Hyperoxia",
+      "b": "Narcosis",
+      "c": "Ear barotrauma",
+      "d": "Spinal barotrauma"
+    },
+    "correct": "c",
+    "explanation": "Ear barotrauma is bidirectional: (1) DESCENT — middle-ear SQUEEZE: ambient pressure rises faster than the diver can clear through the Eustachian tube → TM pushed inward → pain → at extreme, rupture (cold-water vertigo); (2) ASCENT — REVERSE BLOCK: gas expanding in the middle ear can't vent out through a now-swollen / mucus-blocked Eustachian tube → TM bulges outward → pain, sometimes ALTERNOBARIC VERTIGO from asymmetric pressure between left and right ears. Both phases of every dive are at risk if equalization isn't working cleanly. (a) Hyperoxia = O₂ toxicity (high PpO₂ → CNS or pulmonary tox), a gas-toxicity issue, not barotrauma. (b) Narcosis = inert-gas neuropharmacology (N₂ at depth), not mechanical. (d) 'Spinal barotrauma' isn't a recognized category — spinal DCS exists but it's decompression illness (bubbles), not a gas-space mechanical injury.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-085",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Barotrauma",
+    "question": "Permanent hearing loss, vertigo and ringing in the ear can be caused by a ruptured:",
+    "options": {
+      "a": "Eardrum",
+      "b": "Round and/or oval window",
+      "c": "Eustachian Tube",
+      "d": "Semicircular Canal"
+    },
+    "correct": "b",
+    "explanation": "INNER-EAR BAROTRAUMA (IEBt) — rupture of the ROUND WINDOW and/or OVAL WINDOW. These thin membranes separate the gas-filled middle ear from the fluid-filled inner ear (cochlea + vestibular apparatus). Trigger: forced Valsalva or untreated middle-ear squeeze, where the diver pushes a sudden pressure spike across the window. Result: a PERILYMPH LEAK (perilymphatic fistula) — fluid escapes from the inner ear into the middle ear → SENSORINEURAL hearing loss (often permanent), severe VERTIGO, and TINNITUS (ringing). Worst-grade ear barotrauma (Teed grade 5). Treatment: stop diving immediately, head-up bed rest, NO STRAINING (no Valsalva, no nose-blowing, no heavy lifting), urgent ENT — sometimes surgical patch. Recovery is often incomplete and a contraindication to further diving. (a) Eardrum rupture → conductive (usually temporary) loss + transient cold-water vertigo, typically heals in weeks. (c) Eustachian tube doesn't 'rupture' — it can block, swell, dysfunction. (d) Semicircular canals are bony channels in the temporal bone; the membranous components inside can be damaged, but the classic IEBt mechanism is at the round/oval window membrane.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-086",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Barotrauma",
+    "question": "What is barotrauma?",
+    "options": {
+      "a": "An infection caused by waterborne bacteria",
+      "b": "A condition where bubbles form in the tissues and bloodstream",
+      "c": "A condition where the pressure in internal air spaces equals the external pressure",
+      "d": "Damage to the body's tissues and organs due to excessive gas volume changes in closed spaces"
+    },
+    "correct": "d",
+    "explanation": "BAROTRAUMA = mechanical injury to body tissues caused by pressure-driven gas-volume changes (Boyle's Law) in closed gas-filled spaces. Three required ingredients: (1) a gas-filled space inside the body (ear, sinus, lung, tooth, GI, mask, suit); (2) inability to equalize that space with ambient; (3) a change in ambient pressure (descent or ascent). Volume change from Boyle's Law (V₁P₁ = V₂P₂) generates a ΔP across membranes / tissues, which then strain, bleed, or rupture. Critical contrast — DECOMPRESSION SICKNESS (DCS) is a totally different mechanism: dissolved inert gas (mostly N₂) coming OUT of solution as bubbles when ambient pressure drops too fast (Henry's Law). (a) Infection is microbial. (b) That's the definition of DCS — important not to mix the two. (c) Equalized pressure = the PROTECTIVE state, not the injury — barotrauma is what happens when equalization FAILS.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-087",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Barotrauma",
+    "question": "What preventative measures can help prevent barotrauma?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Equalize the ears, sinuses and lungs frequently",
+      "c": "Avoid rapid pressure changes",
+      "d": "Never hold the breath"
+    },
+    "correct": "a",
+    "explanation": "All three rules are real SSI barotrauma-prevention pillars. (b) EQUALIZE FREQUENTLY — start equalizing at the surface, then every meter or so on descent (Frenzel preferred to Valsalva — gentler, lower round-window-rupture risk). Sinuses equalize passively if mucosa is healthy (avoid diving with cold/allergies). 'Lungs equalize' through normal breathing — never close the glottis. (c) AVOID RAPID PRESSURE CHANGES — slow controlled descents (stop if you feel pressure, ascend a meter, equalize, continue), slow ascents (≤9 m/min, even slower in last 10 m), include safety stops. Rapid ΔP outpaces the body's compensatory mechanisms. (d) NEVER HOLD YOUR BREATH — the #1 SSI scuba rule. Breath-hold + ascent = expanding alveolar gas → lung overexpansion injuries: AGE (arterial gas embolism — most lethal), pneumothorax, mediastinal/subcutaneous emphysema. Continuous breathing keeps lungs equalized with ambient. Together these three habits cover essentially all barotrauma mechanisms.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-088",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Barotrauma",
+    "question": "How many pairs of sinuses does a person have?",
+    "options": {
+      "a": "8",
+      "b": "4",
+      "c": "6",
+      "d": "2"
+    },
+    "correct": "b",
+    "explanation": "Humans have 4 PAIRS of paranasal sinuses (8 individual air-filled cavities, one on each side): (1) FRONTAL — in the forehead, just above the eyebrows; most commonly painful in sinus barotrauma. (2) MAXILLARY — in the cheekbones, under the eyes; the largest pair, often gives 'cheek pressure' on descent. (3) ETHMOID — between the eyes, behind the bridge of the nose; technically a honeycomb of small cells but grouped as one pair. (4) SPHENOID — deep behind the nose, near the base of the skull; rarely symptomatic. All connect to the nasal cavity via small ostia (drainage holes); when those clog with mucus or mucosal swelling (cold, allergy, sinusitis), gas can't equalize → squeeze on descent or reverse block on ascent. So the answer is 4 pairs = 8 cavities total.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-089",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Barotrauma",
+    "question": "What type of barotrauma can occur on descents due to congestion?",
+    "options": {
+      "a": "Hypoxia",
+      "b": "Hypercapnia",
+      "c": "Sinus barotrauma",
+      "d": "Neck barotrauma"
+    },
+    "correct": "c",
+    "explanation": "SINUS SQUEEZE on descent: congestion from a cold, allergies, sinusitis, or anatomical narrowing blocks the sinus ostia (the small holes that drain each sinus into the nasal cavity). As ambient pressure rises, gas inside the sinus stays at lower pressure → relative vacuum pulls the sinus mucosa away from the bony walls → capillaries rupture → blood seeps into the sinus → throbbing pain (cheek/forehead) and often a 'bloody mask' of nasal discharge on ascent. Most often the frontal (forehead) and maxillary (cheek) pairs. Prevention: do NOT dive with congestion; decongestants are a stopgap with risks (rebound congestion mid-dive, dive-window timing). (a) Hypoxia = low blood O₂, a gas-toxicity / breathing-pattern issue, not a mechanical pressure injury. (b) Hypercapnia = CO₂ retention, also gas-toxicity, not barotrauma. (d) 'Neck barotrauma' is not a recognized SSI category — subcutaneous emphysema can track into neck tissue but originates as a pulmonary overinflation injury, not a primary neck cavity.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-090",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Decompression Illness",
+    "question": "What method can be used to prevent decompression sickness during dives?",
+    "options": {
+      "a": "Make a safety stop",
+      "b": "All answers are correct",
+      "c": "Maintain slow ascent rates",
+      "d": "Follow the dive computer"
+    },
+    "correct": "b",
+    "explanation": "All three are core SSI prevention layers — they stack, none alone is sufficient: (a) SAFETY STOP — 3–5 min at 5 m / 15 ft on every dive (SSI Total Diving System standard), provides margin against asymptomatic microbubbles and lets near-fast tissues (5–20 min compartments) keep off-gassing under modest hydrostatic pressure. (c) SLOW ASCENT RATES — ≤9 m/min (30 ft/min) per SSI; some computers slow further in the last 10 m. Slow ascent keeps tissue supersaturation below the M-value (Bühlmann) so bubbles don't nucleate. The classic 'dirty' violation: rocketing to the surface chasing a buddy or running out of gas. (d) FOLLOW THE DIVE COMPUTER — modern algorithms (Bühlmann ZH-L16 + GF, RGBM, VPM-B) track all 16 tissue compartments in real time across multi-level profiles — much more accurate than square-profile tables. Computer enforces NDL, ascent rate, mandatory stops, surface intervals.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-091",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Decompression Illness",
+    "question": "How might gas bubbles enter arterial blood vessels?",
+    "options": {
+      "a": "Through a cut in the diver's skin",
+      "b": "Pulmonary barotrauma or shunting through a patent foramen ovale",
+      "c": "Because of a tight wetsuit",
+      "d": "Due to excessive vasoconstriction"
+    },
+    "correct": "b",
+    "explanation": "Two recognized pathways for ARTERIALIZATION of bubbles. (1) PULMONARY BAROTRAUMA → ARTERIAL GAS EMBOLISM (AGE): a breath-hold on ascent or air trapping ruptures alveoli; gas crosses the alveolar–capillary barrier into pulmonary VEINS → left atrium → systemic arterial circulation, often lodging in cerebral arteries → 'stroke-like' symptoms within minutes of surfacing (most lethal dive injury, demands immediate O₂ + recompression). (2) PATENT FORAMEN OVALE (PFO) SHUNTING: ~25% of adults have a probe-patent flap between right and left atria. Under raised right-atrial pressure (Valsalva, coughing, heavy gear-strain, lifting tanks immediately post-dive), VENOUS bubbles — which would normally be filtered by the pulmonary capillary bed — can shunt directly into systemic arteries → cerebral, spinal, or cutaneous DCS even on conservative profiles. PFO screening is routine for divers with unexplained or repeated DCS. (a) Skin cuts don't introduce bubbles. (c) Tight wetsuit restricts venous return / contributes to IPE but doesn't 'arterialize' bubbles. (d) Vasoconstriction narrows vessels — doesn't move bubbles into arteries.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-092",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Decompression Illness",
+    "question": "What skin or lymphatic symptoms are indicative of decompression sickness?",
+    "options": {
+      "a": "Lack of motor control, personality changes, and disturbed vision",
+      "b": "Numbness, rashes, confusion, and unconsciousness",
+      "c": "Itching, rashes, swelling, and crepitus (cracking)",
+      "d": "Amnesia, hearing loss, headache, and nausea"
+    },
+    "correct": "c",
+    "explanation": "Cutaneous (Type I) DCS — 'skin bends': (1) ITCHING — often the earliest sign, especially after chamber or saturation exposures; (2) RASHES — classic 'CUTIS MARMORATA': mottled, marbled, blue-red blotchy patches on torso, shoulders, abdomen (caused by venous gas in subcutaneous capillaries; often a marker of an underlying PFO and may herald more serious neurological DCS); (3) SWELLING — lymphatic obstruction by bubbles, gives 'peau d'orange' / lymphedema in groin, neck, axillae; (4) CREPITUS — palpable crackling under the skin = subcutaneous emphysema (free gas in tissue planes). Treatment: 100% surface O₂, oral hydration, evac to a chamber if cutis marmorata, spreading rash, or any neurological signs. (a) Motor / personality / vision changes are CEREBRAL Type II DCS. (b) Mixes skin (rashes) with CNS (confusion, unconsciousness). (d) Amnesia, hearing loss, headache, nausea = INNER-EAR / CEREBRAL Type II DCS.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-093",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Decompression Illness",
+    "question": "What is pulmonary barotrauma?",
+    "options": {
+      "a": "Crepitus caused by cutis marmorata",
+      "b": "Lung damage caused by a traumatic brain injury",
+      "c": "Tissue damage and possible gas leakage caused by an excessive pressure gradient",
+      "d": "Tissue damage caused by oxygen toxicity"
+    },
+    "correct": "c",
+    "explanation": "PULMONARY BAROTRAUMA = lung tissue damage caused by an excessive TRANS-ALVEOLAR pressure gradient. Mechanism: ascent with closed glottis / breath-hold / locally trapped air (asthma plug, mucus, broncho-spasm) → alveolar gas expands per Boyle's Law → as little as ~80–100 mbar of ΔP across the alveolar wall ruptures it. Four resulting injuries (the 'lung overexpansion family'), increasing severity: (1) MEDIASTINAL EMPHYSEMA — gas in the mediastinum: chest tightness, voice change, neck fullness; (2) SUBCUTANEOUS EMPHYSEMA — gas tracking up to neck tissue, palpable CREPITUS under the skin; (3) PNEUMOTHORAX — gas in pleural space, lung collapses: sharp unilateral chest pain, dyspnea, decreased breath sounds (tension pneumothorax = surgical emergency); (4) ARTERIAL GAS EMBOLISM (AGE) — gas enters pulmonary veins → left heart → systemic arteries → brain (stroke-like symptoms within minutes of surfacing — most lethal dive injury). This is exactly why the #1 SSI rule is NEVER HOLD YOUR BREATH. (a) Confuses two unrelated findings — crepitus comes from subQ emphysema; cutis marmorata is cutaneous DCS. (b) Wrong causal direction. (d) Oxygen toxicity = gas-tox issue (CNS hit / pulmonary tox at high PpO₂), not mechanical.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-094",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Decompression Illness",
+    "question": "What are some of the symptoms of lung barotrauma?",
+    "options": {
+      "a": "Coughing up blood and lightheadedness",
+      "b": "Slow heart rate and vertigo",
+      "c": "Numbness in the hands and feet and ringing in the ears",
+      "d": "Dry mouth and nausea"
+    },
+    "correct": "a",
+    "explanation": "Hallmark presentations of pulmonary barotrauma — both elements in (a) are classic: HEMOPTYSIS (coughing up blood, sometimes pink-frothy sputum) from alveolar rupture and bleeding into the airways; LIGHTHEADEDNESS / DIZZINESS / NEAR-SYNCOPE arises when AGE has embolized cerebral circulation, or when a tension pneumothorax compromises cardiac output. Other markers in the same picture (so you recognize the full pattern): sharp chest pain on/after ascent, shortness of breath, voice change (mediastinal emphysema), neck fullness with palpable crepitus (subQ emphysema), and the dramatic AGE presentation — 'stroke-like' focal weakness, slurred speech, vision changes, loss of consciousness — within minutes of surfacing. Onset timing is the key clue: AGE shows up almost immediately, DCS more often 30 min – 24 h post-dive. (b) Bradycardia + vertigo is more dive-reflex / inner-ear, not lung injury. (c) Numbness + tinnitus suggests Type II DCS / inner-ear barotrauma, not pulmonary. (d) Dry mouth + nausea are non-specific post-dive (dehydration, seasickness).",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-095",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Decompression Illness",
+    "question": "What is an arterial gas embolism?",
+    "options": {
+      "a": "The blockage of an arterial blood vessel by bubbles",
+      "b": "A bleed on the brain",
+      "c": "The blockage of a vein by bubbles",
+      "d": "Blue lips caused by low oxygen"
+    },
+    "correct": "a",
+    "explanation": "ARTERIAL GAS EMBOLISM (AGE) = blockage of an ARTERIAL blood vessel by gas bubbles. Pathway: pulmonary barotrauma (breath-hold ascent / air trapping) → ruptured alveoli → gas crosses into pulmonary VEINS → left atrium → left ventricle → pumped into the systemic ARTERIAL circulation → embolizes the organ wherever a bubble lodges (most often cerebral arteries → CEREBRAL AGE / CAGE). Symptoms onset is FAST — usually within minutes (often within seconds) of surfacing: focal weakness, slurred speech, vision loss, confusion, seizures, loss of consciousness. The most LETHAL diving injury. Treatment: lay supine (NOT head-down — that's outdated and worsens cerebral edema), 100% O₂, fluids if conscious, immediate evac to a recompression chamber. (b) A 'brain bleed' is a hemorrhagic stroke / SAH — vessel RUPTURE, different mechanism. (c) Bubbles in VEINS = VENOUS gas embolism (VGE) — commonly produced by every dive in tiny amounts, usually filtered out by the pulmonary capillary bed; bypass via PFO leads to arterialization (see mssi-sod-091). (d) Cyanosis is a SIGN of hypoxemia (could accompany severe AGE) but isn't the DEFINITION.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-096",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Decompression Illness",
+    "question": "Which predisposing factors can increase the risk of decompression sickness?",
+    "options": {
+      "a": "Dehydration",
+      "b": "All answers are correct",
+      "c": "Obesity",
+      "d": "Extreme heat or cold"
+    },
+    "correct": "b",
+    "explanation": "All three are recognized SSI / DAN risk factors. (a) DEHYDRATION — reduces plasma volume, slows microcirculation, thickens blood, impairs N₂ elimination. The single biggest CONTROLLABLE risk factor (drink before / between / after dives, urine should run pale yellow). (c) OBESITY — adipose tissue has roughly 5× the nitrogen solubility of lean tissue (N₂ is lipid-soluble) AND fat is poorly perfused, so it loads slowly but unloads even slower → silent reservoir of dissolved gas that liberates during ascent and the surface interval. (d) EXTREME HEAT OR COLD — both disrupt the on-gas / off-gas balance: COLD during the bottom phase causes peripheral vasoconstriction (slows on-gassing — sounds protective), but late re-warming after surfacing causes peripheral vasodilation precisely when supersaturation is at its peak → bubble nucleation; HEAT post-dive (hot shower, hot tub, sauna, sun-baked deck) accelerates off-gas exactly when bubbles want to grow. Other classic risk factors not in this question: alcohol, fatigue, age, low fitness, hard exertion at depth, repeat-day diving, fast ascent, recent musculoskeletal injury, PFO, asthma.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-097",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Decompression Illness",
+    "question": "Which type of decompression illness involves the central nervous system?",
+    "options": {
+      "a": "Type II decompression sickness",
+      "b": "Pneumothorax",
+      "c": "Type I decompression sickness",
+      "d": "Gas embolism"
+    },
+    "correct": "a",
+    "explanation": "DCS is graded by severity: TYPE I (mild) covers MUSCULOSKELETAL 'bends' (joint/limb pain — most common presentation), CUTANEOUS (itching, cutis marmorata, rashes), and LYMPHATIC symptoms (peau d'orange swelling). TYPE II (serious / life-threatening) covers NEUROLOGICAL involvement — CEREBRAL (confusion, personality changes, vision/speech disturbance), SPINAL CORD (girdle pain, paraplegia, urinary retention — most-feared form, often misattributed to back strain initially), VESTIBULAR / INNER-EAR (vertigo, tinnitus, nystagmus, nausea — 'staggers'), and PULMONARY ('chokes' — right-heart bubble overload, retrosternal pain, dyspnea, cough). All Type II requires immediate O₂ + chamber. (b) Pneumothorax is a pulmonary BAROTRAUMA, not DCS. (c) Type I excludes CNS by definition. (d) ARTERIAL GAS EMBOLISM does affect the brain but is a SEPARATE DCI entity — barotrauma-driven, not bubbles formed from dissolved gas. DCI umbrella = DCS (this question) + AGE; this question specifically asks about DCS.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-098",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Decompression Illness",
+    "question": "Which condition can occur when gas enters the lining of the lungs?",
+    "options": {
+      "a": "Edema",
+      "b": "Mediastinal emphysema",
+      "c": "Hypoxic myopia",
+      "d": "Hypercapnia"
+    },
+    "correct": "b",
+    "explanation": "MEDIASTINAL EMPHYSEMA — a sub-injury of pulmonary barotrauma. When alveoli rupture, escaping gas tracks along the bronchovascular sheaths up into the MEDIASTINUM (the central chest cavity between the lungs that holds the heart, trachea, esophagus, great vessels). Symptoms: chest tightness, dyspnea, voice change, sometimes 'Hamman's crunch' (crackling synchronized with the heartbeat on auscultation), neck fullness as gas tracks further upward into subcutaneous tissue (subQ emphysema, palpable crepitus). Treatment: 100% O₂ (washes out N₂, accelerates reabsorption), rest, observation; rarely needs invasive intervention unless tension develops. Strictly speaking 'lining of the lungs' = pleura, and gas in the pleural space is PNEUMOTHORAX — but that's not on the option list, so mediastinal emphysema (gas in the adjacent compartment) is the intended answer. (a) Edema = FLUID accumulation in tissue, not gas. (c) 'Hypoxic myopia' is not a recognized term — myopia is short-sightedness, unrelated to lung gas. (d) Hypercapnia = CO₂ retention in BLOOD, a gas-toxicity issue, not gas in tissue.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
   }
 ]
