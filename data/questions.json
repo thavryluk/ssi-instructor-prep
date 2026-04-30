@@ -2,12 +2,12 @@
   "version": "1.0",
   "generated_at": "2026-04-25",
   "note": "SSI study bank for Tomas's Instructor prep app. Each question carries a 'source' URL (Quizlet/dive-shop PDF/SSI training pages) where verbatim wording was found, OR 'compiled_from_dive_theory' for items grounded in public SSI standards and dive physics/physiology that I've authored from established theory rather than copied. Always reconcile with the current SSI Training Standards before using as definitive answers.",
-  "total": 1575,
+  "total": 1585,
   "counts_by_area": {
     "assistant_instructor": 50,
     "divemaster": 150,
     "instructor": 753,
-    "science_of_diving": 372,
+    "science_of_diving": 382,
     "open_water_diver": 100,
     "react_right": 100,
     "diver_stress_rescue": 50
@@ -10587,6 +10587,156 @@
       "correct": "d",
       "explanation": "Dissolved-gas models (Bühlmann ZH-L16, Haldane) track inert-gas TENSION in each abstract compartment across the dive's depth-vs-time profile, then compare each compartment's tension to its M-value (mssi-sod-046, 051). (a) 'brain' is a single anatomical area — Haldane is mathematical, not anatomical (mssi-sod-051). (b) bubbles aren't 'dissolved' — bubbles imply gas has come out of solution. (c) describes the bubble-model family (VPM-B / RGBM, mssi-sod-048), not dissolved-gas.",
       "source": "mySSI: SoD Lesson 2.2 Review"
+    },
+    {
+      "id": "mssi-sod-053",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Conservatism",
+      "question": "What factors should divers consider when choosing their conservatism level?",
+      "options": {
+        "a": "Type of marine life, water clarity, and number of divers",
+        "b": "Predisposing factors, environmental conditions, and the number of planned dives",
+        "c": "Time, depth, and temperature",
+        "d": "The size and number of cylinders they will use"
+      },
+      "correct": "b",
+      "explanation": "Conservatism = the safety margin added on top of the baseline algorithm. Three input dimensions: (1) PREDISPOSING FACTORS — age, fitness, hydration, fatigue, PFO, smoking, recent injuries (anything that shifts personal DCS susceptibility); (2) ENVIRONMENTAL CONDITIONS — cold water (slower perfusion), currents (workload), altitude (lower ambient); (3) NUMBER OF PLANNED DIVES — repetitive dive day means residual N₂ stacking, more conservatism warranted. (a, c, d) list factors that don't drive conservatism choice — they belong in dive planning instead.",
+      "source": "mySSI: SoD Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-sod-054",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Conservatism",
+      "question": "The low gradient factor (GF Low) is:",
+      "options": {
+        "a": "The minimum tolerated supersaturation in the tissues compared to Bühlmann's original values",
+        "b": "The percentage of the original M-value that defines the residual nitrogen at the surface at the end of the dive",
+        "c": "The percentage of Bühlmann's original M-value that defines the beginning of the decompression stops",
+        "d": "A type of dive computer"
+      },
+      "correct": "c",
+      "explanation": "Gradient Factor framework adds user-tunable conservatism on top of Bühlmann ZH-L16. GF LOW = the percentage of the M-value reached at the FIRST (deepest) stop — controls when decompression begins. Lower GF Low = deeper first stop = more time for fast compartments to off-gas before continuing ascent. GF HIGH controls the surface ceiling. Typical settings: 30/70 (conservative), 40/85 (moderate), 50/100 = pure Bühlmann. (a) M-value is MAX tolerated supersaturation, not min (mssi-sod-046). (b) describes GF High, not GF Low. (d) nonsensical.",
+      "source": "mySSI: SoD Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-sod-055",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Conservatism",
+      "question": "Gradient factors adjust the level of conservatism by:",
+      "options": {
+        "a": "Adjusting the diver's inert gas absorption",
+        "b": "Adjusting the temperature gradient in water",
+        "c": "Increasing the maximum tolerated supersaturation in the tissues compared to Bühlmann's original values",
+        "d": "Lowering the maximum tolerated supersaturation in the tissues compared to Bühlmann's original values"
+      },
+      "correct": "d",
+      "explanation": "GF < 100% reduces the effective M-value below Bühlmann's pure original values = more conservative buffer. GF 30/70 means: start the first stop when fast compartments are at 30% of their original M-value gradient (deeper / earlier), and surface only when slow compartments sit at 70% (extra reserve at sea level). Lower GF = lower allowed supersaturation = more margin before bubble risk. (c) increasing M-value would mean less conservatism (and standard practice doesn't go above 100%). (a) absorption is depth/time-driven, not GF-driven. (b) temperature gradient is unrelated to GF.",
+      "source": "mySSI: SoD Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-sod-056",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Altitude / Flying",
+      "question": "Dive computers with altitude settings allow divers to:",
+      "options": {
+        "a": "Input their altitude",
+        "b": "Increase their atmospheric pressure",
+        "c": "Reduce their conservatism levels",
+        "d": "Dive as long as they like"
+      },
+      "correct": "a",
+      "explanation": "Altitude setting lets the diver tell the computer the current altitude (mountain lake, high-elevation site). The algorithm then uses the LOWER ambient surface pressure as the baseline — every depth measurement is referenced to that adjusted surface, and M-values scale accordingly. Without this input the computer would assume sea level (1 ata) and overshoot real NDL / under-prescribe stops. (b) the computer can't physically change pressure. (c) altitude ADDS conservatism, doesn't reduce it. (d) absurd.",
+      "source": "mySSI: SoD Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-sod-057",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Conservatism",
+      "question": "What is the high gradient factor (GF High)?",
+      "options": {
+        "a": "A type of dive computer",
+        "b": "The percentage of the original M-value that defines the beginning of the decompression stops",
+        "c": "The maximum tolerated supersaturation in the tissues compared to Bühlmann's original values",
+        "d": "The percentage of the original M-value that defines the residual nitrogen at the surface at the end of the dive"
+      },
+      "correct": "d",
+      "explanation": "Mirror to mssi-sod-054 (GF Low). GF HIGH = the percentage of Bühlmann's M-value reached at the SURFACE / end of ascent. Lower GF High = bigger buffer between tissue tension and M-value at the surface = safer surface margin. Example: GF High 70 means slow compartments may reach 70% of their M-value when surfacing, leaving a 30% buffer. (b) inverts to GF Low (deeper stops). (c) is the generic Bühlmann M-value definition without the Low/High distinction. (a) nonsensical.",
+      "source": "mySSI: SoD Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-sod-058",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Conservatism",
+      "question": "Which algorithm adjusts the level of conservatism on a dive computer?",
+      "options": {
+        "a": "Conservative algorithm (P2)",
+        "b": "All answers are correct",
+        "c": "Intermediate algorithm (P1)",
+        "d": "Standard algorithm (P0)"
+      },
+      "correct": "b",
+      "explanation": "P0 / P1 / P2 are SSI / Suunto preset conservatism levels — all three are variants of the same underlying decompression algorithm with different safety margins layered on top. P0 (Standard) = baseline NDL, least conservative. P1 (Intermediate) = moderate buffer. P2 (Conservative) = strongest buffer (shorter NDL, earlier stops, deeper first stops). The diver picks based on predisposing factors and environmental conditions (mssi-sod-053).",
+      "source": "mySSI: SoD Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-sod-059",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Dive Computers",
+      "question": "How do dive computers simplify pre-dive planning?",
+      "options": {
+        "a": "By providing real-time data on dive profiles and decompression limits",
+        "b": "By monitoring dive parameters during the dive",
+        "c": "By offering audible and visual alarms for potential risks",
+        "d": "By automatically logging dive data for future analysis"
+      },
+      "correct": "d",
+      "explanation": "Logged dive history across many dives gives the diver real data to plan the NEXT dive: personal SAC pattern across conditions, how the computer responded to specific profiles, residual nitrogen carry-over after a dive day. Iterative improvement of dive planning. (a) 'real-time data' is primarily during-dive monitoring, not pre-dive planning. (b) and (c) are explicitly during-dive functions, not pre-dive. Distinction: pre-dive planning happens BEFORE the dive — using past dive data is how the computer helps with that.",
+      "source": "mySSI: SoD Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-sod-060",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Conservatism",
+      "question": "Options for adjusting conservatism levels on a dive computer might include:",
+      "options": {
+        "a": "Adjusting the algorithm",
+        "b": "All answers are correct",
+        "c": "Adjusting the decompression model",
+        "d": "Adjusting the gradient factors"
+      },
+      "correct": "b",
+      "explanation": "Three legitimate ways to tune conservatism: (a) ALGORITHM preset (P0 / P1 / P2 — mssi-sod-058); (c) DECOMPRESSION MODEL choice on computers that support multiple (Bühlmann ZH-L16 vs RGBM vs VPM-B); (d) GRADIENT FACTORS — custom GF Low / GF High pair on advanced computers (mssi-sod-054, 057). All three modify the buffer between tissue tension and the M-value, just at different levels of granularity.",
+      "source": "mySSI: SoD Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-sod-061",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Dive Computers",
+      "question": "Which of these statements about dive computer advantages is true?",
+      "options": {
+        "a": "They provide valuable post-dive data for in-depth analysis",
+        "b": "All answers are correct",
+        "c": "They display the required desaturation time for surface intervals",
+        "d": "They accurately monitor and display real-time dive information"
+      },
+      "correct": "b",
+      "explanation": "Dive computers are an all-stages tool: (a) POST-dive — log every detail for later analysis, feeding into pre-dive planning improvement (mssi-sod-059); (c) BETWEEN dives — surface interval and desaturation / no-fly countdown; (d) DURING dive — real-time depth, NDL, ascent rate, time, gas pressure (in air-integrated computers), tissue compartment loading. All three together replace what used to be tables + watches + depth gauges, giving more accurate per-second tracking.",
+      "source": "mySSI: SoD Lesson 2.3 Review"
+    },
+    {
+      "id": "mssi-sod-062",
+      "area": "science_of_diving",
+      "subarea": "Decompression Theory — Conservatism",
+      "question": "What are gradient factors?",
+      "options": {
+        "a": "A device used to measure the water's temperature gradient",
+        "b": "A pair of numbers entered into a dive computer to decrease the risks of decompression sickness",
+        "c": "A type of buoyancy compensation",
+        "d": "A method for measuring inert gas absorption"
+      },
+      "correct": "b",
+      "explanation": "Gradient Factors = a configurable PAIR of numbers (GF Low / GF High — mssi-sod-054, 057) entered into advanced dive computers (Shearwater, Garmin, etc.) to bias Bühlmann's algorithm toward more conservative decompression. Lower numbers = lower allowed supersaturation = lower DCS risk. (a) is nonsensical — GF isn't a thermometer. (c) BCD is buoyancy. (d) gas absorption is what the dive's profile + algorithm calculate continuously; GF only modifies the threshold against which absorption is checked.",
+      "source": "mySSI: SoD Lesson 2.3 Review"
     },
     {
       "id": "personal-ait-a-001",

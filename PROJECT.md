@@ -75,22 +75,22 @@ Dark (default) ↔ Light toggle 🌙/☀️ v topbaru. Persistence v `ssi.theme`
 
 ## Question bank
 
-### Counts (k 2026-04-29)
+### Counts (k 2026-04-30)
 - Open Water Diver: **100** (Personal exam Form A+B)
-- Science of Diving: **320** (120 compiled + 200 Personal exam Form A+B, 100 q each)
+- Science of Diving: **382** (120 compiled + 200 Personal exam Form A+B + 62 mssi-sod Reviews Lesson 1.1-2.3)
 - Diver Stress & Rescue: **50** (Personal exam Form A+B, 25 q each — PDF Q26-50 missing)
 - React Right: **100** (Personal exam Form A+B)
 - Divemaster: **150** (50 compiled + 100 Personal Dive Guide exam Form A+B)
 - Assistant Instructor: **50**
 - Instructor: **753** (z toho 200 Personal ITC/AIT exam questions, 403 mssi-inst Reviews + Pretest)
-- **Total: 1523** (EN: 1523, CS: 919; CS gap 604 — pending batch translation)
+- **Total: 1585 (EN: 1585, CS: 1585 — full parity ✓)**
 
 ### Source kategorie (4-way)
 
 | Badge | Source | Count | Notes |
 |---|---|---|---|
-| ★ mySSI | mySSI verbatim (ITC Pretest Parts 1-9 + ITC Lesson 1.1-8.3 Reviews) | ~349 | User-confirmed answers, all CS-translated |
-| 🔒 Personal | 4 SSI Pro exam PDFs (AIT-A, AIT-B, ITC-A, ITC-B; 50 Q each) | 200 | Locked behind password |
+| ★ mySSI | mySSI verbatim — ITC Pretest Parts 1-9 + ITC Lesson 1.1-10.5 Reviews + SoD Lesson 1.1-2.3 Reviews (`mssi-inst-NNN`, `mssi-sod-NNN`) | ~465 | User-confirmed answers, all CS-translated |
+| 🔒 Personal | 14 SSI exam PDFs: 4 Pro (AIT-A, AIT-B, ITC-A, ITC-B; 50 Q each) + 10 program (OWD A+B 50q, SoD A+B 100q, Dive Guide A+B 50q, Stress & Rescue A+B 25q, React Right A+B 50q) | 750 | Locked behind password `jetmouse` |
 | ● Web | Quizlet, dive shop PDFs, ScubaBoard, etc. | ~64 | URL v source field |
 | ○ Compiled | Agent-authored z public SSI standards + dive theory | ~313 | source = `compiled_from_dive_theory` |
 
