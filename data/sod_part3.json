@@ -4,7 +4,12 @@
     "area": "science_of_diving",
     "subarea": "Decompression Theory — Bubble formation",
     "question": "Gases may separate out of solution to form bubbles, leading to DCS, when a diver:",
-    "options": {"a": "Drinks plenty of water", "b": "Stays well within NDL", "c": "Exceeds the ascent rate or makes a rapid uncontrolled ascent", "d": "Performs a safety stop"},
+    "options": {
+      "a": "Drinks plenty of water",
+      "b": "Stays well within NDL",
+      "c": "Exceeds the ascent rate or makes a rapid uncontrolled ascent",
+      "d": "Performs a safety stop"
+    },
     "correct": "c",
     "explanation": "Rapid ascent doesn't allow nitrogen to off-gas safely, allowing bubbles to form.",
     "source": "https://cozumelscuba.com/wp-content/uploads/Exam-English-7.pdf"
@@ -14,7 +19,12 @@
     "area": "science_of_diving",
     "subarea": "Physiology — Type I DCS",
     "question": "Type I (mild) decompression sickness typically presents with:",
-    "options": {"a": "Joint pain (the bends), skin rashes, itching", "b": "Paralysis", "c": "Loss of consciousness", "d": "Stroke-like symptoms"},
+    "options": {
+      "a": "Joint pain (the bends), skin rashes, itching",
+      "b": "Paralysis",
+      "c": "Loss of consciousness",
+      "d": "Stroke-like symptoms"
+    },
     "correct": "a",
     "explanation": "Type I DCS = pain-only or skin/lymphatic; Type II = neurological/cardiopulmonary, more serious.",
     "source": "compiled_from_dive_theory"
@@ -24,7 +34,12 @@
     "area": "science_of_diving",
     "subarea": "Physiology — Type II DCS",
     "question": "Type II (serious) decompression sickness involves:",
-    "options": {"a": "Only joint pain", "b": "Skin itching only", "c": "Neurological, cardiopulmonary or inner-ear symptoms", "d": "Mild fatigue"},
+    "options": {
+      "a": "Only joint pain",
+      "b": "Skin itching only",
+      "c": "Neurological, cardiopulmonary or inner-ear symptoms",
+      "d": "Mild fatigue"
+    },
     "correct": "c",
     "explanation": "Type II includes paralysis, numbness, vertigo, breathing difficulty — life-threatening.",
     "source": "compiled_from_dive_theory"
@@ -34,7 +49,12 @@
     "area": "science_of_diving",
     "subarea": "Decompression Theory — Onset",
     "question": "Most cases of DCS show symptoms within:",
-    "options": {"a": "1 minute of surfacing", "b": "1-3 hours of surfacing (over 80% within the first hour)", "c": "1 day", "d": "1 week"},
+    "options": {
+      "a": "1 minute of surfacing",
+      "b": "1-3 hours of surfacing (over 80% within the first hour)",
+      "c": "1 day",
+      "d": "1 week"
+    },
     "correct": "b",
     "explanation": "Symptoms onset is most commonly within 1-3 hours; >80% within the first hour.",
     "source": "compiled_from_dive_theory"
@@ -44,7 +64,12 @@
     "area": "science_of_diving",
     "subarea": "Equipment — Compass",
     "question": "Basic components of a diver's compass include:",
-    "options": {"a": "Magnetic needle and lubber line", "b": "360-degree bezel", "c": "Liquid-filled housing", "d": "All of the above"},
+    "options": {
+      "a": "Magnetic needle and lubber line",
+      "b": "360-degree bezel",
+      "c": "Liquid-filled housing",
+      "d": "All of the above"
+    },
     "correct": "d",
     "explanation": "All listed parts are essential to a standard navigational diver compass.",
     "source": "https://quizlet.com/225226263/dive-ssi-specialty-course-navigation-sc-nv-flash-cards/"
@@ -54,7 +79,12 @@
     "area": "science_of_diving",
     "subarea": "Equipment — Compass",
     "question": "To navigate to a sighted object using a compass, the correct procedure is to:",
-    "options": {"a": "Aim and follow the needle directly", "b": "Point the compass at the object, rotate the bezel so the witness marks line up with the magnetic needle, then follow the lubber line", "c": "Watch the bezel only", "d": "Swim until the needle reads zero"},
+    "options": {
+      "a": "Aim and follow the needle directly",
+      "b": "Point the compass at the object, rotate the bezel so the witness marks line up with the magnetic needle, then follow the lubber line",
+      "c": "Watch the bezel only",
+      "d": "Swim until the needle reads zero"
+    },
     "correct": "b",
     "explanation": "This procedure stores the bearing on the bezel so you can re-acquire course if you drift.",
     "source": "https://quizlet.com/225226263/dive-ssi-specialty-course-navigation-sc-nv-flash-cards/"
@@ -64,7 +94,12 @@
     "area": "science_of_diving",
     "subarea": "Equipment — Compass",
     "question": "When a metal object comes close to a compass, the compass will:",
-    "options": {"a": "Read more accurately", "b": "Be deviated and give a false reading", "c": "Stop functioning permanently", "d": "Reverse polarity"},
+    "options": {
+      "a": "Read more accurately",
+      "b": "Be deviated and give a false reading",
+      "c": "Stop functioning permanently",
+      "d": "Reverse polarity"
+    },
     "correct": "b",
     "explanation": "Ferrous metals deflect the compass needle. Keep dive tools and tank valves away from the compass when reading bearings.",
     "source": "compiled_from_dive_theory"
@@ -74,7 +109,12 @@
     "area": "science_of_diving",
     "subarea": "Environment — Tides",
     "question": "Tides are caused primarily by:",
-    "options": {"a": "Wind action", "b": "Differences in seawater salinity", "c": "Gravitational pull of the moon and sun on the oceans", "d": "Earth's rotation alone"},
+    "options": {
+      "a": "Wind action",
+      "b": "Differences in seawater salinity",
+      "c": "Gravitational pull of the moon and sun on the oceans",
+      "d": "Earth's rotation alone"
+    },
     "correct": "c",
     "explanation": "Lunar (and solar) gravitational forces drive tidal cycles; earth rotation modulates timing.",
     "source": "compiled_from_dive_theory"
@@ -84,7 +124,12 @@
     "area": "science_of_diving",
     "subarea": "Environment — Currents",
     "question": "A rip current is best described as:",
-    "options": {"a": "A strong, narrow current flowing seaward from a beach", "b": "Tidal current along a shoreline", "c": "Deep-ocean thermohaline current", "d": "Surface current driven by wind"},
+    "options": {
+      "a": "A strong, narrow current flowing seaward from a beach",
+      "b": "Tidal current along a shoreline",
+      "c": "Deep-ocean thermohaline current",
+      "d": "Surface current driven by wind"
+    },
     "correct": "a",
     "explanation": "Rip currents form when water piled on the beach by waves drains back through a gap in sandbars.",
     "source": "compiled_from_dive_theory"
@@ -94,7 +139,12 @@
     "area": "science_of_diving",
     "subarea": "Environment — Currents",
     "question": "If caught in a rip current, the proper response is to:",
-    "options": {"a": "Swim straight back to shore against it", "b": "Swim parallel to shore until out of the current, then back to shore", "c": "Dive deep and swim", "d": "Float and wait for the tide"},
+    "options": {
+      "a": "Swim straight back to shore against it",
+      "b": "Swim parallel to shore until out of the current, then back to shore",
+      "c": "Dive deep and swim",
+      "d": "Float and wait for the tide"
+    },
     "correct": "b",
     "explanation": "Swim parallel to the beach to escape the narrow rip channel, then come ashore.",
     "source": "compiled_from_dive_theory"
@@ -104,7 +154,12 @@
     "area": "science_of_diving",
     "subarea": "Environment — Waves",
     "question": "Waves are mainly caused by:",
-    "options": {"a": "Tidal forces", "b": "Wind blowing across the surface of the water", "c": "Earthquakes only", "d": "Marine animal activity"},
+    "options": {
+      "a": "Tidal forces",
+      "b": "Wind blowing across the surface of the water",
+      "c": "Earthquakes only",
+      "d": "Marine animal activity"
+    },
     "correct": "b",
     "explanation": "Wind transferring energy to the water surface forms wind waves; tsunamis come from seismic events but normal waves are wind-generated.",
     "source": "compiled_from_dive_theory"
@@ -114,7 +169,12 @@
     "area": "science_of_diving",
     "subarea": "Environment — Thermocline",
     "question": "A thermocline is:",
-    "options": {"a": "A zone of rapid temperature change with depth", "b": "A horizontal salinity boundary", "c": "A type of underwater storm", "d": "Surface visibility variation"},
+    "options": {
+      "a": "A zone of rapid temperature change with depth",
+      "b": "A horizontal salinity boundary",
+      "c": "A type of underwater storm",
+      "d": "Surface visibility variation"
+    },
     "correct": "a",
     "explanation": "Thermocline = a layer where water temperature drops sharply with depth. Halocline = sharp salinity change.",
     "source": "compiled_from_dive_theory"
@@ -124,7 +184,12 @@
     "area": "science_of_diving",
     "subarea": "Environment — Halocline",
     "question": "A halocline is:",
-    "options": {"a": "A layer of rapid temperature change", "b": "A layer of rapid salinity change with depth", "c": "An underwater fog of suspended sediment", "d": "A sharp visibility boundary at the surface"},
+    "options": {
+      "a": "A layer of rapid temperature change",
+      "b": "A layer of rapid salinity change with depth",
+      "c": "An underwater fog of suspended sediment",
+      "d": "A sharp visibility boundary at the surface"
+    },
     "correct": "b",
     "explanation": "Haloclines occur where fresh and salt water meet (e.g., cenotes, fjords) and can blur vision at the boundary.",
     "source": "compiled_from_dive_theory"
@@ -132,9 +197,14 @@
   {
     "id": "sod-0094",
     "area": "science_of_diving",
-    "subarea": "Physics — Charles' Law",
+    "subarea": "Physics & Chemistry — Charles' Law",
     "question": "Charles's Law describes the relationship between:",
-    "options": {"a": "Pressure and volume", "b": "Volume and temperature at constant pressure", "c": "Solubility and pressure", "d": "Buoyancy and density"},
+    "options": {
+      "a": "Pressure and volume",
+      "b": "Volume and temperature at constant pressure",
+      "c": "Solubility and pressure",
+      "d": "Buoyancy and density"
+    },
     "correct": "b",
     "explanation": "At constant pressure, volume of a fixed gas mass is proportional to absolute temperature.",
     "source": "compiled_from_dive_theory"
@@ -142,9 +212,14 @@
   {
     "id": "sod-0095",
     "area": "science_of_diving",
-    "subarea": "Physics — Gay-Lussac's Law",
+    "subarea": "Physics & Chemistry — Gay-Lussac's Law",
     "question": "Gay-Lussac's Law says that, at constant volume, the pressure of a gas:",
-    "options": {"a": "Decreases as temperature increases", "b": "Is proportional to absolute temperature", "c": "Is independent of temperature", "d": "Equals the volume"},
+    "options": {
+      "a": "Decreases as temperature increases",
+      "b": "Is proportional to absolute temperature",
+      "c": "Is independent of temperature",
+      "d": "Equals the volume"
+    },
     "correct": "b",
     "explanation": "P/T = constant. This is why a hot scuba cylinder shows higher pressure than the same cylinder when cool.",
     "source": "compiled_from_dive_theory"
@@ -152,9 +227,14 @@
   {
     "id": "sod-0096",
     "area": "science_of_diving",
-    "subarea": "Physics — Cylinder pressure and temperature",
+    "subarea": "Physics & Chemistry — Cylinder pressure and temperature",
     "question": "If a scuba cylinder filled to 200 bar at 20 C is left in hot sun until it reaches 50 C, the pressure (assuming sealed and rigid) will:",
-    "options": {"a": "Stay at 200 bar", "b": "Decrease", "c": "Increase noticeably", "d": "Drop to atmospheric"},
+    "options": {
+      "a": "Stay at 200 bar",
+      "b": "Decrease",
+      "c": "Increase noticeably",
+      "d": "Drop to atmospheric"
+    },
     "correct": "c",
     "explanation": "Gay-Lussac: P is proportional to T (kelvin). Heating raises pressure; do not leave full cylinders in hot sun.",
     "source": "compiled_from_dive_theory"
@@ -164,7 +244,12 @@
     "area": "science_of_diving",
     "subarea": "Physiology — Pulmonary edema",
     "question": "Immersion pulmonary edema (IPE) presents with:",
-    "options": {"a": "Sudden joint pain", "b": "Coughing up frothy fluid, shortness of breath, sometimes blood-tinged sputum", "c": "Skin rash and itching", "d": "Localized numbness"},
+    "options": {
+      "a": "Sudden joint pain",
+      "b": "Coughing up frothy fluid, shortness of breath, sometimes blood-tinged sputum",
+      "c": "Skin rash and itching",
+      "d": "Localized numbness"
+    },
     "correct": "b",
     "explanation": "IPE is fluid in the lungs caused by immersion stress. Get the diver out of the water and seek medical care.",
     "source": "compiled_from_dive_theory"
@@ -174,7 +259,12 @@
     "area": "science_of_diving",
     "subarea": "Physiology — PFO",
     "question": "A patent foramen ovale (PFO) is:",
-    "options": {"a": "A small opening between the heart's atria that can allow venous bubbles to bypass the lungs", "b": "A type of dental filling", "c": "An ear-canal abnormality", "d": "A rare oxygen-toxicity symptom"},
+    "options": {
+      "a": "A small opening between the heart's atria that can allow venous bubbles to bypass the lungs",
+      "b": "A type of dental filling",
+      "c": "An ear-canal abnormality",
+      "d": "A rare oxygen-toxicity symptom"
+    },
     "correct": "a",
     "explanation": "A PFO can shunt venous bubbles into arterial circulation, increasing risk of unprovoked DCS.",
     "source": "compiled_from_dive_theory"
@@ -184,7 +274,12 @@
     "area": "science_of_diving",
     "subarea": "Equipment — Drysuit",
     "question": "When ascending in a dry suit, the diver must:",
-    "options": {"a": "Vent expanding gas from the suit to prevent uncontrolled ascent", "b": "Add gas to the suit to maintain warmth", "c": "Disconnect the inflator", "d": "Remove the suit at the safety stop"},
+    "options": {
+      "a": "Vent expanding gas from the suit to prevent uncontrolled ascent",
+      "b": "Add gas to the suit to maintain warmth",
+      "c": "Disconnect the inflator",
+      "d": "Remove the suit at the safety stop"
+    },
     "correct": "a",
     "explanation": "Drysuit gas expands on ascent (Boyle's Law) and must be vented to maintain control.",
     "source": "compiled_from_dive_theory"
@@ -194,7 +289,12 @@
     "area": "science_of_diving",
     "subarea": "Equipment — Drysuit",
     "question": "The most common cause of an uncontrolled ascent in a dry suit is:",
-    "options": {"a": "Wearing too little weight", "b": "Failing to vent gas as you ascend (especially if inverted)", "c": "Using a thick undergarment", "d": "Wearing a thicker hood"},
+    "options": {
+      "a": "Wearing too little weight",
+      "b": "Failing to vent gas as you ascend (especially if inverted)",
+      "c": "Using a thick undergarment",
+      "d": "Wearing a thicker hood"
+    },
     "correct": "b",
     "explanation": "Trapped gas in feet/legs of a dry suit can cause a feet-up runaway ascent; keep ankles below chest and vent.",
     "source": "compiled_from_dive_theory"
@@ -204,7 +304,12 @@
     "area": "science_of_diving",
     "subarea": "Physiology — Stress",
     "question": "The 'fight-or-flight' response in divers can lead to:",
-    "options": {"a": "Increased confidence and improved skills", "b": "Rapid breathing, tunnel vision, panic, and poor decision-making", "c": "Better gas consumption", "d": "Slower heart rate only"},
+    "options": {
+      "a": "Increased confidence and improved skills",
+      "b": "Rapid breathing, tunnel vision, panic, and poor decision-making",
+      "c": "Better gas consumption",
+      "d": "Slower heart rate only"
+    },
     "correct": "b",
     "explanation": "Acute stress narrows attention, increases breathing rate and impairs problem solving — a key hazard underwater.",
     "source": "compiled_from_dive_theory"
@@ -214,7 +319,12 @@
     "area": "science_of_diving",
     "subarea": "Equipment — Cylinder service",
     "question": "Most scuba cylinders require visual inspection at intervals of:",
-    "options": {"a": "Every dive", "b": "Annually", "c": "Every 5 years", "d": "Every 10 years"},
+    "options": {
+      "a": "Every dive",
+      "b": "Annually",
+      "c": "Every 5 years",
+      "d": "Every 10 years"
+    },
     "correct": "b",
     "explanation": "Annual visual inspection is industry standard; hydrostatic testing typically every 5 years (varies by jurisdiction).",
     "source": "compiled_from_dive_theory"
@@ -224,7 +334,12 @@
     "area": "science_of_diving",
     "subarea": "Equipment — Cylinder service",
     "question": "A hydrostatic (pressure) test on a scuba cylinder is typically required:",
-    "options": {"a": "Annually", "b": "Every 5 years", "c": "Once per cylinder", "d": "Only after a fall"},
+    "options": {
+      "a": "Annually",
+      "b": "Every 5 years",
+      "c": "Once per cylinder",
+      "d": "Only after a fall"
+    },
     "correct": "b",
     "explanation": "Most jurisdictions: hydrostatic test every 5 years. Some (e.g., Australia) annual.",
     "source": "compiled_from_dive_theory"
@@ -234,7 +349,12 @@
     "area": "science_of_diving",
     "subarea": "Physiology — Air consumption",
     "question": "At 20 m / 66 ft (3 ATA), a diver will breathe air from the cylinder approximately how many times faster than at the surface?",
-    "options": {"a": "Equal", "b": "2x", "c": "3x", "d": "4x"},
+    "options": {
+      "a": "Equal",
+      "b": "2x",
+      "c": "3x",
+      "d": "4x"
+    },
     "correct": "c",
     "explanation": "Density (and thus volume of air consumed per breath at surface-equivalent) scales with absolute pressure: 3 ATA = 3x.",
     "source": "compiled_from_dive_theory"
@@ -242,9 +362,14 @@
   {
     "id": "sod-0105",
     "area": "science_of_diving",
-    "subarea": "Physics — Pressure conversion",
+    "subarea": "Physics & Chemistry — Pressure conversion",
     "question": "1 bar is approximately equal to:",
-    "options": {"a": "0.1 psi", "b": "14.5 psi", "c": "100 psi", "d": "1000 psi"},
+    "options": {
+      "a": "0.1 psi",
+      "b": "14.5 psi",
+      "c": "100 psi",
+      "d": "1000 psi"
+    },
     "correct": "b",
     "explanation": "1 bar ~ 14.5 psi ~ 0.987 atm. Useful for cross-converting tank pressures.",
     "source": "compiled_from_dive_theory"
@@ -254,7 +379,12 @@
     "area": "science_of_diving",
     "subarea": "Equipment — Air supply",
     "question": "The recommended minimum reserve pressure to begin returning to the exit is typically:",
-    "options": {"a": "10 bar / 150 psi", "b": "30 bar / 500 psi", "c": "50 bar / 700 psi", "d": "100 bar / 1500 psi"},
+    "options": {
+      "a": "10 bar / 150 psi",
+      "b": "30 bar / 500 psi",
+      "c": "50 bar / 700 psi",
+      "d": "100 bar / 1500 psi"
+    },
     "correct": "c",
     "explanation": "Plan to be at the exit/safety stop with around 50 bar / 700 psi remaining as a reserve.",
     "source": "compiled_from_dive_theory"
@@ -264,7 +394,12 @@
     "area": "science_of_diving",
     "subarea": "Decompression Theory — Altitude",
     "question": "Diving at high altitude requires adjusted procedures because:",
-    "options": {"a": "Atmospheric pressure is lower than at sea level", "b": "Water freezes faster", "c": "Cylinders fill faster", "d": "Visibility is always better"},
+    "options": {
+      "a": "Atmospheric pressure is lower than at sea level",
+      "b": "Water freezes faster",
+      "c": "Cylinders fill faster",
+      "d": "Visibility is always better"
+    },
     "correct": "a",
     "explanation": "Lower surface pressure changes the pressure ratio for off-gassing; depth gauges and tables must be corrected.",
     "source": "compiled_from_dive_theory"
@@ -274,7 +409,12 @@
     "area": "science_of_diving",
     "subarea": "Equipment — SPG",
     "question": "The submersible pressure gauge (SPG) measures:",
-    "options": {"a": "Depth", "b": "Cylinder pressure", "c": "Water temperature", "d": "Heart rate"},
+    "options": {
+      "a": "Depth",
+      "b": "Cylinder pressure",
+      "c": "Water temperature",
+      "d": "Heart rate"
+    },
     "correct": "b",
     "explanation": "SPG reads remaining cylinder pressure; modern computers often integrate this wirelessly.",
     "source": "compiled_from_dive_theory"
@@ -284,7 +424,12 @@
     "area": "science_of_diving",
     "subarea": "Physiology — Vertigo",
     "question": "Alternobaric vertigo is most often caused by:",
-    "options": {"a": "Carbon monoxide", "b": "Unequal middle-ear pressure between right and left ears", "c": "Cold water", "d": "Strong currents"},
+    "options": {
+      "a": "Carbon monoxide",
+      "b": "Unequal middle-ear pressure between right and left ears",
+      "c": "Cold water",
+      "d": "Strong currents"
+    },
     "correct": "b",
     "explanation": "Asymmetric equalization causes unequal pressure between the two middle ears, leading to dizziness.",
     "source": "compiled_from_dive_theory"
@@ -294,7 +439,12 @@
     "area": "science_of_diving",
     "subarea": "Physiology — Nitrogen elimination",
     "question": "Nitrogen is eliminated from the body primarily through:",
-    "options": {"a": "Kidneys (urine)", "b": "Sweat", "c": "Lungs (exhalation)", "d": "Liver"},
+    "options": {
+      "a": "Kidneys (urine)",
+      "b": "Sweat",
+      "c": "Lungs (exhalation)",
+      "d": "Liver"
+    },
     "correct": "c",
     "explanation": "Nitrogen off-gassing happens through the pulmonary circulation and is exhaled.",
     "source": "compiled_from_dive_theory"
@@ -302,9 +452,14 @@
   {
     "id": "sod-0111",
     "area": "science_of_diving",
-    "subarea": "Physics — Pressure groups",
+    "subarea": "Physics & Chemistry — Pressure groups",
     "question": "On dive tables, a pressure group letter represents:",
-    "options": {"a": "The diver's weight class", "b": "The relative amount of residual nitrogen in the body", "c": "Cylinder size", "d": "Wetsuit thickness"},
+    "options": {
+      "a": "The diver's weight class",
+      "b": "The relative amount of residual nitrogen in the body",
+      "c": "Cylinder size",
+      "d": "Wetsuit thickness"
+    },
     "correct": "b",
     "explanation": "Pressure-group letters quantify residual nitrogen for repetitive-dive planning.",
     "source": "compiled_from_dive_theory"
@@ -314,7 +469,12 @@
     "area": "science_of_diving",
     "subarea": "Physiology — Surface interval",
     "question": "Increasing the surface interval between dives generally:",
-    "options": {"a": "Increases residual nitrogen", "b": "Decreases residual nitrogen, allowing longer NDL on the next dive", "c": "Has no effect", "d": "Increases ascent rate limits"},
+    "options": {
+      "a": "Increases residual nitrogen",
+      "b": "Decreases residual nitrogen, allowing longer NDL on the next dive",
+      "c": "Has no effect",
+      "d": "Increases ascent rate limits"
+    },
     "correct": "b",
     "explanation": "Off-gassing during the surface interval reduces residual N2, increasing available NDL on the next dive.",
     "source": "compiled_from_dive_theory"
@@ -322,9 +482,14 @@
   {
     "id": "sod-0113",
     "area": "science_of_diving",
-    "subarea": "Physics — Buoyancy calculation",
+    "subarea": "Physics & Chemistry — Buoyancy calculation",
     "question": "An object weighing 30 kg in air with a volume of 25 L is fully immersed in seawater (density 1.03 kg/L). It will be:",
-    "options": {"a": "Negatively buoyant by ~4.25 kg", "b": "Positively buoyant by ~4.25 kg", "c": "Neutrally buoyant", "d": "Floating on the surface"},
+    "options": {
+      "a": "Negatively buoyant by ~4.25 kg",
+      "b": "Positively buoyant by ~4.25 kg",
+      "c": "Neutrally buoyant",
+      "d": "Floating on the surface"
+    },
     "correct": "a",
     "explanation": "Buoyant force = 25 x 1.03 = 25.75 kg. Weight 30 kg > buoyant force 25.75, so net 4.25 kg negative.",
     "source": "compiled_from_dive_theory"
@@ -332,9 +497,14 @@
   {
     "id": "sod-0114",
     "area": "science_of_diving",
-    "subarea": "Physics — Buoyancy calculation",
+    "subarea": "Physics & Chemistry — Buoyancy calculation",
     "question": "How many liters of lift are needed to make a 5 kg negative object neutrally buoyant in seawater?",
-    "options": {"a": "About 2.5 L", "b": "About 5 L (since 1 L of seawater displacement provides about 1 kg of lift)", "c": "About 10 L", "d": "About 50 L"},
+    "options": {
+      "a": "About 2.5 L",
+      "b": "About 5 L (since 1 L of seawater displacement provides about 1 kg of lift)",
+      "c": "About 10 L",
+      "d": "About 50 L"
+    },
     "correct": "b",
     "explanation": "Each liter of seawater displacement gives ~1.03 kg of lift; ~5 L offsets 5 kg negative.",
     "source": "compiled_from_dive_theory"
@@ -344,7 +514,12 @@
     "area": "science_of_diving",
     "subarea": "Equipment — Snorkel/Mask",
     "question": "A mask should fit such that:",
-    "options": {"a": "It seals on the face by suction without the strap", "b": "It is loosely fitted and held by the strap", "c": "It covers the mouth and nose", "d": "It fits only over the eyes"},
+    "options": {
+      "a": "It seals on the face by suction without the strap",
+      "b": "It is loosely fitted and held by the strap",
+      "c": "It covers the mouth and nose",
+      "d": "It fits only over the eyes"
+    },
     "correct": "a",
     "explanation": "A properly-sized mask seals via gentle suction even before the strap is tightened.",
     "source": "compiled_from_dive_theory"
@@ -354,7 +529,12 @@
     "area": "science_of_diving",
     "subarea": "Physiology — Oxygen toxicity types",
     "question": "Pulmonary oxygen toxicity differs from CNS oxygen toxicity in that pulmonary toxicity:",
-    "options": {"a": "Causes immediate convulsions", "b": "Develops over long exposures to elevated ppO2 (e.g., long chamber treatments)", "c": "Only occurs above 1.6 bar", "d": "Is completely unrelated to diving"},
+    "options": {
+      "a": "Causes immediate convulsions",
+      "b": "Develops over long exposures to elevated ppO2 (e.g., long chamber treatments)",
+      "c": "Only occurs above 1.6 bar",
+      "d": "Is completely unrelated to diving"
+    },
     "correct": "b",
     "explanation": "Pulmonary (whole-body) toxicity is dose-dependent over hours; CNS toxicity is acute and depends on ppO2.",
     "source": "compiled_from_dive_theory"
@@ -364,7 +544,12 @@
     "area": "science_of_diving",
     "subarea": "Physiology — Heat conservation",
     "question": "Most body heat is lost during a dive through:",
-    "options": {"a": "The fins", "b": "The head and torso (large surface area, blood flow)", "c": "The hands only", "d": "The feet only"},
+    "options": {
+      "a": "The fins",
+      "b": "The head and torso (large surface area, blood flow)",
+      "c": "The hands only",
+      "d": "The feet only"
+    },
     "correct": "b",
     "explanation": "The head and torso are major heat-loss areas; a hood significantly reduces heat loss.",
     "source": "compiled_from_dive_theory"
@@ -374,7 +559,12 @@
     "area": "science_of_diving",
     "subarea": "Decompression Theory — Reverse profile",
     "question": "A reverse-profile dive (deeper after shallower) is generally:",
-    "options": {"a": "Recommended", "b": "Allowed for recreational diving but with appropriate planning", "c": "Always forbidden", "d": "Required by SSI standards"},
+    "options": {
+      "a": "Recommended",
+      "b": "Allowed for recreational diving but with appropriate planning",
+      "c": "Always forbidden",
+      "d": "Required by SSI standards"
+    },
     "correct": "b",
     "explanation": "Modern guidance accepts reverse profiles with conservative planning, but the traditional advice is deepest first.",
     "source": "compiled_from_dive_theory"
@@ -384,7 +574,12 @@
     "area": "science_of_diving",
     "subarea": "Physiology — Equalizing techniques",
     "question": "Which equalization technique uses the throat muscles, similar to swallowing?",
-    "options": {"a": "Valsalva maneuver", "b": "Toynbee maneuver", "c": "Frenzel maneuver", "d": "BTV (voluntary tubal opening)"},
+    "options": {
+      "a": "Valsalva maneuver",
+      "b": "Toynbee maneuver",
+      "c": "Frenzel maneuver",
+      "d": "BTV (voluntary tubal opening)"
+    },
     "correct": "c",
     "explanation": "Frenzel uses tongue/throat muscles to push air into the Eustachian tubes; gentler than Valsalva.",
     "source": "compiled_from_dive_theory"
@@ -394,7 +589,12 @@
     "area": "science_of_diving",
     "subarea": "Physiology — Equalizing techniques",
     "question": "Forceful Valsalva equalization can cause:",
-    "options": {"a": "Round window rupture or inner-ear barotrauma", "b": "Improved hearing", "c": "Better gas exchange", "d": "Reduced narcosis"},
+    "options": {
+      "a": "Round window rupture or inner-ear barotrauma",
+      "b": "Improved hearing",
+      "c": "Better gas exchange",
+      "d": "Reduced narcosis"
+    },
     "correct": "a",
     "explanation": "Forceful Valsalva spikes intracranial and middle-ear pressures and can rupture round-window membrane.",
     "source": "compiled_from_dive_theory"

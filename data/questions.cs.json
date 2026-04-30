@@ -11984,7 +11984,7 @@
     {
       "id": "sod-0001",
       "area": "science_of_diving",
-      "subarea": "Physics — Boyle's Law",
+      "subarea": "Physics & Chemistry — Boyle's Law",
       "question": "Který fyzikální zákon říká, že při konstantní teplotě jsou tlak a objem plynu nepřímo úměrné?",
       "options": {
         "a": "Daltonův zákon",
@@ -11999,7 +11999,7 @@
     {
       "id": "sod-0002",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure (Imperial)",
+      "subarea": "Physics & Chemistry — Pressure (Imperial)",
       "question": "Jaký je absolutní tlak (v atmosférách absolutních) v hloubce 33 ft mořské vody?",
       "options": {
         "a": "1 ATA",
@@ -12014,7 +12014,7 @@
     {
       "id": "sod-0003",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure (Metric)",
+      "subarea": "Physics & Chemistry — Pressure (Metric)",
       "question": "Jaký je absolutní tlak (v bar) v hloubce 10 metrů mořské vody?",
       "options": {
         "a": "1 bar",
@@ -12029,7 +12029,7 @@
     {
       "id": "sod-0004",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure (Metric)",
+      "subarea": "Physics & Chemistry — Pressure (Metric)",
       "question": "Jaký je absolutní tlak (v bar) v hloubce 30 metrů mořské vody?",
       "options": {
         "a": "3 bar",
@@ -12044,7 +12044,7 @@
     {
       "id": "sod-0005",
       "area": "science_of_diving",
-      "subarea": "Physics — Boyle's Law applied",
+      "subarea": "Physics & Chemistry — Boyle's Law applied",
       "question": "Pokud je pružný kontejner se vzduchem přenesen z hladiny do hloubky 30 m / 99 ft, jeho objem se:",
       "options": {
         "a": "Zdvojnásobí",
@@ -12059,7 +12059,7 @@
     {
       "id": "sod-0006",
       "area": "science_of_diving",
-      "subarea": "Physics — Boyle's Law applied",
+      "subarea": "Physics & Chemistry — Boyle's Law applied",
       "question": "Pružný kontejner se vzduchem je přenesen z hloubky 30 m / 99 ft na hladinu. Jeho objem se:",
       "options": {
         "a": "Sníží na polovinu",
@@ -12074,7 +12074,7 @@
     {
       "id": "sod-0007",
       "area": "science_of_diving",
-      "subarea": "Physics — Buoyancy change with depth",
+      "subarea": "Physics & Chemistry — Buoyancy change with depth",
       "question": "Pokud potřebujete 2 litry vzduchu v BC vestě k udržení neutrálního vztlaku v hloubce 10 m v moři, co se stane, když vystoupáte o 3 m bez vypouštění?",
       "options": {
         "a": "Stanete se více záporně vztlakovým",
@@ -12089,7 +12089,7 @@
     {
       "id": "sod-0008",
       "area": "science_of_diving",
-      "subarea": "Physics — Henry's Law",
+      "subarea": "Physics & Chemistry — Henry's Law",
       "question": "Henryho zákon primárně popisuje:",
       "options": {
         "a": "Vztah mezi objemem a teplotou plynu",
@@ -12104,7 +12104,7 @@
     {
       "id": "sod-0009",
       "area": "science_of_diving",
-      "subarea": "Physics — Dalton's Law",
+      "subarea": "Physics & Chemistry — Dalton's Law",
       "question": "Daltonův zákon parciálních tlaků říká, že:",
       "options": {
         "a": "Plyny se rozpouštějí v kapalinách úměrně svému tlaku",
@@ -12119,7 +12119,7 @@
     {
       "id": "sod-0010",
       "area": "science_of_diving",
-      "subarea": "Physics — Archimedes",
+      "subarea": "Physics & Chemistry — Archimedes",
       "question": "Archimédův zákon říká, že objekt ponořený v kapalině je nadnášen silou rovnou:",
       "options": {
         "a": "Hmotnosti objektu",
@@ -12134,7 +12134,7 @@
     {
       "id": "sod-0011",
       "area": "science_of_diving",
-      "subarea": "Physics — Saltwater density",
+      "subarea": "Physics & Chemistry — Saltwater density",
       "question": "Ve srovnání se sladkou vodou je slaná voda:",
       "options": {
         "a": "Méně hustá, poskytuje menší vztlak",
@@ -12149,7 +12149,7 @@
     {
       "id": "sod-0012",
       "area": "science_of_diving",
-      "subarea": "Physics — Buoyancy adjustment",
+      "subarea": "Physics & Chemistry — Buoyancy adjustment",
       "question": "Potápěč je správně zatížen ve slané vodě. Při použití stejného vybavení ve sladké vodě by měl:",
       "options": {
         "a": "Přidat zátěž",
@@ -12164,7 +12164,7 @@
     {
       "id": "sod-0013",
       "area": "science_of_diving",
-      "subarea": "Physics — Saltwater weight",
+      "subarea": "Physics & Chemistry — Saltwater weight",
       "question": "Kolik váží jedna kubická stopa mořské vody?",
       "options": {
         "a": "62 liber",
@@ -12179,7 +12179,7 @@
     {
       "id": "sod-0014",
       "area": "science_of_diving",
-      "subarea": "Physics — Refraction (vision)",
+      "subarea": "Physics & Chemistry — Refraction (vision)",
       "question": "Pod vodou způsobuje lom světelných paprsků, že objekty se jeví:",
       "options": {
         "a": "Stejně jako na povrchu",
@@ -12239,7 +12239,7 @@
     {
       "id": "sod-0018",
       "area": "science_of_diving",
-      "subarea": "Physics — Sound",
+      "subarea": "Physics & Chemistry — Sound",
       "question": "Ve srovnání se vzduchem se zvuk šíří vodou:",
       "options": {
         "a": "Přibližně stejně rychle",
@@ -12254,7 +12254,7 @@
     {
       "id": "sod-0019",
       "area": "science_of_diving",
-      "subarea": "Physics — Sound",
+      "subarea": "Physics & Chemistry — Sound",
       "question": "Pod vodou potápěči obtížně:",
       "options": {
         "a": "Slyší hlasité zvuky",
@@ -12509,7 +12509,7 @@
     {
       "id": "sod-0036",
       "area": "science_of_diving",
-      "subarea": "Decompression Theory",
+      "subarea": "Decompression Theory — General",
       "question": "Dekompresní nemoc je způsobena:",
       "options": {
         "a": "Kyslíkovou toxicitou v hloubce",
@@ -12524,7 +12524,7 @@
     {
       "id": "sod-0037",
       "area": "science_of_diving",
-      "subarea": "Decompression Theory",
+      "subarea": "Decompression Theory — General",
       "question": "Doporučená rychlost výstupu, kterou by rekreační potápěči neměli překročit, je:",
       "options": {
         "a": "60 ft (18 m) za minutu",
@@ -12899,7 +12899,7 @@
     {
       "id": "sod-0062",
       "area": "science_of_diving",
-      "subarea": "Physics — Gas consumption (SAC)",
+      "subarea": "Physics & Chemistry — Gas consumption (SAC)",
       "question": "Surface Air Consumption (SAC) je nejlépe definována jako:",
       "options": {
         "a": "Spotřeba vzduchu za minutu v hloubce",
@@ -12914,7 +12914,7 @@
     {
       "id": "sod-0063",
       "area": "science_of_diving",
-      "subarea": "Physics — Gas consumption",
+      "subarea": "Physics & Chemistry — Gas consumption",
       "question": "Pokud potápěč spotřebuje 50 bar v hloubce 10 m za 10 minut z 10litrové láhve, jaká je jeho SAC rate?",
       "options": {
         "a": "10 L/min",
@@ -12929,7 +12929,7 @@
     {
       "id": "sod-0064",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure (Imperial)",
+      "subarea": "Physics & Chemistry — Pressure (Imperial)",
       "question": "Jaký je absolutní tlak v hloubce 99 ft (30 m) mořské vody?",
       "options": {
         "a": "2 ATA",
@@ -12944,7 +12944,7 @@
     {
       "id": "sod-0065",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure (Metric)",
+      "subarea": "Physics & Chemistry — Pressure (Metric)",
       "question": "Každých 10 m mořské vody přidá přibližně kolik tlaku?",
       "options": {
         "a": "0,5 bar",
@@ -12959,7 +12959,7 @@
     {
       "id": "sod-0066",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure (Fresh water)",
+      "subarea": "Physics & Chemistry — Pressure (Fresh water)",
       "question": "Každých 10,3 m sladké vody přidá přibližně kolik tlaku?",
       "options": {
         "a": "0,5 bar",
@@ -12989,7 +12989,7 @@
     {
       "id": "sod-0068",
       "area": "science_of_diving",
-      "subarea": "Physics — Air composition",
+      "subarea": "Physics & Chemistry — Air composition",
       "question": "Atmosférický vzduch je přibližně:",
       "options": {
         "a": "21 % dusík, 79 % kyslík",
@@ -13049,7 +13049,7 @@
     {
       "id": "sod-0072",
       "area": "science_of_diving",
-      "subarea": "Physics — Gas laws",
+      "subarea": "Physics & Chemistry — Gas laws",
       "question": "Pokud zdvojnásobíte absolutní tlak na pevnou hmotu plynu při konstantní teplotě, objem se:",
       "options": {
         "a": "Zdvojnásobí",
@@ -13064,7 +13064,7 @@
     {
       "id": "sod-0073",
       "area": "science_of_diving",
-      "subarea": "Physics — Gas laws",
+      "subarea": "Physics & Chemistry — Gas laws",
       "question": "Pokud balónek obsahuje 6 L vzduchu při 4 ATA, jaký je jeho objem při 1 ATA (na hladině)?",
       "options": {
         "a": "1,5 L",
@@ -13079,7 +13079,7 @@
     {
       "id": "sod-0074",
       "area": "science_of_diving",
-      "subarea": "Physics — Gas laws",
+      "subarea": "Physics & Chemistry — Gas laws",
       "question": "V hloubce 30 m / 99 ft (4 ATA) je parciální tlak kyslíku ve vzduchu přibližně:",
       "options": {
         "a": "0,21 bar",
@@ -13094,7 +13094,7 @@
     {
       "id": "sod-0075",
       "area": "science_of_diving",
-      "subarea": "Physics — Gas laws",
+      "subarea": "Physics & Chemistry — Gas laws",
       "question": "V hloubce 40 m na EAN32 je parciální tlak kyslíku:",
       "options": {
         "a": "1,0 bar",
@@ -13379,7 +13379,7 @@
     {
       "id": "sod-0094",
       "area": "science_of_diving",
-      "subarea": "Physics — Charles' Law",
+      "subarea": "Physics & Chemistry — Charles' Law",
       "question": "Charlesův zákon popisuje vztah mezi:",
       "options": {
         "a": "Tlakem a objemem",
@@ -13394,7 +13394,7 @@
     {
       "id": "sod-0095",
       "area": "science_of_diving",
-      "subarea": "Physics — Gay-Lussac's Law",
+      "subarea": "Physics & Chemistry — Gay-Lussac's Law",
       "question": "Gay-Lussacův zákon říká, že při konstantním objemu je tlak plynu:",
       "options": {
         "a": "Snižuje se s rostoucí teplotou",
@@ -13409,7 +13409,7 @@
     {
       "id": "sod-0096",
       "area": "science_of_diving",
-      "subarea": "Physics — Cylinder pressure and temperature",
+      "subarea": "Physics & Chemistry — Cylinder pressure and temperature",
       "question": "Pokud je potápěčská láhev naplněná na 200 bar při 20 °C ponechána na horkém slunci, dokud nedosáhne 50 °C, tlak (za předpokladu uzavřené a tuhé láhve) se:",
       "options": {
         "a": "Zůstane na 200 bar",
@@ -13544,7 +13544,7 @@
     {
       "id": "sod-0105",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure conversion",
+      "subarea": "Physics & Chemistry — Pressure conversion",
       "question": "1 bar je přibližně rovno:",
       "options": {
         "a": "0,1 psi",
@@ -13634,7 +13634,7 @@
     {
       "id": "sod-0111",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure groups",
+      "subarea": "Physics & Chemistry — Pressure groups",
       "question": "V dekompresních tabulkách představuje písmeno skupiny tlaku:",
       "options": {
         "a": "Váhovou třídu potápěče",
@@ -13664,7 +13664,7 @@
     {
       "id": "sod-0113",
       "area": "science_of_diving",
-      "subarea": "Physics — Buoyancy calculation",
+      "subarea": "Physics & Chemistry — Buoyancy calculation",
       "question": "Objekt vážící 30 kg ve vzduchu s objemem 25 L je plně ponořen v mořské vodě (hustota 1,03 kg/L). Bude:",
       "options": {
         "a": "Záporně vztlakový o ~4,25 kg",
@@ -13679,7 +13679,7 @@
     {
       "id": "sod-0114",
       "area": "science_of_diving",
-      "subarea": "Physics — Buoyancy calculation",
+      "subarea": "Physics & Chemistry — Buoyancy calculation",
       "question": "Kolik litrů vztlaku je potřeba k tomu, aby byl 5kg záporně vztlakový objekt neutrálně vztlakový v mořské vodě?",
       "options": {
         "a": "Asi 2,5 L",

@@ -837,6 +837,7 @@ const SUBAREA_GROUPS_CS = {
   "Methodology": "Metodika",
   "OWD Exam": "OWD zkouška",
   "Physics": "Fyzika",
+  "Physics & Chemistry": "Fyzika a chemie",
   "Physiology": "Fyziologie",
   "Professional Standards": "Profesní standardy",
   "Programs": "Programy",

@@ -21975,7 +21975,7 @@
     {
       "id": "sod-0001",
       "area": "science_of_diving",
-      "subarea": "Physics — Boyle's Law",
+      "subarea": "Physics & Chemistry — Boyle's Law",
       "question": "Which physical law states that, if temperature remains constant, the pressure and volume of a gas are inversely related?",
       "options": {
         "a": "Dalton's Law",
@@ -21990,7 +21990,7 @@
     {
       "id": "sod-0002",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure (Imperial)",
+      "subarea": "Physics & Chemistry — Pressure (Imperial)",
       "question": "What is the absolute pressure (in atmospheres absolute) at 33 feet of seawater?",
       "options": {
         "a": "1 ATA",
@@ -22005,7 +22005,7 @@
     {
       "id": "sod-0003",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure (Metric)",
+      "subarea": "Physics & Chemistry — Pressure (Metric)",
       "question": "What is the absolute pressure (in bar) at 10 metres of seawater?",
       "options": {
         "a": "1 bar",
@@ -22020,7 +22020,7 @@
     {
       "id": "sod-0004",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure (Metric)",
+      "subarea": "Physics & Chemistry — Pressure (Metric)",
       "question": "What is the absolute pressure (in bar) at 30 metres of seawater?",
       "options": {
         "a": "3 bar",
@@ -22035,7 +22035,7 @@
     {
       "id": "sod-0005",
       "area": "science_of_diving",
-      "subarea": "Physics — Boyle's Law applied",
+      "subarea": "Physics & Chemistry — Boyle's Law applied",
       "question": "If a flexible container of air is taken from the surface to 30 m / 99 ft, its volume will be:",
       "options": {
         "a": "Doubled",
@@ -22050,7 +22050,7 @@
     {
       "id": "sod-0006",
       "area": "science_of_diving",
-      "subarea": "Physics — Boyle's Law applied",
+      "subarea": "Physics & Chemistry — Boyle's Law applied",
       "question": "A flexible container of air is taken from 30 m / 99 ft to the surface. Its volume will:",
       "options": {
         "a": "Halve",
@@ -22065,7 +22065,7 @@
     {
       "id": "sod-0007",
       "area": "science_of_diving",
-      "subarea": "Physics — Buoyancy change with depth",
+      "subarea": "Physics & Chemistry — Buoyancy change with depth",
       "question": "If 2 litres of air are needed in your BCD to maintain neutral buoyancy at 10 m in the ocean, what will happen if you ascend 3 m without venting?",
       "options": {
         "a": "You will become more negatively buoyant",
@@ -22080,7 +22080,7 @@
     {
       "id": "sod-0008",
       "area": "science_of_diving",
-      "subarea": "Physics — Henry's Law",
+      "subarea": "Physics & Chemistry — Henry's Law",
       "question": "Henry's Law primarily describes:",
       "options": {
         "a": "The relationship between volume and temperature of a gas",
@@ -22095,7 +22095,7 @@
     {
       "id": "sod-0009",
       "area": "science_of_diving",
-      "subarea": "Physics — Dalton's Law",
+      "subarea": "Physics & Chemistry — Dalton's Law",
       "question": "Dalton's Law of partial pressures states that:",
       "options": {
         "a": "Gases dissolve into liquids in proportion to their pressure",
@@ -22110,7 +22110,7 @@
     {
       "id": "sod-0010",
       "area": "science_of_diving",
-      "subarea": "Physics — Archimedes",
+      "subarea": "Physics & Chemistry — Archimedes",
       "question": "Archimedes' Principle states that an object immersed in a fluid is buoyed up by a force equal to the:",
       "options": {
         "a": "Weight of the object",
@@ -22125,7 +22125,7 @@
     {
       "id": "sod-0011",
       "area": "science_of_diving",
-      "subarea": "Physics — Saltwater density",
+      "subarea": "Physics & Chemistry — Saltwater density",
       "question": "Compared to fresh water, salt water is:",
       "options": {
         "a": "Less dense, providing less buoyancy",
@@ -22140,7 +22140,7 @@
     {
       "id": "sod-0012",
       "area": "science_of_diving",
-      "subarea": "Physics — Buoyancy adjustment",
+      "subarea": "Physics & Chemistry — Buoyancy adjustment",
       "question": "A diver is correctly weighted in salt water. Using the same equipment in fresh water, the diver should:",
       "options": {
         "a": "Add weight",
@@ -22155,7 +22155,7 @@
     {
       "id": "sod-0013",
       "area": "science_of_diving",
-      "subarea": "Physics — Saltwater weight",
+      "subarea": "Physics & Chemistry — Saltwater weight",
       "question": "How much does one cubic foot of sea water weigh?",
       "options": {
         "a": "62 pounds",
@@ -22170,7 +22170,7 @@
     {
       "id": "sod-0014",
       "area": "science_of_diving",
-      "subarea": "Physics — Refraction (vision)",
+      "subarea": "Physics & Chemistry — Refraction (vision)",
       "question": "Underwater, the bending of light rays causes objects to appear:",
       "options": {
         "a": "The same as on the surface",
@@ -22230,7 +22230,7 @@
     {
       "id": "sod-0018",
       "area": "science_of_diving",
-      "subarea": "Physics — Sound",
+      "subarea": "Physics & Chemistry — Sound",
       "question": "Compared to air, sound travels through water:",
       "options": {
         "a": "About the same speed",
@@ -22245,7 +22245,7 @@
     {
       "id": "sod-0019",
       "area": "science_of_diving",
-      "subarea": "Physics — Sound",
+      "subarea": "Physics & Chemistry — Sound",
       "question": "Underwater, divers find it difficult to:",
       "options": {
         "a": "Hear loud sounds",
@@ -22500,7 +22500,7 @@
     {
       "id": "sod-0036",
       "area": "science_of_diving",
-      "subarea": "Decompression Theory",
+      "subarea": "Decompression Theory — General",
       "question": "Decompression sickness is caused by:",
       "options": {
         "a": "Oxygen toxicity at depth",
@@ -22515,7 +22515,7 @@
     {
       "id": "sod-0037",
       "area": "science_of_diving",
-      "subarea": "Decompression Theory",
+      "subarea": "Decompression Theory — General",
       "question": "The recommended ascent rate that recreational divers should not exceed is:",
       "options": {
         "a": "60 ft (18 m) per minute",
@@ -22890,7 +22890,7 @@
     {
       "id": "sod-0062",
       "area": "science_of_diving",
-      "subarea": "Physics — Gas consumption (SAC)",
+      "subarea": "Physics & Chemistry — Gas consumption (SAC)",
       "question": "Surface Air Consumption (SAC) is best defined as:",
       "options": {
         "a": "Air consumed per minute at depth",
@@ -22905,7 +22905,7 @@
     {
       "id": "sod-0063",
       "area": "science_of_diving",
-      "subarea": "Physics — Gas consumption",
+      "subarea": "Physics & Chemistry — Gas consumption",
       "question": "If a diver uses 50 bar at 10 m in 10 minutes from a 10-litre cylinder, what is their SAC rate?",
       "options": {
         "a": "10 L/min",
@@ -22920,7 +22920,7 @@
     {
       "id": "sod-0064",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure (Imperial)",
+      "subarea": "Physics & Chemistry — Pressure (Imperial)",
       "question": "What is the absolute pressure at 99 ft (30 m) of seawater?",
       "options": {
         "a": "2 ATA",
@@ -22935,7 +22935,7 @@
     {
       "id": "sod-0065",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure (Metric)",
+      "subarea": "Physics & Chemistry — Pressure (Metric)",
       "question": "Each 10 m of seawater adds approximately how much pressure?",
       "options": {
         "a": "0.5 bar",
@@ -22950,7 +22950,7 @@
     {
       "id": "sod-0066",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure (Fresh water)",
+      "subarea": "Physics & Chemistry — Pressure (Fresh water)",
       "question": "Each 10.3 m of fresh water adds approximately how much pressure?",
       "options": {
         "a": "0.5 bar",
@@ -22980,7 +22980,7 @@
     {
       "id": "sod-0068",
       "area": "science_of_diving",
-      "subarea": "Physics — Air composition",
+      "subarea": "Physics & Chemistry — Air composition",
       "question": "Atmospheric air is approximately:",
       "options": {
         "a": "21% nitrogen, 79% oxygen",
@@ -23040,7 +23040,7 @@
     {
       "id": "sod-0072",
       "area": "science_of_diving",
-      "subarea": "Physics — Gas laws",
+      "subarea": "Physics & Chemistry — Gas laws",
       "question": "If you double the absolute pressure on a fixed mass of gas at constant temperature, the volume will:",
       "options": {
         "a": "Double",
@@ -23055,7 +23055,7 @@
     {
       "id": "sod-0073",
       "area": "science_of_diving",
-      "subarea": "Physics — Gas laws",
+      "subarea": "Physics & Chemistry — Gas laws",
       "question": "If a balloon contains 6 L of air at 4 ATA, what is its volume at 1 ATA (surface)?",
       "options": {
         "a": "1.5 L",
@@ -23070,7 +23070,7 @@
     {
       "id": "sod-0074",
       "area": "science_of_diving",
-      "subarea": "Physics — Gas laws",
+      "subarea": "Physics & Chemistry — Gas laws",
       "question": "At 30 m / 99 ft (4 ATA), the partial pressure of oxygen in air is approximately:",
       "options": {
         "a": "0.21 bar",
@@ -23085,7 +23085,7 @@
     {
       "id": "sod-0075",
       "area": "science_of_diving",
-      "subarea": "Physics — Gas laws",
+      "subarea": "Physics & Chemistry — Gas laws",
       "question": "At 40 m on EAN32, the partial pressure of oxygen is:",
       "options": {
         "a": "1.0 bar",
@@ -23370,7 +23370,7 @@
     {
       "id": "sod-0094",
       "area": "science_of_diving",
-      "subarea": "Physics — Charles' Law",
+      "subarea": "Physics & Chemistry — Charles' Law",
       "question": "Charles's Law describes the relationship between:",
       "options": {
         "a": "Pressure and volume",
@@ -23385,7 +23385,7 @@
     {
       "id": "sod-0095",
       "area": "science_of_diving",
-      "subarea": "Physics — Gay-Lussac's Law",
+      "subarea": "Physics & Chemistry — Gay-Lussac's Law",
       "question": "Gay-Lussac's Law says that, at constant volume, the pressure of a gas:",
       "options": {
         "a": "Decreases as temperature increases",
@@ -23400,7 +23400,7 @@
     {
       "id": "sod-0096",
       "area": "science_of_diving",
-      "subarea": "Physics — Cylinder pressure and temperature",
+      "subarea": "Physics & Chemistry — Cylinder pressure and temperature",
       "question": "If a scuba cylinder filled to 200 bar at 20 C is left in hot sun until it reaches 50 C, the pressure (assuming sealed and rigid) will:",
       "options": {
         "a": "Stay at 200 bar",
@@ -23535,7 +23535,7 @@
     {
       "id": "sod-0105",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure conversion",
+      "subarea": "Physics & Chemistry — Pressure conversion",
       "question": "1 bar is approximately equal to:",
       "options": {
         "a": "0.1 psi",
@@ -23625,7 +23625,7 @@
     {
       "id": "sod-0111",
       "area": "science_of_diving",
-      "subarea": "Physics — Pressure groups",
+      "subarea": "Physics & Chemistry — Pressure groups",
       "question": "On dive tables, a pressure group letter represents:",
       "options": {
         "a": "The diver's weight class",
@@ -23655,7 +23655,7 @@
     {
       "id": "sod-0113",
       "area": "science_of_diving",
-      "subarea": "Physics — Buoyancy calculation",
+      "subarea": "Physics & Chemistry — Buoyancy calculation",
       "question": "An object weighing 30 kg in air with a volume of 25 L is fully immersed in seawater (density 1.03 kg/L). It will be:",
       "options": {
         "a": "Negatively buoyant by ~4.25 kg",
@@ -23670,7 +23670,7 @@
     {
       "id": "sod-0114",
       "area": "science_of_diving",
-      "subarea": "Physics — Buoyancy calculation",
+      "subarea": "Physics & Chemistry — Buoyancy calculation",
       "question": "How many liters of lift are needed to make a 5 kg negative object neutrally buoyant in seawater?",
       "options": {
         "a": "About 2.5 L",
