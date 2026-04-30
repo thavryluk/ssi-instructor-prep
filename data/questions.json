@@ -2,12 +2,12 @@
   "version": "1.0",
   "generated_at": "2026-04-25",
   "note": "SSI study bank for Tomas's Instructor prep app. Each question carries a 'source' URL (Quizlet/dive-shop PDF/SSI training pages) where verbatim wording was found, OR 'compiled_from_dive_theory' for items grounded in public SSI standards and dive physics/physiology that I've authored from established theory rather than copied. Always reconcile with the current SSI Training Standards before using as definitive answers.",
-  "total": 1635,
+  "total": 1683,
   "counts_by_area": {
     "assistant_instructor": 50,
     "divemaster": 150,
     "instructor": 753,
-    "science_of_diving": 432,
+    "science_of_diving": 480,
     "open_water_diver": 100,
     "react_right": 100,
     "diver_stress_rescue": 50
@@ -11487,6 +11487,726 @@
       "correct": "a",
       "explanation": "Fin propulsion is Newton's third law in action. A fin INCREASES the effective foot surface area by roughly 4–10× depending on blade size and style → each kick DISPLACES a much larger mass of water backward → proportionally larger forward reaction force on the diver. Practical result: same speed with FEWER, SLOWER, more powerful kicks (well-trained scuba flutter cadence is around 1 cycle per second or even slower with stiff blades) instead of frantic bare-foot paddling. Why this matters for gas consumption: legs are large muscle groups; high-cadence kicking burns O₂ disproportionately and spikes SAC rate. Slower, bigger, more efficient kicks lower CO₂ production, lower SAC, and reduce DCS-relevant exertion at depth. (b) Wrong causal direction — leg motion creates thrust, not vice versa. (c) FASTER kicks would mean MORE effort; fins enable SLOWER kicks for the same result. (d) Opposite of the truth.",
       "source": "mySSI: SoD Lesson 4.2 Review"
+    },
+    {
+      "id": "mssi-sod-113",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Cylinders",
+      "question": "When should a diver discard a cylinder and swap it for an alternative?",
+      "options": {
+        "a": "All answers are correct",
+        "b": "When is displays an expired hydrostatic test date",
+        "c": "When the cylinder shows signs of damage, deterioration, or corrosion",
+        "d": "When the valve is difficult to operate"
+      },
+      "correct": "a",
+      "explanation": "All three are real condemnation triggers — never dive a cylinder you wouldn't fill, never fill a cylinder you wouldn't dive. (b) EXPIRED HYDROSTATIC TEST — legally required pressure test (typically 5/3 of working pressure) at scheduled intervals to certify the cylinder won't burst: EU / PED commonly 2.5-yearly VIP + 5-yearly hydro; US / DOT every 5 years hydro; UK 2.5-yearly visual + 5-yearly hydro. Expired hydro = no legal fill. (c) DAMAGE, DETERIORATION, CORROSION — caught at annual Visual Inspection (VIP): steel cylinders condemned for rust pitting (typically >1.5 mm depth), neck-thread damage, weld failures, severe dents; aluminum cylinders — especially older 6351-T6 alloy Luxfers — checked for SUSTAINED-LOAD CRACKING in the neck threads via eddy-current test (several catastrophic real-world failures). Fire / heat damage anneals the metal and weakens it permanently → condemn immediately. (d) STIFF VALVE — corrosion or wear in the valve mechanism, leaking burst disc, damaged seat. Often the VALVE alone needs service or replacement, but a forced removal can damage the cylinder neck threads and condemn the whole tank. Never force a stuck valve. When in doubt, VIP / eddy / hydro before risking a fill — cylinder failures at 200 bar are violent.",
+      "source": "mySSI: SoD Lesson 4.3 Review"
+    },
+    {
+      "id": "mssi-sod-114",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Cylinders",
+      "question": "Single cylinders can be used:",
+      "options": {
+        "a": "By connecting them together with a manifold for extended range dives.",
+        "b": "In sidemount diving",
+        "c": "All answers are correct",
+        "d": "By recreational divers for no-decompression dives."
+      },
+      "correct": "c",
+      "explanation": "All three are real configurations using SINGLE cylinders as the building block: (a) MANIFOLDED TWINS / BANDED DOUBLES — two matched single cylinders are bolted together side-by-side and joined at the top by an ISOLATION MANIFOLD: a center valve with a knob in the middle that, when closed, isolates left from right. Tech / extended-range / cave / wreck divers run this for huge gas volume + redundancy. The isolation knob is the safety feature: a leaking valve, burst disc, or hose failure on one side can be isolated, preserving the other half. (b) SIDEMOUNT — two INDEPENDENT single cylinders worn on the diver's hips, each with its own complete regulator (1st stage + 2nd stage + LP inflator hose for the wing). Originated in UK / Florida cave diving; now mainstream for tech and recreational redundancy. Two truly independent gas sources, easy transport, fits through narrow cave restrictions. (d) RECREATIONAL SINGLE BACK-MOUNT — the standard rec setup: one cylinder on the back, one regulator (1st stage + primary 2nd + alternate/octo + LP inflator + SPG), dives within NDL. ~99% of recreational dives.",
+      "source": "mySSI: SoD Lesson 4.3 Review"
+    },
+    {
+      "id": "mssi-sod-115",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Cylinders",
+      "question": "How does a diver use a manifold to isolate the gas flow from one cylinder when using a twinset?",
+      "options": {
+        "a": "They close the isolation manifold to turn off the gas flow between cylinders",
+        "b": "They turn off the right cylinder valve",
+        "c": "They turn off the cylinder valve that is not working",
+        "d": "They turn off the left cylinder valve"
+      },
+      "correct": "a",
+      "explanation": "Twinset valve geometry has THREE valves: LEFT POST (feeds the left regulator), RIGHT POST (feeds the right regulator), and the ISOLATION VALVE in the center of the manifold crossover bar (controls flow BETWEEN the two cylinders). Normal diving state: all three valves OPEN — gas equalizes across both cylinders, both regulators feed from the combined volume. ISOLATION DRILL when a leak is detected: (1) CLOSE THE CENTER ISOLATION VALVE FIRST — this cuts the connection between cylinders, so a leak on one side now only drains its own cylinder, not the other. (2) Identify and shut down the leaking side's post valve (left or right) — stops the leak completely. (3) Switch to the working regulator on the non-leaking side, signal buddy, and abort the dive — half your gas is preserved (the non-leaking cylinder's full content). Critical sequence: if you close a post valve FIRST without isolating the manifold, gas continues to flow across the manifold from the other cylinder OUT through the leak — you lose everything. (b, c, d) closing only a post valve shuts off one regulator but does NOT isolate flow BETWEEN cylinders, which is exactly what this question asks about.",
+      "source": "mySSI: SoD Lesson 4.3 Review"
+    },
+    {
+      "id": "mssi-sod-116",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Cylinders",
+      "question": "A pony cylinder is:",
+      "options": {
+        "a": "A small cylinder used for staged decompression",
+        "b": "A small cylinder with a valve shaped like a pony",
+        "c": "A small cylinder that can be connected to a single cylinder with a manifold",
+        "d": "A small cylinder that contains an additional supply of gas for emergencies"
+      },
+      "correct": "d",
+      "explanation": "PONY BOTTLE = small auxiliary cylinder with its OWN COMPLETE INDEPENDENT REGULATOR (1st stage + 2nd stage), carried alongside the main cylinder as an emergency gas source. Common sizes: 2 L / 3 L / 4 L / 6 L (= roughly 13 / 19 / 30 / 40 cu ft US). Mounted via sling, bungee on the side, or back-mount accessory bracket. The whole point is INDEPENDENCE — any failure of the main system (free-flow, burst hose, isolated leak you didn't catch in time, broken SPG) doesn't touch the pony. Switch to the pony's regulator and ascend safely. When divers use them: solo diving (pony replaces the buddy as redundant gas source), deep dives near NDL (extra margin where the swim up takes time), photographers / videographers (often physically separated from buddy and deeply absorbed in the subject), light overhead / wreck swim-throughs where CESA isn't a clean option. Important distinction: a STAGE / DECO bottle is a cylinder you plan to USE during the dive (extra range gas, or pure O₂ / rich nitrox for decompression); a PONY is strictly EMERGENCY gas, ideally never breathed. (a) Wrong — staged-decompression cylinder = stage/deco bottle, different role. (b) Joke distractor. (c) Manifolding the pony to the main defeats the point — gas would equalize across both, and a leak in either drains everything; INDEPENDENCE is the design goal.",
+      "source": "mySSI: SoD Lesson 4.3 Review"
+    },
+    {
+      "id": "mssi-sod-117",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Cylinders",
+      "question": "Which of the following statements about yoke connections is true?",
+      "options": {
+        "a": "The first stage fits like a clamp and tightens over the cylinder valve",
+        "b": "It is the standard connection on most U.S.-made cylinders.",
+        "c": "It operates at lower working pressures compared to DIN connections.",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "All three statements about YOKE (also called A-CLAMP or INT) connections are correct. (a) MECHANICAL DESIGN — the regulator 1st stage has a horseshoe-shaped clamp that hooks over the cylinder valve face; a screw at the back of the regulator tightens the clamp against the valve, compressing an O-RING ON THE VALVE FACE to seal. Visual ID: external clamp, large knob protruding behind the regulator. (b) U.S. STANDARD — yoke (CGA-850 / INT 232) dominates North America, especially recreational scuba. Most US aluminum-80 cylinders ship with yoke valves; rental fleets in the Caribbean / Cozumel / Florida are overwhelmingly yoke. (c) LOWER WORKING PRESSURE — yoke is rated to ~232 bar (3300 psi) maximum. DIN connections come in two ranges: 5-thread DIN (G5/8\") to 232 bar, and 7-thread DIN (M26x2) to 300 bar. DIN is also considered more secure because the O-RING IS CAPTURED inside the threaded connection (can't blow out under shock load), and there's no protruding clamp to snag on overhangs. European, tech, and cold-water divers strongly prefer DIN; most premium regulators ship DIN with a screw-in DIN-to-YOKE ADAPTER for backward compatibility.",
+      "source": "mySSI: SoD Lesson 4.3 Review"
+    },
+    {
+      "id": "mssi-sod-118",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Cylinders",
+      "question": "What is the role of filter systems in breathing compressors?",
+      "options": {
+        "a": "Removing water from the air",
+        "b": "Monitoring compressor temperature",
+        "c": "Removing contaminants from the air",
+        "d": "Regulating gas flow"
+      },
+      "correct": "c",
+      "explanation": "A breathing-air compressor has a STACK OF FILTERS in series, all aimed at removing CONTAMINANTS — water is just one of many. Typical stages: (1) INTAKE FILTER — debris, dust, large particles; (2) INTER-STAGE COOLERS — drop air temp between compression stages so water vapor condenses out; (3) COALESCING / WATER-SEPARATOR — bulk water droplets and oil aerosols; (4) ACTIVATED CARBON — odors, hydrocarbons, taste; (5) MOLECULAR SIEVE — residual moisture (dewpoint < −50 °C); (6) HOPCALITE CATALYST — manganese dioxide + copper oxide, converts deadly CO → CO₂ (critical: compressor intake near a running vehicle pulls in carbon monoxide). Together they keep gas within breathing-air STANDARDS — EU EN 12021 / US CGA Grade E: O₂ 19.5–23.5%, CO ≤ 5–10 ppm, CO₂ ≤ 500 ppm, oil ≤ 0.5 mg/m³, low water content. Why it matters: at depth, partial pressure of any contaminant scales with ambient (4 bar at 30 m = 5× surface). CO that's tolerable at 1 bar becomes incapacitating at depth (binds hemoglobin ~250× more avidly than O₂). Bad fills kill divers. (a) Water removal is a SUBSET of (c) — partial answer. (b) Temperature is monitored by sensors / thermocouples, not filters. (d) Gas-flow regulation is the regulator's job, downstream of the cylinder.",
+      "source": "mySSI: SoD Lesson 4.3 Review"
+    },
+    {
+      "id": "mssi-sod-119",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Regulators",
+      "question": "What is the basic purpose of the first and second stages?",
+      "options": {
+        "a": "First- and second-stage valves open and close according to demand",
+        "b": "The first stage reduces high-pressure cylinder gas to intermediate pressure",
+        "c": "The second stage reduces intermediate-pressure gas to ambient pressure",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "All three statements describe a modern two-stage DEMAND regulator. (a) DEMAND-ACTUATED — both stages cycle open/closed in response to gas flow. The 2nd stage: inhale → diaphragm flexes inward → lever tilts → poppet opens → gas flows; stop inhaling → diaphragm relaxes → poppet closes. The 1st stage: maintains a set INTERMEDIATE PRESSURE (IP) in the LP hose; when IP drops because gas just exited via the 2nd stage on inhalation, the 1st stage opens, refills the hose, then closes — also a demand-driven cycle. (b) HP → IP — cylinder pressure (200–300 bar / 3000–4500 psi) is reduced to AMBIENT + ~9–10 bar (130–145 psi). Note 'ambient +': diaphragm/piston 1st stages COMPENSATE for depth — at 30 m (4 bar ambient), IP rises to ~13–14 bar absolute so the 2nd stage stays at the same Δ-pressure for breathing effort regardless of depth. (c) IP → AMBIENT — the mouthpiece-end stage drops IP to whatever the surrounding water pressure is, so you breathe at the same pressure as the water around your chest. Zero pressure differential across your lungs is exactly why scuba breathing feels close to surface breathing instead of like sucking through a 30-m straw. The genius of the two-stage system: doing the pressure drop in two graduated steps keeps the regulator stable and breathing effort low, and lets each stage be optimized for its own pressure range.",
+      "source": "mySSI: SoD Lesson 4.4 Review"
+    },
+    {
+      "id": "mssi-sod-120",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Regulators",
+      "question": "Internal icing may be caused by:",
+      "options": {
+        "a": "Too little humidity in the cylinder",
+        "b": "Diving in extremely cold water",
+        "c": "Rapidly inflating a dry suit while breathing heavily",
+        "d": "Too much humidity in the cylinder"
+      },
+      "correct": "d",
+      "explanation": "INTERNAL ICING of a regulator is caused by MOISTURE INSIDE THE GAS itself. Mechanism: (1) gas in the cylinder contains water vapor (a function of fill-air quality — never perfectly dry); (2) as HP gas expands through the 1st-stage orifice, JOULE-THOMSON COOLING (adiabatic expansion) drops gas temperature by tens of degrees; (3) if the drop pushes gas below 0 °C, water vapor in the gas CONDENSES AND FREEZES on internal surfaces (poppet, lever, seat); (4) ice mechanically holds the valve OPEN → uncontrollable FREE-FLOW. The chain: water vapor + extreme cooling + high flow = internal ice. (a) TOO LITTLE humidity actually PREVENTS icing — dry gas can't make ice. That's why fill quality matters: Grade E / EN 12021 specs limit water content, and tech divers fill to dewpoint < −50 °C specifically to dive cold water without icing risk. (b) Cold water is a CONTRIBUTING factor but not the root cause: cold ambient brings the gas closer to freezing before it even expands, so JT cooling now pushes well below 0 °C — but bone-dry gas in cold water still won't form ice. Cold water primarily drives EXTERNAL icing (water in the regulator body freezing on metal surfaces). (c) Rapid drysuit inflation + heavy breathing is a PRECIPITATING event (flash ice during a high-demand moment) but again only an issue if moisture is present. The question asks what fundamentally CAUSES internal icing — that's the humidity in (d).",
+      "source": "mySSI: SoD Lesson 4.4 Review"
+    },
+    {
+      "id": "mssi-sod-121",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Regulators",
+      "question": "Common types of piston first stage include the:",
+      "options": {
+        "a": "Demand valve piston",
+        "b": "Balanced diaphragm",
+        "c": "Venturi assist",
+        "d": "Classic piston and air-balanced flow-through piston"
+      },
+      "correct": "d",
+      "explanation": "Two main piston 1st-stage architectures: (1) CLASSIC / UNBALANCED PISTON (e.g. older Scubapro Mk2) — simple, cheap, durable, very few moving parts. Drawback: intermediate pressure (IP) drifts slightly with cylinder pressure (a few psi higher when tank is full, lower when nearly empty), so breathing effort is not perfectly constant through the dive. (2) AIR-BALANCED FLOW-THROUGH PISTON (e.g. Scubapro Mk-25, Atomic Z3) — same flow-through layout but with a BALANCE CHAMBER above the piston so IP stays CONSTANT regardless of cylinder pressure. Very high gas-flow rates → excellent breathing performance even when shared with a buddy, at depth, or under heavy workload. Industry workhorse for tech and high-end recreational diving. (a) 'Demand-valve piston' — non-standard term; 'demand valve' is a 2nd-stage concept. (b) BALANCED DIAPHRAGM is a 1st-stage TYPE but uses a DIAPHRAGM (a flexible membrane) rather than a piston as the moving element — different category. Diaphragm 1st stages are often environmentally sealed for cold-water and silty diving (Apeks DST, ScubaPro Mk-17). (c) VENTURI ASSIST is a 2nd-STAGE feature (the dive/pre-dive lever on Apeks, the VAD system in Mares) that channels gas flow to pull the diaphragm further open once breathing starts — not a 1st-stage type at all.",
+      "source": "mySSI: SoD Lesson 4.4 Review"
+    },
+    {
+      "id": "mssi-sod-122",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Regulators",
+      "question": "A first stage with complex moving parts may:",
+      "options": {
+        "a": "Be more expensive to service",
+        "b": "Require less frequent servicing",
+        "c": "Be less expensive to service",
+        "d": "Have fewer points of potential failure"
+      },
+      "correct": "a",
+      "explanation": "More complexity = more moving parts (extra balance chambers, additional o-rings, sensitive springs, swivel turrets) = more components to inspect, lubricate, and replace at each service. Larger service kits cost more in parts alone, and the labor time per overhaul is longer → HIGHER service cost. This is the eternal regulator trade-off: a CLASSIC UNBALANCED PISTON (Mk2-style) is the cheapest to maintain — fewer parts, decades of trouble-free service, simple — but it breathes harder at depth and when shared. A BALANCED / AIR-BALANCED PISTON OR DIAPHRAGM regulator breathes smoothly at any depth, holds IP constant, and donates well — but every annual costs more, and a poorly-trained technician has more places to mess up. (b) LESS FREQUENT? Opposite — complex regulators typically have the same or SHORTER service intervals because more parts are under wear. (c) Cheaper? Opposite. (d) FEWER failure points? Opposite — more parts means more potential failure modes (every spring, o-ring, swivel, balance chamber adds another way it can leak, freeze, or drift out of spec).",
+      "source": "mySSI: SoD Lesson 4.4 Review"
+    },
+    {
+      "id": "mssi-sod-123",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Regulators",
+      "question": "The force of inhalation a diver must use to open the demand valve is sometimes called the:",
+      "options": {
+        "a": "Deco effort",
+        "b": "Splitting effort",
+        "c": "Blackout",
+        "d": "Cracking effort"
+      },
+      "correct": "d",
+      "explanation": "CRACKING EFFORT (also called CRACKING PRESSURE or OPENING EFFORT) is the negative pressure (suction) a diver must generate to first lift the 2nd-stage poppet off its seat and start gas flow. Measured in INCHES OF WATER COLUMN (in. H₂O) or millibars. ANSTI breathing-simulator specs: high-end balanced regulator ~1.0–1.2 in. H₂O cracking effort; mid-range ~1.5–2.0 in. H₂O. ADJUSTABLE 2nd stages (Apeks XTX, Atomic, Scubapro G-series) have a user knob to tune cracking effort against free-flow risk — open it up at depth for easier breathing, snug it down for surface swims and boat handling to prevent free-flow when the regulator dangles mouthpiece-up in the water. Lower cracking effort = easier breathing but more free-flow risk; higher cracking effort = stable but more work-of-breathing. Total breathing performance also includes WORK OF BREATHING (WOB, the integrated effort over a full breath cycle) and EXHALATION EFFORT (resistance going the other way — usually low because of mushroom-style exhaust valves). (a, b) Not real terms. (c) Blackout = loss of consciousness, e.g. shallow-water blackout in freediving from hypoxia — entirely different concept.",
+      "source": "mySSI: SoD Lesson 4.4 Review"
+    },
+    {
+      "id": "mssi-sod-124",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Regulators",
+      "question": "Regulators with built-in environmental protection:",
+      "options": {
+        "a": "Have environmental sealing",
+        "b": "Are designed for use in cold water",
+        "c": "May have coated piston surfaces for thermal protection",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "All three describe environmentally-sealed (cold-water) 1st stages. (a) ENVIRONMENTAL SEALING — a sealed secondary chamber surrounds the spring / piston / diaphragm, isolating it from ambient water. The chamber is filled with silicone oil, alcohol/glycol mix, or sealed by a SECOND DIAPHRAGM that transmits ambient pressure without letting water in. Stops salt, silt, and freezing water from contacting the moving parts. (b) COLD WATER — sealed regulators handle 4 °C / 39 °F and below far better than open-spring designs because there's no water inside the regulator to freeze. SSI / EN-250 cold-water (≤10 °C) rating typically requires this design. DIAPHRAGM 1st stages are easier to seal (the diaphragm itself acts as the water-block — Apeks DST, Scubapro Mk-17); piston designs (Mk-25 EVO) seal the spring chamber with an environmental kit. (c) COATED PISTON SURFACES — DLC (diamond-like carbon), titanium nitride, or thick-chrome surface treatments on piston shaft and seat reduce thermal conductivity, friction, and ice-nucleation tendency. Atomic, Scubapro, Apeks all use these on cold-water lines. Combined: the regulator can survive ice-water dives where a basic unsealed piston would lock open in free-flow within 30 seconds.",
+      "source": "mySSI: SoD Lesson 4.4 Review"
+    },
+    {
+      "id": "mssi-sod-125",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Regulators",
+      "question": "The basic operating principle of a regulator is that diver inhalation causes pressure inside the regulator to:",
+      "options": {
+        "a": "Rise and open valves to allow gas flow",
+        "b": "Drop and open valves to allow gas flow",
+        "c": "Drop and close valves to allow gas flow",
+        "d": "Rise and close valves to allow gas flow"
+      },
+      "correct": "b",
+      "explanation": "Demand-valve sequence in slow motion: (1) Diver INHALES — chest expands, creates suction at the mouthpiece. (2) Pressure DROPS inside the 2nd-stage air chamber (the space between diaphragm and mouthpiece) below ambient water pressure. (3) Pressure differential now exists across the diaphragm: ambient water on the outside > regulator interior. (4) Diaphragm FLEXES INWARD pushed by water. (5) Diaphragm contacts the lever and tilts it. (6) Lever lifts the poppet OFF its seat → valve OPENS. (7) Gas flows from the LP hose through the open valve into the 2nd-stage chamber and out the mouthpiece. (8) Diver stops inhaling → pressure equalizes → diaphragm relaxes → small spring closes the poppet. The genius: the diaphragm is the diver's interface with AMBIENT WATER pressure. Whatever pressure the water is at, the regulator delivers gas at that exact pressure (ambient compensation built into the design). At 30 m gas comes out at 4 bar absolute; at the surface, 1 bar — always matched to the diver's chest pressure, so breathing effort stays low. (a) Rise + open — wrong direction; inhalation creates vacuum, not pressure rise. (c) Drop + close — pressure does drop but the valve OPENS, not closes. (d) Rise + close — wrong on both counts.",
+      "source": "mySSI: SoD Lesson 4.4 Review"
+    },
+    {
+      "id": "mssi-sod-126",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Regulators",
+      "question": "Which of the following statements about optional second stage controls is true?",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Divers can adjust breathing resistance",
+        "c": "Venturi assist allows divers to adjust gas flow direction",
+        "d": "Divers can tailor regulator performance according to the diving conditions"
+      },
+      "correct": "a",
+      "explanation": "All three describe the user-tunable features on premium 2nd stages. (b) ADJUSTABLE BREATHING RESISTANCE — the INHALATION-EFFORT KNOB (Apeks XTX, Atomic, Scubapro G-series, Mares) screws the spring tension on the poppet up or down. Open it (low cracking effort) for easy breathing at depth or when sharing gas; close it (high cracking effort) for surface swims and dangling regulators that would otherwise free-flow. (c) VENTURI ASSIST adjusts the gas-flow GEOMETRY inside the regulator housing via the DIVE / PRE-DIVE switch (or +/- lever, 'VAD' on Mares, 'DVT' on Apeks). DIVE position: an internal deflector channels gas flow along the diaphragm, creating a Bernoulli low-pressure zone that pulls the diaphragm further open once flow starts → easier sustained breathing. PRE-DIVE position: blocks that path so no Venturi effect → much harder to free-flow when the regulator is dangling mouthpiece-up on the boat or just under the surface. Always switch to PRE-DIVE while gearing up, switch to DIVE before descent. (d) TAILOR PERFORMANCE TO CONDITIONS — the whole point of having both knobs: cold-water dive with thick gloves → snug the cracking knob, PRE-DIVE during entry; deep shared-gas drill → open cracking, DIVE for max flow. The two controls together let the diver match the regulator's behaviour to the dive, the workload, and the depth.",
+      "source": "mySSI: SoD Lesson 4.4 Review"
+    },
+    {
+      "id": "mssi-sod-127",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Nitrox",
+      "question": "Which of the following statements about specialized nitrox cylinders is true?",
+      "options": {
+        "a": "There are no special regulations on how nitrox cylinder should be used",
+        "b": "Specialized cylinders are only needed for oxygen concentrations above 40%",
+        "c": "There are special regulations on how nitrox cylinders should be used",
+        "d": "Cylinders can be used for nitrox without any special preparation"
+      },
+      "correct": "c",
+      "explanation": "Nitrox cylinders carry several mandatory rules beyond regular air-cylinder handling. MARKING / LABELING: green-and-yellow contents band (US) or yellow shoulder + green band (other regions); 'NITROX' or 'EAN' label; MAXIMUM OPERATING DEPTH (MOD) sticker calculated for the actual blend; ANALYSIS STICKER filled in BEFORE EVERY FILL with measured % O₂, MOD, date, and signature of the analyzer. ANALYSIS: every diver must personally verify the mix with an O₂-cell analyzer before EVERY dive — never trust someone else's number. O₂-CLEAN THRESHOLD: up to 40% O₂ a standard properly-rinsed cylinder + standard regulator is generally permitted (the 40% recreational limit, though stricter EU/EN-12021 sometimes mandates O₂-compatible kit even above 21%); OVER 40% O₂ the cylinder MUST be O₂-CLEAN (degreased, special O₂-compatible Viton/EPDM o-rings in the valve, oxygen-compatible PFPE lubricant such as Christo-Lube MCG-111, regulator also O₂-cleaned). FILLING: O₂-clean cylinders must not be filled with un-filtered air or grade-E air to avoid hydrocarbon contamination; partial-pressure blending requires a full O₂-clean fill station. INSPECTION: many shops mandate ANNUAL VIP for O₂-clean cylinders (more frequent than the standard air interval). (a) Wrong — many regulations apply. (b) Partial truth (the O₂-clean threshold is at 40%) but ignores labeling/analysis regs that apply at every concentration. (d) Dangerous misconception — exactly the assumption that has caused real-world cylinder fires.",
+      "source": "mySSI: SoD Lesson 4.5 Review"
+    },
+    {
+      "id": "mssi-sod-128",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Nitrox",
+      "question": "Equipment that has been oxygen service-rated:",
+      "options": {
+        "a": "Uses oxygen-compatible lubricants and o-rings",
+        "b": "Has been oxygen-cleaned",
+        "c": "All answers are correct",
+        "d": "Has been completely disassembled and reassembled"
+      },
+      "correct": "c",
+      "explanation": "An O₂-service rating involves all three steps. (a) O₂-COMPATIBLE LUBRICANTS AND O-RINGS — standard silicone grease and Buna-N (nitrile) o-rings can degrade or ignite at high partial pressures of oxygen. Replacement: PFPE-class greases (Christo-Lube MCG-111, Krytox, Tribolube 71) and Viton (FKM) or EPDM o-rings, both inert to high-pressure O₂. (b) OXYGEN-CLEANED — chemical degreasing of every wetted surface to remove hydrocarbon contamination. Typical target: residual hydrocarbons <50 mg/m². Common cleaners: Simple Green Pro HD, denatured alcohol, ultrasonic baths with specialized O₂-cleaning detergents. Result: surfaces clean enough that high-pressure O₂ can flow without auto-ignition risk. (d) COMPLETELY DISASSEMBLED AND REASSEMBLED — the cleaning happens at the PART level. You cannot O₂-clean a sealed regulator; every component must be touched individually. The regulator is fully disassembled, each part cleaned and inspected, then reassembled in a clean environment using only the O₂-compatible consumables from (a). All three together = the O₂-service rating.",
+      "source": "mySSI: SoD Lesson 4.5 Review"
+    },
+    {
+      "id": "mssi-sod-129",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Nitrox",
+      "question": "What is oxygen-compatible air?",
+      "options": {
+        "a": "Standard compressed air with more oxygen",
+        "b": "Gas that is waiting for oxygen to be added",
+        "c": "All answers are correct",
+        "d": "Air that has been filtered and cleaned"
+      },
+      "correct": "d",
+      "explanation": "OXYGEN-COMPATIBLE AIR (also called OIL-FREE AIR or HYPERFILTER AIR) is regular compressed air that has been EXTRA-FILTERED to remove hydrocarbons and other ignitable contaminants so it can safely be mixed with high-pressure pure O₂ during partial-pressure nitrox blending. The standard: regular Grade E / EN 12021 air allows up to 0.5–5 mg/m³ residual oil; O₂-compatible air targets typically <0.1 mg/m³ — much stricter. Achieved with extra hydrocarbon filter towers in the compressor stack, or a dedicated oil-free compressor (different lubrication that can't migrate into the gas stream). Why it matters: in PARTIAL-PRESSURE BLENDING (standard nitrox-making method), pure O₂ at ~200 bar is decanted into the cylinder first, then air is added on top. If the air carries hydrocarbons, the high-PpO₂ atmosphere can AUTO-IGNITE them — real-world cylinder fires have killed shop staff via exactly this pathway. So fill stations doing nitrox blending must use O₂-compatible air supply throughout. (a) Wrong — air with extra O₂ is NITROX itself, not the air used to MAKE nitrox. (b) Partial truth (it's used for blending), but the DEFINITION is the filtration spec, not the use case. (c) Wrong — only (d) is correct.",
+      "source": "mySSI: SoD Lesson 4.5 Review"
+    },
+    {
+      "id": "mssi-sod-130",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Nitrox",
+      "question": "Which of the following statements about oxygen-compatible regulators is true?",
+      "options": {
+        "a": "They are typically color-coded yellow and green",
+        "b": "All answers are correct",
+        "c": "Oxygen clean regulators must be used with oxygen clean cylinders",
+        "d": "They are required for oxygen concentrations above 40%"
+      },
+      "correct": "b",
+      "explanation": "All three statements hold. (a) YELLOW + GREEN COLOR-CODING — O₂-clean regulators are typically marked with green/yellow stickers, hose covers, or coloured purge buttons / handles to distinguish them from regular air-only regulators. SSI / Apeks / Scubapro all follow this convention so a fill station can spot O₂-rated kit at a glance. (c) MUST PAIR WITH O₂-CLEAN CYLINDERS — contamination flows both ways: an O₂-clean regulator screwed onto a non-O₂-clean cylinder can pull hydrocarbon residue from the cylinder threads/valve into the regulator, defeating its cleanliness; conversely a clean cylinder feeding into a dirty regulator can ignite the regulator's contaminants. Both sides of the gas path must match. (d) REQUIRED >40% O₂ — SSI / recreational standard threshold (some EU regulations are stricter, treating anything above 21% as needing O₂-compatible kit). Below 40% in most jurisdictions, standard regulators with mild O₂ attention are accepted; above 40%, full O₂-clean is mandatory.",
+      "source": "mySSI: SoD Lesson 4.5 Review"
+    },
+    {
+      "id": "mssi-sod-131",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Nitrox",
+      "question": "The two common nitrox blends used for recreational diving are:",
+      "options": {
+        "a": "EAN32 and EAN50",
+        "b": "EAN32 and EAN40",
+        "c": "EAN32 and EAN36",
+        "d": "EAN50 and EAN80"
+      },
+      "correct": "b",
+      "explanation": "Per the SSI Enriched Air Nitrox curriculum, the two tiers are EAN32 (Nitrox 32) and EAN40 (Nitrox 40). EAN32 — 32% O₂, 68% N₂ — entry-level recreational nitrox; MOD ≈ 33.7 m at PpO₂ 1.4 (≈ 40 m at the contingency 1.6 limit); fits most recreational profiles, often pre-mixed at dive shops without strict O₂-clean kit (under the 40% threshold). EAN40 — 40% O₂, 60% N₂ — upper recreational limit; MOD ≈ 22 m at PpO₂ 1.4 (≈ 30 m at 1.6); requires O₂-clean cylinders and regulators per the >40%-or-not rule (depending on jurisdiction). Practical note: in working dive shops you'll commonly find EAN32 and EAN36 stocked as the two pre-mix blends (EAN36 is cheaper to keep than EAN40 because it doesn't need O₂-clean kit), but per SSI's training-tier naming the standard pair is 32/40 — that's what mySSI tests. (a) EAN50 is decompression gas (tech/XR), MOD too shallow for general rec. (c) EAN36 is widespread in practice but not SSI's tier nomenclature. (d) EAN50 / EAN80 are deco gases, used at decompression stops, not for recreational bottom time.",
+      "source": "mySSI: SoD Lesson 4.5 Review"
+    },
+    {
+      "id": "mssi-sod-132",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Nitrox",
+      "question": "Which of the following statements about oxygen cleaning is true?",
+      "options": {
+        "a": "It is not required for oxygen concentrations less than 40%, except for cylinders and valves",
+        "b": "It removes hydrocarbons, grease, and contaminants",
+        "c": "All answers are correct",
+        "d": "It decreases the risk of fire or explosion"
+      },
+      "correct": "c",
+      "explanation": "All three statements about O₂ cleaning are true. (a) Below 40% the regulator can typically be standard, BUT the CYLINDER AND VALVE must still be O₂-clean because they are exposed to high-pressure pure O₂ during partial-pressure blending (the standard way nitrox is made — pure O₂ decanted in first, then top up with air). So the '<40% no O₂-clean' rule is not blanket — the cylinder + valve always need to be O₂-clean if the shop is partial-pressure blending. (b) The cleaning process is chemical degreasing + flushing that REMOVES HYDROCARBONS, oils, greases, particulates, and other contaminants from internal surfaces. (d) The whole safety purpose is to DECREASE FIRE / EXPLOSION RISK — high-pressure pure O₂ in contact with hydrocarbon residue can auto-ignite, which is exactly what real-world cylinder fires have shown. Together, the three statements describe the why, the what, and the boundary of O₂ cleaning practice.",
+      "source": "mySSI: SoD Lesson 4.5 Review"
+    },
+    {
+      "id": "mssi-sod-133",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Nitrox",
+      "question": "What markings must a diver check before using a nitrox cylinder?",
+      "options": {
+        "a": "The maximum operating depth",
+        "b": "All answers are correct",
+        "c": "The divers name or initials",
+        "d": "The oxygen concentration of the contents"
+      },
+      "correct": "b",
+      "explanation": "Pre-dive nitrox cylinder check is a stack of must-verify items, all of which appear on the cylinder labels and analysis tag. (a) MOD (MAXIMUM OPERATING DEPTH) — sticker on the cylinder shoulder calculated from the actual blend at PpO₂ 1.4 (recreational standard) or 1.6 (contingency only). Set the computer's max-depth alarm to this number; do NOT exceed it. (c) DIVER'S NAME / INITIALS — on the ANALYSIS TAG: identifies who personally analyzed the blend, what they measured, on what date. Standard practice is for the diver who will breathe the gas to do the analysis themselves and sign — never breathe nitrox you didn't analyze. The signature is the liability chain. (d) O₂ CONCENTRATION — measured with an O₂ analyzer (galvanic sensor, calibrated to 20.9% on air immediately before analyzing the cylinder). Must match the fill-log number; if it doesn't, do NOT dive that cylinder. Set the dive computer's FO₂ to this measured value before descent. Full pre-dive nitrox checklist: analyze → MOD → max PpO₂ → set computer FO₂ → sign tag → confirm with buddy. Skipping any step is the textbook path to a nitrox accident.",
+      "source": "mySSI: SoD Lesson 4.5 Review"
+    },
+    {
+      "id": "mssi-sod-134",
+      "area": "science_of_diving",
+      "subarea": "Equipment — BCD",
+      "question": "Components of a buoyancy compensator include:",
+      "options": {
+        "a": "A jacket or harness, a regulator, and dive computer",
+        "b": "A jacket or harness, inflation/deflation mechanisms, and attachment/adjustment features",
+        "c": "A jacket or harness, an exposure suit, and attachment/adjustment mechanisms",
+        "d": "A jacket or harness, inflation/deflation mechanisms, and a cylinder"
+      },
+      "correct": "b",
+      "explanation": "Three core component categories of a buoyancy compensator: (1) JACKET / HARNESS — the wearable structure: jacket-style (bladder wraps the torso, squeezes when inflated, lifts vertical at surface), back-inflate / wing (bladder on the back only, more horizontal trim, doesn't squeeze waist), or BP/W backplate-and-wing (minimalist tech-style modular harness with separate wing). (2) INFLATION / DEFLATION MECHANISMS — POWER INFLATOR (LP hose from 1st stage → button valve on corrugated hose → bladder, push to add gas underwater); ORAL INFLATOR (same valve with mouthpiece, exhale into the BCD when gas is precious or power inflator failed); multiple DUMP VALVES (shoulder dump for vertical positions, butt / lower-back dump for inverted or horizontal-trim positions, sometimes a belly/under-arm dump) and the QUICK-DUMP button at the top of the corrugated hose. (3) ATTACHMENT / ADJUSTMENT FEATURES — CAM STRAP cinches BCD to the cylinder; D-RINGS at chest, hip, shoulders for clipping octo / SPG / light / dSMB / slate / accessories; WAIST STRAP, CUMMERBUND, CHEST STRAP, SHOULDER STRAPS for fit; INTEGRATED WEIGHT POCKETS (quick-release weight pouches) on most modern jackets. (a) Regulator + computer are separate kit. (c) Exposure suit is its own gear category. (d) The CYLINDER is HELD BY the BCD via the cam strap but isn't part of the BCD — it's interchangeable.",
+      "source": "mySSI: SoD Lesson 4.6 Review"
+    },
+    {
+      "id": "mssi-sod-135",
+      "area": "science_of_diving",
+      "subarea": "Equipment — BCD",
+      "question": "What is a harness?",
+      "options": {
+        "a": "A set of straps that connect to the diver's back",
+        "b": "A rigid plate that connects to the wing and cylinders",
+        "c": "A strap that stops the wing from riding upwards",
+        "d": "A stainless steel ring for improving positioning"
+      },
+      "correct": "a",
+      "explanation": "In BP/W (backplate-and-wing) terminology, a HARNESS is the WEBBING STRAP SYSTEM that wraps around the diver and bolts to the backplate, holding the rest of the rig in place. Two common implementations: (1) ONE-PIECE 'HOGARTHIAN' HARNESS — a single continuous run of 2-inch (5 cm) nylon webbing routed: down from one shoulder, through the slots in the backplate, around the waist as a belt, up through the crotch strap, back through the backplate, up to the other shoulder. No buckles, single piece, classic minimalist DIR / GUE style. (2) COMFORT HARNESS — split webbing with padded shoulder pads, quick-disconnect buckles, padded waist belt. Faster donning/doffing, more comfortable for long classes / multi-day liveaboard schedules. The harness is what holds the diver to the rest of the rig (backplate + wing + cylinder). D-RINGS are threaded onto the webbing at standard positions (left chest, right chest, left hip, right hip, sometimes shoulder) for clipping accessories. (b) Rigid plate = BACKPLATE, a separate component the harness bolts to. (c) 'Stops wing riding upwards' = function of the CROTCH STRAP (one PART of the harness), not the definition of the whole harness. (d) Stainless steel ring = D-RING, threaded ONTO the harness — an attached fitting, not the harness itself.",
+      "source": "mySSI: SoD Lesson 4.6 Review"
+    },
+    {
+      "id": "mssi-sod-136",
+      "area": "science_of_diving",
+      "subarea": "Equipment — BCD",
+      "question": "What weight systems can divers choose for offsetting buoyancy?",
+      "options": {
+        "a": "Integrated weights",
+        "b": "Traditional weight belts",
+        "c": "Trim weights",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "Three valid weight system options, frequently used in combination. (a) INTEGRATED WEIGHTS — quick-release weight pouches built into modern BCDs (chest, hip, or rear positions). PULL-AND-DROP release lets the diver ditch weight in seconds for emergency positive buoyancy. Ergonomic: weight load transfers through the BCD shoulders / torso, not the lower back. Most recreational divers prefer these. (b) TRADITIONAL WEIGHT BELTS — nylon or rubber belt around the waist holding lead blocks or shot pouches, fastened with a quick-release buckle. Old-school, simple, droppable in seconds. Still mandatory on many tech setups (so the integrated-weight failure can't dump trim weight) and standard in freediving. Drawback: presses on hips, can shift, painful if overloaded. (c) TRIM WEIGHTS — small fixed weights to fine-tune horizontal trim. Common forms: TANK / CAM-STRAP WEIGHTS (clip onto the strap behind the cylinder, weight rides high to counter head-up trim); ANKLE WEIGHTS (counter feet-up trim from positively-buoyant fins or drysuit air migration); TRIM POCKETS on BCD shoulders (for head-down adjustment). Goal: trim flat/horizontal, ditch enough weight in emergency to surface, no overweighting (extra weight = extra drag + extra gas to lift = higher SAC).",
+      "source": "mySSI: SoD Lesson 4.6 Review"
+    },
+    {
+      "id": "mssi-sod-137",
+      "area": "science_of_diving",
+      "subarea": "Equipment — BCD",
+      "question": "What is a backplate?",
+      "options": {
+        "a": "A plastic plate that stops the wing from riding upwards",
+        "b": "An aluminum buoyancy compensator",
+        "c": "A rigid plate that connects to the wing and cylinders",
+        "d": "A set of straps that connect to the diver's back"
+      },
+      "correct": "c",
+      "explanation": "A BACKPLATE is the rigid metal plate worn on the diver's back, the structural skeleton of a BP/W (backplate-and-wing) BCD setup — it connects everything: harness, wing, and cylinder. Material options: STAINLESS STEEL (~3 kg / 6 lb negative) — most common for cold/temperate water, doubles as ditchable backup ballast and reduces belt-weight needs; ALUMINUM (~1 kg / 2 lb negative) — warm-water travel kit, lighter for luggage; CARBON FIBER (slightly positive) — niche for ultra-travel configurations. Typical geometry: ~7\" wide × 18\" tall, contoured to fit the curve of the back. SLOTS in the plate let the harness webbing thread through (shoulders, crotch, waist routing). BOLT HOLES at the back accept two cam-strap bolts (or a Single Tank Adapter / STA for sliding the cylinder up and down). The WING bolts on between plate and cylinder using the same bolts (sandwich: backplate → wing → cylinder). Genius of the design: completely MODULAR — the same harness and plate work for a single cylinder, manifolded twins, or a sidemount conversion. Just swap the wing. (a) Plastic + 'stops wing riding upwards' — wrong material AND wrong function (crotch strap controls riding-up). (b) 'Aluminum BCD' is vague and a BCD is the full jacket+wing, not one plate. (d) Set of straps = HARNESS, different component.",
+      "source": "mySSI: SoD Lesson 4.6 Review"
+    },
+    {
+      "id": "mssi-sod-138",
+      "area": "science_of_diving",
+      "subarea": "Equipment — BCD",
+      "question": "Buoyancy compensator bladders can be:",
+      "options": {
+        "a": "Integrated directly into a jacket-style buoyancy compensator",
+        "b": "All answers are correct",
+        "c": "Contained within a protective outer shell",
+        "d": "Separate with independent inflation"
+      },
+      "correct": "b",
+      "explanation": "Three valid bladder configurations exist. (a) INTEGRATED INTO JACKET — traditional jacket-style BCD: the bladder is sewn between the inner liner and the outer Cordura jacket, surrounding the diver's torso. Cheap, rugged, single-piece construction. When the bladder eventually fails (puncture, valve seat erosion), it usually means buying a new BCD because the bladder is non-replaceable in most jacket designs. (c) CONTAINED IN PROTECTIVE OUTER SHELL — modern wings: an inner urethane or neoprene-coated bladder is protected by an outer 1000-denier Cordura shell ('clamshell' or 'single-skin' wing). The bladder is REPLACEABLE separately from the shell when it fails — much cheaper long-term, standard on tech wings (Halcyon, Dive Rite, OMS). (d) SEPARATE WITH INDEPENDENT INFLATION — DOUBLE-BLADDER wings (Halcyon Eclipse 60-PRO doubles, OMS Performance, Dive Rite EXP). TWO completely independent bladders inside the same shell, each with its own LP inflator hose, dump valves, and over-pressure relief. REDUNDANCY: if the primary bladder fails (puncture, dump valve sticks open), switch to the backup bladder and finish the dive safely. Mandatory on many cave / wreck / deep-tech standards where surfacing for buoyancy isn't an option (alternative redundancy: drysuit as backup buoyancy).",
+      "source": "mySSI: SoD Lesson 4.6 Review"
+    },
+    {
+      "id": "mssi-sod-139",
+      "area": "science_of_diving",
+      "subarea": "Equipment — BCD",
+      "question": "Back-inflation buoyancy compensators are a good choice for divers who:",
+      "options": {
+        "a": "Want the weight to sit in one place",
+        "b": "Want to reduce clutter and minimize drag",
+        "c": "Want to increase drag and reduce clutter",
+        "d": "Do short, single dives"
+      },
+      "correct": "b",
+      "explanation": "Back-inflation (also called BACK-MOUNT WING or REAR-INFLATE) BCDs put the gas bladder BEHIND the diver rather than wrapping around the torso jacket-style. Why divers choose them: (1) REDUCED DRAG — streamlined silhouette. Front of body is unobstructed, water flows cleanly along sides, bladder doesn't bulge out at hips like a jacket. Lower work-of-finning, lower SAC over multi-tank days. (2) REDUCED CLUTTER on chest — no big jacket pockets covering the hose layout, cleaner D-ring access, easier camera / light / instrument management, better view of computer + SPG. (3) BETTER HORIZONTAL TRIM — with all lift on the back, the body hangs face-down underneath the bladder, naturally settling into trim position; jacket BCDs tend to roll divers vertical / head-up. (4) NO CHEST SQUEEZE at the surface — jacket BCDs inflate around the ribs and can pinch (especially when over-weighted); back-inflate just lifts the diver face-up without compression. (5) TRAVEL-FRIENDLY — many back-inflates pack flatter than jackets (Zeagle Express Tech, Hollis HD200, Aqualung Outlaw). Trade-off worth knowing: at the surface back-inflate can push divers face-down because lift is behind — counter by leaning back, kicking up, using crotch strap to balance. (a) Vague — back-inflate doesn't really centralize 'weight'. (c) Opposite — back-inflate REDUCES drag, not increases. (d) Back-inflate works equally well across all dive durations.",
+      "source": "mySSI: SoD Lesson 4.6 Review"
+    },
+    {
+      "id": "mssi-sod-140",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Exposure Suits",
+      "question": "A wetsuit protects a diver from heat loss because they:",
+      "options": {
+        "a": "Keep the diver dry",
+        "b": "Stop water getting inside",
+        "c": "Maintain a stable layer of warm water around the body",
+        "d": "Are heated"
+      },
+      "correct": "c",
+      "explanation": "Counter-intuitive but true: a wetsuit doesn't keep you dry, and that's by design. How it works: (1) Water enters the wetsuit through neck, wrists, ankles — typically a few hundred mL. (2) That trapped layer warms up to body temperature within a minute or two of immersion. (3) The NEOPRENE FOAM — full of millions of tiny gas-filled bubbles — is the actual insulator: it blocks heat transfer between the warm water layer next to your skin and the cold water outside. (4) FIT IS CRITICAL: a snug suit holds the warm water layer in place; a loose suit lets water flush in/out with every movement, dumping heat each flush ('chimney effect'). Thickness rough guide: 3 mm tropical (25–28 °C), 5 mm temperate (18–24 °C), 7 mm cold (12–18 °C, pair with hood + gloves + booties), 2-piece 7+7 mm (or semi-dry / drysuit) below 12 °C. Cold-water depth caveat: neoprene COMPRESSES under pressure (gas bubbles shrink) → suit gets thinner → less insulation; a 7 mm at 30 m is thermally closer to a 3 mm. Below ~15 °C, drysuit + thick undergarments wins. (a) Keeps dry = DRYSUIT (different system entirely — seals at neck/wrists, undergarments for insulation). (b) Stops water entering = drysuit again; opposite of the wetsuit principle. (d) Heated suits exist (battery-powered electric elements like Santi BZ-400) but that's an active system, not how regular wetsuits work.",
+      "source": "mySSI: SoD Lesson 4.7 Review"
+    },
+    {
+      "id": "mssi-sod-141",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Exposure Suits",
+      "question": "What creates warmth while wearing a dry suit?",
+      "options": {
+        "a": "Insulating layers and trapped gas",
+        "b": "Shell material thickness",
+        "c": "Heated filaments",
+        "d": "A stable layer of warm water around the body"
+      },
+      "correct": "a",
+      "explanation": "Drysuit warmth is a layered system. (1) DRYSUIT SHELL — waterproof outer barrier sealed at neck and wrists with latex or silicone SEALS, attached or sealed booties at the feet. Materials: trilaminate (Cordura + butyl + nylon, light + tough — Santi, DUI, Bare), crushed/compressed neoprene (durable, slightly buoyant — Whites, Pinnacle), or rubber. The shell KEEPS WATER OUT but provides minimal insulation on its own. (2) INSULATING UNDERGARMENT — the actual thermal layer worn underneath: synthetic fleece/pile (Polartec, Primaloft — bulky, fluffy, lots of trapped air); Thinsulate (denser fibers, less bulk, similar thermal); wool. AIR TRAPPED in the fibers is the real insulator — still air is an excellent insulator, which is why these garments are designed bulky and fluffy. (3) INFLATOR GAS INSIDE THE SUIT — drysuit has an LP hose connected to a chest inflator valve; gas added on descent to (a) equalize against pressure (prevent SUIT SQUEEZE), (b) keep the undergarment LOFTED (compressed undergarment loses thermal value at depth), (c) add a gas insulation layer around the body. ARGON is sometimes used for cold-water (separate small bottle with its own LP inflator hose) — ~30% lower thermal conductivity than air → noticeably warmer dives. (b) Shell thickness — typical trilaminate is ~0.6–0.8 mm thin and isn't the thermal layer. (c) Heated filaments — only in HEATED drysuits/vests (Santi BZ-400, Thermalution) — active system, not the basic drysuit. (d) Warm water layer = WETSUIT principle (mssi-sod-140); drysuit is the opposite — no water inside.",
+      "source": "mySSI: SoD Lesson 4.7 Review"
+    },
+    {
+      "id": "mssi-sod-142",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Exposure Suits",
+      "question": "Divers who wear wetsuits with the wrong thickness could experience:",
+      "options": {
+        "a": "Immersion diuresis",
+        "b": "Hypothermia or oxygen toxicity",
+        "c": "Hypothermia or hyperthermia",
+        "d": "Narcosis"
+      },
+      "correct": "c",
+      "explanation": "Both directions of thermal failure are real: TOO THIN → not enough insulation → body loses heat faster than it produces it → HYPOTHERMIA (core temp <35 °C). Early signs in-water: shivering, slowed thinking, clumsy hands, lethargy, reduced air consumption efficiency. Late stage: shivering STOPS (paradoxical, ominous), confusion, slurred speech, cardiac arrhythmia risk. End the dive at first symptoms; rewarm slowly (passive insulation) to avoid afterdrop. TOO THICK → excessive insulation → body heat can't dissipate, especially during pre-dive surface waiting in tropical sun, hard work at depth, or long shore swims → HYPERTHERMIA (overheating). Symptoms: profuse sweating before entry, dizziness, nausea, heat exhaustion, heat stroke at the extreme. Especially dangerous in tropical 28 °C water where divers over-insure with a too-thick wetsuit. Match thickness to the actual water temperature for the planned bottom time, not the worst-case 'just in case'. (a) Immersion diuresis happens to every diver regardless of suit thickness — it's the result of central blood shift on immersion (mssi-sod-079). (b) O₂ toxicity is a gas-pressure issue (high PpO₂), unrelated to wetsuits. (d) Nitrogen narcosis is a depth + inert-gas issue, not exposure-suit related.",
+      "source": "mySSI: SoD Lesson 4.7 Review"
+    },
+    {
+      "id": "mssi-sod-143",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Exposure Suits",
+      "question": "The key purpose of the Exposure System is to protect divers from:",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Cold",
+        "c": "Irritants in the water",
+        "d": "Abrasions"
+      },
+      "correct": "a",
+      "explanation": "The exposure system (wetsuit/drysuit + hood + gloves + booties) protects against three threat categories. (b) COLD — primary purpose; the entire thermal-protection mechanism described in mssi-sod-140 / 141. Prevents hypothermia. (c) IRRITANTS IN WATER — physical barrier against stinging organisms (JELLYFISH, fire coral, hydroids, sea lice, anemones — even unintentional surge contact); skin irritants in some bodies of water (algal blooms, polluted runoff, leptospirosis-prone freshwater); microscopic particulates (suspended silt, silica from sand). (d) ABRASIONS — physical protection from sharp rocks during entry/exit, surge contact with coral edges (also protects the coral from us), wreck edges (jagged metal, broken glass, fishing line in penetration), sand/coral scrapes in surf entries. Side benefit not listed but real: UV PROTECTION during long surface intervals on tropical boats (a thin lycra rashguard is sometimes worn just for sun, not thermal protection). All three threat categories together = (a) all correct.",
+      "source": "mySSI: SoD Lesson 4.7 Review"
+    },
+    {
+      "id": "mssi-sod-144",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Exposure Suits",
+      "question": "Which of the following statements about wetsuit compression is true?",
+      "options": {
+        "a": "It decreases positive buoyancy at depth",
+        "b": "Insulation is reduced",
+        "c": "Neoprene compresses under pressure",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "All three describe one physics chain. (c) NEOPRENE COMPRESSES UNDER PRESSURE — Boyle's Law applied to the millions of gas-filled bubbles inside the foam: at 10 m (2 bar absolute) each bubble's volume HALVES; at 30 m (4 bar) it's at one quarter. The wetsuit physically becomes thinner — a 7 mm at the surface is functionally closer to ~3 mm at 30 m. (a) DECREASES POSITIVE BUOYANCY at depth — neoprene's lift comes from the low-density gas-filled foam displacing water; once compressed, less water is displaced → less buoyancy. A 7 mm full wetsuit can lose 4–6 kg of buoyancy between surface and 30 m. This is exactly why divers need to ADD gas to the BCD on descent (compensating the lost lift) and DUMP gas on ascent (recovering lift). (b) INSULATION IS REDUCED — same compressed bubbles mean less trapped gas insulation, so the suit's thermal value drops at depth — the 7 mm at 30 m is also thermally closer to a 3 mm. Cruel timing: deeper usually means colder thermocline, exactly when you most need warmth. Crushed/compressed neoprene drysuits and trilaminate drysuits don't suffer this problem (the insulating undergarment + gas inside the suit handles it). All three statements are linked consequences of the same cause.",
+      "source": "mySSI: SoD Lesson 4.7 Review"
+    },
+    {
+      "id": "mssi-sod-145",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Exposure Suits",
+      "question": "Exposure System accessories include:",
+      "options": {
+        "a": "Hood, gloves, and mask",
+        "b": "Hood, boots, and gloves",
+        "c": "Boots, gloves, and fins",
+        "d": "All answers are correct"
+      },
+      "correct": "b",
+      "explanation": "The exposure-system ACCESSORIES — the head/hand/foot extensions of thermal + abrasion protection — are HOOD, BOOTS (booties), and GLOVES. (1) HOOD — covers the head; head is a major heat-loss surface (well-perfused scalp + neck + carotid arteries close to surface). Also seals the ears, slowing ear cooling and helping with equalization comfort. Thicknesses 3–7 mm matched to the wetsuit; vented hoods let trapped air vent out at the crown. (2) BOOTS / BOOTIES — neoprene foot covers, 3–7 mm depending on water temperature; worn with OPEN-HEEL fins. Provide thermal protection AND abrasion protection on rocky entries, hot deck surfaces, tropical sand. (3) GLOVES — neoprene mitts (warmest), 3-finger lobster gloves (warm + some dexterity), or 5-finger gloves (best dexterity, less warm). 1.5 mm tropical to 7 mm cold-water. Trade-off: thicker = warmer but loses dexterity for BCD buttons, valve drills, computer manipulation, knot-tying for line work. Some agencies / locations restrict gloves to protect coral. (a) MASK is OPTICAL EQUIPMENT (vision system), not exposure. (c) FINS are PROPULSION EQUIPMENT, separate category. (d) Wrong because (a) and (c) include non-exposure items.",
+      "source": "mySSI: SoD Lesson 4.7 Review"
+    },
+    {
+      "id": "mssi-sod-146",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Instruments",
+      "question": "How does a digital compass determine location?",
+      "options": {
+        "a": "It requires complex calculations done by hand",
+        "b": "It uses electronic sensors and digital technology",
+        "c": "It has a manual winding mechanism",
+        "d": "It displays directions using a magnetic needle"
+      },
+      "correct": "b",
+      "explanation": "Digital compasses use ELECTRONIC SENSORS (typically a 3-axis magnetometer chip — Hall-effect, MEMS, or fluxgate) combined with digital signal processing. How it works: (1) the magnetometer measures Earth's magnetic field strength on X / Y / Z axes; (2) a microprocessor computes the heading from the field vector relative to magnetic north; (3) a built-in ACCELEROMETER provides TILT COMPENSATION — detects how the compass is oriented and corrects readings even when not perfectly level (huge advantage over analog needle compasses, which must be held flat — tilt >15° throws the needle off the gimbal pin); (4) the display shows the heading as digits ('045°') plus often a graphic compass rose with bearing markers; (5) periodic CALIBRATION via figure-8 motion remaps ambient field if magnetic interference is detected. Built into most modern dive computers — Suunto D5, Shearwater Teric/Petrel, Garmin Descent, Mares Genius. Pros: tilt-tolerant, bearing-lock, integrates with dive log, backlight. Cons: battery-dependent, susceptible to magnetic interference from steel cylinders / iron-rich wrecks, expensive, occasional recalibration. (a) No hand calculation needed — that's celestial navigation. (c) 'Manual winding' is wristwatch terminology. (d) MAGNETIC NEEDLE is the ANALOG compass mechanism — the opposite of digital. Note: the question's wording 'determine location' is a misnomer in the SSI text — a compass determines DIRECTION (heading), not location (position) — but the intended correct answer is still (b).",
+      "source": "mySSI: SoD Lesson 4.8 Review"
+    },
+    {
+      "id": "mssi-sod-147",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Instruments",
+      "question": "What is one advantage of wrist-mounted dive computers?",
+      "options": {
+        "a": "All answers are correct",
+        "b": "They have a large strap that can be secured over a dry suit sleeve",
+        "c": "They are sleek and compact",
+        "d": "They are versatile and can be worn as a regular watch"
+      },
+      "correct": "a",
+      "explanation": "All three are real benefits of wrist-mounted dive computers. (b) LARGE ADJUSTABLE STRAP — fits over a drysuit sleeve, a 7 mm wetsuit cuff, or hooded undersuit. Most include strap extensions. Console-mounted computers (clipped to the SPG hose) don't have this option — they hang attached to the high-pressure hose. (c) SLEEK AND COMPACT — modern wrist computers are smaller than many sport watches (Shearwater Peregrine, Suunto Zoop Novo, Garmin Descent G1, Mares Smart). Reduce drag, don't snag on lines, easy to glance at without breaking trim. (d) WEARABLE AS A REGULAR WATCH — the Garmin Descent series, Shearwater Teric, Suunto D5, Suunto Eon Steel and similar are full-featured smartwatches when not diving — heart-rate monitoring, GPS, fitness/sleep tracking, smartphone notifications, daily-wear styling. The diver wears ONE watch all the time; ready for an unplanned dive without fishing through the gear bag. Other benefits not listed: view readout in any orientation (just look at the wrist — console-mount means turning your hand under to read); frees the right hand to manage the SPG/octo console separately; easy to share data with buddy or instructor by raising the arm.",
+      "source": "mySSI: SoD Lesson 4.8 Review"
+    },
+    {
+      "id": "mssi-sod-148",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Instruments",
+      "question": "Digital depth gauges are standard in all dive computers and include:",
+      "options": {
+        "a": "Current depth, maximum depth, and ascent rate",
+        "b": "Maximum depth and degree markings",
+        "c": "No answers are correct",
+        "d": "Current depth, maximum depth, and air temperature"
+      },
+      "correct": "a",
+      "explanation": "Standard depth-related readouts on every dive computer: (1) CURRENT DEPTH — real-time reading from the pressure transducer (piezoresistive sensor in contact with water, updates several times per second). (2) MAXIMUM DEPTH — the deepest point reached during the current dive, often shown alongside current depth ('MAX 28.4 m / NOW 18.2 m') so the diver knows the trigger depth for tissue loading. (3) ASCENT RATE — usually shown as a graphic bar (green/yellow/red), a numeric value (m/min), or both. Triggers an audible / visual ALARM when ascent rate exceeds the safe threshold — typically 9–10 m/min, with slower rates enforced in the last 10 m on more conservative algorithms (e.g., 6 m/min in the shallow stop zone on some Suunto / Shearwater profiles). Other depth-zone data typically shown alongside: average depth (for some logging algorithms), bottom time elapsed, NDL countdown, time to surface (TTS) including any required deco stops, the decompression ceiling once NDL is exceeded. (b) 'Degree markings' is a COMPASS feature, not depth. (c) Wrong — (a) is right. (d) AIR temperature isn't a typical readout — dive computers measure WATER temperature via a sensor in direct contact with water during the dive (some computers may also show surface 'air temperature' before submersion, but it's not the standard depth-gauge data triple).",
+      "source": "mySSI: SoD Lesson 4.8 Review"
+    },
+    {
+      "id": "mssi-sod-149",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Instruments",
+      "question": "Which of the following statements about nitrox dive computers is true?",
+      "options": {
+        "a": "Nitrox computers calculate data based on increased oxygen levels",
+        "b": "Nitrox computers can be used for air dives",
+        "c": "All answers are correct",
+        "d": "Most standard dive computers are nitrox-capable"
+      },
+      "correct": "c",
+      "explanation": "All three describe modern dive-computer reality. (a) NITROX COMPUTERS CALCULATE BASED ON FO₂ — set the actual blend (32%, 36%, or other) and the algorithm: adjusts NDL (richer mix = less N₂ loaded → longer NDL at depth); tracks CNS OXYGEN TOXICITY % (cumulative based on PpO₂ × time exposure); tracks OTU (Oxygen Tolerance Units) for pulmonary toxicity across multi-day diving; calculates MOD alerts based on PpO₂ limits (1.4 working / 1.6 contingency); modern computers also track gas switching between two or more nitrox blends mid-dive (recreational AI computers and tech computers like Shearwater Petrel). (b) USED FOR AIR DIVES — just set FO₂ = 21% (or 'Air' mode). The same algorithm handles air as a special case (regular nitrox = 21%/79%). (d) MOST STANDARD DIVE COMPUTERS ARE NITROX-CAPABLE — by ~2010 onward essentially every entry-level recreational computer ships with nitrox support out of the box: Suunto Zoop Novo, Mares Puck, Cressi Leonardo, Shearwater Peregrine, Garmin Descent G1, Aqualung i100/i200/i300/i330. Older 1990s computers (e.g., original Mk1 Aladin) were sometimes air-only — those are mostly retired or used as backup gauges.",
+      "source": "mySSI: SoD Lesson 4.8 Review"
+    },
+    {
+      "id": "mssi-sod-150",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Instruments",
+      "question": "A submersible pressure gauge is connected to the:",
+      "options": {
+        "a": "Power inflator",
+        "b": "Regulator's high-pressure port",
+        "c": "Bourdon tube",
+        "d": "Regulator's low-pressure port"
+      },
+      "correct": "b",
+      "explanation": "The Submersible Pressure Gauge (SPG) connects to the HIGH-PRESSURE (HP) port on the regulator's 1st stage. Why HP not LP: (1) the SPG must read the ACTUAL cylinder pressure (200–300 bar / 3000–4500 psi) directly to show 'how much gas is left in the tank'. LP gas has already been reduced to ~9–10 bar above ambient and is useless for tank-contents reading. (2) The HP port has a small flow-restriction orifice built into the regulator port; if the HP hose ever ruptures, gas is limited to a leak rate that gives the diver time to surface — full cylinder pressure can't dump through a 7/16\" orifice instantly. (3) Inside the SPG body is typically a BOURDON TUBE — a curved hollow brass tube that uncurls slightly as internal pressure rises, mechanically rotating a needle through gears (the option (c) trap: Bourdon tube is INSIDE the SPG mechanism, not what it connects TO). Modern digital SPGs replace the Bourdon tube with a piezoresistive transducer but still connect to the HP port. Port identification: HP ports on a 1st stage are labeled 'HP' and have 7/16-inch UNF threading (different from LP's 3/8-inch UNF) so you physically can't cross-connect. WIRELESS AIR-INTEGRATED TRANSMITTERS (Suunto Tank POD, Shearwater Swift, Garmin Descent T2) also screw into the same HP port and broadcast pressure to the wrist computer via low-frequency RF — replacing the analog hose + SPG combo. (a) Power inflator = LP. (d) LP port = 2nd stages, BCD inflator, drysuit inflator — pressure too low to read tank contents.",
+      "source": "mySSI: SoD Lesson 4.8 Review"
+    },
+    {
+      "id": "mssi-sod-151",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Instruments",
+      "question": "How does a gas-integrated dive computer help divers manage their gas?",
+      "options": {
+        "a": "By automatically adjusting the diver's breathing rate",
+        "b": "By storing historical data about the temperature of the dive",
+        "c": "By monitoring and displaying the remaining gas supply in real-time",
+        "d": "All answers are correct"
+      },
+      "correct": "c",
+      "explanation": "Air-integrated (also GAS-INTEGRATED, AI) computers track cylinder pressure in real time and display it alongside depth/NDL data on the wrist or console screen. Implementation: HP TRANSDUCER — either an HP hose connected to the 1st stage HP port, or more commonly a WIRELESS TRANSMITTER (Suunto Tank POD, Shearwater Swift, Garmin Descent T2, Atomic Cobalt) that screws into the HP port and broadcasts pressure via low-frequency RF (typically ~38 kHz, range a few meters). Display: current cylinder pressure (e.g., 142 bar) shown alongside depth, NDL, time. KILLER FEATURE — GAS TIME REMAINING (GTR / RGT): the computer measures the diver's current SAC rate (gas consumption at depth) and extrapolates 'how many minutes of gas remain at current depth + current consumption rate'. Far more useful than just bar/psi alone, because it answers the actual operational question. MULTI-CYLINDER tracking on modern AI (Shearwater Perdix, Petrel, Teric; Garmin Descent Mk2/Mk3): 2+ transmitters simultaneously for sidemount L/R, primary + deco bottle, doubles + stage — per-cylinder pressure and per-cylinder GTR. LOGGING: every dive's pressure profile stored for post-dive SAC analysis and trend tracking. Cautions: wireless can drop signal (interference, distance, body blocking); a backup analog SPG is best practice on critical dives. Transmitter battery 1–2 years. (a) Computer can't adjust the diver's breathing — that's the diver's discipline. (b) Temperature logging is historical data, not gas management. (d) Only (c) is actual gas management.",
+      "source": "mySSI: SoD Lesson 4.8 Review"
+    },
+    {
+      "id": "mssi-sod-152",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Accessories",
+      "question": "To prevent environmental damage, what must divers avoid when using a reef hook?",
+      "options": {
+        "a": "Attaching to debris",
+        "b": "Using nylon lines",
+        "c": "Using stainless steel snaps",
+        "d": "Attaching to live corals"
+      },
+      "correct": "d",
+      "explanation": "The cardinal rule of reef-hook use: NEVER HOOK INTO LIVE CORAL. Background: a REEF HOOK is a stainless-steel J-hook on a 1–2 m line, used at strong-current dive sites (Blue Corner Palau, Komodo Strait, Galapagos, Cocos Island, Tubbataha) so divers can hold position and watch pelagic action without finning constantly against current. Correct procedure: drift in, identify a DEAD substrate anchor point (bare rock, dead coral skeleton, sand-worn ledge, broken/dead coral debris), set the hook there, hold or clip the line to a BCD attachment, add a small amount of BCD gas to fly horizontally on a taut line behind the anchor. Release: unhook by lifting and unclipping carefully; never abandon hook + line on the reef. Why LIVE CORAL is forbidden: live coral is a colony of tiny polyps with calcium-carbonate skeletons that grow only mm to a few cm per year for stony species. A single hook strike can break off decades of growth, strip mucus and tissue, and open a path to infection or bleaching. Most reef-hook destinations are MARINE PROTECTED AREAS with substantial fines for coral damage. Other no-nos: dragging chain across coral as you settle, hooking sea fans (those are gorgonian animals, not anchors), letting the hook flail wildly when you unhook, abandoning gear on the reef. (a) DEAD substrate / broken coral debris is exactly the CORRECT anchor — fine to hook. (b) Nylon line is standard, no environmental issue. (c) Stainless steel snaps are durable, corrosion-resistant, and standard hook hardware.",
+      "source": "mySSI: SoD Lesson 4.9 Review"
+    },
+    {
+      "id": "mssi-sod-153",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Accessories",
+      "question": "A sealed delayed surface marker buoy is reliable because it:",
+      "options": {
+        "a": "Is made of lightweight material that floats even if punctured",
+        "b": "Maintains gas volume",
+        "c": "Has an integrated Global Positioning System module",
+        "d": "Includes an adjustable tether for changing ascent rates"
+      },
+      "correct": "b",
+      "explanation": "A SEALED (closed-bottom) Delayed Surface Marker Buoy keeps gas trapped inside once inflated, making it reliably stiff and visible at the surface. Mechanism: TOP END has a one-way OVER-PRESSURE RELIEF VALVE (OPRV) — vents excess gas during ascent (gas expands per Boyle's Law) without rupturing the buoy; gas can vent out, but water can't get in. BOTTOM END is completely SEALED — no opening. Inflation is via an oral inflator (duckbill valve, purge a regulator into it) or via an LP whip connector clipped to the BCD inflator; gas goes in but can't escape downward. Result: on the surface the buoy stays FULL and STIFF, stands tall, highly visible at distance — vital for boat pickup in chop / current / bad weather. Sealed dSMBs are mandatory on many deep / drift / decompression dives where reliable visibility for the boat is non-negotiable. Compare with OPEN-BOTTOM dSMBs (cheaper, simpler) — open at the bottom, inflated by inverting and injecting gas from an octo or oral, prone to leaking gas out the bottom if it tips or surge pushes water up; often droops or partially deflates on the surface; still widely used at recreational depth. (a) dSMBs are durable but a punctured one sinks — not magically self-floating. (c) GPS isn't a standard dSMB feature; some have RFID for personal tracking, not GPS. (d) The tether/spool is the ascent line, not a rate-adjustment mechanism.",
+      "source": "mySSI: SoD Lesson 4.9 Review"
+    },
+    {
+      "id": "mssi-sod-154",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Accessories",
+      "question": "Why should divers carry a cutting device?",
+      "options": {
+        "a": "To respond to underwater entanglements hazards",
+        "b": "To hunt underwater creatures more effectively",
+        "c": "To signal other divers through metal clanging",
+        "d": "To carve navigational markers into underwater rocks"
+      },
+      "correct": "a",
+      "explanation": "Cutting devices (knives, line cutters, EMT shears) are SAFETY EQUIPMENT for ENTANGLEMENT RESPONSE. Common entanglement hazards: MONOFILAMENT FISHING LINE (most common, nearly invisible until tangled); LOST 'GHOST' NETS draped on wrecks / reefs; ANCHOR / MOORING / DECOMPRESSION LINES wrapped accidentally; KELP that twists around in kelp-forest dives; CAVE or WRECK GUIDELINE that catches in a fin or strap. Cutter types: (1) Z-KNIFE / LINE CUTTER — small enclosed blade with a slot to feed line in, hooked safety blade — won't cut you, only line. (2) TRAUMA / EMT SHEARS — medical scissors, surprisingly effective on heavy monofilament and even thin nets. (3) STANDARD DIVE KNIFE — 3–5\" blade, serrated section for line + smooth section for general use. (4) TITANIUM folding pocket knife — corrosion-resistant. BEST PRACTICE: carry TWO cutters at different body positions (e.g., one on BCD chest D-ring, one on hip or arm) — if you're tangled by one arm, you need to reach a cutter with the OTHER. (b) Hunting underwater is illegal in most marine protected areas and is specialty / licensed activity; standard dive knives are not weapons. (c) Signaling = TANK BANGER or RATTLE STICK, not a knife (and clanging on the cylinder valve damages it). (d) NEVER carve into underwater environment — environmentally destructive, illegal in protected areas.",
+      "source": "mySSI: SoD Lesson 4.9 Review"
+    },
+    {
+      "id": "mssi-sod-155",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Accessories",
+      "question": "The surface marker buoy is used to communicate the diver's position to:",
+      "options": {
+        "a": "Their dive buddy",
+        "b": "Topside personnel and boats",
+        "c": "Pilots",
+        "d": "Other dive groups underwater"
+      },
+      "correct": "b",
+      "explanation": "The Surface Marker Buoy (SMB) is a SURFACE-VISIBLE float that marks the diver's location to TOPSIDE PERSONNEL and BOATS — bridging the visibility gap between an underwater diver and a topside boat. Two main use cases. (1) PRE-DEPLOYED SMB — clipped to the diver from descent, line played out from a reel/spool, buoy floats above on the surface throughout the dive. Used in current / drift dives, busy boat-traffic areas, when a tender boat needs to follow divers' position. (2) DELAYED SMB (dSMB) — kept stowed during the dive, deployed BEFORE ASCENT (typically at the safety stop) by inflating it from a regulator and letting the line spool out. Signals 'we're surfacing here in ~3 minutes' to the pickup boat. Standard practice on every drift dive. The whole point: divers underwater can't see the boat, and the boat can't see the divers — the SMB closes that loop. (a) Buddy is underwater with you, communicates with hand signals / lights. (c) Pilots are far too high to spot a 1.5 m buoy. (d) Other dive groups underwater can't see the surface clearly from depth.",
+      "source": "mySSI: SoD Lesson 4.9 Review"
+    },
+    {
+      "id": "mssi-sod-156",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Accessories",
+      "question": "What is the primary function of an electronic signaling device?",
+      "options": {
+        "a": "To provide navigation assistance",
+        "b": "To track a diver's movement underwater",
+        "c": "To transmit a distress signal",
+        "d": "To monitor water temperature"
+      },
+      "correct": "c",
+      "explanation": "Electronic signaling devices for divers exist primarily to TRANSMIT A DISTRESS SIGNAL when something goes wrong (lost at surface, drift carries diver away from boat, medical emergency). Categories: (1) PLB (Personal Locator Beacon) — 406 MHz satellite distress beacon using the Cospas-Sarsat system. Activate → polar satellite catches signal → relayed to a Mission Control Center → coast guard / SAR alerted with the diver's GPS position. Examples: ACR ResQLink, Ocean Signal PLB1, McMurdo FastFind. NO subscription needed for the basic PLB; register free with national authority (NOAA US, MCA UK). (2) SATELLITE MESSENGERS — two-way text-capable units like Garmin inReach Mini, Spot Gen4. Monthly subscription required; lets you text 'OK, picked me up' or send SOS with situational messaging. (3) VHF RADIO — float-rated handheld VHF (Nautilus Lifeline, Cobra HH150) for direct voice contact with boats within line-of-sight (~5–10 km on the surface). (4) STROBE / DIVE LIGHT SOS — visual signal at night, surface or upper water column. (5) UNDERWATER PINGERS — buddy tracking (tech/cave), not 'distress' per se. (a) Navigation = compass / GPS, different category. (b) Tracking = continuous logging (e.g., Garmin Descent dive GPS log), different. (d) Temperature = standard dive computer thermometer.",
+      "source": "mySSI: SoD Lesson 4.9 Review"
+    },
+    {
+      "id": "mssi-sod-157",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Accessories",
+      "question": "What is one disadvantage of using a personal locator beacon?",
+      "options": {
+        "a": "They cannot transmit signals underwater",
+        "b": "They have a limited depth rating without additional housing",
+        "c": "They are negatively buoyant without a canister",
+        "d": "They require a subscription for use"
+      },
+      "correct": "b",
+      "explanation": "Most PLBs are NOT pressure-rated to diving depths and need a separate waterproof canister. Typical PLB ingress-protection ratings: cheap PLBs at IPX7 (1 m for 30 min — fine for splash, useless beyond surface immersion); better PLBs at IPX8 with manufacturer-specified depth/duration combos (often 5–10 m for 1–24 hours). ACR ResQLink and Ocean Signal PLB1 are typically rated 5–10 m maximum — fine for surface use AFTER surfacing, not for carrying through a 30 m dive. For dive use the PLB must be carried inside a WATERPROOF CANISTER rated to the planned dive depth — examples: the now-discontinued Nautilus Lifeline GPS (purpose-built dive housing combining VHF + GPS); generic dive canisters rated to 100 m+ that hold a PLB stowed dry; or PLBs integrated into purpose-built dive housings. In an emergency the diver: surfaces (no transmitting underwater anyway — radio waves don't propagate through saltwater at meaningful power), pulls the PLB out of the canister, deploys the antenna, activates → 406 MHz signal beams up to satellites. (a) Inability to transmit underwater is true but a fundamental physics issue affecting EVERY radio-based device, not really a 'disadvantage' you can engineer around. (c) Buoyancy varies by model; not the primary practical issue. (d) Basic 406 MHz PLBs DON'T require a subscription (free national registration); only satellite messengers (Garmin inReach, Spot) need one — so this isn't universally true.",
+      "source": "mySSI: SoD Lesson 4.9 Review"
+    },
+    {
+      "id": "mssi-sod-158",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Accessories",
+      "question": "Why should divers carry multiple signaling devices?",
+      "options": {
+        "a": "Having multiple devices encourages faster underwater navigation",
+        "b": "Carrying more devices lessens the chance of losing any single one",
+        "c": "To be prepared for different emergency situations",
+        "d": "Device diversity helps divers maintain buoyancy control"
+      },
+      "correct": "c",
+      "explanation": "Different emergencies require different signals — no single device covers every scenario. SCENARIO MATRIX: (1) LOST AT SURFACE near boat → audible whistle, Dive Alert air-horn, SMB held high, signal mirror flash; (2) LOST AT SURFACE drifting far from boat → VHF radio, PLB satellite signal, dSMB held high in the air, smoke marker; (3) BUDDY ATTENTION underwater → tank banger, rattle stick, dive light SOS pattern; (4) DIVER IN DISTRESS underwater → reverse hand signals + tank banger urgent; (5) NIGHT DIVE — boat can't see you → strobe (white blink), chemical glowstick on cylinder; (6) LONG DRIFT / LOST AT SEA (worst case) → PLB activated, VHF distress, smoke flare. Each device has range, line-of-sight, and use-case constraints: whistle ~200 m in calm seas (useless in chop), mirror requires sun + boat looking your direction, SMB visible 1+ km but only if eyes are looking up, VHF line-of-sight ~5–10 km surface, PLB is global via satellite but takes minutes for SAR mobilization. Layered redundancy across categories means whatever situation you find yourself in, at least one tool fits. Standard rec kit: whistle + dSMB + Dive Alert. Drift / blue-water kit adds: PLB + mirror + strobe. Cave/wreck kit adds: spare mask + multiple lights + line markers. (a) Signaling has nothing to do with navigation. (b) Redundancy against loss is a SIDE benefit, not the primary reason — main point is scenario coverage. (d) Unrelated to buoyancy.",
+      "source": "mySSI: SoD Lesson 4.9 Review"
+    },
+    {
+      "id": "mssi-sod-159",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Accessories",
+      "question": "What is one disadvantage of diving with a surface marker buoy?",
+      "options": {
+        "a": "Entanglement on mooring lines and other buoys",
+        "b": "The buoy might attract dangerous marine animals.",
+        "c": "The buoy can corrode quickly in saltwater environments",
+        "d": "Weather changes can permanently alter the buoy's color"
+      },
+      "correct": "a",
+      "explanation": "ENTANGLEMENT is the primary practical hazard with SMBs. The trailing line from diver to surface buoy can wrap around: MOORING LINES of nearby boats (common in busy sites); other dive operators' SMB LINES (multiple groups in the same area, lines crossing); LOBSTER POT / FISHING LINES (coastal sites, especially in current); other anchor or descent lines; the DIVER'S OWN GEAR (fin straps, manifold valves, hose loops if the line goes slack and current pushes it). Worse: SPOOLS / REELS can BACKLASH if deployed sloppily, creating a 'rats' nest' mid-dive that you have to cut out with your line cutter. BOATS can also run over a deployed surface line and cut it (or worse, foul their prop). MITIGATIONS: keep TENSION on the line at all times — never slack; use a FINGER SPOOL (~30 m on a small disc) for shallow recreational, larger REEL with handle for deeper/longer; practice deployment in benign conditions before doing it on a working dive; stay aware of line position relative to diver and surroundings; carry TWO cutters (per mssi-sod-154); don't deploy below 6 m (line gets too long, harder to manage). (b) No evidence SMBs attract dangerous marine life — myth. (c) Modern dSMBs are durable Cordura/PVC, lifespan years not days. (d) UV does fade dSMB color over time but not a relevant operational disadvantage compared to entanglement.",
+      "source": "mySSI: SoD Lesson 4.9 Review"
+    },
+    {
+      "id": "mssi-sod-160",
+      "area": "science_of_diving",
+      "subarea": "Equipment — Accessories",
+      "question": "Alpha flag indicates divers in the water and:",
+      "options": {
+        "a": "Depths beyond recreational limits",
+        "b": "The presence of dangerous marine life",
+        "c": "Limited vessel maneuverability",
+        "d": "Fishing is prohibited in the area"
+      },
+      "correct": "c",
+      "explanation": "The ALPHA (Alfa) flag — international maritime signal flag, blue and white, swallow-tailed — means: 'I have a diver down — keep clear at slow speed.' Per the INTERNATIONAL CODE OF SIGNALS / COLREGS: a vessel displaying flag A is signaling RESTRICTED MANEUVERABILITY because divers are physically tethered to the boat (on a tag-line, descent line, or returning under the hull). Other vessels must give way and pass at a safe distance and slow speed. This is the INTERNATIONAL standard used worldwide. Distinct from the 'DIVER DOWN' FLAG — red with a white diagonal stripe — used primarily in the US, Caribbean, and some Asian regions; not international maritime law but enforced by US state regulations and dive-industry convention. Many US-based dive boats display BOTH the Alpha and Diver Down flags so foreign and domestic vessels alike recognize divers in the water. Best practice for instructors abroad: know which flag is used in your jurisdiction and carry/display both when in doubt. (a) Alpha flag has no depth meaning — depth is a planning/computer matter. (b) Dangerous marine life uses no specific flag. (d) Fishing restrictions are marked by MPA boundary buoys, signage, or local regulation — not by Alpha.",
+      "source": "mySSI: SoD Lesson 4.9 Review"
     },
     {
       "id": "personal-ait-a-001",
