@@ -2,12 +2,12 @@
   "version": "1.0",
   "generated_at": "2026-04-25",
   "note": "SSI study bank for Tomas's Instructor prep app. Each question carries a 'source' URL (Quizlet/dive-shop PDF/SSI training pages) where verbatim wording was found, OR 'compiled_from_dive_theory' for items grounded in public SSI standards and dive physics/physiology that I've authored from established theory rather than copied. Always reconcile with the current SSI Training Standards before using as definitive answers.",
-  "total": 1727,
+  "total": 1735,
   "counts_by_area": {
     "assistant_instructor": 50,
     "divemaster": 150,
     "instructor": 753,
-    "science_of_diving": 524,
+    "science_of_diving": 532,
     "open_water_diver": 100,
     "react_right": 100,
     "diver_stress_rescue": 50
@@ -12867,6 +12867,126 @@
       "correct": "c",
       "explanation": "Marine invertebrates fulfill all three roles — they are the unsung backbone of every marine ecosystem. (a) FILTERING PARTICLES FROM WATER — countless invertebrate species are filter feeders, dramatically improving water quality: SPONGES pump water through their bodies (a single sponge can filter hundreds of liters per day); BIVALVES (oysters, mussels, clams) — oyster reefs historically filtered Chesapeake Bay's entire volume in 3–4 days, now (post-collapse) it takes a year; mussels, scallops, clams all major filterers; BARNACLES sweep plankton with cirri; SEA SQUIRTS pump water through siphons; TUBE-DWELLING POLYCHAETES use feathery feeding fans (Christmas tree worms, fan worms); SEA CUCUMBERS filter sediment. (b) CLEANING + PARASITE REMOVAL — keystone services: SEA URCHINS graze algae off rocks and reefs (over-grazing produces 'urchin barrens'; under-grazing lets algae overgrow coral); CLEANER SHRIMP (Lysmata, Stenopus) set up CLEANING STATIONS where fish queue up to have parasites, dead tissue, and ectoparasites picked off — symbiotic mutualism; CRABS clean algae and detritus from coral; bristle worms scavenge dead matter. (d) NUTRIENT CYCLING — decomposers and detritivores recycle nutrients back into the food web: sea cucumbers process huge amounts of sediment redistributing nutrients; polychaetes, isopods, amphipods decompose detritus; bacteria + invertebrate scavengers complete nutrient mineralization. Without invertebrates, marine ecosystems collapse — fish are the visible top, but invertebrates do most of the actual work below.",
       "source": "mySSI: SoD Lesson 5.5 Review"
+    },
+    {
+      "id": "mssi-sod-205",
+      "area": "science_of_diving",
+      "subarea": "Environment — Marine Life",
+      "question": "Bony fish species may use which of the following feeding strategies?",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Omnivorous",
+        "c": "Carnivorous",
+        "d": "Herbivorous"
+      },
+      "correct": "a",
+      "explanation": "Bony fish (class OSTEICHTHYES, ~30,000+ species — the largest vertebrate group on Earth) display every feeding strategy known. (b) OMNIVOROUS — most reef fish (damselfish, wrasses, butterflyfish), opportunistic eaters of algae + small invertebrates + plankton; the flexible majority. (c) CARNIVOROUS — animal predators in subclasses: PISCIVOROUS / fish-eaters (groupers, barracuda, tuna, billfish, jacks, snappers); INVERTIVOROUS (triggerfish that crush mollusks, wrasses picking small crustaceans, goatfish probing sand for invertebrates); PLANKTIVOROUS (anchovies, sardines, herring filter zooplankton). (d) HERBIVOROUS — plant/algae eaters: PARROTFISH (graze coral surface algae, produce huge amounts of sand from grinding coral); SURGEONFISH / TANGS (algae grazers, key reef cleaners — without them reefs get algae overgrowth); rabbitfish, blennies, gobies. BEYOND THESE THREE, bony fish also include DETRITIVORES (catfish, mullets cleaning organic debris on bottom); PARASITE-EATERS (cleaner wrasses set up stations where larger fish queue for cleaning); SABER-TOOTHED BLENNIES that MIMIC cleaner wrasses then bite chunks off the suckered larger fish (aggressive mimicry, opposite of Batesian); FILTER FEEDERS (paddlefish, some herring) though rarer among bony fish; SYMBIOTIC FEEDERS (anemonefish/clownfish eating parasites + scraps from their anemone home); SPECIALIZED PREDATORS (anglerfish with bioluminescent lures, gulper eels with expandable mouths). The diversity of bony fish feeding strategies is a major reason they're the most ecologically successful vertebrate group on Earth.",
+      "source": "mySSI: SoD Lesson 5.6 Review"
+    },
+    {
+      "id": "mssi-sod-206",
+      "area": "science_of_diving",
+      "subarea": "Environment — Marine Life",
+      "question": "Which venomous fish are well-camouflaged and could cause serious injury?",
+      "options": {
+        "a": "Barracudas and groupers",
+        "b": "Sharks and rays",
+        "c": "Blue tang and eels",
+        "d": "Scorpionfish and stonefish"
+      },
+      "correct": "d",
+      "explanation": "Family SCORPAENIDAE — masters of marine camouflage AND venom. STONEFISH (Synanceia, including reef stonefish S. verrucosa and estuarine S. horrida) are the MOST VENOMOUS FISH IN THE WORLD. Skin texture mimics encrusted rock or coral rubble so perfectly that divers and waders step on them without seeing. 13 dorsal spines deliver venom causing excruciating pain (often described as 'the worst pain imaginable'), tissue necrosis, cardiovascular collapse, occasional fatalities. Treatment: HOT-WATER IMMERSION at 45 °C for 30–90 min (denatures heat-labile venom proteins) + stonefish antivenom for severe envenomations. SCORPIONFISH (Scorpaena and related genera): SCORPIONFISH PROPER — incredible camouflage on reef rubble, weed, and algae-covered rocks, venomous spines (less potent than stonefish but still very painful); LIONFISH (Pterois volitans, P. miles) use the OPPOSITE strategy — bright APOSEMATIC warning colors (red-white striped fan-like fins), not camouflaged but venomous; invasive in Caribbean / Atlantic from accidental Florida releases in the 1980s; DEVIL SCORPIONFISH (Inimicus) — camouflaged ambush predator. DIVER SAFETY: never put hands where you can't see (don't grip rocks/ledges), wear booties on reef walks, scan the bottom carefully before settling, watch for 'the rock that breathes'. (a) Barracudas + groupers are predators, not venomous. (b) Sharks bite (not venomous); some rays have venomous tail barbs but aren't 'well-camouflaged' in the sit-still scorpionfish sense. (c) Blue tang has a sharp caudal spine but no venom; moray eels have nasty bites but are not venomous — the lacerations get infected from oral bacteria.",
+      "source": "mySSI: SoD Lesson 5.6 Review"
+    },
+    {
+      "id": "mssi-sod-207",
+      "area": "science_of_diving",
+      "subarea": "Environment — Marine Life",
+      "question": "How can divers minimize negative interactions with marine life?",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Observe, but do not touch or bait animals",
+        "c": "Wear appropriate exposure suits and follow local regulations",
+        "d": "Move cautiously, avoid sudden movements, maintain buoyancy, and avoid covered areas"
+      },
+      "correct": "a",
+      "explanation": "All three principles cover the responsible marine-life interaction code. (b) OBSERVE but DON'T TOUCH or BAIT: don't touch — your skin oils harm coral and fish slime layers, touching stresses animals, many species are venomous (cone snails, fire coral, scorpionfish — see mssi-sod-206), some species are legally protected; don't bait/feed — alters natural behavior, creates dependency, conditions sharks/rays to associate divers with food (dangerous), introduces pollutants, harms species (bread to fish causes digestive issues). (c) APPROPRIATE EXPOSURE SUIT + LOCAL REGULATIONS: suit protects you from stings, scrapes, abrasions, and protects animals from your skin chemistry contacting their slime layer; local regs vary widely — many areas prohibit gloves to discourage touching coral, restrict night diving, ban shark feeding, require permits for protected sites; ignorance is not an excuse — research before diving. (d) CAUTIOUS MOVEMENT + GOOD BUOYANCY + AVOIDING HIDDEN AREAS: slow deliberate movement (sudden moves trigger fight/flight responses); good buoyancy keeps you off the bottom (preventing reef damage from fin kicks, knees, gear drag — bad buoyancy is the leading cause of diver-induced reef damage); avoid covered areas (don't reach blindly into holes/crevices, don't stick fingers in shells, don't grab kelp/seagrass for purchase). Other principles worth knowing: MAINTAIN RESPECTFUL DISTANCE (varies — sharks 2–3 m, mantas 3–5 m, dolphins follow their lead, never chase); NO FLASH PHOTOGRAPHY at close range with delicate species; DON'T BLOCK ESCAPE ROUTES; remove trash, don't introduce gear that could be lost on the reef.",
+      "source": "mySSI: SoD Lesson 5.6 Review"
+    },
+    {
+      "id": "mssi-sod-208",
+      "area": "science_of_diving",
+      "subarea": "Environment — Marine Life",
+      "question": "What are the three main groups of fishes?",
+      "options": {
+        "a": "Bony fishes, cartilaginous fishes, and orca",
+        "b": "Bony fishes, cartilaginous fishes, and jawless fishes",
+        "c": "Cartilaginous fishes, bony fishes, and carnivorous fishes",
+        "d": "All answers are correct"
+      },
+      "correct": "b",
+      "explanation": "Three classes of fish in modern taxonomy: (1) AGNATHA / CYCLOSTOMATA — JAWLESS fish: lampreys (parasitic, attach to host via sucker mouth, rasp blood/tissue) and hagfish (deep-sea scavengers; produce massive amounts of slime as defense). Most ancient fish lineage; ~120 surviving species; no paired fins, no jaws, cartilaginous skeleton, no true scales. (2) CHONDRICHTHYES — CARTILAGINOUS fish: sharks (~500 species), rays (manta, stingray, eagle, electric), skates, chimaeras (ratfish, ghost sharks). ~1200 species; cartilage skeleton (no bones), placoid scales (skin like sandpaper), 5–7 gill slits visible externally, internal fertilization. (3) OSTEICHTHYES — BONY fish: ~30,000 species, the largest vertebrate class. Bone skeleton, single gill cover (operculum), swim bladder for buoyancy. Two subclasses: RAY-FINNED (most living fish) + LOBE-FINNED (coelacanths, lungfish — ancestors of tetrapods). Includes everything from goldfish to tuna, all reef fish, all teleosts. (a) ORCA is a MAMMAL (cetacean) — common confusion because of 'killer WHALE' name; not a fish. (c) 'CARNIVOROUS FISH' is a FEEDING strategy (mssi-sod-205), not a taxonomic class — categories must be parallel (all feeding categories or all taxonomic categories, not mixed). (d) Wrong because (a) and (c) are wrong.",
+      "source": "mySSI: SoD Lesson 5.6 Review"
+    },
+    {
+      "id": "mssi-sod-209",
+      "area": "science_of_diving",
+      "subarea": "Environment — Marine Life",
+      "question": "What have marine birds developed for life in a marine environment?",
+      "options": {
+        "a": "Webbed feet, waterproofed feathers, adapted beaks, and salt glands",
+        "b": "Waterproofed feathers, salt glands, and fins",
+        "c": "Webbed feet, waterproofed feathers, and gills",
+        "d": "No answer is correct"
+      },
+      "correct": "a",
+      "explanation": "Marine birds evolved four key adaptations for saltwater life. (1) WEBBED FEET — skin between toes acts as a paddle for surface paddling (gulls, ducks) or underwater propulsion (penguins, cormorants). (2) WATERPROOFED FEATHERS — preening with oil from the UROPYGIAL / PREEN GLAND (at base of tail) coats feathers, sealing out water. Notable exception: CORMORANTS lack waterproofed feathers (you see them sun-drying with wings spread after fishing) — this lets them be less buoyant for deeper dives. (3) ADAPTED BEAKS — diet specialists: plunge-divers (gannets, terns) have sharp pointed beaks for spearing fish; filter feeders (flamingos, some petrels) have lamellae-filled beaks; crushers (oystercatchers) have strong beaks for shellfish; hook-tipped (gulls, albatrosses) have multi-purpose. (4) SALT GLANDS — supraorbital (above-eye) glands that secrete concentrated salt solution from drinking seawater + salty prey. Salt droplets visible at the bill tip in many seabirds (albatross, petrels, gulls). Penguins, marine iguanas, sea turtles all have analogous salt glands. Without these, marine birds would dehydrate from osmotic imbalance. Other adaptations: air-filled bones for flight (most species); counter-shading camouflage (dark above + light below); ability to drink seawater directly thanks to those salt glands. (b) Marine birds don't have FINS — penguins have FLIPPERS, which evolved from wings, not fins. (c) Birds breathe AIR with LUNGS, not gills. (d) Wrong because (a) is correct.",
+      "source": "mySSI: SoD Lesson 5.6 Review"
+    },
+    {
+      "id": "mssi-sod-210",
+      "area": "science_of_diving",
+      "subarea": "Environment — Marine Life",
+      "question": "What are the major groups of marine mammals?",
+      "options": {
+        "a": "Mustelids (sea otters) and ursidae (polar bears)",
+        "b": "Pinnipeds (seals, sea lions, and walruses) and sirenians (dugongs and manatees)",
+        "c": "All answers are correct",
+        "d": "Cetaceans (whales, dolphins, and porpoises)"
+      },
+      "correct": "c",
+      "explanation": "All three groupings include real marine mammal lineages. ~130+ marine mammal species worldwide, all SECONDARILY AQUATIC (descended from terrestrial ancestors that returned to the sea at different times). (d) CETACEANS — whales, dolphins, porpoises: MYSTICETES (baleen whales — blue, humpback, fin, minke, gray, right; filter feeders, the largest); ODONTOCETES (toothed whales — orcas, sperm whales, dolphins, porpoises, beaked whales, belugas, narwhals; predators). Fully aquatic, never come ashore; descended from artiodactyl ancestors (closest living relatives are hippos). (b) PINNIPEDS ('fin-feet') + SIRENIANS: PINNIPEDS — true seals (Phocidae), eared seals + sea lions (Otariidae), walruses (Odobenidae); hauled-out breeders, fully aquatic foragers; descended from caniform carnivores (related to bears). SIRENIANS — manatees (3 species, Atlantic basin) + dugongs (1 species, Indo-Pacific); fully aquatic HERBIVORES grazing seagrass; descended from afrotherian ancestors (closest living relatives are elephants). (a) MUSTELIDS + URSIDAE — SEMI-AQUATIC groups: SEA OTTER (Enhydra lutris) is fully marine, marine otter (Lontra felina) coastal South America; densest fur of any mammal (substitutes for blubber); POLAR BEAR (Ursus maritimus) recognized as marine mammal because of dependence on sea ice for hunting seals — ecologically marine but not fully aquatic. So (c) all answers correct.",
+      "source": "mySSI: SoD Lesson 5.6 Review"
+    },
+    {
+      "id": "mssi-sod-211",
+      "area": "science_of_diving",
+      "subarea": "Environment — Marine Life",
+      "question": "Which of the following statements about vertebrates is true?",
+      "options": {
+        "a": "They have a protective skull",
+        "b": "All answers are correct",
+        "c": "They have a complex nervous system",
+        "d": "They have a backbone"
+      },
+      "correct": "b",
+      "explanation": "All three describe defining vertebrate features. (d) BACKBONE — the namesake feature: a series of articulated VERTEBRAE forming the spinal column that protects the spinal cord. This is the single defining synapomorphy of subphylum VERTEBRATA. From hagfish (rudimentary vertebral elements) to blue whales (largest), all vertebrates share this body plan. (a) PROTECTIVE SKULL (cranium) — bony or cartilaginous structure encasing the brain. Allows large, complex brains to evolve safely. Distinguishes vertebrates from other chordates (lancelets, tunicates) which have notochord but no skull. (c) COMPLEX NERVOUS SYSTEM — centralized BRAIN + SPINAL CORD + peripheral nerves; bilaterally symmetric body plan; CEPHALIZATION (concentration of sensory organs and nervous tissue at the front end). Enables sophisticated behavior, learning, sensory processing — what makes vertebrates the dominant predators in most ecosystems. Other vertebrate features beyond this question: CLOSED CIRCULATORY SYSTEM with a chambered heart (2 chambers in fish, 3 in amphibians, 4 in birds/mammals); ENDOSKELETON of bone or cartilage (allows growth without molting); PHARYNGEAL SLITS / POUCHES (gills in aquatic; develop into ear/throat structures in terrestrial); NOTOCHORD during development (replaced by vertebral column in adults); POST-ANAL TAIL (varies in adult expression). Marine vertebrates: fish (jawless, cartilaginous, bony), reptiles (sea turtles, sea snakes, marine iguanas, saltwater crocodile), birds (penguins, seabirds), mammals (cetaceans, pinnipeds, sirenians, sea otters).",
+      "source": "mySSI: SoD Lesson 5.6 Review"
+    },
+    {
+      "id": "mssi-sod-212",
+      "area": "science_of_diving",
+      "subarea": "Environment — Marine Life",
+      "question": "What are the \"ampullae of Lorenzini\"?",
+      "options": {
+        "a": "Filter-feeding plates",
+        "b": "Stinging tentacles",
+        "c": "Sensory organs that help Chondrichthyan fishes to hunt",
+        "d": "Complex nerve nets"
+      },
+      "correct": "c",
+      "explanation": "AMPULLAE OF LORENZINI are ELECTROSENSORY ORGANS — a network of jelly-filled pores around the heads of cartilaginous fish (sharks, rays, skates, chimaeras) — that detect BIOELECTRIC FIELDS generated by living organisms. ANATOMY + FUNCTION: visible as small black dots (pores) around shark snouts and ray heads; each pore connects via a jelly-filled canal to a sensory bulb (the AMPULLA proper) lined with electroreceptor cells; the jelly conducts electric fields from surrounding water to receptors. SENSITIVITY IS EXTRAORDINARY — sharks can detect electric fields as weak as 5 NANOVOLTS PER CENTIMETER (5×10⁻⁹ V/cm) — like feeling the heartbeat of a fish from a meter away. DETECT: BIOELECTRIC SIGNALS from prey muscle contractions, heartbeats, gill movements (allows hunting prey BURIED IN SAND, rays do this routinely); EARTH'S MAGNETIC FIELD for long-distance navigation in some species; TEMPERATURE gradients (1 millikelvin sensitivity). DISCOVERY: described by Stefano LORENZINI in 1678 but their function (electroreception) wasn't understood until the 1960s. WHY THIS MATTERS FOR DIVERS: sharks can detect you in zero visibility — your heart beats, your gills move, slight muscle tremors create detectable fields. Diver gear with metal/batteries (cameras with strobes, dive computers, regulator metals in seawater) can occasionally trigger curious investigation. Shark deterrents (Sharkbanz, Shark Shield) work by overwhelming ampullae with strong electric pulses, causing the shark to turn away. (a) Filter-feeding plates = baleen in whales or gill rakers in fish, totally different. (b) Stinging tentacles = cnidarian nematocysts (mssi-sod-198/199). (d) Nerve nets = simple decentralized nervous systems in cnidarians and a few other invertebrates; ampullae are highly specialized organs, not a nerve net.",
+      "source": "mySSI: SoD Lesson 5.6 Review"
     },
     {
       "id": "personal-ait-a-001",
