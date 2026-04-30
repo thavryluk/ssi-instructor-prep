@@ -1217,17 +1217,19 @@ async function loadQuestions() {
 
 // ───────── Pool management ─────────
 
-function isAreaSelected(q) { return state.selectedAreas.has(q.area); }
+// Empty selectedAreas means the "All" chip is active → no area narrowing,
+// every area passes. Only explicit area chip selection narrows the pool.
+function isAreaSelected(q) {
+  return state.selectedAreas.size === 0 || state.selectedAreas.has(q.area);
+}
 function isExcludedByDispute(q) { return state.skipDisputed && state.disputed.has(q.id); }
 
 function passesSubareaFilter(q) {
-  // Are any subareas selected for THIS question's area?
-  const areaPrefix = q.area + ":";
-  let anyForArea = false;
-  for (const s of state.selectedSubareas) {
-    if (s.startsWith(areaPrefix)) { anyForArea = true; break; }
-  }
-  if (!anyForArea) return true; // no narrowing for this area
+  // Empty selectedSubareas (the "All" subarea chip is active) → no narrowing.
+  // Non-empty → q passes only if its own area:group key is in the selection.
+  // Click = include, don't click = exclude. Matches user mental model when
+  // "All" area chip is active and user picks specific subarea chips.
+  if (state.selectedSubareas.size === 0) return true;
   return state.selectedSubareas.has(subareaKey(q.area, subareaGroup(q)));
 }
 
