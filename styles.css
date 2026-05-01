@@ -322,6 +322,41 @@ button.hidden { display: none; }
 .dash-table tfoot td { font-weight: 600; border-top: 2px solid var(--border); border-bottom: none; }
 .dash-table .area-name { font-weight: 600; }
 
+/* Expandable area rows + per-subarea breakdown */
+.dash-table tr.dash-row-area { cursor: pointer; transition: background 0.1s; }
+.dash-table tr.dash-row-area:hover { background: rgba(74,163,255,0.06); }
+.dash-table tr.dash-row-area.expanded { background: rgba(74,163,255,0.04); }
+.dash-table tr.dash-row-area.expanded .area-name { color: var(--accent); }
+.dash-table .dash-toggle {
+  background: none; border: none; color: var(--muted);
+  font-size: 0.85rem; padding: 0 0.35rem 0 0; cursor: pointer;
+  font-family: inherit; line-height: 1;
+}
+.dash-table .dash-toggle:hover { color: var(--accent); }
+.dash-table .dash-toggle.dash-toggle-empty { cursor: default; opacity: 0.3; }
+.dash-table .dash-area-label { display: inline-block; }
+
+.dash-table tr.dash-row-sub { background: var(--bg-elev); font-size: 0.85rem; }
+.dash-table tr.dash-row-sub td { padding: 0.35rem 0.6rem; border-bottom: 1px dashed var(--border); }
+.dash-table tr.dash-row-sub:last-of-type td { border-bottom: 1px solid var(--border); }
+.dash-table tr.dash-row-sub .sub-name { color: var(--muted); padding-left: 1.6rem; }
+.dash-table tr.dash-row-sub .dash-sub-indent { color: var(--accent); margin-right: 0.3rem; opacity: 0.6; }
+.dash-table tr.dash-row-sub .num { color: var(--text); }
+
+/* Action column ("Set to drill" buttons) */
+.dash-table th.action-col { width: 9rem; }
+.dash-table td.action-cell { text-align: right; padding: 0.4rem 0.6rem; }
+.dash-table .dash-drill-btn,
+.dash-table .dash-drill-sub-btn {
+  font-size: 0.78rem;
+  padding: 0.25rem 0.6rem;
+  white-space: nowrap;
+  border-radius: 4px;
+}
+.dash-table .dash-drill-btn { font-weight: 600; }
+.dash-table .dash-drill-sub-btn { opacity: 0.85; }
+.dash-table .dash-drill-sub-btn:hover { opacity: 1; }
+
 .dash-table-wrap, .log-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
 
 .q-flags { font-size: 0.8rem; margin-top: 0.6rem; min-height: 1rem; }
@@ -491,8 +526,9 @@ input[type="text"] { flex: 1; min-width: 200px; }
 
   /* Dashboard table needs horizontal scroll on mobile */
   .dash-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 -1rem; padding: 0 1rem; }
-  .dash-table { font-size: 0.82rem; min-width: 640px; }
+  .dash-table { font-size: 0.82rem; min-width: 820px; }
   .dash-table th, .dash-table td { padding: 0.4rem 0.5rem; }
+  .dash-table .dash-drill-btn, .dash-table .dash-drill-sub-btn { font-size: 0.72rem; padding: 0.2rem 0.45rem; }
 
   /* Log table — same scroll wrapping */
   .log-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 -1rem; padding: 0 1rem; }

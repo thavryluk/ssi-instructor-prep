@@ -168,6 +168,16 @@ const I18N = {
     "dash.help.m50": "Questions \"I know this ~50%\" — only appear occasionally (10% of pool) for review.",
     "dash.help.study": "Questions marked \"📚 Study more\" — flag for later study. Doesn't affect drill picking.",
     "dash.help.disputed": "Questions you marked as wrong/disputed. In Settings you can check \"Skip disputed questions\".",
+    "dash.col_action": "",
+    "dash.set_to_drill": "Set to drill",
+    "dash.set_to_drill_title": "Set this area filter and start drilling",
+    "dash.set_to_drill_sub_title": "Set this area + subarea filter and start drilling",
+    "dash.expand_area": "Show subareas",
+    "dash.collapse_area": "Hide subareas",
+    "dash.expand_all": "Expand all",
+    "dash.collapse_all": "Collapse all",
+    "dash.subarea_indent": "↳",
+    "dash.no_subareas": "(no subareas)",
 
     // Browse
     "browse.title": "Browse questions",
@@ -496,6 +506,16 @@ const I18N = {
     "dash.help.m50": "Otázky „Znám asi na 50 %\" — chodí ti jen občas (10 % poolu) jako review.",
     "dash.help.study": "Otázky označené „📚 Studovat víc\" — flag k pozdějšímu prostudování. Neovlivňuje výběr.",
     "dash.help.disputed": "Otázky které jsi označil jako sporné/špatné. V Nastavení můžeš zaškrtnout „Přeskočit rozporované\".",
+    "dash.col_action": "",
+    "dash.set_to_drill": "Začít drillovat",
+    "dash.set_to_drill_title": "Nastavit filtr na tuto oblast a začít drillovat",
+    "dash.set_to_drill_sub_title": "Nastavit filtr na oblast + podoblast a začít drillovat",
+    "dash.expand_area": "Zobrazit podoblasti",
+    "dash.collapse_area": "Skrýt podoblasti",
+    "dash.expand_all": "Rozbalit vše",
+    "dash.collapse_all": "Sbalit vše",
+    "dash.subarea_indent": "↳",
+    "dash.no_subareas": "(bez podoblastí)",
 
     // Browse
     "browse.title": "Procházet otázky",
@@ -2077,22 +2097,101 @@ function computeAreaStats(viewState) {
   return stats;
 }
 
-function renderDashboard(viewState) {
-  const stats = computeAreaStats(viewState);
+// Per-subarea stats, keyed by subareaKey(area, group). Same shape per entry as computeAreaStats.
+// Returns { [areaKey]: [{ group, key, total, mssi, web, seen, attempts, correct, m100, m50, study, disputed }] }
+// where the array is sorted by group's English label ascending.
+function computeSubareaStats(viewState) {
   const v = viewState || {
-    mastered100: state.mastered100, mastered50: state.mastered50, disputed: state.disputed,
+    log: state.log,
+    mastered100: state.mastered100,
+    mastered50: state.mastered50,
+    disputed: state.disputed,
+    studyMore: state.studyMore,
+    resetMarks: state.resetMarks,
   };
-  const tbody = $("#dash-tbody");
-  tbody.innerHTML = "";
-  let totals = { total: 0, mssi: 0, web: 0, seen: new Set(), attempts: 0, correct: 0, m100: 0, m50: 0, study: 0, disputed: 0 };
-  for (const [key, label] of Object.entries(AREA_LABELS)) {
-    const s = stats[key];
-    const acc = s.attempts ? Math.round((s.correct / s.attempts) * 100) : null;
-    const accClass = acc === null ? "" : acc >= 80 ? "good" : acc < 60 ? "bad" : "";
-    const accText = acc === null ? "—" : `${acc}%`;
-    const tr = document.createElement("tr");
-    tr.innerHTML = `
-      <td class="area-name">${label}</td>
+  const ATTEMPT_RESULTS = new Set(["correct", "wrong", "unknown"]);
+  // sub[area][group] = stats object
+  const sub = {};
+  const ensure = (area, group) => {
+    if (!sub[area]) sub[area] = {};
+    if (!sub[area][group]) sub[area][group] = {
+      group, key: subareaKey(area, group),
+      total: 0, mssi: 0, web: 0, seen: new Set(), attempts: 0, correct: 0,
+      m100: 0, m50: 0, study: 0, disputed: 0,
+    };
+    return sub[area][group];
+  };
+  // Lock-aware: hide personal-source subareas when locked (matches buildSubareaIndex behaviour)
+  const unlocked = isPersonalUnlocked();
+  // Map qid → group for log lookups (so attempts on non-counted questions don't show up)
+  const qidToGroup = new Map();
+  for (const q of state.questions) {
+    if (!stats__exists(q.area)) continue;
+    if (!unlocked && sourceTypeKey(q) === "personal") continue;
+    const group = subareaGroup(q);
+    const s = ensure(q.area, group);
+    s.total++;
+    const stype = sourceTypeKey(q);
+    if (stype === "mssi") s.mssi++;
+    else if (stype === "web") s.web++;
+    if (v.mastered100.has(q.id)) s.m100++;
+    if (v.mastered50.has(q.id)) s.m50++;
+    if (v.studyMore.has(q.id)) s.study++;
+    if (v.disputed.has(q.id)) s.disputed++;
+    qidToGroup.set(q.id, { area: q.area, group });
+  }
+  const isActive = viewState
+    ? (e) => { const c = v.resetMarks[e.qid]; return !c || e.ts > c; }
+    : isActiveEntry;
+  for (const e of v.log) {
+    if (!ATTEMPT_RESULTS.has(e.result)) continue;
+    if (!isActive(e)) continue;
+    const ag = qidToGroup.get(e.qid);
+    if (!ag || !sub[ag.area] || !sub[ag.area][ag.group]) continue;
+    const s = sub[ag.area][ag.group];
+    s.attempts++;
+    if (e.result === "correct") s.correct++;
+    s.seen.add(e.qid);
+  }
+  // Convert each area's groups to sorted array
+  const out = {};
+  for (const area of Object.keys(sub)) {
+    out[area] = Object.values(sub[area]).sort((a, b) => a.group.localeCompare(b.group));
+  }
+  return out;
+}
+// helper: AREA_LABELS membership check (works around Proxy iteration)
+function stats__exists(area) { return AREA_LABELS_EN.hasOwnProperty(area); }
+
+// Set of area keys whose subarea breakdown is currently expanded in dashboard.
+// Not persisted — fresh on every dashboard open.
+const _dashExpandedAreas = new Set();
+
+// "Set to drill" actions: configure filters + jump to drill screen
+function setAreaToDrill(areaKey) {
+  state.selectedAreas = new Set([areaKey]);
+  state.selectedSubareas = new Set(); // clear subarea narrowing
+  saveAreas(); saveSubareas();
+  next(); // pickRandom() respects the new filters and shows quiz-screen
+}
+
+function setSubareaToDrill(areaKey, group) {
+  state.selectedAreas = new Set([areaKey]);
+  state.selectedSubareas = new Set([subareaKey(areaKey, group)]);
+  saveAreas(); saveSubareas();
+  next();
+}
+
+function _dashAreaRowHtml(areaKey, label, s, hasSubareas, expanded) {
+  const acc = s.attempts ? Math.round((s.correct / s.attempts) * 100) : null;
+  const accClass = acc === null ? "" : acc >= 80 ? "good" : acc < 60 ? "bad" : "";
+  const accText = acc === null ? "—" : `${acc}%`;
+  const caret = hasSubareas
+    ? `<button type="button" class="dash-toggle ${expanded ? "open" : ""}" data-area="${escapeHtml(areaKey)}" title="${escapeHtml(t(expanded ? "dash.collapse_area" : "dash.expand_area"))}" aria-expanded="${expanded}">${expanded ? "▾" : "▸"}</button>`
+    : `<span class="dash-toggle dash-toggle-empty" aria-hidden="true">·</span>`;
+  return `
+    <tr class="dash-row-area ${expanded ? "expanded" : ""}" data-area="${escapeHtml(areaKey)}">
+      <td class="area-name">${caret}<span class="dash-area-label">${escapeHtml(label)}</span></td>
       <td class="num">${s.total}</td>
       <td class="num good">${s.mssi}</td>
       <td class="num">${s.web}</td>
@@ -2104,8 +2203,53 @@ function renderDashboard(viewState) {
       <td class="num">${s.m50}</td>
       <td class="num">${s.study}</td>
       <td class="num">${s.disputed}</td>
-    `;
-    tbody.appendChild(tr);
+      <td class="action-cell"><button type="button" class="ghost dash-drill-btn" data-area="${escapeHtml(areaKey)}" title="${escapeHtml(t("dash.set_to_drill_title"))}">▸ ${escapeHtml(t("dash.set_to_drill"))}</button></td>
+    </tr>`;
+}
+
+function _dashSubRowHtml(areaKey, sub) {
+  const acc = sub.attempts ? Math.round((sub.correct / sub.attempts) * 100) : null;
+  const accClass = acc === null ? "" : acc >= 80 ? "good" : acc < 60 ? "bad" : "";
+  const accText = acc === null ? "—" : `${acc}%`;
+  const groupDisplay = subareaGroupDisplay(sub.group);
+  return `
+    <tr class="dash-row-sub" data-area="${escapeHtml(areaKey)}">
+      <td class="sub-name"><span class="dash-sub-indent">${escapeHtml(t("dash.subarea_indent"))}</span> ${escapeHtml(groupDisplay)}</td>
+      <td class="num">${sub.total}</td>
+      <td class="num good">${sub.mssi}</td>
+      <td class="num">${sub.web}</td>
+      <td class="num muted">${sub.total - sub.mssi - sub.web}</td>
+      <td class="num">${sub.seen.size} <span class="muted">/ ${sub.total}</span></td>
+      <td class="num">${sub.attempts}</td>
+      <td class="num ${accClass}">${accText}</td>
+      <td class="num">${sub.m100}</td>
+      <td class="num">${sub.m50}</td>
+      <td class="num">${sub.study}</td>
+      <td class="num">${sub.disputed}</td>
+      <td class="action-cell"><button type="button" class="ghost dash-drill-sub-btn" data-area="${escapeHtml(areaKey)}" data-group="${escapeHtml(sub.group)}" title="${escapeHtml(t("dash.set_to_drill_sub_title"))}">▸ ${escapeHtml(t("dash.set_to_drill"))}</button></td>
+    </tr>`;
+}
+
+function renderDashboard(viewState) {
+  const stats = computeAreaStats(viewState);
+  const subStats = computeSubareaStats(viewState);
+  const v = viewState || {
+    mastered100: state.mastered100, mastered50: state.mastered50, disputed: state.disputed,
+  };
+  const tbody = $("#dash-tbody");
+  tbody.innerHTML = "";
+  let totals = { total: 0, mssi: 0, web: 0, seen: new Set(), attempts: 0, correct: 0, m100: 0, m50: 0, study: 0, disputed: 0 };
+  const htmlParts = [];
+  for (const [key, label] of Object.entries(AREA_LABELS)) {
+    const s = stats[key];
+    const subs = subStats[key] || [];
+    const expanded = _dashExpandedAreas.has(key);
+    htmlParts.push(_dashAreaRowHtml(key, label, s, subs.length > 0, expanded));
+    if (expanded) {
+      for (const sub of subs) {
+        htmlParts.push(_dashSubRowHtml(key, sub));
+      }
+    }
     totals.total += s.total;
     totals.mssi += s.mssi;
     totals.web += s.web;
@@ -2117,6 +2261,42 @@ function renderDashboard(viewState) {
     totals.disputed += s.disputed;
     s.seen.forEach((id) => totals.seen.add(id));
   }
+  tbody.innerHTML = htmlParts.join("");
+  // Wire up event handlers (delegation would also work; per-row binding for simplicity)
+  tbody.querySelectorAll(".dash-toggle:not(.dash-toggle-empty)").forEach((btn) => {
+    btn.addEventListener("click", (ev) => {
+      ev.stopPropagation();
+      const a = btn.dataset.area;
+      if (_dashExpandedAreas.has(a)) _dashExpandedAreas.delete(a);
+      else _dashExpandedAreas.add(a);
+      renderDashboard(viewState);
+    });
+  });
+  tbody.querySelectorAll(".dash-drill-btn").forEach((btn) => {
+    btn.addEventListener("click", (ev) => {
+      ev.stopPropagation();
+      setAreaToDrill(btn.dataset.area);
+    });
+  });
+  tbody.querySelectorAll(".dash-drill-sub-btn").forEach((btn) => {
+    btn.addEventListener("click", (ev) => {
+      ev.stopPropagation();
+      setSubareaToDrill(btn.dataset.area, btn.dataset.group);
+    });
+  });
+  // Allow clicking the area row itself (outside the buttons) to toggle expansion
+  tbody.querySelectorAll(".dash-row-area").forEach((tr) => {
+    tr.addEventListener("click", (ev) => {
+      // Ignore clicks originating from buttons / interactive elements
+      if (ev.target.closest("button")) return;
+      const a = tr.dataset.area;
+      const subs = subStats[a] || [];
+      if (subs.length === 0) return;
+      if (_dashExpandedAreas.has(a)) _dashExpandedAreas.delete(a);
+      else _dashExpandedAreas.add(a);
+      renderDashboard(viewState);
+    });
+  });
   const tAcc = totals.attempts ? Math.round((totals.correct / totals.attempts) * 100) : null;
   const tAccClass = tAcc === null ? "" : tAcc >= 80 ? "good" : tAcc < 60 ? "bad" : "";
   const tAccText = tAcc === null ? "—" : `${tAcc}%`;
@@ -2135,6 +2315,7 @@ function renderDashboard(viewState) {
       <td class="num">${totals.m50}</td>
       <td class="num">${totals.study}</td>
       <td class="num">${totals.disputed}</td>
+      <td class="action-cell"></td>
     </tr>`;
 
   // Disputed list (for the viewed user)
@@ -2218,6 +2399,20 @@ function initDashboard() {
     await refreshDashUserList();
     await loadDashboardForSelectedUser();
   });
+  const expandAll = $("#btn-dash-expand-all");
+  if (expandAll) {
+    expandAll.addEventListener("click", () => {
+      for (const k of Object.keys(AREA_LABELS)) _dashExpandedAreas.add(k);
+      loadDashboardForSelectedUser();
+    });
+  }
+  const collapseAll = $("#btn-dash-collapse-all");
+  if (collapseAll) {
+    collapseAll.addEventListener("click", () => {
+      _dashExpandedAreas.clear();
+      loadDashboardForSelectedUser();
+    });
+  }
 }
 
 // ───────── Browse screen ─────────

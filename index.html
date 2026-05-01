@@ -255,6 +255,9 @@
           <select id="dash-user-select"></select>
           <button id="btn-dash-refresh" class="ghost" data-i18n="dash.refresh">↻ Refresh users</button>
           <span id="dash-viewing-as" class="muted" style="margin-left:.4rem"></span>
+          <span style="flex:1"></span>
+          <button id="btn-dash-expand-all" class="ghost" data-i18n="dash.expand_all">Expand all</button>
+          <button id="btn-dash-collapse-all" class="ghost" data-i18n="dash.collapse_all">Collapse all</button>
         </div>
         <div class="dash-table-wrap">
         <table class="dash-table">
@@ -272,6 +275,7 @@
               <th class="num" data-i18n="dash.col_50">~50%</th>
               <th class="num" data-i18n="dash.col_study">📚 Study</th>
               <th class="num" data-i18n="dash.col_disputed">Disputed</th>
+              <th class="action-col" data-i18n="dash.col_action"></th>
             </tr>
           </thead>
           <tbody id="dash-tbody"></tbody>
