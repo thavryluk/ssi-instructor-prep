@@ -1,0 +1,287 @@
+[
+  {
+    "id": "mssi-sod-189",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Které organismy tvoří zooplankton?",
+    "options": {
+      "a": "Řasy",
+      "b": "Protisté jako rozsivky a obrněnky",
+      "c": "Archea a bakterie",
+      "d": "Prvoci, vajíčka a larvy a živočichové"
+    },
+    "correct": "d",
+    "explanation": "ZOOPLANKTON = živočišný plankton — heterotrofní organismy unášené ve vodním sloupci. Složení: (1) PRVOCI — jednobuněční „živočichové“ (technicky protisté): mřížovci, dírkonošci, nálevníci, tintinidi. Drobní, ale ohromně početní. (2) VAJÍČKA A LARVY (zvané MEROPLANKTON, protože jsou planktonem jen po část života): rybí jikry a plůdek; larvy krabů/humrů zoea + megalopa; veligery měkkýšů (larvy plžů/mlžů); bipinnaria/pluteus ostnokožců (larvy hvězdic, ježovek); planula korálů (volně plovoucí mláďata korálů); trochofory mnohoštětinatců. Většina mořských živočichů má planktonní larvální stádia — mechanismus rozšiřování. (3) ŽIVOČICHOVÉ (HOLOPLANKTON, plankton po celý život): KLANONOŽCI — nejpočetnější živočichové na Zemi (~10²¹ jedinců); základ mořských potravních sítí nad fytoplanktonem; KRIL (Euphausiidae) — základ polárních potravních řetězců, požíraný velrybami, rybami, tučňáky; MEDÚZY, SALPY, ŽEBERNATKY — gelatinózní zooplankton; CHAETOGNATHA (rypoústky) — predátorský zooplankton; KŘÍDLONOŽCI („mořští motýli“) — planktonní plži; LARVACEA, kteří staví slizké domečky pro filtraci potravy. (a) Řasy = FYTOPLANKTON (rostlinný plankton), opačná kategorie. (b) Rozsivky + obrněnky = FYTOPLANKTON (fotosyntetizující protisté; některé obrněnky jsou mixotrofní, ale klasifikují se jako fyto). (c) Archea + bakterie = BAKTERIOPLANKTON / PIKOPLANKTON, samostatná kategorie.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-190",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Které z následujících jsou klíčové součásti koloběhu živin?",
+    "options": {
+      "a": "Odpad je konzumován detritivory a přeměňován na využitelné živiny",
+      "b": "Všechny odpovědi jsou správné",
+      "c": "Živiny jsou vylučovány organismy",
+      "d": "Živiny jsou konzumovány primárními producenty"
+    },
+    "correct": "b",
+    "explanation": "Všechny tři popisují klíčové fáze mořského koloběhu živin. (a) DETRITIVOŘI ROZKLÁDAJÍ ODPAD / MRTVOU HMOTU na opětovně využitelné živiny — bakterie, houby, sumýši, červi žijící v písku, sliznatky, mrchožraví krabi rozkládají organickou hmotu, MINERALIZUJÍ ji zpět na anorganické formy živin (NH₄⁺ → NO₃⁻, fosforečnany, křemičitany), které mohou producenti znovu využít. (c) ŽIVINY VYLUČOVANÉ ORGANISMY — každý živočich vylučuje odpad (močovinu, amoniak, výkaly, šupiny). Ty přímo hnojí okolní vodu; například VELRYBÍ TRUS je hlavní pumpou živin v povrchových vodách (velryby se krmí v hloubce, vyplouvají na povrch a vyměšují, čímž hnojí květy fytoplanktonu — známé jako „velrybí pumpa“). Vylučování amoniaku rybími žábrami dělá totéž v menším měřítku. (d) ŽIVINY KONZUMOVANÉ PRIMÁRNÍMI PRODUCENTY — fytoplankton přijímá rozpuštěný N, P, Si, Fe k pohonu fotosyntézy a tvorbě buněk; zde se anorganické živiny stávají organickou biomasou a koloběh začíná znovu. KOMPLETNÍ MOŘSKÝ KOLOBĚH ŽIVIN: producenti fixují živiny (CO₂ + N + P + Fe → biomasa) → konzumenti požírají producenty (přenos po potravním řetězci) → vylučování + smrt + rozklad (živiny se vracejí do rozpuštěné formy) → detritivoři + bakterie mineralizují (organické → anorganické) → opět dostupné pro producenty → koloběh uzavřen. KRITICKÉ LIMITUJÍCÍ ŽIVINY v oceánu: DUSÍK (většina pobřežních vod), FOSFOR (některé tropické), ŽELEZO (otevřený Pacifik, oblasti s vysokým obsahem živin a nízkým chlorofylem). Limitace železem je důvod, proč saharský prach hnojí květy fytoplanktonu v Atlantiku.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-191",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Který druh hraje klíčovou roli při udržování populační struktury ekosystému?",
+    "options": {
+      "a": "Klíčový druh",
+      "b": "Příchytné vlákno (holdfast)",
+      "c": "Symbiont",
+      "d": "Vrcholový predátor"
+    },
+    "correct": "a",
+    "explanation": "KLÍČOVÝ DRUH má NEPROPORCIONÁLNĚ VELKÝ vliv na svůj ekosystém vzhledem k jeho početnosti. Termín zavedl ekolog Robert Paine v roce 1969 na základě své práce s HVĚZDICÍ Pisaster ochraceus na skalnatých pobřežích Pacifiku — když Pisastera odstranil, převzaly nadvládu monokultury slávek a biodiverzita se zhroutila. Název „klíčový“ („keystone“) pochází z architektury: centrální klín kamenného oblouku — odstraňte ho a celá konstrukce se zhroutí. KLASICKÉ MOŘSKÉ PŘÍKLADY KLÍČOVÝCH DRUHŮ: VYDRY MOŘSKÉ (severní Pacifik) požírají ježovky; bez vyder se ježovky přemnoží a likvidují řasové lesy → „ježovkové pustiny“. Obnova vyder obnovila ekosystémy chaluh. PYSKOUNI/PAPOUŠČÍ RYBY (karibské útesy) spásají řasy z korálu; bez nich řasy přerůstají korály a útesy degradují. ŽRALOCI (útesové ekosystémy) zajišťují kontrolu shora dolů u středně velkých predátorů; v útesech bez žraloků se hroutí populace býložravců → převzetí řasami. HVĚZDICE (Pisaster, původní příklad) brání monokultuře slávek predací. Odlišné pojmy: (b) HOLDFAST = příchytný útvar podobný kořenům, kterým se chaluhy/řasy upevňují k podkladu, anatomický útvar, ne druh. (c) SYMBIONT = partner v symbiotickém vztahu (klauni ↔ sasanky, koráli ↔ zooxantely); nemusí být nezbytně klíčový pro ekosystém. (d) VRCHOLOVÝ PREDÁTOR = na vrcholu potravní sítě; mnoho klíčových druhů JSOU vrcholoví predátoři (vydry, žraloci), ale ne všechny klíčové druhy jsou vrcholoví predátoři (papouščí ryby jsou býložravci) a ne všichni vrcholoví predátoři jsou klíčoví — záleží, zda jejich odstranění vyvolá kaskádu skrz systém. Klíčový druh je funkce, vrcholový predátor je pozice.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-192",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Co je potravní síť?",
+    "options": {
+      "a": "Skupina konzumentů",
+      "b": "Komplexní systém propojených potravních řetězců",
+      "c": "Sled živočichů od velkých po malé",
+      "d": "Lineární sled znázorňující tok a energii živin"
+    },
+    "correct": "b",
+    "explanation": "POTRAVNÍ SÍŤ je komplexní SÍŤ PROPOJENÝCH POTRAVNÍCH ŘETĚZCŮ zobrazující všechny potravní vztahy v ekosystému. Srovnejte s POTRAVNÍM ŘETĚZCEM, který je LINEÁRNÍ posloupností: fytoplankton → zooplankton → malé ryby → větší ryby → žralok. Potravní síť je REALITA: většina organismů požírá více druhů a je požírána více predátory, takže se více potravních řetězců proplétá do sítě. Příklad karibského útesu: papouščí ryba požírá řasy + korálové polypy + bezobratlé → požírána kanici + barakudy + žraloky; barakuda požírá také olihně + menší ryby; řasy také požírány bodlokovitými + ježovkami... síť šipek, ne jediná čára. PROČ NA POTRAVNÍCH SÍTÍCH ZÁLEŽÍ: ODOLNOST — pokud jeden druh kolabuje, existují alternativní cesty pro tok energie; KASKÁDOVÉ EFEKTY — odstranění jednoho uzlu se šíří sítí (základ konceptu klíčových druhů, mssi-sod-191); TROFICKÉ ÚROVNĚ stále platí (producenti → býložravci → primární masožravci → vrcholoví masožravci → rozkladači), ale většina druhů se rozkládá přes více úrovní (všežravci, ontogenetické posuny, kdy juveniloví jedinci žerou jinak než dospělí). (a) „Skupina konzumentů“ je příliš vágní a opomíjí producenty + rozkladače. (c) Velikost neurčuje trofickou pozici — strašci požírají ryby mnohem větší než jsou sami; drobní paraziti požírají obrovské velryby. (d) LINEÁRNÍ SLED = potravní ŘETĚZEC, ne síť.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-193",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Fytoplankton je tvořen převážně:",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Prokaryoty jako bakterie a archea",
+      "c": "Protisty jako rozsivky a obrněnky",
+      "d": "Řasami"
+    },
+    "correct": "a",
+    "explanation": "FYTOPLANKTON = autotrofní mikroorganismy unášené vodou — ZASTŘEŠUJÍCÍ POJEM, který zahrnuje různorodé fotosyntetizující skupiny, všechny tři uvedené v (b–d). (b) PROKARYOTA — SINICE: PROCHLOROCOCCUS (nejmenší a nejhojnější fotosyntetizující organismus na Zemi, ~10²⁷ buněk) a SYNECHOCOCCUS společně produkují významnou část mořské primární produkce; TRICHODESMIUM je sinice fixující dusík, která v tropických mořích kvete podobně jako „rudý příliv“ (rudá barva dala Rudému moři jeho jméno). (c) PROTISTÉ — ROZSIVKY (křemičité schránky/frustuly; květy ve studených/pobřežních vodách; páteř polárních potravních sítí; produkují ~50 % mořské primární produkce); OBRNĚNKY (s bičíky, často obrněné celulózovými destičkami; některé bioluminiscenční — způsobují „mořskou jiskru“; některé tvoří toxické květy — Karenia, Alexandrium způsobují rudé přílivy; zahrnuje SYMBIODINIUM, zooxantely žijící v korálech); KOKOLITOFORIDY (destičky CaCO₃; významný přispěvatel ke křídovým ložiskům — Bílé útesy v Doveru jsou fosilie kokolitů). (d) ŘASY (široký pojem): v striktním použití „řasy“ = eukaryotičtí fotosyntetizující protisté + makroskopické řasy; jednobuněčné řasy jsou součástí fytoplanktonu; vícebuněčné chaluhy jsou bentické (ne plankton). Takže fytoplankton je zastřešující pojem, který zahrnuje prokaryotické sinice + eukaryotické řasy z protistů + další fotosyntetizující organismy unášené vodou. (a) vše správně.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-194",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Mořské trávy jsou považovány za jediné pravé mořské rostliny, protože:",
+    "options": {
+      "a": "Mohou přežít pouze plně ponořené ve vodě",
+      "b": "Nemají semena ani kořeny",
+      "c": "Jsou jediným mořským druhem s pravými kořeny, listy, stonky a květy",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "c",
+    "explanation": "MOŘSKÉ TRÁVY jsou jedinými pravými kvetoucími rostlinami (KRYTOSEMENNÝMI), které dokončí celý svůj životní cyklus PLNĚ PONOŘENÉ v mořské vodě. Mají všechny znaky suchozemských rostlin — přizpůsobené mořskému životu: PRAVÉ KOŘENY (kotví v sedimentu, přijímají živiny, stabilizují podklad); PRAVÉ STONKY (oddenky se šíří horizontálně pod zemí; vertikální výhonky podpírají listy); PRAVÉ LISTY (chlorofyl, vodivá pletiva, fotosyntéza); PRAVÉ KVĚTY (ano — mořské trávy KVETOU POD VODOU, květy jsou drobné a nenápadné, a tvoří SEMENA; opylování vodou — hydrofilie — nebo občas bezobratlými, jak ukázal nedávný výzkum). HLAVNÍ RODY MOŘSKÝCH TRAV: ZOSTERA (vlnice — mírné pásmo); THALASSIA (želví tráva — Karibik); POSIDONIA OCEANICA (Středomoří — jeden z nejdéle žijících organismů na Zemi, klonální porosty staré až 100 000 let); HALODULE, CYMODOCEA, SYRINGODIUM (tropický indo-pacifický prostor). ODLIŠNÉ OD: CHALUHY / MAKROSKOPICKÉ ŘASY (kelp, Sargassum, Ulva) — to NEJSOU rostliny, jsou to protisté; nemají pravé kořeny (mají PŘÍCHYTNÁ VLÁKNA / holdfasty), nemají květy, množí se výtrusy. MANGROVNÍKY jsou pravé kvetoucí rostliny, ale ve vodě jsou jen kořeny, kmeny/listy nad vodou — částečně suchozemské. SOLNOMILNÉ TRÁVY (Spartina) jsou pravé rostliny, ale žijí v přílivové zóně, ne plně ponořené. PROČ NA TOM ZÁLEŽÍ: mořské trávy jsou klíčové BLUE CARBON ekosystémy (obrovské sekvestrace uhlíku), prostředí pro odchov mláďat, potrava pro dugongy / kapustňáky / karetky obrovské, producenti kyslíku, stabilizátory sedimentu. (a) Pravda, jsou plně ponořené, ale není to DEFINUJÍCÍ vlastnost „pravé rostliny“. (b) Špatně — semena a kořeny MAJÍ, to je CELÝ POINT. (d) Špatně, protože (b) je nesprávné.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-195",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Maximální počet jedinců určitého druhu, který je ekosystém schopen uživit, se nazývá:",
+    "options": {
+      "a": "Abiotický faktor",
+      "b": "Diverzita",
+      "c": "Exponenciální růst",
+      "d": "Nosnost prostředí"
+    },
+    "correct": "d",
+    "explanation": "NOSNOST PROSTŘEDÍ (K) = maximální populace druhu, kterou je prostředí schopno NEOMEZENĚ udržet při dostupných zdrojích (potrava, prostředí, voda, prostor, partneři, světlo) a biotických omezeních (predátoři, nemoci, konkurenti). MODEL LOGISTICKÉHO RŮSTU popisuje dynamiku: populace roste přibližně exponenciálně, když je malá (dostatek zdrojů); rychlost růstu se ZPOMALUJE, jak se populace blíží K (zdroje vzácné); populace se STABILIZUJE na K (porodnost ≈ úmrtnost); pokud populace PŘEKROČÍ K, úmrtnost > porodnost → propad zpět dolů (populační cykly). FAKTORY URČUJÍCÍ K pro mořské druhy: DOSTUPNOST POTRAVY (býložravé ježovky limitovány řasami; populace predátorů kořistí); PROSTŘEDÍ / PROSTOR (útesové ryby limitovány hustotou úkrytů; teritorialita); TLAK PREDACE (vrcholoví predátoři limitováni konkurencí; kořist limitována predací); NEMOCI / PARAZITI (přenos závislý na hustotě); KONKURENCE (o jakýkoli omezený zdroj — partneři, místa pro hnízdění, teritorium); ABIOTICKÉ FAKTORY (teplota vody, salinita, kyslík, pH určují základní rozsah). K JE DYNAMICKÁ, ne pevná: změna klimatu mění teplotní režimy → K stoupá pro teplomilné druhy, klesá pro studenomilné; nadměrný rybolov snižuje K likvidací reprodukční populace; obnova prostředí zvyšuje K. (a) ABIOTICKÝ FAKTOR = neživá složka prostředí (teplota, salinita, pH, světlo, hloubka, proud); ovlivňuje K, ale není to stejný pojem. (b) DIVERZITA = počet druhů (bohatství) + jejich relativní abundance (vyrovnanost); jiná metrika. (c) EXPONENCIÁLNÍ RŮST = neomezená míra růstu (konstantní rychlost na jedince); OPAK dynamiky limitované nosností prostředí. Reálné populace rostou exponenciálně jen krátce, když jsou daleko pod K.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-196",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Většina kroužkovců se brání:",
+    "options": {
+      "a": "Schováváním",
+      "b": "Zahrabáváním do písku",
+      "c": "Vylučováním toxických chemikálií",
+      "d": "Změnou barvy"
+    },
+    "correct": "b",
+    "explanation": "Většina mořských KROUŽKOVCŮ (článkovaných červů) se brání ZAHRABÁVÁNÍM DO PÍSKU / SEDIMENTU nebo zatažením do ochranných trubic. Skupina mořských kroužkovců: MNOHOŠTĚTINATCI (žížalovci s chetami) jsou nejrozmanitější mořskou skupinou, ~10 000+ druhů. Patří sem vánoční stromečci (Spirobranchus), vějířky (Sabella), prachovky, ohniví červi (Hermodice), bobbit červi (Eunice aphroditois), pergamenoví červi, palolo červi, šupinatí červi. OBRANNÉ STRATEGIE podle typu kroužkovce: (1) MNOHOŠTĚTINATCI ŽIJÍCÍ V TRUBICÍCH — vánoční stromečci, vějířky, prachovky — při ohrožení se OKAMŽITĚ ZATÁHNOU do tvrdé vápenaté nebo pergamenové trubice. Barevný „pírkový“ nebo „stromečkový“ útvar je jen krmný/dýchací aparát; zbytek červa je schovaný v trubici. Dotkněte se jednoho prstem a zmizí během milisekund. (2) ZAHRABÁVAJÍCÍ MNOHOŠTĚTINATCI — bobbit červi, pískovečníci, písečné zedníky — žijí v U-tvarovaných nebo vertikálních norách v písku/bahně; při vyrušení se zatáhnou nebo zahrabou hlouběji. (3) MNOHOŠTĚTINATCI BEZ TRUBIC — některé žížalovci s chetami, ohniví červi — mají ŽAHAVÉ ŠTĚTINY (vápnité/chitinové chety), které se odlomí v kůži útočníka jako skleněné jehly; OHNIVÍ ČERVI (Hermodice carunculata) způsobují bolestivá popálení neopatrným potápěčům, štětiny se zaboří jako kaktusové trny. (4) SYMBIOTIČTÍ / KOMENZÁLNÍ mnohoštětinatci žijící s ježovkami, hadicemi, houbami — chráněni brněním hostitele. DOMINANTNÍ strategie napříč kroužkovci: zatažení do trubice nebo nory (b). (a) „Schovávání“ je příliš vágní; mechanismem je konkrétně zahrabávání nebo zatažení do trubic. (c) Někteří žížalovci s chetami mají toxické chety, ale ne většina kroužkovců. (d) Změna barvy je SPECIALITA HLAVONOŽCŮ (chobotnice, sépie, oliheň) — kroužkovci obecně postrádají chromatofory.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-197",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Některé ploštěnky se chrání napodobováním:",
+    "options": {
+      "a": "Sasanek",
+      "b": "Toxických nahožábrých",
+      "c": "Čtyřhranek",
+      "d": "Sumýšů"
+    },
+    "correct": "b",
+    "explanation": "Mořské PLOŠTĚNKY (Polycladida — Pseudoceros, Pseudobiceros atd.) často NAPODOBUJÍ TOXICKÉ NAHOŽÁBRÉ, aby odradily predátory — učebnicový příklad BATESOVSKÝCH MIMIKRY: neškodný druh se vyvinul tak, aby připomínal škodlivý, čímž získává ochranu bez metabolických nákladů na produkci skutečné obrany. PÁROVÁNÍ MIMIKRY: NAHOŽÁBŘÍ jsou toxičtí mořští plži (gastropodi), kteří uchovávají žahavé buňky, jedy z hub nebo jiné obranné chemikálie ZÍSKANÉ ze své kořisti. Jejich jasné APOSEMATICKÉ zbarvení čestně inzeruje „nežer mě, jsem jedovatý“. PLOŠTĚNKY většinou NEJSOU toxické, ale vyvinuly se tak, že vypadají úžasně podobně tvarem, barevným vzorem a pohybem — predátoři, kteří se naučili vyhýbat jasným nahožábrým, se vyhýbají i ploštěnkám. JAK JE ROZLIŠIT (trik pro potápěče/fotografy): PLOŠTĚNKY jsou extrémně tenké (max. několik mm tlusté), při plavání se vlní a třepetají jako kus látky, mají maximálně dvě „uši“ (pseudo-tykadla) vepředu, žádné žábry. NAHOŽÁBŘÍ mají tlustší tělo s viditelnými RHINOFORY (smyslová tykadla na hlavě), často trs ŽÁBRŮ na zádech a plazí se, místo aby se vlnili. Ikonické mimiky: ploštěnky Pseudobiceros napodobují nahožábré Phyllidia nebo Chromodoris; druhy Pseudoceros napodobují různě pestře zbarvené nahožábré napříč indo-pacifickou oblastí. (a) Sasanky jsou přisedlí žahavci, zcela odlišný tělní plán. (c) Čtyřhranky jsou pelagické gelatinózní predátoři, velmi odlišná morfologie. (d) Sumýši jsou klobásovití ostnokožci — ploštěnky je nepřipomínají.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-198",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Knidocyly jsou schopny:",
+    "options": {
+      "a": "Lovit kořist a vytvářet kamufláž",
+      "b": "Pohlcovat oxid uhličitý a lovit kořist",
+      "c": "Měnit barvy a vstřikovat toxiny",
+      "d": "Vstřikovat toxiny nebo lovit kořist"
+    },
+    "correct": "d",
+    "explanation": "KNIDOCYLY jsou žahavé buňky kmene Žahavců — specializované intracelulární struktury uvnitř KNIDOCYTŮ (také zvaných nematocyty), které VÝBUŠNĚ vystřelují, aby vstříkly jed nebo polapily kořist. JAK FUNGUJÍ (jeden z nejrychlejších biologických procesů, které známe): (1) knidocyt obsahuje stočenou dutou trubičku pod vysokým osmotickým tlakem; (2) CNIDOCIL — citlivá spoušť na povrchu buňky detekuje dotek / chemický podnět; (3) spoušť uvolní vnitřní tlak → stočená trubička vystřelí ven rychlostí ~5 m/s s akceleracemi přes 5 MILIONŮ g — jeden z nejrychlejších buněčných pohybů, které byly zdokumentovány, proniká tkání kořisti/útočníka; (4) toxin je vstříknut dutou trubičkou a paralyzuje kořist. FUNKCE: LOV MALÉ KOŘISTI (plankton, malé ryby, krevety — harpunování-a-paralýza); OBRANA (žahnutí útočníků, včetně potápěčů); některé typy ADHEZE (lepivé místo penetrujících). Různé specializace knidocytů: PENETRANTY (harpuna, hluboké žahnutí — Cubozoa čtyřhranky, kapusta portugalská); GLUTINANTY (lepkavé, bez penetrace); VOLVENTY (zaplétající). Závažnost žahnutí žahavců pro potápěče: sasanky (mírné svědění), většina útesových korálů (podráždění), OHNIVÝ KORÁL / HYDROZOA (palčivé žahnutí trvající hodiny), většina medúz (boláky), kapusta portugalská (silná bolest, někdy systémové účinky), čtyřhranky + IRUKANDJI syndrom (potenciálně smrtelný). (a) Kamufláž není funkce knidocylů — to dělají chromatofory nebo chování. (b) Pohlcování CO₂ není role knidocylů. (c) Změna barvy je přes chromatofory (hlavonožci), ne přes knidocyly.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-199",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Sasanky, medúzy a koráli patří do kmene:",
+    "options": {
+      "a": "Žahavci",
+      "b": "Ostnokožci",
+      "c": "Obratlovci",
+      "d": "Houbovci"
+    },
+    "correct": "a",
+    "explanation": "KMEN ŽAHAVCI („kopřivovití živočichové“ — řec. knide = kopřiva) sjednocuje sasanky, medúzy, korály, hydrozoa, ohnivé korály, hydry. DEFINUJÍCÍ ZNAKY: (1) KNIDOCYLY — eponymní žahavé buňky (mssi-sod-198); (2) RADIÁLNÍ SYMETRIE — tělo organizováno kolem centrální osy (žádné levo/pravo, jen nahoru a dolů); (3) DIPLOBLASTICKÉ — pouze dvě embryonální tkáňové vrstvy (ektoderm + endoderm; žádný mezoderm); (4) JEDINÝ TĚLNÍ OTVOR — stejný otvor slouží jako ústa i řiť (gastrovaskulární dutina); (5) DVĚ ZÁKLADNÍ TĚLNÍ FORMY, které se v mnoha životních cyklech střídají: POLYP (přisedlý, upevněný, ústy nahoru — sasanky, koráli, hydra) a MEDÚZA (volně plavající, ústy dolů — medúzy). TŘÍDY ŽAHAVCŮ: KORÁLNATCI (sasanky + tvrdé koráli + měkké koráli; pouze polypová forma, žádná medúza; největší třída); TALÍŘOVKY (pravé medúzy, dominují medúzy, velký zvon, např. talířovka ušatá Aurelia); ČTYŘHRANKY (krabicové medúzy, krychlový zvon, složité oči, smrtící toxiny, Chironex fleckeri); POLYPOVCI (hydroidi, OHNIVÝ KORÁL Millepora — vlastně polypovec navzdory názvu, kapusta portugalská jako kolonialní sifonofor, hydra); STAUROZOA (vzácné stopkaté medúzy, malé, přisedlé). (b) OSTNOKOŽCI = hvězdice, ježovky, soustředí, sumýši, hadice — radiálně symetrické (pětičetné), vodní cévní systém, ambulakrální nožky — zcela jiný kmen. (c) OBRATLOVCI = živočichové s páteří (ryby, obojživelníci, plazi, ptáci, savci) — mnohem výše ve stromu života. (d) HOUBOVCI = houby — nejjednodušší kmen živočichů, žádné pravé tkáně, žádný nervový systém, žádná symetrie, filtrátoři.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-200",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Proč jsou mořští členovci důležití pro svůj potravní řetězec?",
+    "options": {
+      "a": "Vajíčka ostrorepů jsou hlavním zdrojem potravy pro mnoho pobřežních ptáků",
+      "b": "Větší korýši jsou zdrojem potravy pro mnoho mořských živočichů",
+      "c": "Menší korýši požírají řasy, čímž umožňují slunečnímu světlu a kyslíku dostat se k rostlinám a korálům",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "d",
+    "explanation": "Všechny tři role popisují skutečné ekologické funkce mořských členovců. (a) VAJÍČKA OSTROREPŮ KRMÍ POBŘEŽNÍ PTÁKY — nejznámější příklad: JESPÁCI RUDÍ (Calidris canutus rufa) načasují svou epickou migraci z Ohňové země do Arktidy tak, aby se shodovala s masovým třením ostrorepů (Limulus polyphemus) v zálivu Delaware každé jaro. Hltají vajíčka bohatá na lipidy, aby získali palivo na posledních 3000+ km letu. Pokles ostrorepů (nadměrný odlov pro biomedicínský průmysl — jejich modrá krev se používá pro farmaceutické testy endotoxinů — a návnadové rybářství) způsobil propad populace jespáků rudých. (b) VĚTŠÍ KORÝŠI KRMÍ MOŘSKÉ ŽIVOČICHY — humři, krabi, strašci, langusty, velké krevety jsou požíráni kanici, chňapali, chobotnicemi, úhoři, žraloky, vydrami mořskými, dokonce některými mořskými ptáky. Vysokoproteinový zdroj potravy v potravním řetězci. (c) MENŠÍ KORÝŠI SPÁSAJÍ ŘASY — různonožci, stejnonožci, klanonožci, kril, lasturnatky spásají řasy a detrit; jejich spásání brání přerůstání řas, které by stínily útesy a porosty mořských trav. Různonožci na útesech jsou obzvláště důležitými „sekačkami trávníku“, udržujícími povrch korálů čistý od přerůstajících drnů řas. Spásání krilem strukturuje celé polární potravní sítě. Mořští členovci (korýši + ostrorepi) jsou TROFICKÝM ZÁKLADEM — jak kořist pro vše větší, TAK spásači/uklízeči udržující funkci ekosystému.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-201",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Jak jejich tělo roste, členovci:",
+    "options": {
+      "a": "Svlékají svůj exoskelet",
+      "b": "Rostou další nohy",
+      "c": "Spojují tělní články",
+      "d": "Mění barvy"
+    },
+    "correct": "a",
+    "explanation": "Členovci jsou opouzdřeni v tvrdém chitinovém EXOSKELETU (kutikule), který se NEMŮŽE ROZTÁHNOUT. Aby rostli, SVLÉKAJÍ SE — odhazují starý exoskelet a vytvářejí nový, větší. Proces svlékání (EKDYZE): (1) PŘED SVLÉKÁNÍM — pod starou tvrdou se tvoří nová měkká kutikula; stará kutikula se zevnitř částečně tráví; živočich přestává jíst, často se schovává. (2) EKDYZE — podél předvídatelné linie se objeví trhlina (často hřbetní); živočich se vytahuje ven (u velkých humrů to trvá hodiny). (3) PO SVLÉKÁNÍ — nová kutikula je MĚKKÁ A BLEDÁ („měkkýšová“ fáze, nejzranitelnější; „soft-shell crab“ je právě svlečený krab modrý); živočich se schovává v úkrytu. (4) TVRDNUTÍ — nová kutikula tvrdne mineralizací (uhličitan vápenatý z mořské vody) a opálením (sklerotizace), 6–48 hodin podle druhu/velikosti. (5) MEZI SVLÉKÁNÍMI — tvrdá kutikula, normální krmení až do dalšího před-svlékání. FREKVENCE: juvenilové se svlékají často (dny až týdny); dospělí pomalu (každoročně u velkých humrů; někteří dospělí krabi vydrží roky mezi svlékáními). NÁRŮST VELIKOSTI: každé svlékání obvykle přidá 10–25 % velikosti těla. ZRANITELNOST: během měkkýšové fáze žádná obrana — snadná predace, kanibalismus v zajetí, metabolicky náročné. ZAJÍMAVOSTI: rybolov krabů kamenných sklízí jen jeden klepeto, protože krab ho doroste; svlečené kožky ostrorepů jsou vyplaveny na pláže a vypadají jako mrtví krabi (ale živočich je živý jinde); humři američtí žijící 50+ let se svlékají 25+ krát a dosahují impozantních velikostí. (b) Počet nohou je PEVNÝ pro druh (krabi mají vždy 10). (c) Tělní články jsou pevné při vylíhnutí. (d) Někteří členovci mění barvu (strašci, někteří kamuflující krabi), ale změna barvy není způsobena růstem.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-202",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Jednodušší bezobratlí jsou tak zváni, protože mají:",
+    "options": {
+      "a": "Jednoduchou tělesnou stavbu bez dýchací nebo oběhové soustavy",
+      "b": "Komplexní tělesnou stavbu bez dýchací nebo oběhové soustavy",
+      "c": "Jednoduchou tělesnou stavbu s dýchací nebo oběhovou soustavou",
+      "d": "Žádné nohy"
+    },
+    "correct": "a",
+    "explanation": "„JEDNODUŠŠÍ BEZOBRATLÍ“ jsou tak nazýváni, protože mají ZÁKLADNÍ TĚLESNOU STAVBU BEZ SPECIALIZOVANÝCH DÝCHACÍCH NEBO OBĚHOVÝCH SOUSTAV — výměna plynů a distribuce živin probíhá PŘÍMOU DIFUZÍ přes povrch těla nebo přes gastrovaskulární dutinu. ZAHRNUJE: (1) HOUBOVCE (houby) — nejjednodušší ze všech živočichů, žádné orgány, žádné tkáně v striktním smyslu; voda protéká póry (ostia) do centrální dutiny (spongocoel) a ven oskulem, s límečkovými buňkami (choanocyty) filtrujícími potravu a pasivně vyměňujícími plyny. (2) ŽAHAVCE (sasanky, medúzy, koráli) — nervová síť, ale žádný centralizovaný mozek, žádné srdce, žádné krevní cévy; výměna plynů přes tenkou tělní stěnu difuzí. (3) PLOŠTĚNCE (ploštěnky) — plochý tvar maximalizuje povrch pro difuzi; žádná dýchací nebo oběhová soustava; střevo je rozvětvené, aby dodávalo živiny bez cévního systému. (4) Někteří kroužkovci a další větve raných skupin se liší. PROČ FUNGUJE BEZ DÝCHACÍ/OBĚHOVÉ SOUSTAVY: tenké tělní stěny + malé tělo + plochý nebo větvený tvar = každá buňka je dostatečně blízko povrchu, aby přímá difuze zvládla přenos O₂/CO₂ a živin. Jakmile živočichové větší a kompaktnější (měkkýši, členovci, obratlovci), tohle přestává fungovat — vyžadují specializované žábry/plíce + srdce + cévní systém. (b) „Komplexní bez soustav“ je rozpor — komplexní těla potřebují soustavy. (c) Jednoduchá těla SE soustavami si protiřečí. (d) Mnoho obratlovců nemá nohy (hadi, ryby, úhoři), takže nohy nejsou definujícím znakem komplexity těla.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-203",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Mnoho ostnokožců se chrání:",
+    "options": {
+      "a": "Změnou barev",
+      "b": "Vylučováním toxinů",
+      "c": "Klepety",
+      "d": "Zahrabáváním do písku"
+    },
+    "correct": "b",
+    "explanation": "Mnoho ostnokožců se chrání CHEMICKY — vylučováním toxinů nebo obrannými sloučeninami. (1) SUMÝŠI jsou mistry: KUVIEROVY TRUBIČKY — vnitřní lepkavá (někdy toxická) vlákna vystřelovaná z řitního otvoru při stresu, zaplétají útočníky; HOLOTHURIN / saponiny — toxické sloučeniny v tělní stěně, dostatečně koncentrované, aby zabily ryby v malém akváriu, pokud stresovaný sumýš je vypustí (proto někteří indo-pacifičtí akvaristé nikdy nedávají sumýše do nádrží s cennými rybami). (2) HVĚZDICE — trnová koruna (Acanthaster planci) má jedovaté trny způsobující silnou bolest + poškození tkáně; mnoho dalších hvězdic je toxických na chuť (chemicky odstrašuje predátory). (3) JEŽOVKY — kombinovaná obrana: trny (mechanická) + některé druhy mají JEDOVATÉ TRNY (květinová ježovka Toxopneustes pileolus má květinovité pedicelárie nesoucí toxin, ohnivá ježovka); pedicelárie (drobné klepítka mezi trny) jsou u některých také jedovaté. (4) HADICE — některé druhy autotomizují (odhazují) ramena, když jsou uchopeny (později regenerují); chemické sekrece u některých druhů. Zatímco trny (ježovky) a tuhá kůže (hvězdice) poskytují mechanickou obranu, sjednocující chemická strategie napříč kmenem je VYLUČOVÁNÍ TOXINŮ — to je odpověď. (a) Změna barvy není významná strategie ostnokožců (žádné chromatofory). (c) PEDICELÁRIE jsou drobné klepítkovité orgány na některých ostnokožcích, ale druhotné vůči toxinům + trnům. (d) Některé sumice a srdcovité ježovky se zahrabávají, ale zahrabávání není dominantní obrana ostnokožců.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-204",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Které z následujících rolí plní mořští bezobratlí v podvodním ekosystému?",
+    "options": {
+      "a": "Filtrování částic z vody",
+      "b": "Čištění řas z korálových útesů a odstraňování parazitů z ryb",
+      "c": "Všechny odpovědi jsou správné",
+      "d": "Koloběh živin"
+    },
+    "correct": "c",
+    "explanation": "Mořští bezobratlí plní všechny tři role — jsou neopěvovanou páteří každého mořského ekosystému. (a) FILTROVÁNÍ ČÁSTIC Z VODY — nesčetné druhy bezobratlých jsou filtrátoři, dramaticky zlepšující kvalitu vody: HOUBY čerpají vodu skrz svá těla (jediná houba dokáže denně přefiltrovat stovky litrů); MLŽI (ústřice, slávky, škeble) — útesy z ústřic historicky filtrovaly celý objem zálivu Chesapeake za 3–4 dny, nyní (po kolapsu) to trvá rok; slávky, hřebenatky, škeble všechno hlavní filtrátoři; SVIJONOŽCI ometají plankton tykadly; SUMKY čerpají vodu sifony; MNOHOŠTĚTINATCI ŽIJÍCÍ V TRUBICÍCH používají péřovité krmné vějíře (vánoční stromečky, vějířky); SUMÝŠI filtrují sediment. (b) ČIŠTĚNÍ + ODSTRAŇOVÁNÍ PARAZITŮ — klíčové služby: JEŽOVKY spásají řasy ze skal a útesů (přespásání produkuje „ježovkové pustiny“; nedostatečné spásání nechá řasy přerůst koráli); UKLÍZECÍ KREVETY (Lysmata, Stenopus) zřizují ČISTÍCÍ STANICE, kde se ryby řadí, aby z nich byli odstraněni paraziti, mrtvá tkáň a ektoparaziti — symbiotická vzájemnost; KRABI čistí řasy a detrit z korálu; žížalovci s chetami požírají mrtvou hmotu. (d) KOLOBĚH ŽIVIN — rozkladači a detritivoři recyklují živiny zpět do potravní sítě: sumýši zpracovávají obrovské množství sedimentu a redistribuují živiny; mnohoštětinatci, stejnonožci, různonožci rozkládají detrit; bakterie + mrchožraví bezobratlí dokončují mineralizaci živin. Bez bezobratlých se mořské ekosystémy hroutí — ryby jsou viditelným vrcholem, ale bezobratlí dělají většinu skutečné práce dole.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-205",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Druhy kostnatých ryb mohou používat které z následujících strategií krmení?",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Všežravost",
+      "c": "Masožravost",
+      "d": "Býložravost"
+    },
+    "correct": "a",
+    "explanation": "Kostnaté ryby (třída OSTEICHTHYES, ~30 000+ druhů — největší skupina obratlovců na Zemi) projevují všechny známé strategie krmení. (b) VŠEŽRAVOST — většina útesových ryb (sapínovití, pyskounovití, peruťnokorýšovití), oportunistickí jedlíci řas + drobných bezobratlých + planktonu; flexibilní většina. (c) MASOŽRAVOST — živočišní predátoři v podskupinách: PISCIVOROVÉ / požírači ryb (kanici, barakudy, tuňáci, mečouni, kranasi, chňapali); INVERTIVOROVÉ (spouštěči drtící měkkýše, pyskouni sbírající drobné korýše, parmovití prozkoumávající písek pro bezobratlé); PLANKTIVOROVÉ (sardele, sardinky, sleď filtrují zooplankton). (d) BÝLOŽRAVOST — pojídači rostlin/řas: PAPOUŠČÍ RYBY (spásají řasy z povrchu korálu, produkují obrovské množství písku z mletí korálu); BODLOKOVITÍ / TANGS (pojídači řas, klíčoví uklízeči útesů — bez nich útesy přerůstají řasami); pyskouni, slizouni, hlaváči. KROMĚ TĚCHTO TŘÍ kostnaté ryby zahrnují také DETRITIVORY (sumci, cípalovití čistící organické zbytky na dně); POŽÍRAČE PARAZITŮ (uklízecí pyskouni zřizují stanice, kde se větší ryby řadí na čištění); ŠAVLOZUBÉ SLIZOUNY, kteří NAPODOBUJÍ uklízecí pyskouny a pak ukousávají kousky z přisátých větších ryb (agresivní mimikry, opak Batesovských); FILTRÁTORY (jeseterci, někteří sledi), i když u kostnatých ryb vzácněji; SYMBIOTICKÉ JEDLÍKY (klauni požírající parazity + zbytky ze své sasankové domácnosti); SPECIALIZOVANÉ PREDÁTORY (ďasovité s bioluminiscenčními návnadami, kapustňákovití úhořovití s roztažitelnými ústy). Rozmanitost krmných strategií kostnatých ryb je hlavním důvodem, proč jsou ekologicky nejúspěšnější skupinou obratlovců na Zemi.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-206",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Které jedovaté ryby jsou dobře maskované a mohou způsobit vážné zranění?",
+    "options": {
+      "a": "Barakudy a kanici",
+      "b": "Žraloci a rejnoci",
+      "c": "Bodlok modrý a úhoři",
+      "d": "Ropušnice a kamenice"
+    },
+    "correct": "d",
+    "explanation": "Čeleď SCORPAENIDAE — mistři mořské kamufláže A jedu. KAMENICE (Synanceia, včetně kamenice útesové S. verrucosa a kamenice ústí řek S. horrida) jsou NEJJEDOVATĚJŠÍ RYBY NA SVĚTĚ. Textura kůže napodobuje obrostlou skálu nebo korálovou drť tak dokonale, že potápěči a brodící je šlapou, aniž by je viděli. 13 hřbetních ostnů vstřikuje jed způsobující nesnesitelnou bolest (často popisovanou jako „nejhorší bolest, jakou si lze představit“), nekrózu tkáně, kardiovaskulární kolaps, občas úmrtí. Léčba: PONOŘENÍ DO HORKÉ VODY na 45 °C po dobu 30–90 min (denaturuje termolabilní bílkoviny jedu) + antisérum proti kamenici u těžkých otrav. ROPUŠNICE (Scorpaena a příbuzné rody): VLASTNÍ ROPUŠNICE — neuvěřitelná kamufláž na korálové drti, řasách a skalách porostlých řasami, jedovaté ostny (méně silné než u kamenice, ale stále velmi bolestivé); PERUTÝNI (Pterois volitans, P. miles) používají OPAČNOU strategii — jasné APOSEMATICKÉ varovné barvy (červeno-bílé pruhované vějířové ploutve), nejsou maskováni, ale jedovatí; invazivní v Karibiku / Atlantiku z náhodných vypouštění z Floridy v 80. letech; ĎÁBELSKÉ ROPUŠNICE (Inimicus) — maskovaný čekající predátor. BEZPEČNOST POTÁPĚČŮ: nikdy nedávejte ruce tam, kam nevidíte (nedržte se skal/převisů), noste boty na chůzi po útesu, pečlivě prohlížejte dno, než si sednete, hledejte „skálu, která dýchá“. (a) Barakudy + kanici jsou predátoři, ne jedovatí. (b) Žraloci kousnou (nejsou jedovatí); někteří rejnoci mají jedovaté trny na ocase, ale nejsou „dobře maskovaní“ v sednoucím smyslu jako ropušnice. (c) Bodlok modrý má ostrý ostnitý paprsek na ocasní ploutvi, ale žádný jed; muréna má nepříjemné kousnutí, ale není jedovatá — tržné rány se infikují z bakterií v ústech.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-207",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Jak mohou potápěči minimalizovat negativní interakce s mořským životem?",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Pozorovat, ale nedotýkat se ani nelákat živočichy návnadou",
+      "c": "Nosit vhodné ochranné obleky a dodržovat místní předpisy",
+      "d": "Pohybovat se opatrně, vyhýbat se náhlým pohybům, udržovat vztlak a vyhýbat se zakrytým prostorám"
+    },
+    "correct": "a",
+    "explanation": "Všechny tři principy pokrývají kodex zodpovědné interakce s mořským životem. (b) POZORUJTE, ale NEDOTÝKEJTE SE ani NELÁKEJTE NÁVNADOU: nedotýkejte se — kožní oleje poškozují korály a slizovou vrstvu ryb, dotyk stresuje živočichy, mnoho druhů je jedovatých (zavinutkovití, ohnivý korál, ropušnice — viz mssi-sod-206), některé druhy jsou zákonem chráněné; nelákejte/nekrmte — mění to přirozené chování, vytváří závislost, podmiňuje žraloky/rejnoky, aby si potápěče spojovali s potravou (nebezpečné), zavádí znečištění, škodí druhům (chléb rybám způsobuje zažívací potíže). (c) VHODNÝ OCHRANNÝ OBLEK + MÍSTNÍ PŘEDPISY: oblek vás chrání před žahnutím, odřeninami, oděrkami a chrání živočichy před chemií vaší kůže v kontaktu s jejich slizovou vrstvou; místní předpisy se velmi liší — mnoho oblastí zakazuje rukavice, aby odrazovaly od dotyku korálu, omezuje noční potápění, zakazuje krmení žraloků, vyžaduje povolení pro chráněné lokality; neznalost není výmluvou — informujte se před potápěním. (d) OPATRNÝ POHYB + DOBRÝ VZTLAK + VYHÝBÁNÍ SE SKRYTÝM PROSTORÁM: pomalý uvážlivý pohyb (náhlé pohyby spouští reakce útok/útěk); dobrý vztlak vás drží mimo dno (zabraňuje poškození útesu kopáním ploutvemi, koleny, taháním výstroje — špatný vztlak je hlavní příčinou poškození útesu způsobeného potápěči); vyhýbejte se skrytým prostorám (nesahejte naslepo do děr/štěrbin, nestrkejte prsty do mušlí, nechytejte se chaluh/mořských trav pro oporu). Další principy, které stojí za to znát: UDRŽUJTE UCTIVÝ ODSTUP (liší se — žraloci 2–3 m, manty 3–5 m, delfíni následujte jejich vedení, nikdy je nepronásledujte); ŽÁDNÉ FOTOGRAFOVÁNÍ S BLESKEM zblízka u citlivých druhů; NEBLOKUJTE ÚNIKOVÉ CESTY; odstraňte odpadky, nezavádějte výstroj, kterou by bylo možné ztratit na útesu.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  }
+]

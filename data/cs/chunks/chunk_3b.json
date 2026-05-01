@@ -1,0 +1,317 @@
+[
+  {
+    "id": "mssi-sod-168",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "What are some habitats found in coastal waters?",
+    "options": {
+      "a": "Rocky shores, salt flats, and desert dunes",
+      "b": "Coral reefs, mangrove forests, and kelp forests",
+      "c": "Rocky shores, coral reefs, sandy bottoms, and seagrass areas",
+      "d": "Mountain ranges, coral reefs, and mangrove forests"
+    },
+    "correct": "c",
+    "explanation": "Major coastal / nearshore habitats divers encounter: ROCKY SHORES — wave-pounded coasts with hard substrate (basalt, granite, limestone), hosts barnacles, mussels, sea stars, urchins, kelp at lower zones, anemones, octopus, crabs. Mediterranean, Pacific Northwest, North Atlantic, South Africa. CORAL REEFS — tropical, warm-water, low-nutrient; stony coral builders + soft corals + huge fish diversity. Caribbean, Indo-Pacific, Red Sea, Maldives, Australia, Coral Triangle. SANDY BOTTOMS — apparently empty but rich in sediment infauna: rays, flatfish, garden eels, sand divers, eel-tail catfish, conch, burrowing crabs, mantis shrimp. SEAGRASS AREAS — submerged grass beds (true flowering plants — Zostera, Thalassia, Posidonia — NOT seaweed). Critical nursery habitat for juvenile fish, dugong/manatee grazing, sea turtle feeding, seahorse refuge — often overlooked but ecologically vital. Other coastal habitats not in this answer but worth knowing: MANGROVE FORESTS (tropical brackish-water trees with prop roots — fish nurseries, mudskippers, crocodiles); KELP FORESTS (temperate giant brown algae — Macrocystis, Nereocystis — Pacific coast US/Mexico, Tasmania, South Africa, Argentina; otters, garibaldi, leopard sharks); ESTUARIES / SALT MARSHES (where freshwater meets sea; oyster beds, fiddler crabs, juvenile fish). (a) DESERT DUNES = terrestrial, not coastal habitats. (b) All three (coral + mangrove + kelp) ARE coastal habitats but answer is less comprehensive than (c) — and misses rocky/sandy bottom which are foundational. (d) MOUNTAIN RANGES = terrestrial.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-169",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "Why are estuaries considered important marine habitats?",
+    "options": {
+      "a": "They are nutrient-rich and contain important food sources",
+      "b": "They are always fully submerged and never experience changes in salinity",
+      "c": "They have extremely high salinity, making them suitable for deep-sea fish",
+      "d": "They are cold-water environments where few species can survive"
+    },
+    "correct": "a",
+    "explanation": "Estuaries are among the most biologically productive ecosystems on Earth, often called CRADLES OF THE SEA or NATURE'S NURSERIES. What makes them so rich: (1) NUTRIENT INPUTS — rivers continuously deliver nitrogen, phosphorus, organic matter, sediment from the watershed. (2) TIDAL MIXING — twice-daily tides churn nutrients up from sediment, distributing them through the water column → fuels phytoplankton bloom → fuels everything else. (3) VARIABLE SALINITY — brackish gradient from fresh (river end) to seawater (ocean end) creates zonation, each band with specialist species. (4) SHELTERED GEOGRAPHY — typically protected bays, deltas, lagoons, fjords → calm conditions favor juvenile survival. (5) ABUNDANT PRIMARY PRODUCTION — phytoplankton, salt-marsh grasses, mangroves, eelgrass, all building a detritus food web that supports juveniles. CRITICAL ECOLOGICAL ROLES: ~70% of commercially-important fish species spend part of their life cycle in estuaries (salmon, striped bass, flounder, blue crab, shrimp); millions of migratory waterbirds stage and feed; oyster beds and salt marshes filter watershed pollution; SALT MARSHES + MANGROVES are major BLUE CARBON sinks. Famous examples: Chesapeake Bay, San Francisco Bay, Sundarbans, Amazon Delta, Wadden Sea, Cape Cod marshes. (b) Estuaries are DEFINED BY salinity variation (0–35 ppt across tide cycles + rainfall); intertidal mudflats are NOT always submerged — they're an essential estuarine feature. (c) Estuaries have LOW / brackish salinity, not high; deep-sea fish don't live there. (d) Many estuaries are warm (Florida, Mexico, tropics) and species-rich.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-170",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "Factors that affect the width and force of the surf zone include:",
+    "options": {
+      "a": "The Coriolis effect and Earth's magnetic field",
+      "b": "Tidal water levels and weather conditions",
+      "c": "The density of seawater versus freshwater",
+      "d": "The presence of bioluminescent organisms"
+    },
+    "correct": "b",
+    "explanation": "Surf-zone width and force vary with two dominant factors. (1) TIDAL WATER LEVELS — at HIGH TIDE the surf zone is pushed shoreward, often narrower right at the beach edge or against a sea wall; at LOW TIDE the zone moves seaward, sometimes exposing wide flat beach with waves breaking 50+ m offshore. The tidal range (spring vs neap) shifts how dramatically this changes through the day; spring tides (full/new moon) maximize range. (2) WEATHER CONDITIONS — WIND DIRECTION: onshore wind builds bigger, choppier waves at the surf zone; OFFSHORE wind flattens incoming wave faces (clean conditions, surfers' and divers' favorite). WIND SPEED: higher = more wave energy = bigger, more violent surf. SWELL DIRECTION + HEIGHT: long-period ocean swells from distant storms can produce massive surf even on calm-wind days locally. STORM SURGE: cyclones / hurricanes raise water level and amplify surf for hours to days. Other factors not listed but real: BOTTOM SLOPE / PROFILE (gradual = wide zone with multiple break lines; steep = narrow zone with single shore-break); reef / sandbar geometry concentrates or disperses wave energy; submarine canyons focus swell. (a) CORIOLIS operates at synoptic scale (storms, ocean gyres) — irrelevant at surf-zone scale; magnetic field doesn't influence waves. (c) Seawater density is only ~3% greater than fresh — negligible for wave-breaking dynamics. (d) Bioluminescent organisms don't affect wave physics.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-171",
+    "area": "science_of_diving",
+    "subarea": "Environment — Conservation",
+    "question": "What is the main cause of ocean acidification?",
+    "options": {
+      "a": "Excess oxygen dissolving into seawater",
+      "b": "Melting sea ice releasing organic carbon",
+      "c": "Increased concentrations of dissolved carbon dioxide",
+      "d": "Increased nitrogen runoff from rivers"
+    },
+    "correct": "c",
+    "explanation": "OCEAN ACIDIFICATION is the systematic drop in seawater pH driven by atmospheric CO₂ dissolving into the ocean. Chemistry: (1) CO₂ (atmosphere) → CO₂ (dissolved) — gas exchange at sea surface, especially in cold polar waters that absorb CO₂ more readily. (2) CO₂ + H₂O ⇌ H₂CO₃ (carbonic acid). (3) H₂CO₃ ⇌ H⁺ + HCO₃⁻ — releases free hydrogen ions. (4) More H⁺ = lower pH = more acidic (pH is the negative log of [H⁺]). NUMBERS: atmospheric CO₂ rose from ~280 ppm (pre-industrial) to ~425 ppm (2024), still climbing ~2.5 ppm/year. Ocean pH fell from 8.2 to 8.1 — a 0.1-unit drop equals roughly 30% MORE H⁺ because the scale is logarithmic. The ocean has absorbed ~30% of all anthropogenic CO₂ emitted since 1850 — buffering atmospheric warming but at the cost of marine chemistry. WHY CATASTROPHIC for marine life: as H⁺ rises, it reacts with carbonate (CO₃²⁻) to form HCO₃⁻ → less CO₃²⁻ available for organisms that build CaCO₃ shells/skeletons (corals, mollusks, pteropods, foraminifera, coralline algae). The ARAGONITE SATURATION HORIZON is rising toward the surface — below it, the aragonite form of CaCO₃ actively DISSOLVES rather than building. Real-world impacts: weakened coral skeletons, slower coral growth, shellfish larvae fail to develop shells (Pacific NW oyster industry hit), pteropod shells dissolving in Arctic waters. Combined with ocean warming + bleaching, ocean acidification is the existential 21st-century threat to coral reefs. (a) Oxygen doesn't acidify water. (b) Ice melt produces fresh water, doesn't carry significant carbon — the issue is atmospheric CO₂ uptake. (d) Nitrogen runoff causes EUTROPHICATION / DEAD ZONES (a separate serious problem), not acidification.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-172",
+    "area": "science_of_diving",
+    "subarea": "Environment — Conservation",
+    "question": "In marine organisms, organic carbon:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Is used to form calcium carbonate skeletons and shells",
+      "c": "Is converted back into carbon dioxide during respiration and decomposition",
+      "d": "Is used for growth and reproduction"
+    },
+    "correct": "a",
+    "explanation": "All three describe how marine organisms process carbon (per SSI's framing of 'organic carbon' broadly as 'biologically-processed carbon'). (b) FORMING CALCIUM CARBONATE SKELETONS AND SHELLS — corals, mollusks, foraminifera, pteropods, echinoderms, coralline algae all build CaCO₃ structures from dissolved carbonate / bicarbonate ions. Technical note: strictly speaking CaCO₃ is INORGANIC carbon (built from HCO₃⁻ and CO₃²⁻ in seawater, not from organic compounds with C-H bonds). The SSI textbook lumps it together with the broader 'carbon utilization' theme. (c) CONVERTED BACK TO CO₂ during respiration and decomposition — every breath of every animal returns CO₂ to the water; bacteria decomposing dead tissue mineralize carbon back to CO₂; closes the marine carbon cycle. (d) GROWTH AND REPRODUCTION — organic carbon (in carbohydrates, proteins, lipids, nucleic acids) is the literal building block of all biomass. Growth = adding carbon to tissue; reproduction = producing offspring built from carbon. The full marine carbon cycle in one sentence: phytoplankton fix dissolved CO₂ via photosynthesis (organic carbon) → eaten by zooplankton → up the food chain → soft tissue + shells/skeletons; respiration releases CO₂ back; dead organisms sink as MARINE SNOW and either decompose (CO₂ recycled) or sequester carbon to deep sediments (the BIOLOGICAL PUMP — long-term storage). Calcifying organisms add a parallel inorganic-carbon (CaCO₃) flux to deep sediments.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-173",
+    "area": "science_of_diving",
+    "subarea": "Environment — Conservation",
+    "question": "Plants and phytoplankton use carbon dioxide to:",
+    "options": {
+      "a": "Generate bubbles during photosynthesis",
+      "b": "Produce energy and release oxygen during photosynthesis",
+      "c": "Decrease water salinity",
+      "d": "Kill bacteria during chemosynthesis"
+    },
+    "correct": "b",
+    "explanation": "Photosynthesis fundamental equation: 6 CO₂ + 6 H₂O + light energy → C₆H₁₂O₆ (glucose) + 6 O₂. What happens: LIGHT ENERGY is captured by CHLOROPHYLL and accessory pigments and drives the endothermic reaction. CO₂ is the carbon source — pulled from the atmosphere (terrestrial plants) or dissolved in seawater (phytoplankton, seaweeds, seagrasses). H₂O provides hydrogen and electrons; oxygen atoms come out as O₂ byproduct. GLUCOSE (organic carbon) is the energy / biomass product, fueling metabolism, growth, reproduction. MARINE IMPLICATIONS: phytoplankton produce ~50% of Earth's atmospheric oxygen — every other breath you take comes from marine photosynthesis. Phytoplankton form the base of nearly every marine food web. They drive the BIOLOGICAL PUMP — fix CO₂ at surface → some sinks as marine snow → long-term carbon sequestration in deep ocean (a major buffer against atmospheric CO₂ rise). (a) Bubbles are sometimes visible from photosynthesizing seaweed/seagrass but aren't the FUNCTION — they're a side effect of O₂ release exceeding water's solubility limit on a sunny day. (c) Photosynthesis doesn't change salinity. (d) CHEMOSYNTHESIS is a totally separate process — bacteria at hydrothermal vents and cold seeps use chemical energy (oxidizing H₂S, methane, hydrogen, ammonia) instead of light to fix carbon; doesn't involve photosynthesis pathway, and the chemosynthetic bacteria are themselves the primary producers (not 'killing' bacteria, ARE the bacteria).",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-174",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Properties",
+    "question": "Salt concentration decreases in regions affected by:",
+    "options": {
+      "a": "High rainfall",
+      "b": "Low evaporation",
+      "c": "Ice melt",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three are freshwater inputs that dilute seawater. (a) HIGH RAINFALL — pure freshwater (~0 ppt salinity) precipitating into the ocean dilutes surface waters; tropical rain belts and monsoon regions show seasonal salinity dips. (b) LOW EVAPORATION — when surface evaporation is suppressed (cool weather, calm conditions, cloudy skies), salt isn't being concentrated; salinity stays stable or drops with any freshwater input. (c) ICE MELT — sea ice formation excludes most salt as it freezes (the salt stays in the surrounding water as 'BRINE REJECTION'). When that ice melts, almost-pure freshwater dilutes the surrounding ocean. Major effect at high latitudes; Arctic Ocean has notably lower surface salinity (~30 ppt vs global average ~35 ppt) due to massive ice melt + river runoff combined. Other dilution sources not in this question: river discharge (the Amazon plume reduces Atlantic salinity for hundreds of km offshore), groundwater seepage, glacial runoff. Salinity is rarely uniform — surface waters in different regions can range from ~30 ppt (heavily diluted) to ~40+ ppt (concentrated by evaporation, see mssi-sod-175).",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-175",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Properties",
+    "question": "Salinity increases in regions affected by:",
+    "options": {
+      "a": "High rainfall and low evaporation",
+      "b": "Especially salty rocks",
+      "c": "Ice melt",
+      "d": "Low rainfall and high evaporation"
+    },
+    "correct": "d",
+    "explanation": "Salinity rises when there's NET water LOSS from a region: HIGH EVAPORATION removes pure water → salt left behind → concentration rises (hot, dry, sunny, windy conditions maximize this). LOW RAINFALL means no freshwater input to offset the evaporation loss → no dilution. Real-world high-salinity hotspots: RED SEA ~38–41 ppt (vs global average ~35 ppt) — high evap, no major rivers, semi-enclosed; MEDITERRANEAN ~38–39 ppt — same dynamic; PERSIAN / ARABIAN GULF ~37–42 ppt — extreme evaporation in shallow basin; DEAD SEA ~340 ppt (10× normal seawater, terminal lake — water flows in, only evaporates out, salt accumulates over millennia). For divers: high-salinity water = HIGHER DENSITY = MORE BUOYANCY = need more lead. A 7 mm wetsuit diver will need ~1–2 kg more weight in the Red Sea than the Caribbean. (a) OPPOSITE — high rain + low evap = DECREASE in salinity. (b) Rocks contribute salt only via long-term geological weathering, not relevant to local salinity gradients. (c) Ice melt = freshwater input = DECREASE in salinity.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-176",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Properties",
+    "question": "What may divers experience if they pass through a halocline?",
+    "options": {
+      "a": "Difficulty breathing",
+      "b": "A feeling of cold",
+      "c": "Visual distortion",
+      "d": "A feeling of warmth"
+    },
+    "correct": "c",
+    "explanation": "A HALOCLINE is a sharp boundary where salinity changes rapidly with depth (or laterally). Diving across one produces a striking optical effect: VISUAL DISTORTION — water looks shimmering, blurry, oily, like swimming through gasoline or reading through wet glass. WHY: different salinities = different densities = different REFRACTIVE INDICES; light bends as it crosses the boundary, producing wavering refraction. Mixing the two layers (with kicks or bubbles) creates visible SCHLIEREN patterns as the differing-density water swirls together. Most famous halocline dives: CENOTES in the Yucatán Peninsula — freshwater layer floats on top of saltwater layer (fresh is less dense), forming a halocline at ~10–15 m depth. Crossing the boundary you go from clear fresh into clear salt, but the boundary itself looks like a 'river of stars' shimmer. Famous sites: ANGELITA (with a deeper H₂S sulfur cloud at the second hydrocline), CARWASH, DOS OJOS, PET CEMETERY. Other halocline locations: anchialine pools (Hawaii, Bahamas), some fjords where rivers meet seawater, the Black Sea above its anoxic deep layer. PRACTICAL DIVER EFFECTS: BUOYANCY SHIFTS at the boundary — crossing from less salty into saltier water adds lift (more dense water = more buoyancy on you); reverse for the other direction. Halocline often coincides with a temperature change too (haloclines + thermoclines often layered together). (a) Breathing is unaffected — gas physics doesn't care about water salinity. (b) COLD feeling = THERMOCLINE (temperature boundary), separate phenomenon. (d) Warm feeling = also a thermocline, opposite direction.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-177",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "At which Beaufort Scale level do strong surface currents significantly increase the risks for divers?",
+    "options": {
+      "a": "6, strong breeze",
+      "b": "3, light breeze",
+      "c": "4, moderate breeze",
+      "d": "5, fresh breeze"
+    },
+    "correct": "d",
+    "explanation": "BEAUFORT 5 (FRESH BREEZE, 29–38 km/h winds) is the typical threshold where conditions degrade significantly for diving. At this level: waves 1–2 m, many whitecaps, spray; surface chop makes boat boarding/exiting hazardous (slamming against the ladder); surface currents noticeably stronger; surface swims become exhausting; navigation harder; visibility can drop as wind churns sediment near shore; boat handling difficult — captains may struggle to hold position over a site. Most dive operators set their go/no-go threshold around Beaufort 4–5 depending on site exposure; for instructor classes with new students, anything beyond Beaufort 3 is questionable. Quick reference: 0 calm (perfect); 1 light air (excellent); 2 light breeze (good); 3 gentle breeze (acceptable, scattered whitecaps); 4 moderate breeze (frequent whitecaps, 1 m waves, manageable); 5 fresh breeze (THIS — significant risk threshold); 6 strong breeze 2–3 m waves (most ops cancel); 7 near gale (no diving). The shift between Beaufort 4 and 5 is where boat ops and divers consistently report 'this just got hard' — that's the SSI threshold to remember. (a) BEAUFORT 6 is even more dangerous, but the SSI text identifies 5 as the threshold where risk significantly increases. (b) BEAUFORT 3 is mild. (c) BEAUFORT 4 is the upper limit of comfortable diving for most.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-178",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "How can high- and low-pressure weather systems affect ocean conditions?",
+    "options": {
+      "a": "Low-pressure systems can contribute to poor water visibility",
+      "b": "High-pressure systems bring calm, stable conditions with lower wave activity",
+      "c": "All answers are correct",
+      "d": "Low-pressure systems bring unstable conditions with increased winds and rain"
+    },
+    "correct": "c",
+    "explanation": "All three describe real weather-pressure effects on dive conditions. (a) LOW-PRESSURE SYSTEMS → poor water visibility through several mechanisms: storm waves churn up sediment from the bottom; rain runoff carries silt and nutrients from coastal watersheds into nearshore waters; reduced sunlight from cloud cover dims underwater visibility; plankton blooms triggered by nutrient pulses post-storm; turbulent surface mixing redistributes deep silty water to the surface. (b) HIGH-PRESSURE SYSTEMS → calm, stable conditions, lower wave activity — anticyclones bring fair weather, light winds, sinking air aloft (which suppresses cloud formation), clear skies. The best diving windows are typically during extended high-pressure ridges that 'park' over a region for several days, letting waves settle and visibility improve. (d) LOW-PRESSURE SYSTEMS → unstable, increased winds and rain — cyclones (depressions) bring rising air, instability, storms, frontal passages, precipitation. Tropical cyclones (hurricanes/typhoons) are the extreme. For dive planning: watch the synoptic chart before a trip. Approaching low pressure = wind picking up + waves building over 12–24 hours; approaching high = conditions improving. Most operators check NOAA / GFS / ECMWF forecast 3–5 days out and time trips to 'high-pressure window' weather.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-179",
+    "area": "science_of_diving",
+    "subarea": "Environment — Conservation",
+    "question": "How does increased ocean acidity impact marine life?",
+    "options": {
+      "a": "It reduces salinity, making water less dense",
+      "b": "It increases the solubility of calcium carbonate shells and skeletons",
+      "c": "It causes rapid warming of deep-sea ecosystems",
+      "d": "It increases oxygen availability in the water"
+    },
+    "correct": "b",
+    "explanation": "Increased acidity = lower pH = more H⁺ ions; these react with carbonate (CO₃²⁻) to form bicarbonate (HCO₃⁻), shifting the carbonate equilibrium so that CaCO₃ shells/skeletons DISSOLVE MORE READILY (= 'increased solubility'). Counterintuitive phrasing but chemically precise: more H⁺ consumes free CO₃²⁻ → less CO₃²⁻ left in seawater → equilibrium of CaCO₃ ⇌ Ca²⁺ + CO₃²⁻ shifts → MORE CaCO₃ dissolves to replenish the consumed carbonate. Below the ARAGONITE SATURATION HORIZON (which is rising as acidification proceeds), aragonite-form CaCO₃ actively dissolves rather than building. PRACTICAL IMPACTS on marine life: CORAL SKELETONS weaken (slower calcification, more porous structures, reduced rigidity); SHELLFISH LARVAE can't successfully build initial shells in increasingly acidic water (Pacific NW oyster industry collapse linked to upwelling acidic water hitting hatcheries); PTEROPOD SHELLS (planktonic snails, base of polar food web) literally dissolving in observation Arctic waters; CORALLINE ALGAE (key reef-cementing organisms) struggle to maintain structure; FORAMINIFERA (huge contributor to deep-sea carbon storage) produce thinner shells. Combined with BLEACHING and WARMING = catastrophic synergy threatening reef ecosystems globally. (a) Acidification doesn't change salinity meaningfully. (c) Warming is a SEPARATE effect — also driven by GHG emissions, but a different mechanism (heat absorption rather than pH chemistry). (d) Opposite — warmer / more-acidic water typically holds LESS dissolved O₂ (Henry's Law: solubility decreases with temperature).",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-180",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "What are wake waves?",
+    "options": {
+      "a": "Waves created by the movement of marine traffic",
+      "b": "Waves created specifically inside enclosed waterways",
+      "c": "Waves generated early in the morning",
+      "d": "Waves created by large ships but not small boats"
+    },
+    "correct": "a",
+    "explanation": "WAKE WAVES are the wave pattern produced by any vessel moving through water — boat traffic of any size. WAKE PHYSICS: a moving vessel pushes water aside as it advances → creates a V-shaped wake pattern (the KELVIN WAKE, described by Lord Kelvin in 1887). Wake angle is roughly 39° from the bow regardless of speed (fundamental of fluid dynamics for displacement vessels in deep water). Faster + heavier + larger = bigger wake; planing vessels (jet skis, fast RIBs) produce different (often smaller) wake than displacement vessels (sailboats, large ships). Wake can travel FAR from the source — visible wake from a passing ship can hit shore minutes after the ship has gone, kilometers away. DIVER-RELEVANT HAZARDS: surface diver SWEPT OFF — wake can capsize divers, knock off masks, push them onto rocks/jetties; moored boats rock violently in passing wake (gear flies off); small dive boats struggle in busy channels with cumulative ferry/cargo wake; gear-up surface intervals on small boats become unstable; beach exits get amplified shore-break from wake hitting shore. OPERATIONAL HANDLING: NO-WAKE ZONES legally enforced near marinas, anchorages, and dive flags; boats should SLOW when passing Alpha or Diver Down flags; divers DESCEND BELOW 5 m to escape wake turbulence; time entries to avoid being at the surface when scheduled ferries pass. (b) Wake happens in open water too, not 'specifically enclosed.' (c) Time of day irrelevant — wake is created by vessel motion regardless of time. (d) Every powered vessel produces wake; even kayaks produce small wake; jet skis produce surprisingly large wake despite being small.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-181",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "Why should divers plan to exit during slack high tide?",
+    "options": {
+      "a": "To prevent encounters with dangerous marine life",
+      "b": "To avoid strong vertical water movements",
+      "c": "To conserve gas during long dives",
+      "d": "For the best visibility and safest conditions"
+    },
+    "correct": "d",
+    "explanation": "SLACK TIDE is the brief window when tidal current is at near-zero between direction changes (high → low ebb, or low → high flood). For shore dives, exit timing matters. WHY SLACK HIGH SPECIFICALLY: (1) BEST VISIBILITY — minimal current means minimal sediment suspended; particulates have settled during the calm window. (2) SAFEST SURFACE SWIM AND BEACH APPROACH — no current dragging you sideways, no rip channel pulling out, no eddy at headlands. (3) MAXIMUM WATER DEPTH AT THE SHORE — rocks, oyster beds, sea urchins, sharp coral are submerged deeper, easier walk-out without slicing booties. (4) EASIER ROCKY OR JETTY EXITS — not climbing over exposed barnacle-encrusted rocks; the water is already close to the high mark, lift is on your side. (5) BOAT ACCESS — pickup boats / dive operators have more depth and easier mooring near shore at high water. AVOID FOR EXIT: SLACK LOW TIDE — hardest exit, exposed rocks, slippery weed, long walk over slippery uneven substrate, sometimes can't reach the water without tide-dependent passages; MID-TIDE FLOODING / EBBING — maximum tidal current, reduced visibility from churning sediment, potential to be swept off course on surface. STANDARD SHORE-DIVE PLAN: enter near slack high (or just past the peak), dive a circular route or with-current-out + against-current-back, exit on slack-high return. (a) Marine life encounters aren't tide-driven in this way. (b) Vertical water movements aren't really tide-related at this scale. (c) Gas conservation isn't a function of tide.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-182",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "Which of the following are types of waves?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Wind-generated waves and swells",
+      "c": "Surge and wake waves",
+      "d": "Rogue waves and storm surges"
+    },
+    "correct": "a",
+    "explanation": "All three pairs name real wave categories. (b) WIND WAVES are local-area waves generated directly by wind blowing over the surface — short period (a few seconds), irregular, persist while wind blows. SWELLS are wind waves that have traveled out of the generating area: longer period (10–20+ seconds), more uniform shape, lower steepness, can cross thousands of km from a distant storm to break on a distant coastline (Hawaiian winter swells originate in North Pacific storms). (c) SURGE = horizontal back-and-forth water movement caused by waves passing over a shallow area (in caves, archways, surge channels) — pushes divers around at depth. WAKE WAVES = vessel-generated (mssi-sod-180). (d) ROGUE WAVES = freak waves >2× the surrounding significant wave height — statistically rare but radar-confirmed at oil platforms; many lost-at-sea incidents attributed; caused by wave focusing in opposing currents (Agulhas Current off South Africa is notorious) or constructive interference of multiple wave trains. STORM SURGES = sea level rise during a tropical / extratropical cyclone, driven by wind pushing water onshore + low-pressure 'inverse barometer' effect; primary killer in hurricanes (Katrina, Sandy, Ike). Different mechanism from regular waves but impacts coastlines like a slow giant wave. Other wave types beyond this question: TSUNAMIS (seismic-generated, very long wavelength, deadly on shallow approach); TIDAL BORES (incoming tide as wave in narrowing rivers); STANDING WAVES; INTERNAL WAVES (between density layers within the water column).",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-183",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "What should divers do if they are caught in a strong current?",
+    "options": {
+      "a": "Swim directly against the current",
+      "b": "Add more weight so they can stay in one place",
+      "c": "Swim parallel/at an angle to the shore or drift with the current and wait to be picked up",
+      "d": "Fight the current for as long as they can"
+    },
+    "correct": "c",
+    "explanation": "Standard SSI current-escape protocol: SWIM PARALLEL TO SHORE (or at an angle out of the current band), or DRIFT WITH THE CURRENT and wait to be picked up. Same logic as escaping a riptide on the surface: don't fight the current head-on (exhausting, gas-burning), get OUT of the narrow current band sideways. If far from shore or in a drift dive, ride with the current — the boat will pick you up downstream. Deploy a dSMB for surface visibility, stay grouped with your buddy, conserve gas and energy. Drift-dive standard practice: dive with the current, exit with the current, boat picks up downstream; never plan a dive that requires upcurrent return at the end. (a) SWIM AGAINST = exhausting and gas-burning; most current-related fatalities involve divers fighting upstream until exhaustion → panic → uncontrolled ascent → DCS / drowning. (b) ADD MORE WEIGHT = won't work; current acts on the whole diver including extra weight, you just sink while being swept. Also kills your ditchable-weight margin. (d) FIGHT AS LONG AS POSSIBLE = the worst answer in current management — exhaustion underwater is the scenario where bad outcomes cascade fast.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-184",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "How can waves affect diving conditions?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Larges waves in the surf zone can be hazardous",
+      "c": "Wave action can reduce underwater visibility",
+      "d": "Choppy seas and rough conditions can make exits and entries difficult"
+    },
+    "correct": "a",
+    "explanation": "All three are real diving impacts. (b) LARGE WAVES IN THE SURF ZONE are hazardous (mssi-sod-162) — entry/exit through breaking waves can rip masks off, lose fins, slam diver onto bottom or shore rocks, smash regulator out of the mouth. Plunging breakers are particularly dangerous. (c) REDUCED UNDERWATER VISIBILITY — wave action churns sand and sediment off the bottom in shallow water (especially over sand or silt substrates); turbid plume can extend tens of meters down, persist hours after the wave activity calms. Storm-stirred sites can take days to clear. Even modest swell at the surface can produce significant near-bottom sediment suspension at 5–10 m depth on sandy bottoms. (d) DIFFICULT ENTRIES AND EXITS — boat boarding in chop is dangerous (slamming against the ladder, ladder rises and drops 1+ m, divers slammed against hull); beach entries through breakers are tough on gear and divers (surf zone management); surface swims become exhausting and disorienting in significant seas. Other wave effects worth knowing: SHALLOW SURGE at depth — calm-looking surface can have powerful rocking motion at 10–15 m above sand or coral; PENDULUM EFFECT in caves/swim-throughs (surge sweeps you back and forth, hard to hover); BOAT SEASICKNESS during surface intervals affects fitness for next dive; WAVE-INDUCED ROLLING of moored dive boats causes gear-injury and seasick crews.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-185",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "Why is slack tide considered ideal for diving activities?",
+    "options": {
+      "a": "Tide levels are their highest, providing deep waters",
+      "b": "Current strengths peak, improving underwater navigation",
+      "c": "Tidal flow eases, providing calm conditions",
+      "d": "It correlates with extreme weather, minimizing risks"
+    },
+    "correct": "c",
+    "explanation": "SLACK TIDE is the brief window when tidal current is at near zero between flood and ebb (or ebb and flood). For divers, the calm window delivers everything you want: MINIMAL CURRENT = minimal swim effort, no being swept off course, no fighting upstream to return; BEST VISIBILITY = sediment that was suspended by tidal flow has settled; EASY NAVIGATION = no current vector to compensate for, compass bearing matches actual track; SAFE BOAT OPERATIONS = boat holds position over site without dragging anchor, divers can ascend the line without being pulled away; COMFORTABLE SURFACE INTERVALS = no drift away from boat; EASIER ENTRIES AND EXITS = beach access stable, no surge in surge channels, no current battles in surface swim. The slack window is typically only 10–30 MINUTES depending on location. Some sites with strong tidal currents (UK channels — Strangford Lough, Saltstraumen Norway, Indonesian straits, Pacific Northwest narrows) MUST be dived at slack tide — the time-limited window is the only safe diving period. Local tide tables give exact slack times. Tide-cycle terms: HIGH tide → SLACK HIGH (often calmest) → EBB (outgoing flow, water falling) → SLACK LOW → FLOOD (incoming, water rising) → back to high. (a) HIGHEST TIDES applies only to slack high, not slack tide generally — slack low is also ideal but with less water depth at shore. (b) Opposite — slack = MINIMUM current, not peak. (d) Slack tide and weather are unrelated phenomena.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-186",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "What is the main focus of the study of marine biology?",
+    "options": {
+      "a": "Earth's geological processes",
+      "b": "The ocean's chemical composition",
+      "c": "Atmospheric processes",
+      "d": "Life in the ocean and its interactions"
+    },
+    "correct": "d",
+    "explanation": "MARINE BIOLOGY is the study of life in the ocean and its interactions — organisms living in saltwater, and how they interact with each other (predation, competition, symbiosis) and with their physical environment (temperature, salinity, depth, light, currents). SCOPE: ORGANISM LEVEL — anatomy, physiology, behavior, life cycles of species from microbes to whales; POPULATION LEVEL — how species' numbers change over time, distribution, migration, breeding; COMMUNITY LEVEL — multi-species interactions, food webs, predator-prey, mutualism, competition; ECOSYSTEM LEVEL — entire habitats as systems (coral reefs, kelp forests, hydrothermal vents, deep sea, polar seas); CONSERVATION BIOLOGY — applied side, marine protected areas, fisheries management, restoration. SISTER DISCIPLINES: (a) MARINE GEOLOGY / GEOLOGICAL OCEANOGRAPHY — seafloor topography, plate tectonics, sediments, mid-ocean ridges, subduction zones; (b) CHEMICAL OCEANOGRAPHY / MARINE CHEMISTRY — water composition, nutrient cycles, carbonate chemistry (ocean acidification — see mssi-sod-171); (c) ATMOSPHERIC SCIENCE / METEOROLOGY — air-sea interactions, hurricanes, El Niño/La Niña; relevant to ocean but a separate field. Together these form OCEANOGRAPHY — the umbrella that combines all approaches to studying the oceans. For divers, marine biology is what makes the dive interesting once buoyancy is dialed in: knowing species + behaviors + relationships multiplies the experience.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-187",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Which of the following statements about prokaryotes and eukaryotes is true?",
+    "options": {
+      "a": "Eukaryotes have cells with a membrane-bound nucleus",
+      "b": "Eukaryotes include all life except bacteria and archaea",
+      "c": "All answers are correct",
+      "d": "Prokaryotes are less complex than eukaryotes"
+    },
+    "correct": "c",
+    "explanation": "All three statements describe the prokaryote–eukaryote divide accurately. (a) EUKARYOTES HAVE A MEMBRANE-BOUND NUCLEUS — the defining feature. EU- (Greek 'true') + KARYON (nucleus) = 'true nucleus'. DNA is enclosed in a nuclear envelope. Eukaryotes also have other membrane-bound organelles: mitochondria (energy), endoplasmic reticulum, Golgi apparatus, lysosomes, chloroplasts in plants/algae. (b) EUKARYOTES INCLUDE ALL LIFE EXCEPT BACTERIA AND ARCHAEA — three-domain classification of life: BACTERIA (prokaryotes, single-celled, no nucleus); ARCHAEA (prokaryotes, single-celled, no nucleus, biochemically distinct; many extremophiles at hydrothermal vents, salt lakes, hot springs); EUKARYOTA (animals, plants, fungi, protists including single-celled amoebas + multicellular algae). Everything you'd recognize as 'an organism with internal cell structure visible under a microscope' is eukaryotic. (d) PROKARYOTES ARE LESS COMPLEX THAN EUKARYOTES structurally: SMALLER (typical prokaryote 1–10 µm vs eukaryote 10–100 µm); SIMPLER (no membrane-bound organelles, smaller ribosomes 70S vs 80S, circular DNA in cytoplasm vs linear chromosomes in nucleus); no internal compartmentalization. But prokaryotes are BIOCHEMICALLY MORE DIVERSE — they invented photosynthesis, nitrogen fixation, sulfur metabolism, methanogenesis. Just less STRUCTURALLY complex. MARINE RELEVANCE: marine bacteria + archaea drive nutrient cycling, decomposition, deep-sea chemosynthesis; CYANOBACTERIA (prokaryotic photosynthesizers) like Prochlorococcus are the most abundant photosynthetic organisms on Earth (~20% of atmospheric O₂ production); all visible marine life (fish, corals, mollusks, mammals) is eukaryotic.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-188",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "What is a heterotroph?",
+    "options": {
+      "a": "An energy producer such as an insect or animal",
+      "b": "An energy producer such as a plant, algae, or phytoplankton",
+      "c": "A mammal like a whale or dolphin",
+      "d": "A consumer like an insect or animal"
+    },
+    "correct": "d",
+    "explanation": "A HETEROTROPH is a CONSUMER — an organism that cannot produce its own food and must consume other organisms (or organic matter) to obtain energy and nutrients. Etymology: Greek HETERO- ('other') + TROPH- ('feeding') = 'feeds on others'. Heterotroph categories by diet: HERBIVORES eat plants/algae (parrotfish, surgeonfish, manatees, dugongs, urchins); CARNIVORES eat animals (sharks, groupers, dolphins, octopus); OMNIVORES eat both (sea turtles, many fish, crabs); DETRITIVORES / SCAVENGERS eat dead organic matter (sea cucumbers, hagfish, isopods); FILTER FEEDERS passively filter plankton (sponges, barnacles, baleen whales, manta rays, whale sharks, oysters); PARASITES feed off living hosts (some isopods, copepods, lampreys). AUTOTROPHS are the opposite — 'self-feeders' (auto + troph): PHOTOAUTOTROPHS use light + CO₂ to make food (plants, algae, phytoplankton, cyanobacteria — the PRIMARY PRODUCERS, base of nearly every food web); CHEMOAUTOTROPHS use chemical energy (oxidizing H₂S, CH₄, NH₃) to fix carbon (deep-sea vent bacteria, sulfur bacteria; base of dark-zone food webs at hydrothermal vents). Trophic flow in marine food webs: PRIMARY PRODUCERS (autotrophs) → PRIMARY CONSUMERS (herbivores) → SECONDARY CONSUMERS (carnivores eating herbivores) → TERTIARY CONSUMERS (top predators eating other predators) → DECOMPOSERS (heterotrophic bacteria + scavengers). (a) Animals as 'producers' is wrong direction — animals are consumers. (b) Plants/algae/phytoplankton are AUTOTROPHS, opposite of heterotroph. (c) Whales/dolphins ARE heterotrophs (they eat other organisms) but the answer phrasing emphasizes 'mammal' which isn't the defining trait of heterotrophy. (d) is the precise definition.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  }
+]

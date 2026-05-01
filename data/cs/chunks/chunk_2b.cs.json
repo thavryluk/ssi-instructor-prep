@@ -1,0 +1,317 @@
+[
+  {
+    "id": "mssi-sod-126",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Automatiky",
+    "question": "Které z následujících tvrzení o volitelných ovládacích prvcích druhého stupně je pravdivé?",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Potápěči mohou nastavit dechový odpor",
+      "c": "Venturiho asistence umožňuje potápěčům upravit směr proudění plynu",
+      "d": "Potápěči mohou přizpůsobit výkon automatiky podle podmínek ponoru"
+    },
+    "correct": "a",
+    "explanation": "Všechny tři popisují uživatelsky laditelné funkce na prémiových druhých stupních. (b) NASTAVITELNÝ DECHOVÝ ODPOR — KOLEČKO INHALAČNÍHO ÚSILÍ (Apeks XTX, Atomic, Scubapro G-series, Mares) zvyšuje nebo snižuje pružinové předpětí na ventilu. Otevři ho (nízké rozběhové úsilí) pro snadné dýchání v hloubce nebo při sdílení plynu; zavři ho (vysoké rozběhové úsilí) pro plavání na hladině a visící automatiky, které by jinak začaly volně proudit. (c) VENTURIHO ASISTENCE upravuje GEOMETRII proudění plynu uvnitř pouzdra automatiky pomocí přepínače DIVE / PRE-DIVE (nebo páčky +/-, „VAD“ u Mares, „DVT“ u Apeks). Poloha DIVE: vnitřní deflektor směruje proud plynu podél membrány, čímž vytváří Bernoulliho zónu nízkého tlaku, která membránu po zahájení proudění více otevře → snadnější trvalé dýchání. Poloha PRE-DIVE: blokuje tuto cestu, takže nedochází k Venturiho efektu → mnohem těžší vyvolat volné proudění, když automatika visí náustkem nahoru na lodi nebo těsně pod hladinou. Při oblékání vždy přepni na PRE-DIVE, před sestupem přepni na DIVE. (d) PŘIZPŮSOBIT VÝKON PODMÍNKÁM — celý smysl obou koleček: ponor ve studené vodě se silnými rukavicemi → utáhni rozběhové kolečko, PRE-DIVE při vstupu; hluboký nácvik sdílení plynu → otevři rozběh, DIVE pro maximální průtok. Oba ovladače dohromady umožňují potápěči přizpůsobit chování automatiky ponoru, zátěži a hloubce.",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-sod-127",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Nitrox",
+    "question": "Které z následujících tvrzení o specializovaných nitroxových lahvích je pravdivé?",
+    "options": {
+      "a": "Neexistují žádné zvláštní předpisy pro používání nitroxové lahve",
+      "b": "Specializované lahve jsou potřeba pouze pro koncentrace kyslíku nad 40 %",
+      "c": "Existují zvláštní předpisy pro používání nitroxových lahví",
+      "d": "Lahve lze používat pro nitrox bez jakékoli zvláštní přípravy"
+    },
+    "correct": "c",
+    "explanation": "Nitroxové lahve mají několik povinných pravidel nad rámec běžného zacházení s vzduchovými lahvemi. ZNAČENÍ / ŠTÍTKY: zeleno-žlutý pás obsahu (USA) nebo žluté rameno + zelený pás (jiné regiony); štítek „NITROX“ nebo „EAN“; samolepka MAXIMÁLNÍ PROVOZNÍ HLOUBKY (MOD) vypočítaná pro skutečnou směs; SAMOLEPKA ANALÝZY vyplněná PŘED KAŽDÝM PLNĚNÍM s naměřeným % O₂, MOD, datem a podpisem analyzátora. ANALÝZA: každý potápěč musí osobně ověřit směs O₂-analyzátorem před KAŽDÝM ponorem — nikdy nedůvěřuj cizímu číslu. PRÁH O₂-ČISTOTY: do 40 % O₂ je obecně povolena standardní řádně propláchnutá lahev + standardní automatika (rekreační limit 40 %, ačkoli přísnější EU/EN-12021 někdy vyžaduje O₂-kompatibilní vybavení i nad 21 %); NAD 40 % O₂ MUSÍ být lahev O₂-ČISTÁ (odmaštěná, speciální O₂-kompatibilní Viton/EPDM o-kroužky ve ventilu, kyslíkově kompatibilní PFPE mazivo jako Christo-Lube MCG-111, automatika také O₂-čistá). PLNĚNÍ: O₂-čisté lahve nesmí být plněny nefiltrovaným vzduchem nebo vzduchem třídy E, aby se předešlo kontaminaci uhlovodíky; míchání podle parciálního tlaku vyžaduje plně O₂-čistou plnicí stanici. KONTROLA: mnoho obchodů vyžaduje pro O₂-čisté lahve ROČNÍ VIP (častěji než standardní interval pro vzduch). (a) Špatně — platí mnoho předpisů. (b) Částečná pravda (práh O₂-čistoty je při 40 %), ale ignoruje předpisy o značení/analýze, které platí pro každou koncentraci. (d) Nebezpečný omyl — přesně ten předpoklad, který způsobil reálné požáry lahví.",
+    "source": "mySSI: SoD Lesson 4.5 Review"
+  },
+  {
+    "id": "mssi-sod-128",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Nitrox",
+    "question": "Vybavení certifikované pro provoz s kyslíkem:",
+    "options": {
+      "a": "Používá O₂-kompatibilní maziva a o-kroužky",
+      "b": "Bylo O₂-vyčištěno",
+      "c": "Všechny odpovědi jsou správné",
+      "d": "Bylo zcela rozebráno a znovu sestaveno"
+    },
+    "correct": "c",
+    "explanation": "Certifikace pro provoz s O₂ zahrnuje všechny tři kroky. (a) O₂-KOMPATIBILNÍ MAZIVA A O-KROUŽKY — standardní silikonové mazivo a Buna-N (nitril) o-kroužky se mohou při vysokých parciálních tlacích kyslíku rozkládat nebo vznítit. Náhrada: maziva třídy PFPE (Christo-Lube MCG-111, Krytox, Tribolube 71) a Viton (FKM) nebo EPDM o-kroužky, oba inertní vůči vysokotlakému O₂. (b) O₂-VYČIŠTĚNO — chemické odmaštění každého povrchu v kontaktu s plynem k odstranění kontaminace uhlovodíky. Typický cíl: zbytkové uhlovodíky <50 mg/m². Běžná čistidla: Simple Green Pro HD, denaturovaný líh, ultrazvukové lázně se specializovanými O₂-čisticími detergenty. Výsledek: povrchy dostatečně čisté, aby vysokotlaký O₂ mohl proudit bez rizika samovznícení. (d) ZCELA ROZEBRÁNO A ZNOVU SESTAVENO — čištění probíhá na úrovni JEDNOTLIVÝCH DÍLŮ. Zaplombovanou automatiku nelze O₂-vyčistit; každou součástku je třeba ošetřit zvlášť. Automatika se zcela rozebere, každý díl se vyčistí a zkontroluje, poté se znovu sestaví v čistém prostředí pouze s použitím O₂-kompatibilních spotřebních materiálů z (a). Všechny tři dohromady = certifikace pro provoz s O₂.",
+    "source": "mySSI: SoD Lesson 4.5 Review"
+  },
+  {
+    "id": "mssi-sod-129",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Nitrox",
+    "question": "Co je O₂-kompatibilní vzduch?",
+    "options": {
+      "a": "Standardní stlačený vzduch s vyšším podílem kyslíku",
+      "b": "Plyn, který čeká na přidání kyslíku",
+      "c": "Všechny odpovědi jsou správné",
+      "d": "Vzduch, který byl filtrován a vyčištěn"
+    },
+    "correct": "d",
+    "explanation": "O₂-KOMPATIBILNÍ VZDUCH (také nazývaný BEZOLEJOVÝ VZDUCH nebo HYPERFILTROVANÝ VZDUCH) je běžný stlačený vzduch, který byl EXTRA-FILTROVÁN za účelem odstranění uhlovodíků a dalších vznětlivých nečistot, aby mohl být bezpečně smíchán s vysokotlakým čistým O₂ při míchání nitroxu metodou parciálního tlaku. Standard: běžný vzduch třídy E / EN 12021 povoluje až 0,5–5 mg/m³ zbytkového oleje; O₂-kompatibilní vzduch typicky cílí na <0,1 mg/m³ — mnohem přísnější. Dosaženo extra filtračními věžemi pro uhlovodíky v kompresorové sestavě nebo dedikovaným bezolejovým kompresorem (jiné mazání, které se nemůže dostat do proudu plynu). Proč to záleží: při MÍCHÁNÍ PARCIÁLNÍM TLAKEM (standardní metoda výroby nitroxu) se nejprve do lahve přepustí čistý O₂ při ~200 bar, pak se navrch doplní vzduch. Pokud vzduch obsahuje uhlovodíky, prostředí s vysokým PpO₂ je může SAMOVZNÍTIT — reálné požáry lahví podle přesně tohoto scénáře už zabily personál v obchodech. Plnicí stanice provádějící míchání nitroxu tedy musí v celém systému používat O₂-kompatibilní vzduch. (a) Špatně — vzduch s extra O₂ je samotný NITROX, ne vzduch používaný k VÝROBĚ nitroxu. (b) Částečná pravda (používá se pro míchání), ale DEFINICE je specifikace filtrace, ne způsob použití. (c) Špatně — správně je pouze (d).",
+    "source": "mySSI: SoD Lesson 4.5 Review"
+  },
+  {
+    "id": "mssi-sod-130",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Nitrox",
+    "question": "Které z následujících tvrzení o O₂-kompatibilních automatikách je pravdivé?",
+    "options": {
+      "a": "Jsou typicky barevně označené žlutě a zeleně",
+      "b": "Všechny odpovědi jsou správné",
+      "c": "O₂-čisté automatiky musí být použity s O₂-čistými lahvemi",
+      "d": "Jsou vyžadovány pro koncentrace kyslíku nad 40 %"
+    },
+    "correct": "b",
+    "explanation": "Všechna tři tvrzení platí. (a) ŽLUTÉ + ZELENÉ BAREVNÉ ZNAČENÍ — O₂-čisté automatiky jsou typicky označeny zelenými/žlutými samolepkami, kryty hadic nebo barevnými proplachovacími tlačítky / rukojeťmi pro odlišení od běžných automatik pro vzduch. SSI / Apeks / Scubapro všichni dodržují tuto konvenci, takže plnicí stanice okamžitě rozezná O₂-certifikované vybavení. (c) MUSÍ BÝT KOMBINOVÁNY S O₂-ČISTÝMI LAHVEMI — kontaminace teče oběma směry: O₂-čistá automatika našroubovaná na ne-O₂-čistou lahev může vtáhnout zbytkové uhlovodíky ze závitů/ventilu lahve do automatiky, čímž se její čistota zruší; naopak čistá lahev plnící zanesenou automatiku může vznítit nečistoty v automatice. Obě strany cesty plynu musí odpovídat. (d) VYŽADOVÁNO >40 % O₂ — práh standardu SSI / rekreačního potápění (některé předpisy EU jsou přísnější a zacházejí s čímkoli nad 21 % jako vyžadujícím O₂-kompatibilní vybavení). Pod 40 % se ve většině jurisdikcí akceptují standardní automatiky s mírnou O₂ péčí; nad 40 % je plná O₂-čistota povinná.",
+    "source": "mySSI: SoD Lesson 4.5 Review"
+  },
+  {
+    "id": "mssi-sod-131",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Nitrox",
+    "question": "Dvě běžné nitroxové směsi používané pro rekreační potápění jsou:",
+    "options": {
+      "a": "EAN32 a EAN50",
+      "b": "EAN32 a EAN40",
+      "c": "EAN32 a EAN36",
+      "d": "EAN50 a EAN80"
+    },
+    "correct": "b",
+    "explanation": "Podle učebních osnov SSI Enriched Air Nitrox jsou dvě úrovně EAN32 (Nitrox 32) a EAN40 (Nitrox 40). EAN32 — 32 % O₂, 68 % N₂ — vstupní rekreační nitrox; MOD ≈ 33,7 m při PpO₂ 1,4 (≈ 40 m při kontingenčním limitu 1,6); vyhovuje většině rekreačních profilů, často předmíchaný v potápěčských obchodech bez striktního O₂-čistého vybavení (pod prahem 40 %). EAN40 — 40 % O₂, 60 % N₂ — horní rekreační hranice; MOD ≈ 22 m při PpO₂ 1,4 (≈ 30 m při 1,6); vyžaduje O₂-čisté lahve a automatiky podle pravidla >40 % nebo ne (v závislosti na jurisdikci). Praktická poznámka: v provozních potápěčských obchodech běžně najdete jako dvě předmíchané směsi EAN32 a EAN36 (EAN36 je levnější na uchování než EAN40, protože nepotřebuje O₂-čisté vybavení), ale podle nomenklatury výukových úrovní SSI je standardní pár 32/40 — to je to, co mySSI testuje. (a) EAN50 je dekompresní plyn (tech/XR), MOD je příliš mělká pro běžné rekreační. (c) EAN36 je v praxi rozšířený, ale není v nomenklatuře úrovní SSI. (d) EAN50 / EAN80 jsou dekompresní plyny, používané na dekompresních zastávkách, ne pro rekreační dobu na dně.",
+    "source": "mySSI: SoD Lesson 4.5 Review"
+  },
+  {
+    "id": "mssi-sod-132",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Nitrox",
+    "question": "Které z následujících tvrzení o O₂-čištění je pravdivé?",
+    "options": {
+      "a": "Není vyžadováno pro koncentrace kyslíku méně než 40 %, s výjimkou lahví a ventilů",
+      "b": "Odstraňuje uhlovodíky, mastnotu a kontaminanty",
+      "c": "Všechny odpovědi jsou správné",
+      "d": "Snižuje riziko požáru nebo výbuchu"
+    },
+    "correct": "c",
+    "explanation": "Všechna tři tvrzení o O₂-čištění jsou pravdivá. (a) Pod 40 % může být automatika typicky standardní, ALE LAHEV A VENTIL musí být i tak O₂-čisté, protože jsou vystaveny vysokotlakému čistému O₂ při míchání parciálním tlakem (standardní způsob výroby nitroxu — nejprve se přepustí čistý O₂, pak se doplní vzduchem). Takže pravidlo „<40 % bez O₂-čistoty“ není plošné — lahev + ventil vždy potřebují být O₂-čisté, pokud obchod míchá parciálním tlakem. (b) Proces čištění je chemické odmaštění + proplach, který ODSTRAŇUJE UHLOVODÍKY, oleje, mazadla, částice a další kontaminanty z vnitřních povrchů. (d) Celý bezpečnostní účel je SNÍŽIT RIZIKO POŽÁRU / VÝBUCHU — vysokotlaký čistý O₂ v kontaktu se zbytky uhlovodíků se může samovznítit, což je přesně to, co reálné požáry lahví ukázaly. Společně tato tři tvrzení popisují proč, co a hranici praxe O₂-čištění.",
+    "source": "mySSI: SoD Lesson 4.5 Review"
+  },
+  {
+    "id": "mssi-sod-133",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Nitrox",
+    "question": "Jaká označení musí potápěč zkontrolovat před použitím nitroxové lahve?",
+    "options": {
+      "a": "Maximální provozní hloubku",
+      "b": "Všechny odpovědi jsou správné",
+      "c": "Jméno nebo iniciály potápěče",
+      "d": "Koncentraci kyslíku v obsahu"
+    },
+    "correct": "b",
+    "explanation": "Předponorová kontrola nitroxové lahve je řada povinně ověřitelných položek, které jsou všechny uvedeny na štítcích lahve a štítku analýzy. (a) MOD (MAXIMÁLNÍ PROVOZNÍ HLOUBKA) — samolepka na rameni lahve vypočítaná ze skutečné směsi při PpO₂ 1,4 (rekreační standard) nebo 1,6 (pouze kontingenčně). Nastav alarm maximální hloubky počítače na toto číslo; NEPŘEKRAČUJ ho. (c) JMÉNO / INICIÁLY POTÁPĚČE — na ŠTÍTKU ANALÝZY: identifikuje, kdo směs osobně analyzoval, co naměřil a v jaké datum. Standardní praxe je, že potápěč, který bude plyn dýchat, sám provede analýzu a podepíše — nikdy nedýchej nitrox, který jsi sám neanalyzoval. Podpis je řetěz odpovědnosti. (d) KONCENTRACE O₂ — měřená O₂-analyzátorem (galvanický senzor, kalibrovaný na 20,9 % na vzduchu bezprostředně před analýzou lahve). Musí odpovídat číslu z plnicího protokolu; pokud ne, NEpotápěj se s touto lahví. Před sestupem nastav v potápěčském počítači FO₂ na tuto naměřenou hodnotu. Plný předponorový nitroxový checklist: analýza → MOD → max PpO₂ → nastavit FO₂ v počítači → podepsat štítek → potvrdit s buddym. Vynechání kteréhokoli kroku je učebnicová cesta k nitroxové nehodě.",
+    "source": "mySSI: SoD Lesson 4.5 Review"
+  },
+  {
+    "id": "mssi-sod-134",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — BCD",
+    "question": "Komponenty kompenzátoru vztlaku zahrnují:",
+    "options": {
+      "a": "Kabát nebo harness, automatiku a potápěčský počítač",
+      "b": "Kabát nebo harness, mechanismy nafukování/vypouštění a prvky pro připojení/nastavení",
+      "c": "Kabát nebo harness, ochranný oblek a mechanismy připojení/nastavení",
+      "d": "Kabát nebo harness, mechanismy nafukování/vypouštění a lahev"
+    },
+    "correct": "b",
+    "explanation": "Tři základní kategorie komponent kompenzátoru vztlaku: (1) KABÁT / HARNESS — nositelná struktura: jacket-style (vak obtáčí trup, při nafouknutí ho stahuje, na hladině zvedá vertikálně), back-inflate / wing (vak pouze na zádech, horizontálnější trim, neutahuje pas), nebo BP/W backplate-and-wing (minimalistický modulární harness v technickém stylu se samostatným wingem). (2) MECHANISMY NAFUKOVÁNÍ / VYPOUŠTĚNÍ — INFLÁTOR S LP HADICÍ (LP hadice z 1. stupně → tlačítkový ventil na vrapové hadici → vak, stiskni pro přidání plynu pod vodou); ÚSTNÍ INFLÁTOR (stejný ventil s náustkem, vyfukuj do vesty, když je plyn drahý nebo selhal silový inflátor); více VYPOUŠTĚCÍCH VENTILŮ (ramenní pro vertikální polohy, zadní/spodní pro polohy hlavou dolů nebo horizontální trim, někdy břišní/podpažní) a tlačítko RYCHLÉHO VYPOUŠTĚNÍ na horní straně vrapové hadice. (3) PRVKY PŘIPOJENÍ / NASTAVENÍ — VAČKOVÝ PÁS upevňuje BCD k lahvi; D-KROUŽKY na hrudi, bocích, ramenou pro klipování octopusu / SPG / světla / dSMB / tabulky / příslušenství; PASOVÝ PÁS, CUMMERBUND, HRUDNÍ PÁS, RAMENNÍ POPRUHY pro nastavení; INTEGROVANÉ ZÁVAŽOVÉ KAPSY (kapsy s rychlým uvolněním závaží) na většině moderních kabátů. (a) Automatika + počítač jsou samostatné vybavení. (c) Ochranný oblek je vlastní kategorie vybavení. (d) LAHEV je DRŽENA BCD pomocí vačkového pásu, ale není součástí BCD — je vyměnitelná.",
+    "source": "mySSI: SoD Lesson 4.6 Review"
+  },
+  {
+    "id": "mssi-sod-135",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — BCD",
+    "question": "Co je harness?",
+    "options": {
+      "a": "Sada popruhů, které se připojují na záda potápěče",
+      "b": "Tuhá deska, která se spojuje s wingem a lahvemi",
+      "c": "Popruh, který brání wingu vyjíždět nahoru",
+      "d": "Nerezový kroužek pro zlepšení polohy"
+    },
+    "correct": "a",
+    "explanation": "V terminologii BP/W (backplate-and-wing) je HARNESS POPRUHOVÝ SYSTÉM, který obtáčí potápěče a šroubuje se k backplate, držící zbytek setu na místě. Dvě běžné implementace: (1) JEDNODÍLNÝ „HOGARTHIANSKÝ“ HARNESS — jeden souvislý průběh 2palcového (5 cm) nylonového popruhu vedený: dolů z jednoho ramene, skrz drážky v backplate, kolem pasu jako pásek, nahoru přes rozkrokový popruh, zpět skrz backplate, nahoru k druhému rameni. Žádné spony, jeden kus, klasický minimalistický DIR / GUE styl. (2) KOMFORTNÍ HARNESS — dělený popruh s vypolstrovanými ramenními podložkami, rychlospojkami, polstrovaným pasovým pásem. Rychlejší oblékání/svlékání, pohodlnější pro dlouhé kurzy / vícedenní liveaboard rozvrhy. Harness je to, co drží potápěče ke zbytku setu (backplate + wing + lahev). D-KROUŽKY jsou navlečeny na popruhu na standardních pozicích (levá hruď, pravá hruď, levý bok, pravý bok, někdy rameno) pro klipování příslušenství. (b) Tuhá deska = BACKPLATE, samostatná komponenta, ke které je harness přišroubován. (c) „Brání wingu vyjíždět nahoru“ = funkce ROZKROKOVÉHO POPRUHU (jedné ČÁSTI harnessu), ne definice celého harnessu. (d) Nerezový kroužek = D-KROUŽEK, navlečený NA harness — připevněné kování, ne samotný harness.",
+    "source": "mySSI: SoD Lesson 4.6 Review"
+  },
+  {
+    "id": "mssi-sod-136",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — BCD",
+    "question": "Jaké systémy závaží si potápěči mohou vybrat pro vyrovnání vztlaku?",
+    "options": {
+      "a": "Integrovaná závaží",
+      "b": "Tradiční závažové pásy",
+      "c": "Trim závaží",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "d",
+    "explanation": "Tři platné možnosti systémů závaží, často používané v kombinaci. (a) INTEGROVANÁ ZÁVAŽÍ — závažové kapsy s rychlým uvolněním zabudované do moderních BCD (poloha na hrudi, boku nebo vzadu). Uvolnění TYPU PULL-AND-DROP umožňuje potápěči odhodit závaží během sekund pro nouzový pozitivní vztlak. Ergonomické: zátěž závaží se přenáší skrz ramena / trup BCD, ne spodní část zad. Většina rekreačních potápěčů preferuje tato. (b) TRADIČNÍ ZÁVAŽOVÉ PÁSY — nylonový nebo gumový pás kolem pasu držící olověné bloky nebo broková kapsy, upevněný rychlouvolňovací sponou. Klasický, jednoduchý, odhoditelný během sekund. Stále povinný na mnoha tech setupech (aby selhání integrovaných závaží nemohlo vyhodit trim závaží) a standardní u freedivingu. Nevýhoda: tlačí na boky, může se posouvat, bolestivý při přetížení. (c) TRIM ZÁVAŽÍ — malá pevná závaží pro doladění horizontálního trimu. Běžné formy: ZÁVAŽÍ NA LAHEV / VAČKOVÝ PÁS (klipnou se na pás za lahví, závaží jede vysoko proti trimu hlavou nahoru); KOTNÍKOVÁ ZÁVAŽÍ (proti trimu nohama nahoru z pozitivně vztlakových ploutví nebo migrace vzduchu v suchém obleku); TRIM KAPSY na ramenou BCD (pro nastavení hlavou dolů). Cíl: trim plochý/horizontální, v nouzi odhodit dost závaží pro vynoření, žádné přetížení (závaží navíc = drag navíc + plyn navíc na zvednutí = vyšší SAC).",
+    "source": "mySSI: SoD Lesson 4.6 Review"
+  },
+  {
+    "id": "mssi-sod-137",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — BCD",
+    "question": "Co je backplate?",
+    "options": {
+      "a": "Plastová deska, která brání wingu vyjíždět nahoru",
+      "b": "Hliníkový kompenzátor vztlaku",
+      "c": "Tuhá deska, která se spojuje s wingem a lahvemi",
+      "d": "Sada popruhů, které se připojují na záda potápěče"
+    },
+    "correct": "c",
+    "explanation": "BACKPLATE je tuhá kovová deska nošená na zádech potápěče, strukturální skelet sestavy BP/W (backplate-and-wing) BCD — propojuje vše: harness, wing a lahev. Volby materiálu: NEREZOVÁ OCEL (~3 kg / 6 lb negativní) — nejběžnější pro studenou/mírnou vodu, slouží zároveň jako odhoditelný záložní balast a snižuje potřebu pásového závaží; HLINÍK (~1 kg / 2 lb negativní) — vybavení pro teplé vody / cestování, lehčí pro zavazadla; UHLÍKOVÉ VLÁKNO (mírně pozitivní) — niche pro ultra-cestovní konfigurace. Typická geometrie: ~7\" široká × 18\" vysoká, kontura podle křivky zad. ŠTĚRBINY v desce umožňují provléknout popruhy harnessu (ramena, rozkrok, vedení v pase). OTVORY PRO ŠROUBY na zadní straně přijímají dva šrouby vačkového pásu (nebo Single Tank Adapter / STA pro posuv lahve nahoru a dolů). WING se přišroubuje mezi desku a lahev pomocí stejných šroubů (sendvič: backplate → wing → lahev). Genialita designu: kompletně MODULÁRNÍ — stejný harness a deska fungují pro jednu lahev, manifoldová dvojčata nebo sidemount konverzi. Stačí vyměnit wing. (a) Plastová + „brání wingu vyjíždět nahoru“ — špatný materiál A špatná funkce (rozkrokový popruh řídí vyjíždění nahoru). (b) „Hliníkový BCD“ je vágní a BCD je celý kabát+wing, ne jedna deska. (d) Sada popruhů = HARNESS, jiná komponenta.",
+    "source": "mySSI: SoD Lesson 4.6 Review"
+  },
+  {
+    "id": "mssi-sod-138",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — BCD",
+    "question": "Vaky kompenzátorů vztlaku mohou být:",
+    "options": {
+      "a": "Integrované přímo do kompenzátoru vztlaku stylu kabát",
+      "b": "Všechny odpovědi jsou správné",
+      "c": "Obsažené v ochranném vnějším plášti",
+      "d": "Oddělené s nezávislým nafukováním"
+    },
+    "correct": "b",
+    "explanation": "Existují tři platné konfigurace vaků. (a) INTEGROVANÉ DO KABÁTU — tradiční BCD stylu kabát: vak je všitý mezi vnitřní vložku a vnější Cordura kabát, obklopující trup potápěče. Levné, robustní, jednodílná konstrukce. Když vak nakonec selže (proražení, eroze sedla ventilu), obvykle to znamená koupit nový BCD, protože vak je u většiny kabátových designů nevyměnitelný. (c) OBSAŽENÉ V OCHRANNÉM VNĚJŠÍM PLÁŠTI — moderní wingy: vnitřní uretanový nebo neoprenem potažený vak je chráněn vnějším pláštěm Cordura 1000-denier („clamshell“ nebo „single-skin“ wing). Vak je VYMĚNITELNÝ samostatně od pláště, když selže — mnohem levnější dlouhodobě, standard u tech wingů (Halcyon, Dive Rite, OMS). (d) ODDĚLENÉ S NEZÁVISLÝM NAFUKOVÁNÍM — DVOJVAKOVÉ wingy (Halcyon Eclipse 60-PRO doubles, OMS Performance, Dive Rite EXP). DVA zcela nezávislé vaky uvnitř stejného pláště, každý s vlastní LP hadicí inflátoru, vypouštěcími ventily a přetlakovou pojistkou. REDUNDANCE: pokud primární vak selže (proražení, vypouštěcí ventil zaseknutý otevřený), přepni na záložní vak a dokonči ponor bezpečně. Povinné u mnoha jeskynních / vrakových / hluboce-tech standardů, kde vynoření kvůli vztlaku není možnost (alternativní redundance: suchý oblek jako záložní vztlak).",
+    "source": "mySSI: SoD Lesson 4.6 Review"
+  },
+  {
+    "id": "mssi-sod-139",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — BCD",
+    "question": "Zadní nafukovací kompenzátory vztlaku jsou dobrou volbou pro potápěče, kteří:",
+    "options": {
+      "a": "Chtějí, aby zátěž seděla na jednom místě",
+      "b": "Chtějí snížit nepořádek a minimalizovat odpor",
+      "c": "Chtějí zvýšit odpor a snížit nepořádek",
+      "d": "Dělají krátké, jednotlivé ponory"
+    },
+    "correct": "b",
+    "explanation": "Zadní nafukovací (také zvané BACK-MOUNT WING nebo REAR-INFLATE) BCD umisťují plynový vak ZA potápěče, místo aby obtáčel trup ve stylu kabát. Proč si je potápěči vybírají: (1) SNÍŽENÝ ODPOR — proudnicová silueta. Přední strana těla je nezakrytá, voda hladce proudí podél boků, vak nevyboulí na bocích jako kabát. Nižší úsilí ploutvování, nižší SAC přes dny s více lahvemi. (2) MÉNĚ NEPOŘÁDKU na hrudi — žádné velké kapsy kabátu zakrývající uspořádání hadic, čistší přístup k D-kroužkům, snazší správa kamery / světla / přístrojů, lepší výhled na počítač + SPG. (3) LEPŠÍ HORIZONTÁLNÍ TRIM — se vším vztlakem na zádech tělo visí lícem dolů pod vakem, přirozeně se usadí do trim pozice; kabátové BCD potápěče tendují kotlit vertikálně / hlavou nahoru. (4) ŽÁDNÉ STAHOVÁNÍ HRUDI na hladině — kabátové BCD se nafukují kolem žeber a mohou tlačit (zejména při přetížení); zadní nafukovací jen zvedne potápěče lícem nahoru bez stlačení. (5) PŘÍVĚTIVÝ PRO CESTOVÁNÍ — mnoho zadních nafukovacích se balí ploše než kabáty (Zeagle Express Tech, Hollis HD200, Aqualung Outlaw). Kompromis, který stojí za to znát: na hladině může zadní nafukovací tlačit potápěče lícem dolů, protože vztlak je vzadu — kompenzuj nakloněním dozadu, kopáním nahoru, použitím rozkrokového popruhu pro vyvážení. (a) Vágní — zadní nafukovací vlastně nijak necentralizuje „zátěž“. (c) Opačně — zadní nafukovací odpor SNIŽUJE, ne zvyšuje. (d) Zadní nafukovací funguje stejně dobře napříč všemi délkami ponoru.",
+    "source": "mySSI: SoD Lesson 4.6 Review"
+  },
+  {
+    "id": "mssi-sod-140",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Ochranné obleky",
+    "question": "Mokrý oblek chrání potápěče před ztrátou tepla, protože:",
+    "options": {
+      "a": "Udržuje potápěče suchého",
+      "b": "Brání vodě dostat se dovnitř",
+      "c": "Udržuje stabilní vrstvu teplé vody kolem těla",
+      "d": "Je vyhřívaný"
+    },
+    "correct": "c",
+    "explanation": "Kontraintuitivní, ale pravdivé: mokrý oblek tě nedrží suchého, a to záměrně. Jak funguje: (1) Voda vstupuje do mokrého obleku skrz krk, zápěstí, kotníky — typicky několik set mL. (2) Tato uvězněná vrstva se zahřeje na tělesnou teplotu během minuty nebo dvou od ponoření. (3) NEOPRENOVÁ PĚNA — plná milionů drobných plynem naplněných bublinek — je skutečným izolantem: blokuje přenos tepla mezi teplou vrstvou vody u kůže a studenou vodou venku. (4) PADNUTÍ JE KRITICKÉ: padnoucí oblek udržuje teplou vrstvu vody na místě; volný oblek nechává vodu propláchnout dovnitř/ven s každým pohybem, čímž ztrácí teplo s každým proplachem („komínový efekt“). Hrubá orientace tloušťky: 3 mm tropy (25–28 °C), 5 mm mírné pásmo (18–24 °C), 7 mm chladná voda (12–18 °C, kombinuj s kuklou + rukavicemi + botičkami), dvoudílný 7+7 mm (nebo polosuchý / suchý oblek) pod 12 °C. Upozornění na hloubku ve studené vodě: neopren se pod tlakem STLAČUJE (plynové bubliny se zmenšují) → oblek se ztenčí → menší izolace; 7 mm v 30 m je tepelně blíže 3 mm. Pod ~15 °C vyhrává suchý oblek + silné spodní prádlo. (a) Drží suchého = SUCHÝ OBLEK (zcela jiný systém — těsní u krku/zápěstí, spodní prádlo pro izolaci). (b) Brání vstupu vody = opět suchý oblek; opak principu mokrého obleku. (d) Vyhřívané obleky existují (elektrické články napájené z baterie jako Santi BZ-400), ale to je aktivní systém, ne to, jak fungují běžné mokré obleky.",
+    "source": "mySSI: SoD Lesson 4.7 Review"
+  },
+  {
+    "id": "mssi-sod-141",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Ochranné obleky",
+    "question": "Co vytváří teplo při nošení suchého obleku?",
+    "options": {
+      "a": "Izolační vrstvy a uvězněný plyn",
+      "b": "Tloušťka materiálu pláště",
+      "c": "Vyhřívací vlákna",
+      "d": "Stabilní vrstva teplé vody kolem těla"
+    },
+    "correct": "a",
+    "explanation": "Teplo suchého obleku je vrstvený systém. (1) PLÁŠŤ SUCHÉHO OBLEKU — vodotěsná vnější bariéra utěsněná u krku a zápěstí latexovými nebo silikonovými MANŽETAMI, připojené nebo utěsněné botičky u nohou. Materiály: trilaminát (Cordura + butyl + nylon, lehký + odolný — Santi, DUI, Bare), drcený/komprimovaný neopren (odolný, mírně vztlakový — Whites, Pinnacle), nebo guma. Plášť VODU NEPROPOUŠTÍ, ale poskytuje sám o sobě minimální izolaci. (2) IZOLAČNÍ SPODNÍ PRÁDLO — skutečná tepelná vrstva nošená pod ním: syntetická fleece/pile (Polartec, Primaloft — objemné, načechrané, hodně uvězněného vzduchu); Thinsulate (hustší vlákna, méně objemu, podobná tepelná hodnota); vlna. UVĚZNĚNÝ VZDUCH ve vláknech je skutečným izolantem — klidný vzduch je vynikající izolant, proto jsou tyto obleky designovány objemné a načechrané. (3) PLYN INFLÁTORU UVNITŘ OBLEKU — suchý oblek má LP hadici připojenou k inflačnímu ventilu na hrudi; plyn přidávaný při sestupu pro (a) vyrovnání tlaku (zabránění SQUEEZE OBLEKU), (b) udržení spodního prádla NAČECHRANÉHO (stlačené spodní prádlo ztrácí v hloubce tepelnou hodnotu), (c) přidání plynové izolační vrstvy kolem těla. ARGON se někdy používá pro studenou vodu (samostatná malá lahev s vlastní LP hadicí inflátoru) — ~30 % nižší tepelná vodivost než vzduch → znatelně teplejší ponory. (b) Tloušťka pláště — typický trilaminát je tenký ~0,6–0,8 mm a není tepelnou vrstvou. (c) Vyhřívací vlákna — pouze ve VYHŘÍVANÝCH suchých oblecích/vestách (Santi BZ-400, Thermalution) — aktivní systém, ne základní suchý oblek. (d) Vrstva teplé vody = princip MOKRÉHO OBLEKU (mssi-sod-140); suchý oblek je opak — žádná voda uvnitř.",
+    "source": "mySSI: SoD Lesson 4.7 Review"
+  },
+  {
+    "id": "mssi-sod-142",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Ochranné obleky",
+    "question": "Potápěči, kteří nosí mokré obleky se špatnou tloušťkou, mohou zažít:",
+    "options": {
+      "a": "Imerzní diurézu",
+      "b": "Hypotermii nebo kyslíkovou toxicitu",
+      "c": "Hypotermii nebo hypertermii",
+      "d": "Narkózu"
+    },
+    "correct": "c",
+    "explanation": "Oba směry tepelného selhání jsou reálné: PŘÍLIŠ TENKÝ → nedostatečná izolace → tělo ztrácí teplo rychleji, než ho vytváří → HYPOTERMIE (jádrová teplota <35 °C). Časné příznaky ve vodě: třes, zpomalené myšlení, neobratné ruce, letargie, snížená efektivita spotřeby vzduchu. Pozdní stadium: třes USTÁVÁ (paradoxní, zlověstné), zmatenost, nezřetelná řeč, riziko srdeční arytmie. Ukonči ponor při prvních příznacích; ohřívej pomalu (pasivní izolace), aby se zabránilo afterdropu. PŘÍLIŠ SILNÝ → nadměrná izolace → tělesné teplo se nemůže rozptylovat, zejména během předponorového čekání na hladině v tropickém slunci, tvrdé práce v hloubce nebo dlouhých plaveb od břehu → HYPERTERMIE (přehřátí). Příznaky: nadměrné pocení před vstupem, závrať, nevolnost, vyčerpání teplem, úpal v extrému. Zvláště nebezpečná v tropické vodě 28 °C, kde se potápěči přepojišťují příliš tlustým mokrým oblekem. Přizpůsob tloušťku skutečné teplotě vody pro plánovanou dobu na dně, ne pro nejhorší případ „pro jistotu“. (a) Imerzní diuréza se stává každému potápěči bez ohledu na tloušťku obleku — je to výsledek centrálního přesunu krve při ponoření (mssi-sod-079). (b) Toxicita O₂ je problém tlaku plynu (vysoký PpO₂), nesouvisející s mokrými obleky. (d) Dusíková narkóza je problém hloubky + inertního plynu, nesouvisí s ochrannými obleky.",
+    "source": "mySSI: SoD Lesson 4.7 Review"
+  },
+  {
+    "id": "mssi-sod-143",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Ochranné obleky",
+    "question": "Klíčovým účelem ochranného systému je chránit potápěče před:",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Chladem",
+      "c": "Dráždivými látkami ve vodě",
+      "d": "Odřeninami"
+    },
+    "correct": "a",
+    "explanation": "Ochranný systém (mokrý/suchý oblek + kukla + rukavice + botičky) chrání před třemi kategoriemi hrozeb. (b) CHLAD — primární účel; celý mechanismus tepelné ochrany popsaný v mssi-sod-140 / 141. Předchází hypotermii. (c) DRÁŽDIVÉ LÁTKY VE VODĚ — fyzická bariéra proti žahavým organismům (MEDÚZY, ohňové korály, hydroidi, mořské vši, sasanky — i neúmyslný kontakt s prouděním); kožní dráždidla v některých vodních útvarech (řasové květy, znečištěný odtok, sladká voda náchylná k leptospiróze); mikroskopické částice (suspendovaný silt, oxid křemičitý z písku). (d) ODŘENINY — fyzická ochrana před ostrými skalami při vstupu/výstupu, kontaktem s okraji korálů při proudění (chrání zároveň korál před námi), okraji vraků (zubaté kovy, rozbité sklo, rybářský vlasec při průniku), škrábnutími od písku/korálu při vstupech v příboji. Vedlejší přínos neuvedený, ale reálný: UV OCHRANA během dlouhých povrchových intervalů na tropických lodích (tenký lycra rashguard se někdy nosí jen kvůli slunci, ne tepelné ochraně). Všechny tři kategorie hrozeb dohromady = (a) všechno správně.",
+    "source": "mySSI: SoD Lesson 4.7 Review"
+  },
+  {
+    "id": "mssi-sod-144",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Ochranné obleky",
+    "question": "Které z následujících tvrzení o stlačení mokrého obleku je pravdivé?",
+    "options": {
+      "a": "Snižuje pozitivní vztlak v hloubce",
+      "b": "Izolace je snížena",
+      "c": "Neopren se pod tlakem stlačuje",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "d",
+    "explanation": "Všechna tři popisují jeden fyzikální řetěz. (c) NEOPREN SE POD TLAKEM STLAČUJE — Boyleův zákon aplikovaný na miliony plynem naplněných bublinek uvnitř pěny: v 10 m (2 bary absolutně) se objem každé bubliny PŮLÍ; v 30 m (4 bary) je na čtvrtině. Mokrý oblek se fyzicky ztenčuje — 7 mm na hladině je funkčně blíže ~3 mm v 30 m. (a) SNIŽUJE POZITIVNÍ VZTLAK v hloubce — vztlak neoprenu pochází z plynem naplněné pěny s nízkou hustotou, která vytlačuje vodu; jakmile se stlačí, je vytlačeno méně vody → menší vztlak. 7 mm celý mokrý oblek může ztratit 4–6 kg vztlaku mezi hladinou a 30 m. To je přesně důvod, proč potápěči potřebují PŘIDÁVAT plyn do BCD při sestupu (kompenzuje ztracený vztlak) a VYPOUŠTĚT plyn při výstupu (obnovuje vztlak). (b) IZOLACE JE SNÍŽENA — stejné stlačené bubliny znamenají méně uvězněné plynové izolace, takže tepelná hodnota obleku v hloubce klesá — 7 mm v 30 m je také tepelně blíže 3 mm. Krutý timing: hlouběji obvykle znamená studenější termoklinu, přesně když nejvíc potřebuješ teplo. Drcené/komprimované neoprenové suché obleky a trilaminátové suché obleky tímto problémem netrpí (izolační spodní prádlo + plyn uvnitř obleku to řeší). Všechna tři tvrzení jsou propojené důsledky stejné příčiny.",
+    "source": "mySSI: SoD Lesson 4.7 Review"
+  },
+  {
+    "id": "mssi-sod-145",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Ochranné obleky",
+    "question": "Příslušenství ochranného systému zahrnuje:",
+    "options": {
+      "a": "Kuklu, rukavice a masku",
+      "b": "Kuklu, botičky a rukavice",
+      "c": "Botičky, rukavice a ploutve",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "b",
+    "explanation": "PŘÍSLUŠENSTVÍ ochranného systému — rozšíření tepelné + abrazní ochrany na hlavu/ruce/nohy — jsou KUKLA, BOTIČKY a RUKAVICE. (1) KUKLA — kryje hlavu; hlava je hlavní povrch ztráty tepla (dobře prokrvený skalp + krk + krční tepny blízko povrchu). Také těsní uši, zpomaluje ochlazování uší a pomáhá s pohodlným vyrovnáváním tlaku. Tloušťky 3–7 mm odpovídající mokrému obleku; kukly s ventilací umožňují uvězněnému vzduchu unikat na temeni. (2) BOTIČKY — neoprenové návleky na nohy, 3–7 mm v závislosti na teplotě vody; nošeny s ploutvemi s OTEVŘENOU PATOU. Poskytují tepelnou ochranu I abrazní ochranu na skalnatých vstupech, horkých palubních površích, tropickém písku. (3) RUKAVICE — neoprenové palčáky (nejteplejší), 3prsté humří rukavice (teplé + nějaká obratnost), nebo 5prsté rukavice (nejlepší obratnost, méně teplé). 1,5 mm tropy až 7 mm studená voda. Kompromis: silnější = teplejší, ale ztrácí obratnost na tlačítka BCD, drily ventilů, manipulaci s počítačem, vázání uzlů pro liniové práce. Některé agentury / lokality omezují rukavice kvůli ochraně korálů. (a) MASKA je OPTICKÉ VYBAVENÍ (zorný systém), ne ochranné. (c) PLOUTVE jsou POHONNÉ VYBAVENÍ, samostatná kategorie. (d) Špatně, protože (a) a (c) zahrnují neochranné položky.",
+    "source": "mySSI: SoD Lesson 4.7 Review"
+  },
+  {
+    "id": "mssi-sod-146",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Přístroje",
+    "question": "Jak digitální kompas určuje polohu?",
+    "options": {
+      "a": "Vyžaduje složité výpočty prováděné ručně",
+      "b": "Používá elektronické senzory a digitální technologii",
+      "c": "Má mechanismus ručního natahování",
+      "d": "Zobrazuje směry pomocí magnetické střelky"
+    },
+    "correct": "b",
+    "explanation": "Digitální kompasy používají ELEKTRONICKÉ SENZORY (typicky 3osý magnetometrický čip — Hallův efekt, MEMS, nebo fluxgate) v kombinaci s digitálním zpracováním signálu. Jak to funguje: (1) magnetometr měří sílu zemského magnetického pole na osách X / Y / Z; (2) mikroprocesor vypočítá kurz z vektoru pole vůči magnetickému severu; (3) zabudovaný AKCELEROMETR poskytuje KOMPENZACI NÁKLONU — detekuje, jak je kompas orientován, a opravuje hodnoty i když není dokonale rovný (obrovská výhoda oproti analogovým střelkovým kompasům, které musí být drženy rovně — náklon >15° vyhodí střelku z kardanového kolíku); (4) displej zobrazuje kurz jako číslice („045°“) plus často grafickou kompasovou růžici se značkami směru; (5) periodická KALIBRACE pohybem ve tvaru osmičky přemapuje okolní pole, pokud je detekováno magnetické rušení. Zabudováno do většiny moderních potápěčských počítačů — Suunto D5, Shearwater Teric/Petrel, Garmin Descent, Mares Genius. Pro: tolerantní vůči náklonu, zámek kurzu, integrace s deníkem ponoru, podsvícení. Proti: závislé na baterii, citlivé na magnetické rušení od ocelových lahví / vraků bohatých na železo, drahé, občasná rekalibrace. (a) Žádný ruční výpočet není potřeba — to je nebeská navigace. (c) „Ruční natahování“ je terminologie náramkových hodinek. (d) MAGNETICKÁ STŘELKA je ANALOGOVÝ kompasový mechanismus — opak digitálního. Poznámka: formulace otázky „určuje polohu“ je v textu SSI nesprávná — kompas určuje SMĚR (kurz), ne polohu (pozici) — ale zamýšlená správná odpověď je stále (b).",
+    "source": "mySSI: SoD Lesson 4.8 Review"
+  }
+]

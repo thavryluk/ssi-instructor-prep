@@ -75,22 +75,22 @@ Dark (default) ↔ Light toggle 🌙/☀️ v topbaru. Persistence v `ssi.theme`
 
 ## Question bank
 
-### Counts (k 2026-05-01)
+### Counts (k 2026-05-01 evening)
 - Open Water Diver: **100** (Personal exam Form A+B)
-- Science of Diving: **532** (120 compiled + 200 Personal exam Form A+B + **212 mssi-sod Reviews Lesson 1.1–5.6**)
+- Science of Diving: **546** (120 compiled + 200 Personal exam Form A+B + **226 mssi-sod Reviews Lesson 1.1–5.6 + 3.5**)
 - Diver Stress & Rescue: **50** (Personal exam Form A+B, 25 q each — PDF Q26-50 missing)
 - React Right: **100** (Personal exam Form A+B)
 - Divemaster: **150** (50 compiled + 100 Personal Dive Guide exam Form A+B)
 - Assistant Instructor: **50**
 - Instructor: **753** (z toho 200 Personal ITC/AIT exam questions, 403 mssi-inst Reviews + Pretest)
-- **Total EN: 1735** (CS parity: ~1585 — **150 nových mssi-sod-063..212 čeká na CS překlad**)
+- **Total EN: 1749** | CS parity: 1749 (po dokončení překladu)
 
 ### SoD Lesson Reviews progress (mssi-sod-NNN)
 | Section | Range | Lessons covered |
 |---|---|---|
 | 1. Physics & Chemistry | mssi-sod-001..035 | 1.1–1.5 |
 | 2. Decompression Theory | mssi-sod-036..062 | 2.1–2.3 |
-| 3. Anatomy & Physiology | mssi-sod-063..098 | 3.1–3.4 |
+| 3. Anatomy & Physiology | mssi-sod-063..098 + mssi-sod-213..226 | 3.1–3.5 (3.5 dodán dodatečně po Section 5) |
 | 4. Equipment | mssi-sod-099..160 | 4.1–4.9 |
 | 5. Environment | mssi-sod-161..212 | 5.1–5.6 |
 | (zbývá) Section 6+? | — | — |
@@ -237,17 +237,28 @@ Netlify Functions (`netlify/functions/`):
 - Every state change → debounce push to `/api/state?user=<currentUser>`.
 - Dashboard has user dropdown — fetches any user's state via `/api/state?user=X` (read-only view).
 
+## STAV K 2026-05-01 (pozdě večer) — Section 5 hotová + Lesson 3.5 dodána + CS překlad bulk
+
+- **Bank: 1749 EN otázek** (1585 → 1749, +164 v posledních dvou dnech)
+- **mssi-sod-001..226** — pokrývá SoD Lesson 1.1–5.6 + 3.5 (gas mixtures dodaná dodatečně) verbatim z mySSI
+- Section 4 (Equipment), Section 5 (Environment), a Lesson 3.5 (Gas Mixtures) přidány v session 2026-04-30/05-01
+- **Nové subareas:**
+  - `Anatomy & Physiology — Cardiovascular / Respiratory / Tissues / Diving Disorders / Barotrauma / Decompression Illness / Gas Mixtures`
+  - `Equipment — History / Maintenance / Mask & Snorkel / Fins / Cylinders / Regulators / Nitrox / BCD / Exposure Suits / Instruments / Accessories`
+  - `Environment — Dive Sites / Water Movement / Water Properties / Conservation / Marine Life`
+- **CS překlad mssi-sod-063..226 (164 otázek) — bulk batch translation v 4 paralelních agentech**
+- ⚠️ Známé NEEDS VERIFICATION otázky:
+  - `mssi-sod-215` (histotoxic hypoxia) — mySSI's wording mapped to RBC dysfunction; medical textbook says cellular utilization (cyanide-style block). Recorded mySSI's answer (a) but flag remains.
+  - `mssi-sod-223` (hypoxemic hypoxia) — recorded medically correct (a) PaO₂ low, but user noted uncertainty if mySSI grades differently.
+- Aktivní task při startu na novém stroji: **pokračovat v SoD Lesson Reviews** od dalších Lesson kapitol (možná Lesson 3.6 / Section 6), nebo cokoliv pošle Tomáš
+
+---
+
 ## STAV K 2026-05-01 (večer) — pokračuje SoD Lesson Reviews
 
 - **Bank: 1735 EN otázek** (1585 → 1735, +150 v posledních dvou dnech)
 - **mssi-sod-001..212** — pokrývá SoD Lesson 1.1 až 5.6 verbatim z mySSI
 - Section 4 (Equipment) a Section 5 (Environment) přidány v session 2026-04-30/05-01
-- **Nové subareas:**
-  - `Anatomy & Physiology — Cardiovascular / Respiratory / Tissues / Diving Disorders / Barotrauma / Decompression Illness`
-  - `Equipment — History / Maintenance / Mask & Snorkel / Fins / Cylinders / Regulators / Nitrox / BCD / Exposure Suits / Instruments / Accessories`
-  - `Environment — Dive Sites / Water Movement / Water Properties / Conservation / Marine Life`
-- **CS překlad 150 nových otázek čeká** — všechno EN-only zatím, dle uživatelovy preference dělat hromadně až po dokončení sekce
-- Aktivní task při startu na novém stroji: **pokračovat v SoD Lesson Reviews** od Lesson 5.7 (nebo cokoliv další pošle Tomáš), případně bulk-přeložit mssi-sod-063..212 do CS
 
 ### Workflow při příchozí mySSI otázce (cheat sheet)
 1. Verifikovat odpověď proti SSI doctrine — flagnout disagreement, použít ⚠️ NEEDS VERIFICATION jen u opravdu nejistých

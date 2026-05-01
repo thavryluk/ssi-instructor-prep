@@ -1,0 +1,287 @@
+[
+  {
+    "id": "mssi-sod-189",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "What organisms make up zooplankton?",
+    "options": {
+      "a": "Algae",
+      "b": "Protists like diatoms and dinoflagellates",
+      "c": "Archaea and bacteria",
+      "d": "Protozoa, eggs and larvae, and animals"
+    },
+    "correct": "d",
+    "explanation": "ZOOPLANKTON = animal plankton — heterotrophic drifters in the water column. Composition: (1) PROTOZOA — single-celled 'animals' (technically protists): radiolarians, foraminifera, ciliates, tintinnids. Tiny but staggeringly abundant. (2) EGGS AND LARVAE (called MEROPLANKTON because they're plankton only for part of their life): fish eggs and fry; crab/lobster zoea + megalopa larvae; mollusk veligers (snail/clam larvae); echinoderm bipinnaria/pluteus (sea star, urchin larvae); coral planula (free-swimming coral babies); polychaete trochophores. Most marine animals have planktonic larval stages — dispersal mechanism. (3) ANIMALS (HOLOPLANKTON, plankton for whole life): COPEPODS — most abundant animal on Earth (~10²¹ individuals); base of marine food webs above phytoplankton; KRILL (Euphausiids) — base of polar food chains, fed on by whales, fish, penguins; JELLYFISH, SALPS, CTENOPHORES — gelatinous zooplankton; CHAETOGNATHS (arrow worms) — predatory zooplankton; PTEROPODS ('sea butterflies') — planktonic snails; LARVACEANS that build mucous houses to filter food. (a) Algae = PHYTOPLANKTON (plant plankton), opposite category. (b) Diatoms + dinoflagellates = PHYTOPLANKTON (photosynthetic protists; some dinoflagellates are mixotrophic but classified as phyto). (c) Archaea + bacteria = BACTERIOPLANKTON / PICOPLANKTON, separate category.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-190",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Which of the following are key parts of a nutrient cycle?",
+    "options": {
+      "a": "Waste is consumed by detritivores and converted into usable nutrients",
+      "b": "All answers are correct",
+      "c": "Nutrients are excreted by organisms",
+      "d": "Nutrients are consumed by primary producers"
+    },
+    "correct": "b",
+    "explanation": "All three describe key stages of marine nutrient cycling. (a) DETRITIVORES BREAK DOWN WASTE / DEAD MATTER into reusable nutrients — bacteria, fungi, sea cucumbers, sand-dwelling worms, hagfish, scavenging crabs all decompose organic matter, MINERALIZING it back to inorganic nutrient forms (NH₄⁺ → NO₃⁻, phosphates, silicates) that producers can use again. (c) NUTRIENTS EXCRETED BY ORGANISMS — every animal excretes waste (urea, ammonia, feces, scales). These directly fertilize surrounding water; WHALE POOP for example is a major nutrient pump in surface waters (whales feed deep, surface to defecate, fertilizing phytoplankton blooms — known as the 'whale pump'). Fish gill ammonia excretion does the same on smaller scale. (d) NUTRIENTS CONSUMED BY PRIMARY PRODUCERS — phytoplankton uptake dissolved N, P, Si, Fe to fuel photosynthesis and cell building; this is where inorganic nutrients become organic biomass, restarting the cycle. FULL MARINE NUTRIENT CYCLE: producers fix nutrients (CO₂ + N + P + Fe → biomass) → consumers eat producers (transfer up food chain) → excretion + death + decomposition (nutrients return to dissolved form) → detritivores + bacteria mineralize (organic → inorganic) → available again for producers → cycle complete. CRITICAL LIMITING NUTRIENTS in the ocean: NITROGEN (most coastal waters), PHOSPHORUS (some tropical), IRON (open Pacific high-nutrient-low-chlorophyll regions). Iron limitation is why Saharan dust fertilizes Atlantic phytoplankton blooms.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-191",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Which species plays a critical role in maintaining the population structure of an ecosystem?",
+    "options": {
+      "a": "Keystone species",
+      "b": "Holdfast",
+      "c": "Symbiont",
+      "d": "Top predator"
+    },
+    "correct": "a",
+    "explanation": "A KEYSTONE SPECIES has DISPROPORTIONATELY LARGE impact on its ecosystem relative to its abundance. Term coined by ecologist Robert Paine in 1969 based on his work with the OCHRE SEA STAR (Pisaster ochraceus) on Pacific Northwest rocky shores — when he removed Pisaster, mussel monocultures took over and biodiversity collapsed. The 'keystone' name comes from architecture: the central wedge in a stone arch — remove it and the whole structure collapses. CLASSIC MARINE KEYSTONE EXAMPLES: SEA OTTERS (Pacific NW) eat sea urchins; without otters, urchins explode and overgraze kelp forests → 'urchin barrens'. Otter recovery has restored kelp ecosystems. PARROTFISH (Caribbean reefs) graze algae off coral; without them, algae overgrows coral and reefs degrade. SHARKS (reef ecosystems) provide top-down control on mid-trophic predators; in shark-depleted reefs, herbivore populations crash → algae takeover. SEA STARS (Pisaster, original example) prevent mussel monoculture by predation. Distinct concepts: (b) HOLDFAST = root-like attachment structure of kelp/seaweed to substrate, an anatomical feature, not a species. (c) SYMBIONT = partner in a symbiotic relationship (clownfish ↔ anemone, coral ↔ zooxanthellae); not necessarily ecosystem-critical. (d) TOP PREDATOR = at top of food web; many keystones ARE top predators (otters, sharks) but not all keystones are top predators (parrotfish are herbivores), and not all top predators are keystones — depends on whether their removal cascades through the system. Keystone is a function, top predator is a position.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-192",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "What is a food web?",
+    "options": {
+      "a": "A group of consumers",
+      "b": "A complex system of interconnecting food chains",
+      "c": "A sequence of animals from large to small",
+      "d": "A linear sequence demonstrating the flow and energy of nutrients"
+    },
+    "correct": "b",
+    "explanation": "A FOOD WEB is a complex NETWORK of INTERCONNECTED FOOD CHAINS showing all feeding relationships in an ecosystem. Compare with a FOOD CHAIN, which is a LINEAR sequence: phytoplankton → zooplankton → small fish → larger fish → shark. A food web is the REALITY: most organisms eat multiple species and are eaten by multiple predators, so multiple food chains tangle together into a network. Caribbean reef example: parrotfish eats algae + coral polyps + invertebrates → eaten by groupers + barracuda + sharks; barracuda also eats squid + smaller fish; algae also eaten by surgeonfish + urchins... web of arrows, not a single line. WHY FOOD WEBS MATTER: RESILIENCE — if one species crashes, alternative pathways exist for energy flow; CASCADING EFFECTS — removing one node ripples through the web (the basis of keystone-species concept, mssi-sod-191); TROPHIC LEVELS still apply (producers → herbivores → primary carnivores → top carnivores → decomposers) but most species span multiple levels (omnivores, ontogenetic shifts where juveniles eat differently than adults). (a) 'Group of consumers' is too vague and misses producers + decomposers. (c) Size doesn't define trophic position — mantis shrimp eat fish much larger than themselves; small parasites eat huge whales. (d) LINEAR SEQUENCE = food CHAIN, not web.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-193",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Phytoplankton is mainly comprised of:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Prokaryotes like bacteria and archaea",
+      "c": "Protists like diatoms and dinoflagellates",
+      "d": "Algae"
+    },
+    "correct": "a",
+    "explanation": "PHYTOPLANKTON = autotrophic drifting microorganisms — an UMBRELLA TERM that includes diverse photosynthetic groups, all three listed in (b–d). (b) PROKARYOTES — CYANOBACTERIA: PROCHLOROCOCCUS (smallest and most abundant photosynthetic organism on Earth, ~10²⁷ cells) and SYNECHOCOCCUS together produce a major fraction of marine primary production; TRICHODESMIUM is a nitrogen-fixing cyanobacterium that blooms 'red tide'-like in tropical seas (red color gave the Red Sea its name). (c) PROTISTS — DIATOMS (silica-shelled frustules; cold-water/coastal blooms; backbone of polar food webs; produce ~50% of marine primary production); DINOFLAGELLATES (flagellated, often armored with cellulose plates; some bioluminescent — cause 'sea sparkle'; some toxic blooms — Karenia, Alexandrium causing red tides; includes SYMBIODINIUM, the zooxanthellae living in coral); COCCOLITHOPHORES (CaCO₃ plates; major contributor to chalk deposits — White Cliffs of Dover are coccolith fossils). (d) ALGAE (broad term): in strict usage 'algae' = eukaryotic photosynthetic protists + macroalgae; single-celled algae are part of phytoplankton; multi-cellular seaweed is benthic (not plankton). So phytoplankton is the catch-all that includes prokaryotic cyanobacteria + eukaryotic protist algae + other photosynthetic drifters. (a) all correct.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-194",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Seagrasses are considered the only true marine plants because:",
+    "options": {
+      "a": "They can only survive fully submerged in water",
+      "b": "They do not have seeds or roots",
+      "c": "They are the only marine species with true roots, leaves, stems and flowers",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "SEAGRASSES are the only true flowering plants (ANGIOSPERMS) that complete their entire life cycle FULLY SUBMERGED in seawater. They have all the features of land plants — adapted to marine life: TRUE ROOTS (anchor in sediment, uptake nutrients, stabilize substrate); TRUE STEMS (rhizomes spread horizontally underground; vertical shoots support leaves); TRUE LEAVES (chlorophyll, vascular tissue, photosynthesis); TRUE FLOWERS (yes — seagrasses FLOWER UNDERWATER, small and inconspicuous, and produce SEEDS; pollination via water — hydrophilous — or sometimes invertebrates as recent research has found). MAJOR SEAGRASS GENERA: ZOSTERA (eelgrass — temperate); THALASSIA (turtle grass — Caribbean); POSIDONIA OCEANICA (Mediterranean — one of the longest-lived organisms on Earth, clonal beds up to 100,000 years old); HALODULE, CYMODOCEA, SYRINGODIUM (tropical Indo-Pacific). DISTINCT FROM: SEAWEED / MACROALGAE (kelps, sargassum, ulva) — these are NOT plants, they're protists; no true roots (have HOLDFASTS), no flowers, reproduce via spores. MANGROVES are true flowering plants but only roots in water, trunks/leaves above — partially terrestrial. SALT-MARSH GRASSES (Spartina) are true plants but live in the tidal zone, not fully submerged. WHY THIS MATTERS: seagrasses are critical BLUE CARBON ecosystems (huge carbon sequestration), nursery habitat, food for dugongs / manatees / green sea turtles, oxygen producers, sediment stabilizers. (a) True they're fully submerged but not the DEFINING trait of 'true plant'. (b) Wrong — they DO have seeds and roots, that's the WHOLE POINT. (d) Wrong because (b) is false.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-195",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "The maximum number of individuals of a particular species that an ecosystem can support is called the:",
+    "options": {
+      "a": "Abiotic factor",
+      "b": "Diversity",
+      "c": "Exponential growth",
+      "d": "Carrying capacity"
+    },
+    "correct": "d",
+    "explanation": "CARRYING CAPACITY (K) = the maximum population of a species that an environment can sustain INDEFINITELY given available resources (food, habitat, water, space, mates, light) and biotic constraints (predators, disease, competitors). LOGISTIC GROWTH MODEL describes the dynamics: population grows roughly exponentially when small (plenty of resources); growth rate SLOWS as population approaches K (resources scarce); population STABILIZES at K (births ≈ deaths); if population OVERSHOOTS K, mortality > births → crash back down (population cycles). FACTORS DETERMINING K for marine species: FOOD AVAILABILITY (herbivorous urchins limited by algae; predator populations by prey); HABITAT / SPACE (coral reef fish limited by hidey-hole density; territoriality); PREDATION PRESSURE (top predators limited by competition; prey limited by predation); DISEASE / PARASITES (density-dependent transmission); COMPETITION (for any limited resource — mates, nesting sites, territory); ABIOTIC FACTORS (water temperature, salinity, oxygen, pH set baseline range). K IS DYNAMIC, not fixed: climate change alters temperature regimes → K shifts up for warm-water species, down for cold-water; overfishing reduces K by destroying spawning stock; habitat restoration raises K. (a) ABIOTIC FACTOR = non-living environmental component (temperature, salinity, pH, light, depth, current); influences K but isn't the same concept. (b) DIVERSITY = number of species (richness) + their relative abundance (evenness); different metric. (c) EXPONENTIAL GROWTH = unrestricted growth rate (constant per-capita rate); OPPOSITE of carrying-capacity-limited dynamics. Real populations grow exponentially only briefly when far below K.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-196",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Most annelids defend themselves by:",
+    "options": {
+      "a": "Hiding",
+      "b": "Burrowing into sand",
+      "c": "Excreting toxic chemicals",
+      "d": "Changing color"
+    },
+    "correct": "b",
+    "explanation": "Most marine ANNELIDS (segmented worms) defend themselves by BURROWING INTO SAND / SEDIMENT or retracting into protective tubes. Marine annelid cohort: POLYCHAETES (bristle worms) are the most diverse marine group, ~10,000+ species. Includes Christmas tree worms (Spirobranchus), fan worms (Sabella), feather duster worms, fire worms (Hermodice), bobbit worms (Eunice aphroditois), parchment worms, palolo worms, scale worms. DEFENSE STRATEGIES by annelid type: (1) TUBE-DWELLING POLYCHAETES — Christmas tree worms, fan worms, feather dusters — when threatened, RETRACT INSTANTLY into a hard calcareous or parchment tube. The colorful 'feather' or 'tree' visible is just the feeding/respiratory apparatus; the rest of the worm is hidden inside the tube. Touch one with your finger and it disappears in milliseconds. (2) BURROWING POLYCHAETES — bobbit worms, lugworms, sand mason worms — live in U-shaped or vertical burrows in sand/mud; retract or burrow deeper when disturbed. (3) TUBE-LESS POLYCHAETES — some bristle worms, fire worms — have STINGING CHAETAE (calcified/chitinous bristles) that break off in attacker's skin like glass needles; FIRE WORMS (Hermodice carunculata) deliver painful sting to careless divers, bristles stick like cactus spines. (4) SYMBIOTIC / COMMENSAL polychaetes living with sea urchins, brittle stars, sponges — defended by host's armor. The DOMINANT strategy across annelids: withdrawal into tube or burrow (b). (a) 'Hiding' is too vague; mechanism is specifically burrowing or retracting into tubes. (c) Some bristle worms have toxic chaetae but not the majority of annelids. (d) Color change is a CEPHALOPOD specialty (octopus, cuttlefish, squid) — annelids generally lack chromatophores.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-197",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Some flatworms protect themselves by mimicking:",
+    "options": {
+      "a": "Anemones",
+      "b": "Toxic nudibranchs",
+      "c": "Box jellyfish",
+      "d": "Sea cucumbers"
+    },
+    "correct": "b",
+    "explanation": "Marine FLATWORMS (Polycladida — Pseudoceros, Pseudobiceros, etc.) often MIMIC TOXIC NUDIBRANCHS to deter predators — a textbook example of BATESIAN MIMICRY: a harmless species evolves to resemble a harmful one, gaining protection without paying the metabolic cost of producing real defenses. THE MIMICRY PAIR: NUDIBRANCHS are toxic sea slugs (gastropods) that store stinging cells, sponge toxins, or other defensive chemicals SEQUESTERED from their prey. Their bright APOSEMATIC coloration honestly advertises 'don't eat me, I'm poisonous.' FLATWORMS are mostly NOT toxic but have evolved to look uncannily similar in shape, color pattern, and movement — predators that have learned to avoid bright nudibranchs avoid flatworms too. HOW TO TELL THEM APART (the diver/photographer ID trick): FLATWORMS are extremely thin (a few mm thick at most), flutter and ripple gracefully when swimming like a piece of fabric, have at most two 'ears' (pseudo-tentacles) at the front, no gills. NUDIBRANCHS are thicker-bodied with visible RHINOPHORES (sensory tentacles on head), often a tuft of GILLS on the back, and crawl rather than ripple. Iconic mimics: Pseudobiceros flatworms mimic Phyllidia or Chromodoris nudibranchs; Pseudoceros species mimic various brightly-patterned nudibranchs across the Indo-Pacific. (a) Anemones are sessile cnidarians, completely different body plan. (c) Box jellies are pelagic gelatinous predators, very different morphology. (d) Sea cucumbers are sausage-shaped echinoderms — flatworms don't resemble them.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-198",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Nematocysts are capable of:",
+    "options": {
+      "a": "Capturing prey and creating camouflage",
+      "b": "Absorbing carbon dioxide and capturing prey",
+      "c": "Changing colors and injecting toxins",
+      "d": "Injecting toxins or capturing prey"
+    },
+    "correct": "d",
+    "explanation": "NEMATOCYSTS are the stinging cells of phylum Cnidaria — specialized intracellular structures inside CNIDOCYTES (also called nematocytes) that fire EXPLOSIVELY to inject venom or capture prey. HOW THEY WORK (one of the fastest biological processes known): (1) the cnidocyte contains a coiled hollow tube under high osmotic pressure; (2) a CNIDOCIL hair-trigger sensor on the cell surface detects touch / chemical cue; (3) trigger releases internal pressure → the coiled tube fires out at ~5 m/s with accelerations exceeding 5 MILLION g — one of the fastest cellular movements documented, penetrating prey/attacker tissue; (4) toxin is injected through the hollow tube, paralyzing prey. FUNCTIONS: CAPTURE SMALL PREY (plankton, small fish, shrimp — harpoon-and-paralyze); DEFENSE (sting attackers, including divers); some types ADHESION (sticky rather than penetrating). Different cnidocyte specializations: PENETRANTS (harpoon, deep sting — Cubozoa box jellies, Portuguese man-o-war); GLUTINANTS (sticky, no penetration); VOLVENTS (entangling). Cnidarian sting severity for divers: anemones (mild itch), most reef corals (irritation), FIRE CORAL / HYDROIDS (burning sting that lasts hours), most jellyfish (welts), Portuguese man-o-war (severe pain, sometimes systemic effects), box jellyfish + IRUKANDJI syndrome (potentially lethal). (a) Camouflage isn't a nematocyst function — that's chromatophores or behavior. (b) CO₂ absorption isn't a nematocyst role. (c) Color change is via chromatophores (cephalopods), not nematocysts.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-199",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Anemones, jellyfish, and corals belong to Phylum:",
+    "options": {
+      "a": "Cnidaria",
+      "b": "Echinodermata",
+      "c": "Vertebrata",
+      "d": "Porifera"
+    },
+    "correct": "a",
+    "explanation": "PHYLUM CNIDARIA ('nettle animals' — Greek knide = nettle) unifies anemones, jellyfish, corals, hydroids, fire coral, hydra. DEFINING CHARACTERISTICS: (1) NEMATOCYSTS — the namesake stinging cells (mssi-sod-198); (2) RADIAL SYMMETRY — body organized around a central axis (no left/right, just top and bottom); (3) DIPLOBLASTIC — only two embryonic tissue layers (ectoderm + endoderm; no mesoderm); (4) SINGLE BODY OPENING — the same orifice serves as mouth and anus (gastrovascular cavity); (5) TWO BASIC BODY FORMS that alternate in many life cycles: POLYP (sessile, attached, mouth up — anemones, corals, hydra) and MEDUSA (free-swimming, mouth down — jellyfish). CNIDARIAN CLASSES: ANTHOZOA (sea anemones + hard corals + soft corals; only polyp form, no medusa; the largest class); SCYPHOZOA (true jellyfish, medusa-dominant, large bell, e.g. moon jelly Aurelia); CUBOZOA (box jellyfish, cube-shaped bell, complex eyes, deadly toxins, Chironex fleckeri); HYDROZOA (hydroids, FIRE CORAL Millepora — actually a hydrozoan despite the name, Portuguese man-o-war as colonial siphonophore, hydra); STAUROZOA (rare stalked jellyfish, small, sessile). (b) ECHINODERMATA = sea stars, urchins, sand dollars, sea cucumbers, brittle stars — radially symmetric (5-fold), water vascular system, tube feet — completely different phylum. (c) VERTEBRATA = animals with backbones (fish, amphibians, reptiles, birds, mammals) — much higher up the tree. (d) PORIFERA = sponges — simplest animal phylum, no true tissues, no nervous system, no symmetry, filter feeders.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-200",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Why are marine arthropods important to their food chain?",
+    "options": {
+      "a": "Horseshoe crab eggs are a major food source for many shorebirds",
+      "b": "Larger crustaceans are a food source for many marine animals",
+      "c": "Smaller crustaceans eat algae, allowing sunlight and oxygen to reach plants and corals",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three roles describe real ecological functions of marine arthropods. (a) HORSESHOE CRAB EGGS FEED SHOREBIRDS — most famous example: RED KNOT SANDPIPERS (Calidris canutus rufa) time their epic migration from Tierra del Fuego to the Arctic to coincide with horseshoe crab (Limulus polyphemus) mass spawning in Delaware Bay each spring. They gorge on the lipid-rich eggs to fuel the final 3000+ km flight. Horseshoe crab decline (overharvest for the biomedical industry — their blue blood is used in pharmaceutical endotoxin testing — and bait fishery) has driven red knot population collapse. (b) LARGER CRUSTACEANS FEED MARINE ANIMALS — lobsters, crabs, mantis shrimp, slipper lobsters, large prawns are eaten by groupers, snappers, octopuses, eels, sharks, sea otters, even some seabirds. High-protein food source up the food chain. (c) SMALLER CRUSTACEANS GRAZE ALGAE — amphipods, isopods, copepods, krill, mysids graze algae and detritus; their grazing prevents algal overgrowth that would shade reefs and seagrass beds. Amphipods on reefs are particularly important 'lawn mowers' keeping coral surfaces clean of overgrowing turf algae. Krill grazing structures whole polar food webs. Marine arthropods (crustaceans + horseshoe crabs) are a TROPHIC LINCHPIN — both prey for everything bigger AND grazers/cleaners maintaining ecosystem function.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-201",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "As their body grows, arthropods:",
+    "options": {
+      "a": "Molt their exoskeleton",
+      "b": "Grow additional legs",
+      "c": "Merge body segments",
+      "d": "Change colors"
+    },
+    "correct": "a",
+    "explanation": "Arthropods are encased in a hard chitinous EXOSKELETON (cuticle) that CANNOT STRETCH. To grow, they MOLT — shed the old exoskeleton and grow a new larger one. The molting process (ECDYSIS): (1) PRE-MOLT — a new soft cuticle forms beneath the old hard one; old cuticle is partially digested from the inside; animal stops feeding, often hides. (2) ECDYSIS — split appears along a predictable line (often dorsal); animal pulls itself out (hours-long for big lobsters). (3) POST-MOLT — new cuticle is SOFT AND PALE ('soft-shell' stage, most vulnerable; soft-shell crab is just a recently-molted blue crab); animal hides under cover. (4) HARDENING — new cuticle hardens via mineralization (calcium carbonate from seawater) and tanning (sclerotization), 6–48 hours depending on species/size. (5) INTER-MOLT — hard cuticle, normal feeding until next pre-molt starts. FREQUENCY: juveniles molt frequently (days to weeks); adults slowly (annually for large lobsters; some adult crabs go years between molts). SIZE INCREASE: each molt adds typically 10–25% body size. VULNERABILITY: no defense during soft-shell stage — easy predation, cannibalism in captivity, metabolically expensive. CURIOSITIES: stone crab fishery harvests one claw because the crab regrows it; horseshoe crab molts wash up on beaches looking like dead crabs (but the animal is alive elsewhere); American lobsters living 50+ years molt 25+ times reaching impressive sizes. (b) Leg count is FIXED for the species (crabs always have 10). (c) Body segments are fixed at hatching. (d) Some arthropods change color (mantis shrimp, certain camouflaging crabs) but color change is not growth-driven.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-202",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Simple invertebrates are called so because they have a:",
+    "options": {
+      "a": "Simple body structure without respiratory or circulatory systems",
+      "b": "Complex body structure without respiratory or circulatory systems",
+      "c": "Simple body structure with respiratory or circulatory systems",
+      "d": "No legs"
+    },
+    "correct": "a",
+    "explanation": "'SIMPLE INVERTEBRATES' are so named because they have a BASIC BODY STRUCTURE WITHOUT DEDICATED RESPIRATORY OR CIRCULATORY SYSTEMS — gas exchange and nutrient distribution happen by DIRECT DIFFUSION across the body surface or through a gastrovascular cavity. INCLUDES: (1) PORIFERA (sponges) — simplest of all animals, no organs, no tissues in the strict sense; water flows through pores (ostia) into a central cavity (spongocoel) and out the osculum, with collar cells (choanocytes) filtering food and passively exchanging gases. (2) CNIDARIA (anemones, jellyfish, corals) — nerve net but no centralized brain, no heart, no blood vessels; gas exchange across thin body wall via diffusion. (3) PLATYHELMINTHES (flatworms) — flat shape maximizes surface area for diffusion; no respiratory or circulatory system; the gut is branched to deliver nutrients without a vascular system. (4) Some annelids and other early-branching groups vary. WHY NO RESPIRATORY/CIRCULATORY SYSTEM WORKS: thin body walls + small body size + flat or branched shapes = every cell is close enough to the surface for direct diffusion to handle O₂/CO₂ and nutrient transfer. Once animals get larger and more compact (mollusks, arthropods, vertebrates), this stops working — they require dedicated gills/lungs + heart + circulatory vessels. (b) 'Complex without systems' is a contradiction — complex bodies need systems. (c) Simple bodies WITH systems contradicts itself. (d) Many vertebrates have no legs (snakes, fish, eels), so legs aren't the defining trait of body complexity.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-203",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Many echinoderms protect themselves by:",
+    "options": {
+      "a": "Changing colors",
+      "b": "Secreting toxins",
+      "c": "Using pincers",
+      "d": "Burrowing into sand"
+    },
+    "correct": "b",
+    "explanation": "Many echinoderms protect themselves CHEMICALLY — through toxin secretion or defensive compounds. (1) SEA CUCUMBERS are the masters: CUVIERIAN TUBULES — internal sticky (sometimes toxic) threads ejected from the anus when stressed, entangle attackers; HOLOTHURIN / saponins — toxic compounds in body wall, concentrated enough to kill fish in a small aquarium if a stressed sea cucumber releases them (this is why some Indo-Pacific aquarists never put sea cucumbers in tanks with valuable fish). (2) SEA STARS — crown-of-thorns (Acanthaster planci) has venomous spines causing severe pain + tissue damage; many other sea stars are toxic to taste (deters predators chemically). (3) SEA URCHINS — combined defense: spines (mechanical) + some species have VENOMOUS SPINES (flower urchin Toxopneustes pileolus has flower-like pedicellariae carrying toxin, fire urchin); pedicellariae (tiny pincers between spines) are also venomous in some. (4) BRITTLE STARS — some species autotomize (drop) arms when grabbed (regrow later); chemical secretions in some species. While spines (urchins) and rigid skin (sea stars) provide mechanical defense, the unifying chemical strategy across the phylum is TOXIN SECRETION — that's the answer. (a) Color change isn't a notable echinoderm strategy (no chromatophores). (c) PEDICELLARIAE are tiny pincer-like organs on some echinoderms but secondary to toxins + spines. (d) Some sand dollars and heart urchins burrow, but burrowing isn't the dominant echinoderm defense.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-204",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Which of the following roles do marine invertebrates fulfill in an underwater ecosystem?",
+    "options": {
+      "a": "Filtering particles from water",
+      "b": "Cleaning algae from coral reefs and remove parasites from fish",
+      "c": "All answers are correct",
+      "d": "Nutrient cycling"
+    },
+    "correct": "c",
+    "explanation": "Marine invertebrates fulfill all three roles — they are the unsung backbone of every marine ecosystem. (a) FILTERING PARTICLES FROM WATER — countless invertebrate species are filter feeders, dramatically improving water quality: SPONGES pump water through their bodies (a single sponge can filter hundreds of liters per day); BIVALVES (oysters, mussels, clams) — oyster reefs historically filtered Chesapeake Bay's entire volume in 3–4 days, now (post-collapse) it takes a year; mussels, scallops, clams all major filterers; BARNACLES sweep plankton with cirri; SEA SQUIRTS pump water through siphons; TUBE-DWELLING POLYCHAETES use feathery feeding fans (Christmas tree worms, fan worms); SEA CUCUMBERS filter sediment. (b) CLEANING + PARASITE REMOVAL — keystone services: SEA URCHINS graze algae off rocks and reefs (over-grazing produces 'urchin barrens'; under-grazing lets algae overgrow coral); CLEANER SHRIMP (Lysmata, Stenopus) set up CLEANING STATIONS where fish queue up to have parasites, dead tissue, and ectoparasites picked off — symbiotic mutualism; CRABS clean algae and detritus from coral; bristle worms scavenge dead matter. (d) NUTRIENT CYCLING — decomposers and detritivores recycle nutrients back into the food web: sea cucumbers process huge amounts of sediment redistributing nutrients; polychaetes, isopods, amphipods decompose detritus; bacteria + invertebrate scavengers complete nutrient mineralization. Without invertebrates, marine ecosystems collapse — fish are the visible top, but invertebrates do most of the actual work below.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-205",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Bony fish species may use which of the following feeding strategies?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Omnivorous",
+      "c": "Carnivorous",
+      "d": "Herbivorous"
+    },
+    "correct": "a",
+    "explanation": "Bony fish (class OSTEICHTHYES, ~30,000+ species — the largest vertebrate group on Earth) display every feeding strategy known. (b) OMNIVOROUS — most reef fish (damselfish, wrasses, butterflyfish), opportunistic eaters of algae + small invertebrates + plankton; the flexible majority. (c) CARNIVOROUS — animal predators in subclasses: PISCIVOROUS / fish-eaters (groupers, barracuda, tuna, billfish, jacks, snappers); INVERTIVOROUS (triggerfish that crush mollusks, wrasses picking small crustaceans, goatfish probing sand for invertebrates); PLANKTIVOROUS (anchovies, sardines, herring filter zooplankton). (d) HERBIVOROUS — plant/algae eaters: PARROTFISH (graze coral surface algae, produce huge amounts of sand from grinding coral); SURGEONFISH / TANGS (algae grazers, key reef cleaners — without them reefs get algae overgrowth); rabbitfish, blennies, gobies. BEYOND THESE THREE, bony fish also include DETRITIVORES (catfish, mullets cleaning organic debris on bottom); PARASITE-EATERS (cleaner wrasses set up stations where larger fish queue for cleaning); SABER-TOOTHED BLENNIES that MIMIC cleaner wrasses then bite chunks off the suckered larger fish (aggressive mimicry, opposite of Batesian); FILTER FEEDERS (paddlefish, some herring) though rarer among bony fish; SYMBIOTIC FEEDERS (anemonefish/clownfish eating parasites + scraps from their anemone home); SPECIALIZED PREDATORS (anglerfish with bioluminescent lures, gulper eels with expandable mouths). The diversity of bony fish feeding strategies is a major reason they're the most ecologically successful vertebrate group on Earth.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-206",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Which venomous fish are well-camouflaged and could cause serious injury?",
+    "options": {
+      "a": "Barracudas and groupers",
+      "b": "Sharks and rays",
+      "c": "Blue tang and eels",
+      "d": "Scorpionfish and stonefish"
+    },
+    "correct": "d",
+    "explanation": "Family SCORPAENIDAE — masters of marine camouflage AND venom. STONEFISH (Synanceia, including reef stonefish S. verrucosa and estuarine S. horrida) are the MOST VENOMOUS FISH IN THE WORLD. Skin texture mimics encrusted rock or coral rubble so perfectly that divers and waders step on them without seeing. 13 dorsal spines deliver venom causing excruciating pain (often described as 'the worst pain imaginable'), tissue necrosis, cardiovascular collapse, occasional fatalities. Treatment: HOT-WATER IMMERSION at 45 °C for 30–90 min (denatures heat-labile venom proteins) + stonefish antivenom for severe envenomations. SCORPIONFISH (Scorpaena and related genera): SCORPIONFISH PROPER — incredible camouflage on reef rubble, weed, and algae-covered rocks, venomous spines (less potent than stonefish but still very painful); LIONFISH (Pterois volitans, P. miles) use the OPPOSITE strategy — bright APOSEMATIC warning colors (red-white striped fan-like fins), not camouflaged but venomous; invasive in Caribbean / Atlantic from accidental Florida releases in the 1980s; DEVIL SCORPIONFISH (Inimicus) — camouflaged ambush predator. DIVER SAFETY: never put hands where you can't see (don't grip rocks/ledges), wear booties on reef walks, scan the bottom carefully before settling, watch for 'the rock that breathes'. (a) Barracudas + groupers are predators, not venomous. (b) Sharks bite (not venomous); some rays have venomous tail barbs but aren't 'well-camouflaged' in the sit-still scorpionfish sense. (c) Blue tang has a sharp caudal spine but no venom; moray eels have nasty bites but are not venomous — the lacerations get infected from oral bacteria.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-207",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "How can divers minimize negative interactions with marine life?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Observe, but do not touch or bait animals",
+      "c": "Wear appropriate exposure suits and follow local regulations",
+      "d": "Move cautiously, avoid sudden movements, maintain buoyancy, and avoid covered areas"
+    },
+    "correct": "a",
+    "explanation": "All three principles cover the responsible marine-life interaction code. (b) OBSERVE but DON'T TOUCH or BAIT: don't touch — your skin oils harm coral and fish slime layers, touching stresses animals, many species are venomous (cone snails, fire coral, scorpionfish — see mssi-sod-206), some species are legally protected; don't bait/feed — alters natural behavior, creates dependency, conditions sharks/rays to associate divers with food (dangerous), introduces pollutants, harms species (bread to fish causes digestive issues). (c) APPROPRIATE EXPOSURE SUIT + LOCAL REGULATIONS: suit protects you from stings, scrapes, abrasions, and protects animals from your skin chemistry contacting their slime layer; local regs vary widely — many areas prohibit gloves to discourage touching coral, restrict night diving, ban shark feeding, require permits for protected sites; ignorance is not an excuse — research before diving. (d) CAUTIOUS MOVEMENT + GOOD BUOYANCY + AVOIDING HIDDEN AREAS: slow deliberate movement (sudden moves trigger fight/flight responses); good buoyancy keeps you off the bottom (preventing reef damage from fin kicks, knees, gear drag — bad buoyancy is the leading cause of diver-induced reef damage); avoid covered areas (don't reach blindly into holes/crevices, don't stick fingers in shells, don't grab kelp/seagrass for purchase). Other principles worth knowing: MAINTAIN RESPECTFUL DISTANCE (varies — sharks 2–3 m, mantas 3–5 m, dolphins follow their lead, never chase); NO FLASH PHOTOGRAPHY at close range with delicate species; DON'T BLOCK ESCAPE ROUTES; remove trash, don't introduce gear that could be lost on the reef.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  }
+]

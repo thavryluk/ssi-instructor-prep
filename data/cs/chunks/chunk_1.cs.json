@@ -1,0 +1,632 @@
+[
+  {
+    "id": "mssi-sod-063",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Kardiovaskulární",
+    "question": "Jak srdce cirkuluje krev za účelem okysličení?",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Odkysličená krev je čerpána do plic přes pravou síň a komoru",
+      "c": "Srdce čerpá okysličenou krev z plic do těla",
+      "d": "Okysličená krev vstupuje z plic do levé síně a komory"
+    },
+    "correct": "a",
+    "explanation": "Dvojitý srdeční oběh, všechna tři tvrzení jsou správná: (b) PLICNÍ oběh — odkysličená krev z těla se vrací do pravé síně → pravá komora → plicní tepny → plíce pro výměnu plynů; (d) PLICNÍ ŽILNÍ NÁVRAT — čerstvě okysličená krev z plic vstupuje do levé síně → levá komora; (c) SYSTÉMOVÝ oběh — levá komora čerpá okysličenou krev přes aortu do celého těla. Pravá strana zajišťuje nízkotlakou plicní smyčku, levá strana vysokotlakou systémovou smyčku.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-064",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Tkáně",
+    "question": "Které z následujících jsou typy tělesné tkáně?",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Svalová a epitelová tkáň",
+      "c": "Tuková tkáň",
+      "d": "Pojivová a nervová tkáň"
+    },
+    "correct": "a",
+    "explanation": "Histologie klasifikuje veškerou lidskou tkáň do čtyř primárních typů: EPITELOVÁ (kůže, žlázy, výstelka orgánů), POJIVOVÁ (kost, chrupavka, krev, tuk, vazivové šlachy), SVALOVÁ (kosterní svaly volní, srdeční, hladká), NERVOVÁ (mozek, mícha, periferní nervy). Společně (b) + (c) + (d) pokrývají všechny čtyři — pozor, (c) tuková tkáň je PODMNOŽINA pojivové tkáně, ne samostatná. Všechny tři možnosti popisují platné kategorie tkání.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-065",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Kardiovaskulární",
+    "question": "Které z následujících jsou částmi srdce?",
+    "options": {
+      "a": "Pravá komora",
+      "b": "Pravá a levá síň",
+      "c": "Levá komora",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "d",
+    "explanation": "Srdce má 4 oddíly — 2 síně (pravá + levá, nahoře, PŘÍJEMCI přijímající krev z žil) + 2 komory (pravá + levá, dole, ČERPADLA tlačící krev do tepen). Pravá dvojice zajišťuje plicní oběh (nízký tlak, krev do plic); levá dvojice zajišťuje systémový oběh (vysoký tlak, krev do těla). Konzistentní s tokem krve v mssi-sod-063.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-066",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Dýchací",
+    "question": "Které z následujících jsou částmi plic?",
+    "options": {
+      "a": "Bronchioly",
+      "b": "Bronchy (průdušky)",
+      "c": "Alveoly",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "d",
+    "explanation": "Dýchací strom se větví postupně do menších rozměrů: PRŮDUŠNICE → BRONCHY (jeden hlavní na plíci, dělí se na lobární a segmentální) → BRONCHIOLY (menší dýchací cesty, ~1 mm) → ALVEOLY (koncové vakovité útvary podobné hroznům, kde probíhá výměna plynů, ~300 milionů na pár plic). Alveoly jsou kritickým rozhraním pro potápění: O₂ dovnitř / CO₂ ven, A místo selhání při poranění z nadměrného roztažení plic při výstupu se zadrženým dechem (mssi-sod relevantní pro 026, OWD pneumothorax).",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-067",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Kardiovaskulární",
+    "question": "Co jsou krevní cévy v kardiovaskulárním systému?",
+    "options": {
+      "a": "Alveoly, žíly a plíce",
+      "b": "Tepny, kapiláry a alveoly",
+      "c": "Tepny, kapiláry a žíly",
+      "d": "Pouze tepny a kapiláry"
+    },
+    "correct": "c",
+    "explanation": "Tři typy krevních cév: TEPNY vedou krev OD srdce (vysoký tlak, silné stěny — např. aorta, plicní tepna); KAPILÁRY jsou mikroskopické (~5-10 µm), kde probíhá výměna plynů / živin na úrovni tkání; ŽÍLY vracejí krev DO srdce (nízký tlak, tenčí stěny, chlopně proti zpětnému toku). (a) a (b) chybně zahrnují alveoly, které jsou strukturami PLIC (mssi-sod-066), nikoli krevními cévami. (d) vynechává žíly — neúplné.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-068",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Dýchací",
+    "question": "Které z následujících tvrzení o alveolech je pravdivé?",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Mohou pojmout dva nebo více plicních objemů",
+      "c": "Jsou silné a snesou velký tlak",
+      "d": "Jsou křehké a mohou prasknout při příliš velkém tlaku"
+    },
+    "correct": "d",
+    "explanation": "Alveolární membrána je silná pouze jednu buňku (~0,5 µm) — tato tenkost je NEZBYTNÁ pro účinnou difuzi O₂/CO₂ přes bariéru plyn-krev. Kompromisem je extrémní křehkost. Tlakové rozdíly nad ~0,1 bar je mohou roztrhnout, což způsobuje rodinu poranění z nadměrného roztažení plic: arteriální plynová embolie (AGE), pneumothorax, mediastinální emfyzém, podkožní emfyzém. Proto potápěči NIKDY NESMÍ zadržovat dech při výstupu — ani z malé hloubky. (b, c) převrací realitu; (a) všechno-správně zahrnuje nesprávná tvrzení.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-069",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Dýchací",
+    "question": "Při nádechu se bránice:",
+    "options": {
+      "a": "Stahuje a pohybuje se nahoru",
+      "b": "Vytlačuje hrudní koš ven",
+      "c": "Uvolňuje a pohybuje se nahoru",
+      "d": "Stahuje a pohybuje se dolů"
+    },
+    "correct": "d",
+    "explanation": "Mechanika nádechu: bránice SE STAHUJE → pohybuje se DOLŮ jako píst → hrudní dutina se rozšiřuje → nitrohrudní tlak klesá pod okolní → vzduch proudí dovnitř (Boyleův zákon v živé podobě). Výdech je opačný: bránice se uvolňuje → pohybuje se nahoru → dutina se zmenšuje → tlak stoupá → vzduch proudí ven. (a) a (c) pletou směr nahoru/dolů. (b) Rozšíření hrudního koše je sekundární (mezižeberní svaly); bránice je primárním motorem dýchání.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-070",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Kardiovaskulární",
+    "question": "Co je vazokonstrikce?",
+    "options": {
+      "a": "Způsob, jakým plyn proniká tělem",
+      "b": "Zúžení krevních cév, které zvyšuje krevní tlak",
+      "c": "Rozšíření krevních cév, které snižuje krevní tlak",
+      "d": "Fyzický proces, při kterém je tělu velmi zima"
+    },
+    "correct": "b",
+    "explanation": "Vaso- = céva, konstrikce = zúžení. Menší průměr cévy znamená vyšší odpor proti proudění (Poiseuilleův zákon: R ∝ 1/r⁴), takže pro stejný srdeční výdej krevní tlak stoupá. Význam pro potápění: studená voda spouští PERIFERNÍ VAZOKONSTRIKCI — tělo přesouvá krev z kůže/končetin do jádra pro zachování tepla. Jádro se naplní extra objemem → ledviny to čtou jako „příliš mnoho tekutiny“ → studenou vyvolaná diuréza (potřeba močit při každém ponoru). Vedlejší účinky: dehydratace, zvýšené riziko DCS. (c) je OPAČNÝ proces (vazodilatace). (a) popisuje perfuzi. (d) plete příčinu/následek — chlad způsobuje vazokonstrikci, ne naopak.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-071",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Dýchací",
+    "question": "Kde v plicích probíhá výměna plynů?",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Skrz plicní kapiláry v průdušnici",
+      "c": "Skrz tepny v duté žíle",
+      "d": "Skrz plicní kapiláry v alveolech"
+    },
+    "correct": "d",
+    "explanation": "Výměna plynů probíhá POUZE na rozhraní alveolů a kapilár: alveoly (~300 milionů v plicích dospělého, ~70 m² celkové plochy) jsou obaleny hustou sítí plicních kapilár. Bariéra je tlustá pouze dvě buňky (alveolární epitel + kapilární endotel, ~0,5 µm) — O₂ difunduje dovnitř, CO₂ difunduje ven, hnaný gradienty parciálních tlaků (Henryho zákon / Daltonův zákon). (b) Průdušnice = pouze vodivá dýchací cesta, žádná výměna (je součástí „anatomického mrtvého prostoru“). (c) Dutá žíla je systémová žíla vracející odkysličenou krev do pravého srdce, žádná plicní tkáň. (a) chybně zahrnuje nesprávná místa.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-072",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Kardiovaskulární",
+    "question": "Jak krev transportuje kyslík tělem?",
+    "options": {
+      "a": "Červené krvinky se vážou s bílými krvinkami",
+      "b": "Červené krvinky se rozšiřují, aby absorbovaly kyslík",
+      "c": "Červené krvinky vážou kyslík na bílkovinu zvanou hemoglobin",
+      "d": "Bílé krvinky vážou kyslík na bílkovinu zvanou hemoglobin"
+    },
+    "correct": "c",
+    "explanation": "Asi 98 % O₂ v krvi je vázáno na HEMOGLOBIN — bílkovinu obsahující železo zabalenou uvnitř ČERVENÝCH krvinek (erytrocytů). Každá molekula Hb má 4 hemové skupiny, každá váže 1 O₂ → 4 O₂ na Hb, ~250 milionů Hb na červenou krvinku. Zbývající ~2 % O₂ cestují rozpuštěné v plazmě. BÍLÉ krvinky (leukocyty) zajišťují imunitu, NIKOLI transport plynů. (a) Červené krvinky a bílé krvinky se na sebe „neváží“. (b) Červené krvinky se nerozšiřují — pasivně nechávají O₂ difundovat na Hb. (d) nesprávný typ buňky.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-073",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Kardiovaskulární",
+    "question": "Které krevní cévy se v těle používají pro výměnu plynů?",
+    "options": {
+      "a": "Aorta",
+      "b": "Dutá žíla",
+      "c": "Tepny",
+      "d": "Kapiláry"
+    },
+    "correct": "d",
+    "explanation": "KAPILÁRY jsou JEDINÝM místem výměny plynů/živin/odpadu mezi krví a tkáněmi. Jejich stěny mají tloušťku jediné endotelové buňky (~1 µm) a průtok krve se dramaticky zpomaluje (obrovský celkový průřez) — oba faktory maximalizují čas pro difuzi. (a) Aorta je největší tepna, pouze vysokotlaké potrubí, stěny příliš silné pro výměnu. (b) Dutá žíla je největší žíla, také potrubí vracející krev do srdce. (c) Tepny obecně vedou krev OD srdce, ale jejich svalové stěny vylučují výměnu — větví se na arterioly, pak kapiláry (kde probíhá výměna), pak venuly, pak žíly.",
+    "source": "mySSI: SoD Lesson 3.1 Review"
+  },
+  {
+    "id": "mssi-sod-074",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Potápěčské poruchy",
+    "question": "Co je imerzní plicní edém?",
+    "options": {
+      "a": "Stav, který nastává, když se plicní alveoly naplní tekutinou",
+      "b": "Stav, který nastává, když potápěč v bezvědomí spolkne vodu",
+      "c": "Stav, který nastává, když se zpomalí dechová frekvence",
+      "d": "Lékařská definice utonutí"
+    },
+    "correct": "a",
+    "explanation": "Imerzní plicní edém (IPE) — také plavecký indukovaný PE (SIPE) — je tekutina (transudát) unikající z plicních kapilár DO alveolů během ponoření. Mechanismus: chlad + ponoření + těsný ochranný oblek → periferní vazokonstrikce přesouvá ~700 ml krve z končetin do hrudní dutiny → hydrostatický tlak v plicních kapilárách stoupá → plazma prosakuje přes alveolární bariéru. Příznaky: kašel (někdy růžový pěnivý sputum), dušnost, hypoxie, tlak na hrudi, někdy hemoptýza. Predisponující faktory: hypertenze, srdeční onemocnění, studená voda, námaha, těsný mokrý oblek. Léčba: ukončit ponor, kyslík, lékařský odsun. (b) je aspirace / blízké utonutí. (c) je hypoventilace. (d) utonutí vyžaduje ponoření + asfyxii, nikoli pouze tekutinu v alveolech (a je medicínsky odlišné).",
+    "source": "mySSI: SoD Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-sod-075",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Potápěčské poruchy",
+    "question": "Co je savčí potápěčský reflex?",
+    "options": {
+      "a": "Série fyziologických změn, které vyplývají z tachypnoe během ponoru",
+      "b": "Reflex, který nutí lidi chtít se potápět",
+      "c": "Série psychologických změn vyplývajících ze spatření savců ve vodě",
+      "d": "Série fyziologických změn vyplývajících ze zadržení dechu, zvláště během ponoření"
+    },
+    "correct": "d",
+    "explanation": "Savčí potápěčský reflex (MDR) je soubor automatických fyziologických reakcí spuštěných ZADRŽENÍM DECHU + kontaktem obličeje/čela s (chladnou) vodou — aferentní signál přes trigeminální nerv. Čtyři hlavní účinky: (1) BRADYKARDIE — srdeční frekvence klesá o 10–30 % pro úsporu O₂; (2) PERIFERNÍ VAZOKONSTRIKCE — krev je přesměrována z končetin do mozku a srdce; (3) PŘESUN KRVE — v hloubce plazma plní hrudní dutinu, aby zabránila stlačení plic pod reziduální objem (umožňuje freediverům překročit kdysi domnělou „drtivou hloubku“); (4) STAH SLEZINY — uvolňuje uložené červené krvinky a zvyšuje kapacitu přenosu O₂ o ~5–10 %. Silný u mořských savců (tuleni se mohou potápět 60+ min); u lidí zakrnělý, ale skutečný, základ fyziologie freedivingu. (a) Tachypnoe (rychlé dýchání) je OPAK — MDR zahrnuje apnoe/bradykardii. (b) nesmysl. (c) fyziologické, ne psychologické — a nespouští se „spatřením savců“.",
+    "source": "mySSI: SoD Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-sod-076",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Potápěčské poruchy",
+    "question": "Mezi fyzické reakce na vnímané nebezpečí patří:",
+    "options": {
+      "a": "Zvýšená produkce adrenalinu, zvýšená srdeční frekvence, zvýšené dýchání a zvýšená energetická potřeba",
+      "b": "Dehydratace",
+      "c": "Okamžitá zástava srdce",
+      "d": "Snížená produkce adrenalinu, snížená srdeční frekvence, snížené dýchání a snížená energetická potřeba"
+    },
+    "correct": "a",
+    "explanation": "Klasická reakce BOJ-NEBO-ÚTĚK — aktivace sympatického nervového systému. Dřeň nadledvin pumpuje epinefrin (adrenalin) a norepinefrin, které pohání: ↑ srdeční frekvenci (β1 receptory), ↑ kontraktilitu, ↑ ventilační frekvenci (bronchodilatace přes β2), ↑ krevní tlak (periferní α1 vazokonstrikce v neesenciálních oblastech), ↑ mobilizaci glukózy (glykogenolýza v játrech), rozšíření zornic, pocení. Čistý efekt: více O₂ + paliva do svalů, připraveno k akci. Význam pro potápění: panika dramaticky zvyšuje SAC, urychluje hromadění CO₂, může eskalovat do rychlého výstupu / poranění z nadměrného roztažení plic. Proto „Stop, dýchej, mysli, jednej“. (b) dehydratace je chronický stav, ne akutní reakce. (c) zástava srdce je OPAK mobilizace. (d) popisuje parasympatický stav „odpočinku a trávení“ — opak akutního stresu.",
+    "source": "mySSI: SoD Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-sod-077",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Potápěčské poruchy",
+    "question": "Co jsou spouštěči savčího potápěčského reflexu?",
+    "options": {
+      "a": "Spatření savce, který se potápí",
+      "b": "Zadržení dechu, ponoření obličeje a zvýšený okolní tlak",
+      "c": "Rychlé dýchání, ponoření obličeje a snížený okolní tlak",
+      "d": "Zadržení dechu, ponoření obličeje a snížený okolní tlak"
+    },
+    "correct": "b",
+    "explanation": "Tři spouštěče dle SSI SoD osnovy: (1) ZADRŽENÍ DECHU (apnoe) — centrální spouštěč, aktivuje úsporu O₂ řízenou chemoreceptory; (2) PONOŘENÍ OBLIČEJE — studená voda na čelo/tváře/oční důlky stimuluje trigeminální nerv, který je nejsilnějším aferentním motorem bradykardické složky; (3) ZVÝŠENÝ OKOLNÍ TLAK — hloubka zesiluje reakci, zvláště složku přesunu krve (plazma plní hrudní dutinu, aby kompenzovala stlačený objem plic pod reziduální objem). (a) absurdní — vizuální stimul sám o sobě nespouští autonomní reflex. (c) Rychlé dýchání (tachypnoe) je OPAKEM apnoe a výstup (snížený tlak) ukončuje ponor, místo aby spouštěl reflex. (d) Dva správné spouštěče, ale obrací směr tlaku.",
+    "source": "mySSI: SoD Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-sod-078",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Potápěčské poruchy",
+    "question": "Co může potápěč zažívat, pokud nedýchá adekvátně?",
+    "options": {
+      "a": "Ohromující pocit uvolnění a odpočinku",
+      "b": "Prudký nárůst hladiny kyslíku a červenou kůži",
+      "c": "Extrémní neutrální vztlak",
+      "d": "Únavu, dušnost a pocit dušení"
+    },
+    "correct": "d",
+    "explanation": "Nedostatečné dýchání — přeskakování dechu, mělká ventilace nebo dýchání do příliš velkého mrtvého prostoru — způsobuje hromadění CO₂ (hyperkapnie) a zaostávání dodávky O₂ (relativní hypoxie). Příznaky: dušnost / „hlad po vzduchu“, únava, bolest hlavy, pocení, tunelové vidění, pocit dušení a v extrému bezvědomí. Důsledek pro potápění: SAC prudce stoupá, když se potápěč konečně snaží dohnat dech, riziko paniky stoupá a rychlé nekontrolované výstupy jsou častými následnými událostmi. Řešením je pomalé, hluboké, RYTMICKÉ dýchání — nikdy nepřeskakovat dech kvůli úspoře plynu. (a) Opak — správné dýchání přináší klid; nedostatečné dýchání přináší nepohodu. (b) Hypoventilace SNIŽUJE výměnu O₂; nezvyšuje hladiny. (c) Vztlak je řízen průměrováním objemu plic a vyvážením BCD, nesouvisí s adekvátností ventilace.",
+    "source": "mySSI: SoD Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-sod-079",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Potápěčské poruchy",
+    "question": "Jak kardiovaskulární systém těla reaguje na ponoření do vody?",
+    "options": {
+      "a": "Srdeční frekvence se snižuje, protože je potřeba menší úsilí pro pumpování krve",
+      "b": "Všechny odpovědi jsou správné",
+      "c": "Krevní cévy se stahují, aby zabránily zbytečné spotřebě kyslíku",
+      "d": "Více krve se přesouvá k jádru těla"
+    },
+    "correct": "b",
+    "explanation": "Všechna tři tvrzení jsou přesnými popisy reakce na ponoření. (a) IMERZNÍ BRADYKARDIE — hydrostatický tlak napomáhá venóznímu návratu + neutrální vztlak snižuje gravitační zátěž srdce, takže srdeční frekvence se ustálí níže než na souši. (c) PERIFERNÍ VAZOKONSTRIKCE — chlad + sympatický / potápěčský reflex zužuje cévy končetin, šetří O₂ pro orgány jádra. (d) PŘESUN KRVE — zhruba 700 ml krve je přesunuto z končetin do hrudní dutiny, což zvyšuje tlak v plicních kapilárách (a je mechanismem stojícím za IMERZNÍM PLICNÍM EDÉMEM — viz mssi-sod-074). Tyto tři reakce se překrývají se savčím potápěčským reflexem (075/077), ale fungují i bez zadržení dechu, jen z toho, že jste ve vodě.",
+    "source": "mySSI: SoD Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-sod-080",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Potápěčské poruchy",
+    "question": "Jaké kroky může potápěč podniknout, pokud zažívá nedobrovolnou stresovou reakci?",
+    "options": {
+      "a": "Dýchat rychleji, aby se stresu zbavil",
+      "b": "Zastavit činnost, odpočívat, soustředit se na dýchání a pokusit se odstranit stresory",
+      "c": "Pokračovat, dokud stres nepomine",
+      "d": "Jít si zaběhat a vyběhat stres"
+    },
+    "correct": "b",
+    "explanation": "Klasický SSI protokol „STOP — DÝCHEJ — MYSLI — JEDNEJ“ pro stres ve vodě: (1) ZASTAVIT činnost, aby problém nezesílila; (2) Vytvořit neutrální vztlak / udržet stabilní pozici pro ODPOČINEK; (3) Soustředit se na POMALÉ, HLUBOKÉ, RYTMICKÉ DÝCHÁNÍ — to aktivuje parasympatický systém, přerušuje smyčku zpětné vazby paniky a obnovuje normální CO₂; (4) IDENTIFIKOVAT stresor (zamotání, nedostatek plynu, freeflow, ztracený parťák, vertigo) a vyřešit ho. Pokračovat až po zklidnění. (a) Hyperventilace vyplaví CO₂ → respirační alkalóza → brnění, závratě, tetanie, dokonce ztráta vědomí — a u freedivingu předchází blackoutu v mělké vodě. (c) Protlačit se stresem je učebnicovou cestou k plné panice a nekontrolovanému výstupu (poranění z nadměrného roztažení plic / riziko DCS). (d) Námaha pod vodou není možná a přidává sympatickou zátěž.",
+    "source": "mySSI: SoD Lesson 3.2 Review"
+  },
+  {
+    "id": "mssi-sod-081",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Barotrauma",
+    "question": "Primárním příznakem ušního barotraumatu v jeho počáteční fázi je:",
+    "options": {
+      "a": "Rychlé, mělké, neefektivní dýchání",
+      "b": "Pocit tahu na hrudi",
+      "c": "Bolest kloubů a končetin",
+      "d": "Bolest nebo nepříjemný pocit, který se zesiluje se změnami hloubky"
+    },
+    "correct": "d",
+    "explanation": "Stlačení středního ucha při sestupu: jak okolní tlak stoupá rychleji, než stačí potápěč vyrovnat přes Eustachovu trubici, vzniká tlakový rozdíl přes bubínek → nejprve PLNOST, pak NEPŘÍJEMNÝ POCIT, pak ostrá BOLEST, která se zesiluje s každým metrem dalšího sestupu (větší ΔP). Teedova škála barotraumatu středního ucha: 0 = pouze příznaky, 1 = injekce TM, 2 = barotitis s krvácením, 3 = krev ve středním uchu, 4 = ruptura TM (náhlý vstup studené vody → vertigo + ztráta sluchu), 5 = poškození oválného/kruhového okénka. Řešení: zastavit sestup, vystoupit metr nebo dva, jemně vyrovnat (Frenzel/Valsalva), pomalu sestoupit. NIKDY nevyrovnávat silou — to vede k riziku ruptury kruhového okénka. (a) Tachypnoe je dýchací vzorec, nesouvisí. (b) „Tah“ v hrudi je hrudní / plicní stlačení (vzácné u scuba, častější u freedivingu). (c) Bolest kloubů je DCS Typ I, ne barotrauma.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-082",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Barotrauma",
+    "question": "Zubní barotrauma je stav způsobený:",
+    "options": {
+      "a": "Dehydratací během ponoru",
+      "b": "Roztahujícím se vzduchem v plicích při výstupu",
+      "c": "Roztahujícím se vzduchem v zubech při výstupu",
+      "d": "Tlakovými změnami ve zvukovodu při výstupu"
+    },
+    "correct": "c",
+    "explanation": "Barodontalgie („stlačení zubu“) = plyn uvězněný v zubních defektech — pod plombami, v prasklých zubech, abscesech, kazových kapsách, nedávných kořenových kanálcích. Boyleův zákon v akci: při SESTUPU může stlačený plyn způsobit vakuovou bolest nebo vtáhnout plombu dovnitř; při VÝSTUPU se uvězněný plyn prudce ROZTAHUJE, může roztříštit zub nebo vystřelit plombu — obvykle nejbolestivější a nejvíce poškozující směr. Někdy dostatečně silné, aby přerušilo ponor nebo rozštíplo zub na půl. Prevence: zubní prohlídka před cestou, NEPOTÁPĚT se 24 h po plombách/extrakcích/kořenových kanálcích (nechat cement ztvrdnout, nechat dutiny usadit). (a) Dehydratace ovlivňuje riziko DCS, ne zubní barotrauma. (b) Roztahující se plyn v plicích při výstupu = PLICNÍ barotrauma (nadměrné roztažení plic / AGE), jiný orgán. (d) Tlaková změna ve zvukovodu = barotrauma vnějšího/středního ucha (mssi-sod-081).",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-083",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Barotrauma",
+    "question": "Která místa v těle jsou potenciálně náchylná k barotraumatu?",
+    "options": {
+      "a": "Zuby",
+      "b": "Trávicí systém",
+      "c": "Všechny odpovědi jsou správné",
+      "d": "Uši, dutiny a plíce"
+    },
+    "correct": "c",
+    "explanation": "Každý plynem naplněný tělesný prostor je potenciálním místem barotraumatu (Boyleův zákon: uzavřený objem plynu se mění inverzně s tlakem). Plný SSI seznam: (1) UŠI — vnější (kapuca, zacpaný ušní maz), střední (ucpání Eustachovy trubice), vnitřní (ruptura kruhového/oválného okénka z forsírované Valsalvy); (2) DUTINY — frontální, čelistní, čichové (stlačení při sestupu, reverzní blok při výstupu); (3) PLÍCE — poranění z nadměrného nafouknutí plic: arteriální plynová embolie (AGE), pneumothorax, mediastinální a podkožní emfyzém; (4) ZUBY — barodontalgie (mssi-sod-082); (5) GIT — aerogastralgie ze spolknutého vzduchu, sycených nápojů nebo plynotvorných jídel rozšiřujících se při výstupu; (6) MASKA — stlačení obličeje (vakuum při sestupu, pokud se do ní nevydechuje); (7) SUCHÝ OBLEK — sevření kůže ve složených oblastech. Takže „všechny odpovědi jsou správné“.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-084",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Barotrauma",
+    "question": "Co je typ barotraumatu, který se může vyskytnout při sestupech a výstupech?",
+    "options": {
+      "a": "Hyperoxie",
+      "b": "Narkóza",
+      "c": "Ušní barotrauma",
+      "d": "Spinální barotrauma"
+    },
+    "correct": "c",
+    "explanation": "Ušní barotrauma je obousměrné: (1) SESTUP — STLAČENÍ středního ucha: okolní tlak stoupá rychleji, než potápěč stačí vyrovnat přes Eustachovu trubici → bubínek vtlačen dovnitř → bolest → v extrému ruptura (vertigo ze studené vody); (2) VÝSTUP — REVERZNÍ BLOK: plyn rozšiřující se ve středním uchu nemůže odejít zánětlivě uzavřenou Eustachovou trubicí → bubínek vyboulen ven → bolest, někdy ALTERNOBARICKÉ VERTIGO z asymetrického tlaku mezi levým a pravým uchem. Obě fáze každého ponoru jsou v ohrožení, pokud vyrovnávání nefunguje čistě. (a) Hyperoxie = otrava kyslíkem (vysoký PpO₂ → CNS nebo plicní toxicita), problém toxicity plynu, ne barotrauma. (b) Narkóza = neurofarmakologie inertních plynů (N₂ v hloubce), ne mechanická. (d) „Spinální barotrauma“ není uznávanou kategorií — spinální DCS existuje, ale je to dekompresní onemocnění (bubliny), ne mechanické poranění plynového prostoru.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-085",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Barotrauma",
+    "question": "Trvalou ztrátu sluchu, vertigo a zvonění v uchu může způsobit ruptura:",
+    "options": {
+      "a": "Bubínku",
+      "b": "Kruhového a/nebo oválného okénka",
+      "c": "Eustachovy trubice",
+      "d": "Polokruhového kanálku"
+    },
+    "correct": "b",
+    "explanation": "BAROTRAUMA VNITŘNÍHO UCHA (IEBt) — ruptura KRUHOVÉHO OKÉNKA a/nebo OVÁLNÉHO OKÉNKA. Tyto tenké membrány oddělují plynem naplněné střední ucho od tekutinou naplněného vnitřního ucha (kochlea + vestibulární aparát). Spouštěč: forsírovaná Valsalva nebo neléčené stlačení středního ucha, kdy potápěč protlačí náhlý tlakový skok přes okénko. Výsledek: ÚNIK PERILYMFY (perilymfatická fistula) — tekutina uniká z vnitřního ucha do středního → SENZORINEURÁLNÍ ztráta sluchu (často trvalá), těžké VERTIGO a TINNITUS (zvonění). Nejhorší stupeň ušního barotraumatu (Teed stupeň 5). Léčba: okamžitě přestat potápění, klid na lůžku s hlavou nahoře, ŽÁDNÉ NAMÁHÁNÍ (žádná Valsalva, žádné smrkání, žádné zvedání těžkých věcí), urgentní ORL — někdy chirurgická záplata. Zotavení je často neúplné a kontraindikací dalšího potápění. (a) Ruptura bubínku → konduktivní (obvykle dočasná) ztráta + přechodné vertigo ze studené vody, obvykle se hojí týdny. (c) Eustachova trubice „nepraská“ — může se zablokovat, oteknout, dysfungovat. (d) Polokruhové kanálky jsou kostěné kanály ve spánkové kosti; membránové komponenty uvnitř mohou být poškozené, ale klasický mechanismus IEBt je na membráně kruhového/oválného okénka.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-086",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Barotrauma",
+    "question": "Co je barotrauma?",
+    "options": {
+      "a": "Infekce způsobená vodou přenášenými bakteriemi",
+      "b": "Stav, kdy se v tkáních a krevním oběhu tvoří bubliny",
+      "c": "Stav, kdy se tlak ve vnitřních vzduchových prostorách rovná vnějšímu tlaku",
+      "d": "Poškození tkání a orgánů těla v důsledku nadměrných změn objemu plynu v uzavřených prostorách"
+    },
+    "correct": "d",
+    "explanation": "BAROTRAUMA = mechanické poranění tělesných tkání způsobené tlakem vyvolanými změnami objemu plynu (Boyleův zákon) v uzavřených prostorech vyplněných plynem. Tři nutné složky: (1) plynem vyplněný prostor uvnitř těla (ucho, dutina, plíce, zub, GIT, maska, oblek); (2) neschopnost vyrovnat tento prostor s okolím; (3) změna okolního tlaku (sestup nebo výstup). Změna objemu z Boyleova zákona (V₁P₁ = V₂P₂) generuje ΔP přes membrány / tkáně, které se pak napínají, krvácí nebo praskají. Kritický kontrast — DEKOMPRESNÍ NEMOC (DCS) je zcela odlišný mechanismus: rozpuštěný inertní plyn (převážně N₂) vystupující z roztoku jako bubliny, když okolní tlak klesá příliš rychle (Henryho zákon). (a) Infekce je mikrobiální. (b) To je definice DCS — důležité oba pojmy nesměšovat. (c) Vyrovnaný tlak = OCHRANNÝ stav, ne poranění — barotrauma je to, co se stane, když vyrovnávání SELŽE.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-087",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Barotrauma",
+    "question": "Jaká preventivní opatření mohou pomoci předejít barotraumatu?",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Často vyrovnávat uši, dutiny a plíce",
+      "c": "Vyhnout se rychlým změnám tlaku",
+      "d": "Nikdy nezadržovat dech"
+    },
+    "correct": "a",
+    "explanation": "Všechny tři pravidla jsou skutečnými pilíři SSI prevence barotraumatu. (b) ČASTO VYROVNÁVAT — začít vyrovnávat na hladině, pak každý metr přibližně při sestupu (Frenzel preferován před Valsalvou — jemnější, nižší riziko ruptury kruhového okénka). Dutiny vyrovnávají pasivně, pokud je sliznice zdravá (vyhnout se potápění s nachlazením/alergiemi). „Plíce vyrovnávají“ normálním dýcháním — nikdy nezavírat hrtanovou příklopku. (c) VYHNOUT SE RYCHLÝM ZMĚNÁM TLAKU — pomalé kontrolované sestupy (zastavit při pocitu tlaku, vystoupit metr, vyrovnat, pokračovat), pomalé výstupy (≤9 m/min, ještě pomaleji v posledních 10 m), zařadit bezpečnostní zastávky. Rychlé ΔP překračuje kompenzační mechanismy těla. (d) NIKDY NEZADRŽOVAT DECH — pravidlo č. 1 SSI scuba. Zadržení dechu + výstup = rozšiřující se alveolární plyn → poranění z nadměrného roztažení plic: AGE (arteriální plynová embolie — nejsmrtelnější), pneumothorax, mediastinální/podkožní emfyzém. Plynulé dýchání udržuje plíce vyrovnané s okolím. Tyto tři návyky pokrývají v podstatě všechny mechanismy barotraumatu.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-088",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Barotrauma",
+    "question": "Kolik párů dutin má člověk?",
+    "options": {
+      "a": "8",
+      "b": "4",
+      "c": "6",
+      "d": "2"
+    },
+    "correct": "b",
+    "explanation": "Lidé mají 4 PÁRY paranazálních dutin (8 jednotlivých vzduchem naplněných dutin, jedna na každé straně): (1) FRONTÁLNÍ — v čele, těsně nad obočím; nejčastěji bolestivé při dutinovém barotraumatu. (2) ČELISTNÍ — v lícních kostech, pod očima; největší pár, často dává „tlak v lících“ při sestupu. (3) ČICHOVÉ — mezi očima, za kořenem nosu; technicky plástev malých buněk, ale seskupené jako jeden pár. (4) KLÍNOVÉ — hluboko za nosem, blízko báze lebky; zřídka symptomatické. Všechny komunikují s nosní dutinou přes malé ostia (drenážní otvory); když se ty ucpou hlenem nebo otokem sliznice (nachlazení, alergie, sinusitida), plyn nemůže vyrovnávat → stlačení při sestupu nebo reverzní blok při výstupu. Takže odpověď je 4 páry = 8 dutin celkem.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-089",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Barotrauma",
+    "question": "Jaký typ barotraumatu se může vyskytnout při sestupech v důsledku překrvení?",
+    "options": {
+      "a": "Hypoxie",
+      "b": "Hyperkapnie",
+      "c": "Dutinové barotrauma",
+      "d": "Krční barotrauma"
+    },
+    "correct": "c",
+    "explanation": "STLAČENÍ DUTIN při sestupu: překrvení z nachlazení, alergií, sinusitidy nebo anatomického zúžení blokuje ostia dutin (malé otvory, kterými se každá dutina drénuje do nosní dutiny). Jak okolní tlak stoupá, plyn uvnitř dutiny zůstává při nižším tlaku → relativní vakuum táhne sliznici dutiny od kostěných stěn → kapiláry praskají → krev prosakuje do dutiny → pulzující bolest (líce/čelo) a často „krvavá maska“ nosního výtoku při výstupu. Nejčastěji frontální (čelní) a čelistní (lícní) páry. Prevence: NEPOTÁPĚT se s překrvením; dekongestiva jsou nouzovým řešením s riziky (rebound překrvení uprostřed ponoru, načasování ponorového okna). (a) Hypoxie = nízký O₂ v krvi, problém toxicity plynu / dýchacího vzorce, ne mechanické tlakové poranění. (b) Hyperkapnie = retence CO₂, také toxicita plynu, ne barotrauma. (d) „Krční barotrauma“ není uznávaná SSI kategorie — podkožní emfyzém může pronikat do krčních tkání, ale vzniká jako poranění z nadměrného roztažení plic, ne primárně z krční dutiny.",
+    "source": "mySSI: SoD Lesson 3.3 Review"
+  },
+  {
+    "id": "mssi-sod-090",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Dekompresní onemocnění",
+    "question": "Jaký způsob lze použít k prevenci dekompresní nemoci během ponorů?",
+    "options": {
+      "a": "Provést bezpečnostní zastávku",
+      "b": "Všechny odpovědi jsou správné",
+      "c": "Udržovat pomalou rychlost výstupu",
+      "d": "Řídit se potápěčským počítačem"
+    },
+    "correct": "b",
+    "explanation": "Všechny tři jsou základní vrstvy SSI prevence — skládají se, žádná sama o sobě nestačí: (a) BEZPEČNOSTNÍ ZASTÁVKA — 3–5 min v 5 m / 15 ft při každém ponoru (standard SSI Total Diving System), poskytuje rezervu proti asymptomatickým mikrobublinám a umožňuje rychlým tkáním (kompartmenty 5–20 min) pokračovat v odplyňování pod mírným hydrostatickým tlakem. (c) POMALÁ RYCHLOST VÝSTUPU — ≤9 m/min (30 ft/min) dle SSI; některé počítače zpomalují ještě více v posledních 10 m. Pomalý výstup udržuje přesycení tkání pod M-hodnotou (Bühlmann), takže bubliny nenukleují. Klasické „špinavé“ porušení: vystřelit na hladinu honbou za parťákem nebo s docházejícím plynem. (d) ŘÍDIT SE POTÁPĚČSKÝM POČÍTAČEM — moderní algoritmy (Bühlmann ZH-L16 + GF, RGBM, VPM-B) sledují všech 16 tkáňových kompartmentů v reálném čase napříč víceúrovňovými profily — mnohem přesněji než čtvercové tabulky. Počítač vynucuje NDL, rychlost výstupu, povinné zastávky, povrchové intervaly.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-091",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Dekompresní onemocnění",
+    "question": "Jak se mohou plynové bubliny dostat do tepenných cév?",
+    "options": {
+      "a": "Přes řez v kůži potápěče",
+      "b": "Plicním barotraumatem nebo zkratem přes patentní foramen ovale",
+      "c": "Kvůli těsnému mokrému obleku",
+      "d": "V důsledku nadměrné vazokonstrikce"
+    },
+    "correct": "b",
+    "explanation": "Dvě uznávané cesty pro ARTERIALIZACI bublin. (1) PLICNÍ BAROTRAUMA → ARTERIÁLNÍ PLYNOVÁ EMBOLIE (AGE): zadržení dechu při výstupu nebo zachycení vzduchu roztrhne alveoly; plyn překročí alveolárně-kapilární bariéru do plicních ŽIL → levá síň → systémová tepenná cirkulace, často se usadí v mozkových tepnách → příznaky podobné mrtvici během minut po vynoření (nejsmrtelnější potápěčské zranění, vyžaduje okamžitý O₂ + rekompresi). (2) PATENTNÍ FORAMEN OVALE (PFO) ZKRAT: ~25 % dospělých má sondou patentní chlopeň mezi pravou a levou síní. Při zvýšeném tlaku v pravé síni (Valsalva, kašel, těžké napětí výstroje, zvedání lahví bezprostředně po ponoru) mohou ŽILNÍ bubliny — které by normálně byly filtrovány plicním kapilárním řečištěm — zkratovat přímo do systémových tepen → mozkové, spinální nebo kožní DCS i u konzervativních profilů. PFO screening je rutinní u potápěčů s nevysvětlenou nebo opakovanou DCS. (a) Řezy na kůži nezavádějí bubliny. (c) Těsný mokrý oblek omezuje žilní návrat / přispívá k IPE, ale „nearterializuje“ bubliny. (d) Vazokonstrikce zužuje cévy — nepřesouvá bubliny do tepen.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-092",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Dekompresní onemocnění",
+    "question": "Které kožní nebo lymfatické příznaky naznačují dekompresní nemoc?",
+    "options": {
+      "a": "Nedostatek motorické kontroly, změny osobnosti a poruchy vidění",
+      "b": "Necitlivost, vyrážky, zmatenost a bezvědomí",
+      "c": "Svědění, vyrážky, otoky a krepitus (praskání)",
+      "d": "Amnézie, ztráta sluchu, bolest hlavy a nevolnost"
+    },
+    "correct": "c",
+    "explanation": "Kožní (Typ I) DCS — „kožní bends“: (1) SVĚDĚNÍ — často nejranější příznak, zvláště po komorových nebo saturačních expozicích; (2) VYRÁŽKY — klasická „CUTIS MARMORATA“: skvrnité, mramorované, modrorudé fleky na trupu, ramenou, břiše (způsobené žilním plynem v podkožních kapilárách; často marker podkladového PFO a může předznamenávat závažnější neurologickou DCS); (3) OTOKY — lymfatická obstrukce bublinami, dává „pomerančovou kůži“ / lymfedém v tříslech, krku, podpaží; (4) KREPITUS — palpabilní praskání pod kůží = podkožní emfyzém (volný plyn v tkáňových rovinách). Léčba: 100% povrchový O₂, perorální hydratace, evakuace do komory při cutis marmorata, šířící se vyrážce nebo jakýchkoli neurologických příznacích. (a) Změny motoriky / osobnosti / vidění jsou MOZKOVÁ Typ II DCS. (b) Mísí kůži (vyrážky) s CNS (zmatenost, bezvědomí). (d) Amnézie, ztráta sluchu, bolest hlavy, nevolnost = VNITŘNÍ UCHO / MOZKOVÁ Typ II DCS.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-093",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Dekompresní onemocnění",
+    "question": "Co je plicní barotrauma?",
+    "options": {
+      "a": "Krepitus způsobený cutis marmorata",
+      "b": "Poškození plic způsobené traumatickým poraněním mozku",
+      "c": "Poškození tkáně a možný únik plynu způsobený nadměrným tlakovým gradientem",
+      "d": "Poškození tkáně způsobené otravou kyslíkem"
+    },
+    "correct": "c",
+    "explanation": "PLICNÍ BAROTRAUMA = poškození plicní tkáně způsobené nadměrným TRANSALVEOLÁRNÍM tlakovým gradientem. Mechanismus: výstup s uzavřenou hrtanovou příklopkou / zadržením dechu / lokálně zachyceným vzduchem (astmatický korek, hlen, bronchospasmus) → alveolární plyn se roztahuje dle Boyleova zákona → již ~80–100 mbar ΔP přes alveolární stěnu ji roztrhne. Čtyři výsledná zranění („rodina nadměrného roztažení plic“), s rostoucí závažností: (1) MEDIASTINÁLNÍ EMFYZÉM — plyn v mediastinu: tlak na hrudi, dyspnoe, změna hlasu, plnost krku; (2) PODKOŽNÍ EMFYZÉM — plyn putující ke krčním tkáním, palpabilní KREPITUS pod kůží; (3) PNEUMOTHORAX — plyn v pleurálním prostoru, plíce se sbalí: ostrá jednostranná bolest hrudi, dyspnoe, snížený dechový šelest (tenzní pneumothorax = chirurgická naléhavá situace); (4) ARTERIÁLNÍ PLYNOVÁ EMBOLIE (AGE) — plyn vstupuje do plicních žil → levé srdce → systémové tepny → mozek (příznaky podobné mrtvici během minut od vynoření — nejsmrtelnější potápěčské zranění). Přesně proto je pravidlo SSI č. 1 NIKDY NEZADRŽOVAT DECH. (a) Plete dva nesouvisející nálezy — krepitus pochází z podkožního emfyzému; cutis marmorata je kožní DCS. (b) Špatný kauzální směr. (d) Otrava kyslíkem = problém toxicity plynu (CNS zásah / plicní toxicita při vysokém PpO₂), ne mechanická.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-094",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Dekompresní onemocnění",
+    "question": "Jaké jsou některé příznaky plicního barotraumatu?",
+    "options": {
+      "a": "Vykašlávání krve a točení hlavy",
+      "b": "Pomalá srdeční frekvence a vertigo",
+      "c": "Necitlivost rukou a nohou a zvonění v uších",
+      "d": "Sucho v ústech a nevolnost"
+    },
+    "correct": "a",
+    "explanation": "Charakteristické projevy plicního barotraumatu — oba prvky v (a) jsou klasické: HEMOPTÝZA (vykašlávání krve, někdy růžový pěnivý sputum) z ruptury alveolů a krvácení do dýchacích cest; TOČENÍ HLAVY / ZÁVRATĚ / PŘEDMRAČENÍ vzniká, když AGE embolizovala mozkový oběh, nebo když tenzní pneumothorax kompromituje srdeční výdej. Další markery v témže obrazu (abyste rozeznali plný vzorec): ostrá bolest hrudi při/po výstupu, dušnost, změna hlasu (mediastinální emfyzém), plnost krku s palpabilním krepitem (podkožní emfyzém) a dramatický projev AGE — „příznaky podobné mrtvici“ s ohniskovou slabostí, zhoršenou výslovností, změnami vidění, ztrátou vědomí — během minut od vynoření. Načasování nástupu je klíčovým vodítkem: AGE se objevuje téměř okamžitě, DCS častěji 30 min – 24 h po ponoru. (b) Bradykardie + vertigo je více potápěčský reflex / vnitřní ucho, ne plicní zranění. (c) Necitlivost + tinnitus naznačuje Typ II DCS / barotrauma vnitřního ucha, ne plicní. (d) Sucho v ústech + nevolnost jsou nespecifické po ponoru (dehydratace, mořská nemoc).",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-095",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Dekompresní onemocnění",
+    "question": "Co je arteriální plynová embolie?",
+    "options": {
+      "a": "Ucpání tepenné krevní cévy bublinami",
+      "b": "Krvácení do mozku",
+      "c": "Ucpání žíly bublinami",
+      "d": "Modré rty způsobené nízkým kyslíkem"
+    },
+    "correct": "a",
+    "explanation": "ARTERIÁLNÍ PLYNOVÁ EMBOLIE (AGE) = ucpání TEPENNÉ krevní cévy plynovými bublinami. Cesta: plicní barotrauma (výstup se zadrženým dechem / zachycení vzduchu) → ruptura alveolů → plyn překročí do plicních ŽIL → levá síň → levá komora → vyčerpán do systémové TEPENNÉ cirkulace → embolizuje orgán tam, kde se bublina usadí (nejčastěji mozkové tepny → MOZKOVÁ AGE / CAGE). Nástup příznaků je RYCHLÝ — obvykle během minut (často během sekund) od vynoření: ohnisková slabost, zhoršená výslovnost, ztráta vidění, zmatenost, křeče, ztráta vědomí. Nejvíce LETÁLNÍ potápěčské zranění. Léčba: položit naznak (NE hlavou dolů — to je zastaralé a zhoršuje mozkový edém), 100% O₂, tekutiny při vědomí, okamžitá evakuace do rekompresní komory. (b) „Krvácení do mozku“ je hemoragická mrtvice / SAH — RUPTURA cévy, jiný mechanismus. (c) Bubliny v ŽÍLÁCH = ŽILNÍ plynová embolie (VGE) — běžně produkovaná každým ponorem v malém množství, obvykle filtrovaná plicním kapilárním řečištěm; obejití přes PFO vede k arterializaci (viz mssi-sod-091). (d) Cyanóza je ZNAKEM hypoxemie (mohla by doprovázet těžkou AGE), ale není DEFINICÍ.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-096",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Dekompresní onemocnění",
+    "question": "Které predisponující faktory mohou zvýšit riziko dekompresní nemoci?",
+    "options": {
+      "a": "Dehydratace",
+      "b": "Všechny odpovědi jsou správné",
+      "c": "Obezita",
+      "d": "Extrémní teplo nebo chlad"
+    },
+    "correct": "b",
+    "explanation": "Všechny tři jsou uznávané rizikové faktory SSI / DAN. (a) DEHYDRATACE — snižuje objem plazmy, zpomaluje mikrocirkulaci, zahušťuje krev, zhoršuje eliminaci N₂. Jednotlivý největší KONTROLOVATELNÝ rizikový faktor (pít před / mezi / po ponorech, moč by měla být světle žlutá). (c) OBEZITA — tuková tkáň má zhruba 5× vyšší rozpustnost dusíku než svalová tkáň (N₂ je rozpustný v lipidech) A tuk je špatně prokrvován, takže se nasycuje pomalu, ale ještě pomaleji odsycuje → tichý rezervoár rozpuštěného plynu, který se uvolňuje během výstupu a povrchového intervalu. (d) EXTRÉMNÍ TEPLO NEBO CHLAD — oba narušují rovnováhu nasycování / odsycování: CHLAD během fáze u dna způsobuje periferní vazokonstrikci (zpomaluje nasycování — zní ochranně), ale pozdní zahřívání po vynoření způsobuje periferní vazodilataci právě tehdy, když je přesycení na vrcholu → nukleace bublin; TEPLO po ponoru (horká sprcha, vířivka, sauna, sluncem rozpálená paluba) urychluje odsycování právě tehdy, když chtějí bubliny růst. Další klasické rizikové faktory neuvedené v této otázce: alkohol, únava, věk, nízká kondice, tvrdá námaha v hloubce, opakované denní potápění, rychlý výstup, nedávné muskuloskeletální zranění, PFO, astma.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-097",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Dekompresní onemocnění",
+    "question": "Který typ dekompresního onemocnění zahrnuje centrální nervový systém?",
+    "options": {
+      "a": "Dekompresní nemoc Typ II",
+      "b": "Pneumothorax",
+      "c": "Dekompresní nemoc Typ I",
+      "d": "Plynová embolie"
+    },
+    "correct": "a",
+    "explanation": "DCS je odstupňována podle závažnosti: TYP I (mírný) pokrývá MUSKULOSKELETÁLNÍ „bends“ (bolest kloubů/končetin — nejčastější projev), KOŽNÍ (svědění, cutis marmorata, vyrážky) a LYMFATICKÉ příznaky (otok pomerančové kůry). TYP II (vážný / život ohrožující) pokrývá NEUROLOGICKÉ postižení — MOZKOVÉ (zmatenost, změny osobnosti, poruchy vidění/řeči), MÍŠNÍ (pásová bolest, paraplegie, retence moči — nejobávanější forma, často zpočátku mylně přisuzovaná napětí zad), VESTIBULÁRNÍ / VNITŘNÍ UCHO (vertigo, tinnitus, nystagmus, nevolnost — „vrávorání“) a PLICNÍ („chokes“ — přetížení pravého srdce bublinami, retrosternální bolest, dyspnoe, kašel). Veškerý Typ II vyžaduje okamžitý O₂ + komoru. (b) Pneumothorax je plicní BAROTRAUMA, ne DCS. (c) Typ I vylučuje CNS dle definice. (d) ARTERIÁLNÍ PLYNOVÁ EMBOLIE skutečně postihuje mozek, ale je to SAMOSTATNÁ entita DCI — řízená barotraumatem, ne bublinami tvořenými z rozpuštěného plynu. Zastřešení DCI = DCS (tato otázka) + AGE; tato otázka se konkrétně ptá na DCS.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-098",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Dekompresní onemocnění",
+    "question": "Jaký stav může nastat, když plyn vstoupí do výstelky plic?",
+    "options": {
+      "a": "Edém",
+      "b": "Mediastinální emfyzém",
+      "c": "Hypoxická myopie",
+      "d": "Hyperkapnie"
+    },
+    "correct": "b",
+    "explanation": "MEDIASTINÁLNÍ EMFYZÉM — pod-zranění plicního barotraumatu. Když alveoly prasknou, unikající plyn putuje podél bronchovaskulárních pochev nahoru do MEDIASTINA (centrální hrudní dutina mezi plícemi, která obsahuje srdce, průdušnici, jícen, velké cévy). Příznaky: tlak na hrudi, dyspnoe, změna hlasu, někdy „Hammanův crunch“ (praskání synchronizované s tepem srdce při auskultaci), plnost krku, jak plyn putuje dále nahoru do podkožní tkáně (podkožní emfyzém, palpabilní krepitus). Léčba: 100% O₂ (vyplaví N₂, urychluje resorpci), klid, pozorování; zřídka vyžaduje invazivní zásah, pokud nedojde k tenzi. Striktně vzato „výstelka plic“ = pleura, a plyn v pleurálním prostoru je PNEUMOTHORAX — ale ten není v seznamu možností, takže mediastinální emfyzém (plyn v sousedním oddělení) je zamýšlenou odpovědí. (a) Edém = nahromadění TEKUTINY v tkáni, ne plyn. (c) „Hypoxická myopie“ není uznávaný termín — myopie je krátkozrakost, nesouvisí s plicním plynem. (d) Hyperkapnie = retence CO₂ v KRVI, problém toxicity plynu, ne plyn v tkáni.",
+    "source": "mySSI: SoD Lesson 3.4 Review"
+  },
+  {
+    "id": "mssi-sod-099",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Historie",
+    "question": "První rekreační potápěči v 50. letech používali:",
+    "options": {
+      "a": "Vesty BCD typu jacket",
+      "b": "Dvoustupňové automatiky s jednou hadicí",
+      "c": "Bluetooth připojení",
+      "d": "Jednostupňové automatiky se dvěma hadicemi"
+    },
+    "correct": "d",
+    "explanation": "Dle SSI SoD osnovy: rekreační scuba 50. let byla dominována automatikami SE DVĚMA HADICEMI — jak nádechová, tak výdechová zvlněná hadice byly vedeny ze zadní automatiky umístěné nahoře na ventilu láhve. Ikonický Cousteau-Gagnan AQUA-LUNG (patent 1943, masová výroba a hlavní proud do 50. let přes US Divers / La Spirotechnique) je archetypem. Poznámka: Aqua-Lung sám byl ve skutečnosti dvoustupňový demand ventil — Gagnan jej upravil z benzinových regulátorů automobilových motorů — ale SSI zjednodušuje éru jako „jednostupňová se dvěma hadicemi“ pro osnovu, a to je to, co mySSI hodnotí jako správné. (a) Vesty BCD typu jacket jsou MNOHEM pozdější: Watergill ATPAC 1971, Scubapro Stab Jacket 1976. (b) Dvoustupňové s JEDNOU hadicí = MODERNÍ konfigurace, popularizovaná až od konce 50. let (Sportsways Waterlung 1958, pak éra Scubapro Mk-5). (c) Bluetooth — zjevně moderní distraktor.",
+    "source": "mySSI: SoD Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-sod-100",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Údržba",
+    "question": "Jak často by mělo být vybavení servisováno?",
+    "options": {
+      "a": "Jednou týdně a podle pokynů výrobce",
+      "b": "Alespoň každoročně a podle pokynů výrobce",
+      "c": "Žádná odpověď není správná",
+      "d": "Jednou ročně"
+    },
+    "correct": "b",
+    "explanation": "Dvoudílný SSI standard: (1) ALESPOŇ KAŽDOROČNĚ — kalendářní základ, bez ohledu na to, jak málo ponorů bylo provedeno za rok. O-kroužky vysychají a tvrdnou, silikonový tuk degraduje, sůl proniká do součástek automatiky s těsnou tolerancí i při důkladném oplachování. (2) A podle POKYNŮ VÝROBCE — mnoho výrobců specifikuje další prahy, které mohou vyvolat dřívější servis: POČET PONORŮ (např. Scubapro / Atomic doporučují servis při 100 ponorech NEBO 1 roce, podle toho, co nastane dříve), HARMONOGRAM TĚŽKÉHO POUŽITÍ (každých 6 měsíců pro instruktory / pracovní potápěče / pravidelné účastníky liveaboardů), specifické sady pro výměnu O-kroužků nebo sedel a někdy klauzule SKLADOVÁNÍ NEAKTIVNÍHO (automatika skladovaná nepoužitá 2+ roky by měla být před opětovným nasazením prohlédnuta). (a) Týdně je absurdně příliš často a neekonomické. (c) Špatně — (b) je správně. (d) „Jednou ročně“ samo o sobě je NEÚPLNÉ — vynechává klauzuli o pokynech výrobce, která je tou částí, která zachycuje prahy počtu ponorů a těžkého použití. (b) je nejúplnější odpověď.",
+    "source": "mySSI: SoD Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-sod-101",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Údržba",
+    "question": "Jaký je doporučený lubrikant pro údržbu vybavení?",
+    "options": {
+      "a": "Lubrikant doporučený výrobcem",
+      "b": "Voda",
+      "c": "Motorový olej",
+      "d": "WD-20"
+    },
+    "correct": "a",
+    "explanation": "Vždy používejte VÝROBCEM SPECIFIKOVANÝ lubrikant. Správný tuk závisí na typu servisu: SILIKONOVÝ TUK — standard pro obecný (pouze vzduch) servis automatik a ventilů, kompatibilní s pryžovými/silikonovými těsněními. CHRISTO-LUBE MCG-111 nebo TRIBOLUBE 71 — perfluorpolyetherové (PFPE) tuky, které jsou KYSLÍKOVĚ KOMPATIBILNÍ: povinné pro jakékoli O₂-čisté vybavení (≥40 % O₂ nitrox/trimix, plné O₂ deko sety, stanice pro míchání podle parciálního tlaku). KRYTOX — vysokoteplotní PFPE alternativa. Proč je to důležité: (b) VODA je korozivní (zvláště slaná) a neposkytuje žádné mazání. (c) MOTOROVÝ OLEJ je na bázi ropy — degraduje silikonová a pryžová těsnění během týdnů; mnohem nebezpečnější, ropné produkty se SAMOZAPÁLÍ při vysokém PpO₂ (požáry kyslíku uvnitř automatiky jsou katastrofální — proto je O₂-čistota disciplínou). (d) „WD-20“ je pravděpodobně překlep pro WD-40 — také špatně: WD-40 je ropné rozpouštědlo / vytlačovač vody, ne lubrikant; stejné poškození těsnění + rizika spalování. Smíchání špatného tuku do O₂ servisu způsobilo skutečné požáry automatik.",
+    "source": "mySSI: SoD Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-sod-102",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Údržba",
+    "question": "Použití lubrikantu na komponenty vybavení pomáhá:",
+    "options": {
+      "a": "Snížit tření, udržet pružnost a předcházet korozi",
+      "b": "Snížit tření, předejít selhání motoru a zabránit vysychání oddílů",
+      "c": "Roztočit vrtuli rychleji, zastavit únik z O-kroužků a předejít vybití baterie",
+      "d": "Předejít korozi, udržet trubici těla čistou a snížit tření"
+    },
+    "correct": "a",
+    "explanation": "Tři učebnicové výhody správného mazání potápěčské výstroje: (1) SNÍŽIT TŘENÍ — písty automatiky, dříky ventilů, zátky portů, tlačítka inflátoru BCD, otočné spoje hadic se všechny pohybují hladce bez zadrhávání nebo třecího opotřebení; (2) UDRŽET PRUŽNOST — udržuje O-kroužky a pryžová/silikonová těsnění poddajná a odolná proti TRVALÉ DEFORMACI (trvalá deformace, která se vyvíjí, když těsnění zůstává stlačené příliš dlouho, hlavní příčina selhání těsnění); (3) PŘEDCHÁZET KOROZI — vytváří bariéru mezi kovovými povrchy a vodou/solí/kyslíkem, zvláště v závitech ventilů, sedlech O-kroužku krku láhve, DIN/yoke spojích. (b) „Selhání motoru“ — rekreační potápěčská výstroj nemá motory (mají je pouze DPV/skútry, speciální vybavení mimo tuto lekci). (c) Vrtule, baterie — zjevně mimo téma pro údržbu scuba automatiky/BCD/láhve a lubrikant „nezastavuje únik z O-kroužků“ — umožňuje jim správně sednout. (d) Lubrikant „neudržuje trubici těla čistou“ — to dělá OPLACHOVÁNÍ a správné sušení; lubrikant je o tření/těsněních/korozi, ne o čistotě.",
+    "source": "mySSI: SoD Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-sod-103",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Údržba",
+    "question": "Jak často by mělo být vybavení kontrolováno na známky opotřebení?",
+    "options": {
+      "a": "Před a po každém použití",
+      "b": "Každých 6 měsíců",
+      "c": "Jednou ročně",
+      "d": "Nikdy"
+    },
+    "correct": "a",
+    "explanation": "Kontrola vybavení na opotřebení je RUTINA NA UŽIVATELSKÉ ÚROVNI prováděná KAŽDÝ PONOR — před i po něm. PŘEDPONOROVÁ kontrola: vizuální sken hadic (praskliny, štěpení, vyboulení — známky bezprostřední ruptury), neporušený O-kroužek ventilu láhve a čisté závity, spoje LP a HP hadic dotažené bez netěsností, inflátor BCD a vypouštěcí ventily se cyklují volně a samy nepouští plyn, stav baterie a nastavení počítače, popruh masky a popruhy ploutví neprosušené. POPONOROVÁ kontrola: důkladný oplach (1. stupeň automatiky ve sladké vodě s pevně nasazenou PRACHOVOU KRYTKOU; stiskněte inflátor během oplachu BCD pro propláchnutí soli z mechanismu inflátoru), vypustit jakoukoli vodu, která se dostala do měchýře BCD, hledat nové poškození (oděrky, řezy, ztracené nebo uvolněné spojovací prvky, opotřebení hadic na otočných bodech), pověsit k uschnutí mimo přímé sluneční světlo (UV degraduje pryž/neopren). (b) a (c) popisují SERVISNÍ intervaly — to je práce na úrovni technika, oddělená od vizuální kontroly opotřebení, kterou uživatel dělá každý ponor. (d) Zjevně špatně. Návyk před/po zachycuje malé problémy (drobnou prasklinu hadice, uvolněnou zátku portu, zaseknuté tlačítko inflátoru) PŘEDTÍM, než se stanou incidenty.",
+    "source": "mySSI: SoD Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-sod-104",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Údržba",
+    "question": "Proč musí být O-kroužky řádně udržovány a v případě potřeby vyměněny?",
+    "options": {
+      "a": "Poskytují vybavení další vztlak",
+      "b": "Regulují rychlost dýchacího plynu",
+      "c": "Zabraňují vstupu vody do vybavení a udržují vnitřní díly suché",
+      "d": "Pomáhají vybavení pohybovat se ve vodě"
+    },
+    "correct": "c",
+    "explanation": "O-kroužky jsou primárními STATICKÝMI a DYNAMICKÝMI TĚSNĚNÍMI v tlakovém potápěčském vybavení — malé toroidní pryžové/silikonové ucpávky, které se stlačí mezi dvěma povrchy a blokují průchod tekutiny. Jejich funkce: ZABRÁNIT VSTUPU VODY (a udržet plyn uvnitř / kontaminanty venku). Kritická místa: (1) O-KROUŽEK VENTILU LÁHVE (DIN nebo yoke) — utěsňuje spoj láhev-automatika při plném HP (200–300 bar); poškozený nebo chybějící je nejčastější příčinou selhaného předponorového natlakování. (2) O-KROUŽKY PORTŮ 1. STUPNĚ AUTOMATIKY — utěsňují každý HP a LP port proti úniku plynu. (3) O-KROUŽKY PÍSTU NEBO MEMBRÁNY 1. STUPNĚ — oddělují pružinovou komoru od vody; pokud těsnění selže, slaná voda zaplaví pružinu → koroze → automatika zničena. (4) O-KROUŽKY INFLÁTORU BCD — utěsňují LP plyn do měchýře. (5) O-KROUŽKY PŘEPÁŽKY POTÁPĚČSKÉHO POČÍTAČE / POUZDRA — udržují vodu mimo elektroniku (selhání = zaplavení = totální ztráta). Když O-kroužky vysychají, tvrdnou nebo se trvale deformují, výsledkem jsou volné průtoky, úniky plynu, vniknutí vody nebo zaplavení. Proto protokol: prohlížet, mazat lubrikantem dle specifikace výrobce (viz mssi-sod-101), vyměňovat při jakékoli známce poškození nebo jako součást ročního servisu. (a) Drobné pryžové kroužky neposkytují žádný významný vztlak. (b) Regulace průtoku plynu se provádí pružinami / membránami / poppety / clonami — O-kroužky pouze TĚSNÍ. (d) Hydrodynamika je určena tvarem výstroje, ne O-kroužky.",
+    "source": "mySSI: SoD Lesson 4.1 Review"
+  }
+]

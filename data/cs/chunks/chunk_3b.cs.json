@@ -1,0 +1,317 @@
+[
+  {
+    "id": "mssi-sod-168",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Potápěčské lokality",
+    "question": "Jaké biotopy lze najít v pobřežních vodách?",
+    "options": {
+      "a": "Skalnatá pobřeží, solné pláně a pouštní duny",
+      "b": "Korálové útesy, mangrovové lesy a kelpové lesy",
+      "c": "Skalnatá pobřeží, korálové útesy, písčitá dna a oblasti mořské trávy",
+      "d": "Pohoří, korálové útesy a mangrovové lesy"
+    },
+    "correct": "c",
+    "explanation": "Hlavní pobřežní / přímořské biotopy, se kterými se potápěči setkávají: SKALNATÁ POBŘEŽÍ — vlnami bičovaná pobřeží s tvrdým substrátem (čedič, žula, vápenec), hostí svijonožce, slávky, hvězdice, ježovky, kelp v nižších zónách, sasanky, chobotnice, kraby. Středomoří, severozápadní Pacifik, severní Atlantik, Jižní Afrika. KORÁLOVÉ ÚTESY — tropické, teplovodní, s nízkým obsahem živin; tvrdé korály jako stavitelé + měkké korály + obrovská diverzita ryb. Karibik, Indo-Pacifik, Rudé moře, Maledivy, Austrálie, Korálový trojúhelník. PÍSČITÁ DNA — zdánlivě prázdná, ale bohatá na faunu žijící v sedimentu: rejnoci, platýsi, zahradní úhoři, pískomilky, sumci, lastury, hrabaví krabi, garnáti modlivkovití. OBLASTI MOŘSKÉ TRÁVY — ponořené trávníky (skutečné kvetoucí rostliny — Zostera, Thalassia, Posidonia — NIKOLI mořské řasy). Kritický biotop pro odchov mladých ryb, pastva dugongů/kapustňáků, krmiště mořských želv, útočiště pro mořské koníky — často přehlížený, ale ekologicky zásadní. Další pobřežní biotopy, které nejsou v této odpovědi, ale stojí za to je znát: MANGROVOVÉ LESY (tropické stromy v brakické vodě s vzdušnými kořeny — odchovny ryb, lezci bahenní, krokodýli); KELPOVÉ LESY (mírné pásmo, obří hnědé řasy — Macrocystis, Nereocystis — pacifické pobřeží USA/Mexika, Tasmánie, Jižní Afrika, Argentina; vydry, garibaldi, leopardí žraloci); ESTUÁRY / SOLNÉ MOČÁLY (kde se sladká voda setkává s mořem; ústřicová pole, krabi houslisté, mladé ryby). (a) PUŠTNÍ DUNY = suchozemské, ne pobřežní biotopy. (b) Všechny tři (korály + mangrovy + kelp) JSOU pobřežní biotopy, ale odpověď je méně komplexní než (c) — a postrádá skalnaté/písčité dno, které jsou základní. (d) POHOŘÍ = suchozemská.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-169",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Potápěčské lokality",
+    "question": "Proč jsou estuáry považovány za významné mořské biotopy?",
+    "options": {
+      "a": "Jsou bohaté na živiny a obsahují důležité zdroje potravy",
+      "b": "Jsou vždy zcela ponořené a nikdy nezažívají změny slanosti",
+      "c": "Mají extrémně vysokou slanost, což je činí vhodnými pro hlubokomořské ryby",
+      "d": "Jsou to studenovodní prostředí, kde přežije jen málo druhů"
+    },
+    "correct": "a",
+    "explanation": "Estuáry patří mezi biologicky nejproduktivnější ekosystémy na Zemi, často nazývané KOLÉBKY MOŘE nebo PŘÍRODNÍ ŠKOLKY. Co je činí tak bohatými: (1) PŘÍSUN ŽIVIN — řeky neustále dodávají dusík, fosfor, organické látky a sediment z povodí. (2) PROMÍCHÁVÁNÍ PŘÍLIVEM — dvakrát denně příliv víří živiny ze sedimentu a rozvádí je vodním sloupcem → živí rozkvět fytoplanktonu → živí vše ostatní. (3) PROMĚNLIVÁ SLANOST — brakický gradient od sladké (řeční konec) po mořskou vodu (oceánský konec) vytváří zonaci, v každém pásmu specializované druhy. (4) CHRÁNĚNÁ GEOGRAFIE — typicky chráněné zátoky, delty, laguny, fjordy → klidné podmínky podporují přežití mladých jedinců. (5) HOJNÁ PRIMÁRNÍ PRODUKCE — fytoplankton, traviny solných močálů, mangrovy, mořská tráva, vše tvoří potravní síť detritu, která živí mladé jedince. KRITICKÉ EKOLOGICKÉ FUNKCE: ~70 % komerčně významných druhů ryb tráví část svého životního cyklu v estuářích (lososi, mořčáci pruhovaní, platýsi, krabi modří, krevety); miliony tažných vodních ptáků se zde shromažďují a krmí; ústřicová pole a solné močály filtrují znečištění z povodí; SOLNÉ MOČÁLY + MANGROVY jsou významné úložiště MODRÉHO UHLÍKU. Slavné příklady: Chesapeakská zátoka, Sanfranciská zátoka, Sundarbans, delta Amazonky, Waddenské moře, močály Cape Cod. (b) Estuáry jsou DEFINOVÁNY proměnlivostí slanosti (0–35 ppt napříč přílivovými cykly + srážky); přílivové bahnité plošiny NEJSOU vždy ponořeny — jsou to zásadní rys estuárů. (c) Estuáry mají NÍZKOU / brakickou slanost, ne vysokou; hlubokomořské ryby tam nežijí. (d) Mnoho estuárů je teplých (Florida, Mexiko, tropy) a druhově bohatých.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-170",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Pohyb vody",
+    "question": "Mezi faktory ovlivňující šířku a sílu příbojové zóny patří:",
+    "options": {
+      "a": "Coriolisova síla a magnetické pole Země",
+      "b": "Hladiny přílivu a počasí",
+      "c": "Hustota mořské vody oproti sladké vodě",
+      "d": "Přítomnost bioluminiscenčních organismů"
+    },
+    "correct": "b",
+    "explanation": "Šířka a síla příbojové zóny se mění podle dvou dominantních faktorů. (1) HLADINY PŘÍLIVU — při VYSOKÉM PŘÍLIVU je příbojová zóna posunuta ke břehu, často užší přímo u okraje pláže nebo proti pobřežní zdi; při ODLIVU se zóna přesouvá od břehu, někdy odhaluje širokou plochou pláž s vlnami lámajícími se 50+ m od břehu. Rozsah přílivu (skočný vs hluchý) ovlivňuje, jak dramaticky se to během dne mění; skočné přílivy (úplněk/nov) maximalizují rozsah. (2) POČASÍ — SMĚR VĚTRU: vítr od moře staví větší, rozbouřenější vlny v příbojové zóně; vítr OD BŘEHU vyhlazuje přicházející líce vln (čisté podmínky, oblíbené u surfařů a potápěčů). RYCHLOST VĚTRU: vyšší = více energie ve vlnách = větší, prudší příboj. SMĚR + VÝŠKA VLNOBITÍ: dlouhoperiodické oceánské vlnobití ze vzdálených bouří může vytvořit obrovský příboj i za místně klidných větrných podmínek. BOUŘKOVÁ VLNA: cyklony / hurikány zvedají hladinu vody a zesilují příboj na hodiny až dny. Další faktory neuvedené, ale skutečné: SKLON / PROFIL DNA (mírný = široká zóna s několika lámavými liniemi; strmý = úzká zóna s jediným pobřežním lámáním); geometrie útesu / písčiny koncentruje nebo rozptyluje energii vln; podmořské kaňony soustředí vlnobití. (a) CORIOLIS působí v synoptickém měřítku (bouře, oceánské víry) — irelevantní v měřítku příbojové zóny; magnetické pole vlny neovlivňuje. (c) Hustota mořské vody je jen ~3 % větší než sladké — zanedbatelné pro dynamiku lámání vln. (d) Bioluminiscenční organismy fyziku vln neovlivňují.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-171",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Ochrana",
+    "question": "Co je hlavní příčinou okyselování oceánů?",
+    "options": {
+      "a": "Nadbytek kyslíku rozpouštějícího se v mořské vodě",
+      "b": "Tání mořského ledu uvolňující organický uhlík",
+      "c": "Zvýšená koncentrace rozpuštěného oxidu uhličitého",
+      "d": "Zvýšený splach dusíku z řek"
+    },
+    "correct": "c",
+    "explanation": "OKYSELOVÁNÍ OCEÁNŮ je systematický pokles pH mořské vody způsobený rozpouštěním atmosférického CO₂ v oceánu. Chemie: (1) CO₂ (atmosféra) → CO₂ (rozpuštěný) — výměna plynů na hladině moře, zejména v chladných polárních vodách, které absorbují CO₂ snadněji. (2) CO₂ + H₂O ⇌ H₂CO₃ (kyselina uhličitá). (3) H₂CO₃ ⇌ H⁺ + HCO₃⁻ — uvolňuje volné vodíkové ionty. (4) Více H⁺ = nižší pH = kyselejší (pH je záporný logaritmus [H⁺]). ČÍSLA: atmosférický CO₂ vzrostl z ~280 ppm (předindustriální) na ~425 ppm (2024), stále stoupá ~2,5 ppm/rok. pH oceánu kleslo z 8,2 na 8,1 — pokles o 0,1 jednotky znamená přibližně 30 % VÍCE H⁺, protože stupnice je logaritmická. Oceán pohltil ~30 % všech antropogenních emisí CO₂ od roku 1850 — tlumí oteplování atmosféry, ale za cenu mořské chemie. PROČ KATASTROFICKÉ pro mořský život: jak roste H⁺, reaguje s uhličitanem (CO₃²⁻) za vzniku HCO₃⁻ → méně CO₃²⁻ je dostupné pro organismy stavějící schránky/skelety z CaCO₃ (korály, měkkýši, křídlonožci, dírkonošci, korálové řasy). HORIZONT NASYCENÍ ARAGONITEM stoupá k hladině — pod ním aragonitová forma CaCO₃ aktivně ROZPOUŠTÍ místo aby se stavěla. Reálné dopady: oslabené korálové skelety, pomalejší růst korálů, larvy korýšů nedokáží vytvořit schránky (zasaženo odvětví ústřic v severozápadním Pacifiku), schránky křídlonožců se rozpouštějí v arktických vodách. V kombinaci s oteplováním oceánu + bělením je okyselování oceánů existenční hrozbou 21. století pro korálové útesy. (a) Kyslík vodu neokyseluje. (b) Tání ledu produkuje sladkou vodu, nenese významný uhlík — problém je vstup atmosférického CO₂. (d) Splach dusíku způsobuje EUTROFIZACI / MRTVÉ ZÓNY (samostatný vážný problém), ne okyselování.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-172",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Ochrana",
+    "question": "U mořských organismů organický uhlík:",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Slouží k tvorbě skeletů a schránek z uhličitanu vápenatého",
+      "c": "Při dýchání a rozkladu se přeměňuje zpět na oxid uhličitý",
+      "d": "Slouží k růstu a rozmnožování"
+    },
+    "correct": "a",
+    "explanation": "Všechny tři popisují, jak mořské organismy zpracovávají uhlík (podle pojetí SSI, kde se „organický uhlík“ chápe široce jako „biologicky zpracovaný uhlík“). (b) TVORBA SKELETŮ A SCHRÁNEK Z UHLIČITANU VÁPENATÉHO — korály, měkkýši, dírkonošci, křídlonožci, ostnokožci, korálové řasy stavějí struktury z CaCO₃ z rozpuštěných uhličitanových / hydrogenuhličitanových iontů v mořské vodě. Technická poznámka: striktně vzato je CaCO₃ ANORGANICKÝ uhlík (stavěný z HCO₃⁻ a CO₃²⁻ v mořské vodě, ne z organických sloučenin s vazbami C–H). Učebnice SSI to spojuje s širším tématem „využití uhlíku“. (c) PŘEMĚNA ZPĚT NA CO₂ při dýchání a rozkladu — každý nádech každého zvířete vrací CO₂ do vody; bakterie rozkládající mrtvou tkáň mineralizují uhlík zpět na CO₂; uzavírá to mořský uhlíkový cyklus. (d) RŮST A ROZMNOŽOVÁNÍ — organický uhlík (v sacharidech, bílkovinách, lipidech, nukleových kyselinách) je doslova stavebním kamenem veškeré biomasy. Růst = přidávání uhlíku do tkáně; rozmnožování = produkce potomků postavených z uhlíku. Celý mořský uhlíkový cyklus v jedné větě: fytoplankton fixuje rozpuštěný CO₂ fotosyntézou (organický uhlík) → sežrán zooplanktonem → nahoru po potravním řetězci → měkká tkáň + schránky/skelety; dýchání uvolňuje CO₂ zpět; mrtvé organismy klesají jako MOŘSKÝ SNÍH a buď se rozkládají (CO₂ recyklován), nebo sekvestrují uhlík do hlubokých sedimentů (BIOLOGICKÁ PUMPA — dlouhodobé uložení). Vápenatící organismy přidávají paralelní tok anorganického uhlíku (CaCO₃) do hlubokých sedimentů.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-173",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Ochrana",
+    "question": "Rostliny a fytoplankton využívají oxid uhličitý k:",
+    "options": {
+      "a": "Vytváření bublin při fotosyntéze",
+      "b": "Produkci energie a uvolňování kyslíku při fotosyntéze",
+      "c": "Snižování slanosti vody",
+      "d": "Zabíjení bakterií při chemosyntéze"
+    },
+    "correct": "b",
+    "explanation": "Základní rovnice fotosyntézy: 6 CO₂ + 6 H₂O + světelná energie → C₆H₁₂O₆ (glukóza) + 6 O₂. Co se děje: SVĚTELNOU ENERGII zachycuje CHLOROFYL a doprovodná pigmenty a pohání endotermickou reakci. CO₂ je zdrojem uhlíku — odebírán z atmosféry (suchozemské rostliny) nebo rozpuštěný v mořské vodě (fytoplankton, mořské řasy, mořské trávy). H₂O dodává vodík a elektrony; atomy kyslíku vycházejí jako vedlejší produkt O₂. GLUKÓZA (organický uhlík) je energetickým / biomasovým produktem, pohání metabolismus, růst, rozmnožování. MOŘSKÉ DŮSLEDKY: fytoplankton produkuje ~50 % atmosférického kyslíku Země — každý druhý nádech, který uděláte, pochází z mořské fotosyntézy. Fytoplankton tvoří základ téměř každé mořské potravní sítě. Pohání BIOLOGICKOU PUMPU — fixuje CO₂ na hladině → část klesá jako mořský sníh → dlouhodobá sekvestrace uhlíku v hlubokém oceánu (významný nárazník proti růstu atmosférického CO₂). (a) Bubliny jsou někdy viditelné z fotosyntetizujících mořských řas/mořské trávy, ale nejsou to FUNKCE — jsou to vedlejší efekt uvolňování O₂ překračujícího mez rozpustnosti vody za slunečného dne. (c) Fotosyntéza nemění slanost. (d) CHEMOSYNTÉZA je zcela samostatný proces — bakterie u hydrotermálních průduchů a studených vývěrů využívají chemickou energii (oxidace H₂S, metanu, vodíku, amoniaku) místo světla k fixaci uhlíku; nezahrnuje fotosyntetickou dráhu, a chemosyntetické bakterie samy jsou primárními producenty (ne „zabíjejí“ bakterie, JSOU těmi bakteriemi).",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-174",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Vlastnosti vody",
+    "question": "Koncentrace soli klesá v oblastech ovlivněných:",
+    "options": {
+      "a": "Vysokými srážkami",
+      "b": "Nízkým vypařováním",
+      "c": "Táním ledu",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "d",
+    "explanation": "Všechny tři jsou vstupy sladké vody, které ředí mořskou vodu. (a) VYSOKÉ SRÁŽKY — čistá sladká voda (~0 ppt slanosti) padající do oceánu ředí povrchové vody; tropické dešťové pásy a monzunové oblasti vykazují sezónní poklesy slanosti. (b) NÍZKÉ VYPAŘOVÁNÍ — když je povrchové vypařování potlačeno (chladné počasí, klid, oblačno), sůl se nekoncentruje; slanost zůstává stabilní nebo klesá s jakýmkoli vstupem sladké vody. (c) TÁNÍ LEDU — tvorba mořského ledu při zamrzání většinu soli vyloučí (sůl zůstává v okolní vodě jako „VYLUČOVÁNÍ SOLANKY“). Když ten led roztaje, téměř čistá sladká voda ředí okolní oceán. Hlavní efekt ve vysokých zeměpisných šířkách; Severní ledový oceán má znatelně nižší povrchovou slanost (~30 ppt vs globální průměr ~35 ppt) díky kombinaci masivního tání ledu + říčního odtoku. Další zdroje ředění neuvedené v této otázce: říční výtok (amazonský oblak snižuje slanost Atlantiku stovky km od pobřeží), prosakování podzemní vody, ledovcový odtok. Slanost je zřídka rovnoměrná — povrchové vody v různých oblastech se mohou pohybovat od ~30 ppt (silně zředěné) po ~40+ ppt (koncentrované odpařováním, viz mssi-sod-175).",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-175",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Vlastnosti vody",
+    "question": "Slanost roste v oblastech ovlivněných:",
+    "options": {
+      "a": "Vysokými srážkami a nízkým vypařováním",
+      "b": "Zvláště slanými horninami",
+      "c": "Táním ledu",
+      "d": "Nízkými srážkami a vysokým vypařováním"
+    },
+    "correct": "d",
+    "explanation": "Slanost roste, když dochází k čisté ZTRÁTĚ vody z oblasti: VYSOKÉ VYPAŘOVÁNÍ odebírá čistou vodu → sůl zůstává → koncentrace stoupá (horké, suché, slunečné, větrné podmínky to maximalizují). NÍZKÉ SRÁŽKY znamenají žádný přísun sladké vody k vyrovnání ztráty vypařováním → žádné ředění. Reálná místa s vysokou slaností: RUDÉ MOŘE ~38–41 ppt (vs globální průměr ~35 ppt) — vysoké vypařování, žádné velké řeky, polouzavřené; STŘEDOMOŘÍ ~38–39 ppt — stejná dynamika; PERSKÝ / ARABSKÝ ZÁLIV ~37–42 ppt — extrémní vypařování v mělké pánvi; MRTVÉ MOŘE ~340 ppt (10× normální mořská voda, terminální jezero — voda přitéká, jen se vypařuje, sůl se hromadí po tisíciletí). Pro potápěče: voda s vysokou slaností = VYŠŠÍ HUSTOTA = VYŠŠÍ VZTLAK = potřeba více olova. Potápěč v 7mm mokrém obleku bude potřebovat ~1–2 kg více závaží v Rudém moři než v Karibiku. (a) OPAK — vysoké srážky + nízké vypařování = POKLES slanosti. (b) Horniny přispívají solí pouze dlouhodobým geologickým zvětráváním, není to relevantní pro místní gradienty slanosti. (c) Tání ledu = přísun sladké vody = POKLES slanosti.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-176",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Vlastnosti vody",
+    "question": "Co mohou potápěči zažít, když projdou haloklinou?",
+    "options": {
+      "a": "Potíže s dýcháním",
+      "b": "Pocit chladu",
+      "c": "Optické zkreslení",
+      "d": "Pocit tepla"
+    },
+    "correct": "c",
+    "explanation": "HALOKLINA je ostrá hranice, kde se slanost rychle mění s hloubkou (nebo laterálně). Potápění napříč ní vytváří nápadný optický efekt: OPTICKÉ ZKRESLENÍ — voda vypadá třpytivá, rozmazaná, olejová, jako plavání benzínem nebo čtení přes mokré sklo. PROČ: různé slanosti = různé hustoty = různé INDEXY LOMU; světlo se na hranici ohýbá, vytváří kolísavý lom. Mícháním obou vrstev (kopy nebo bublinami) vznikají viditelné SCHLIERENOVÉ vzory, jak se voda s rozdílnou hustotou víří dohromady. Nejslavnější potápění v haloklině: CENOTY na poloostrově Yucatán — vrstva sladké vody plave nad vrstvou slané (sladká je méně hustá), tvoří haloklinu v hloubce ~10–15 m. Při překročení hranice přejdete z čisté sladké do čisté slané, ale samotná hranice vypadá jako „řeka hvězd“ třpytící se. Slavné lokality: ANGELITA (s hlubší H₂S sirnou cloumou na druhé hydroklině), CARWASH, DOS OJOS, PET CEMETERY. Další lokality halokliny: anchialinní jezírka (Havaj, Bahamy), některé fjordy, kde se řeky setkávají s mořskou vodou, Černé moře nad svou anoxickou hlubokou vrstvou. PRAKTICKÉ EFEKTY PRO POTÁPĚČE: ZMĚNY VZTLAKU na hranici — při průchodu z méně slané do slanější vody se přidá zvedání (hustší voda = větší vztlak na vás); opačný směr opačně. Halokliny se často shodují i s teplotní změnou (halokliny + termokliny jsou často vrstvené dohromady). (a) Dýchání není ovlivněno — fyzika plynů se nestará o slanost vody. (b) Pocit CHLADU = TERMOKLINA (teplotní hranice), samostatný jev. (d) Pocit tepla = také termoklina, opačný směr.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-177",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Pohyb vody",
+    "question": "Při kterém stupni Beaufortovy stupnice silné povrchové proudy významně zvyšují rizika pro potápěče?",
+    "options": {
+      "a": "6, silný vítr",
+      "b": "3, mírný vítr",
+      "c": "4, dosti čerstvý vítr",
+      "d": "5, čerstvý vítr"
+    },
+    "correct": "d",
+    "explanation": "BEAUFORT 5 (ČERSTVÝ VÍTR, 29–38 km/h) je typická hranice, kdy se podmínky pro potápění významně zhoršují. Na této úrovni: vlny 1–2 m, mnoho bílých hřebenů, tříšť; povrchové vlnobití dělá nastupování/vystupování z lodi nebezpečným (nárazy do žebříku); povrchové proudy znatelně silnější; povrchové plavání vyčerpávající; navigace složitější; viditelnost se může snížit, jak vítr víří sediment u břehu; manipulace s lodí náročná — kapitáni mohou mít problémy udržet pozici nad lokalitou. Většina potápěčských operátorů nastavuje svou hranici jet/nejet kolem Beaufortu 4–5 podle expozice lokality; pro instruktorské kurzy s novými studenty je cokoli nad Beaufortem 3 sporné. Rychlý přehled: 0 bezvětří (perfektní); 1 vánek (vynikající); 2 mírný vánek (dobrý); 3 slabý vítr (přijatelný, rozptýlené bílé hřebeny); 4 dosti čerstvý vítr (časté bílé hřebeny, vlny 1 m, zvládnutelný); 5 čerstvý vítr (TENTO — hranice významného rizika); 6 silný vítr, vlny 2–3 m (většina operací ruší); 7 prudký vítr (žádné potápění). Posun mezi Beaufortem 4 a 5 je tam, kde lodní operace a potápěči konzistentně hlásí „tohle se právě stalo náročným“ — to je hranice SSI, kterou je třeba si pamatovat. (a) BEAUFORT 6 je ještě nebezpečnější, ale text SSI identifikuje 5 jako hranici, kdy se riziko významně zvyšuje. (b) BEAUFORT 3 je mírný. (c) BEAUFORT 4 je horní hranice pohodlného potápění pro většinu.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-178",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Pohyb vody",
+    "question": "Jak mohou tlakové výše a tlakové níže ovlivnit oceánské podmínky?",
+    "options": {
+      "a": "Tlakové níže mohou přispívat ke špatné viditelnosti vody",
+      "b": "Tlakové výše přinášejí klidné, stabilní podmínky s nižší aktivitou vln",
+      "c": "Všechny odpovědi jsou správné",
+      "d": "Tlakové níže přinášejí nestabilní podmínky se zvýšeným větrem a deštěm"
+    },
+    "correct": "c",
+    "explanation": "Všechny tři popisují skutečné účinky tlaku počasí na potápěčské podmínky. (a) TLAKOVÉ NÍŽE → špatná viditelnost vody několika mechanismy: bouřkové vlny víří sediment ze dna; dešťový splach nese bahno a živiny z pobřežních povodí do přímořských vod; snížené sluneční světlo z oblačnosti zhoršuje podvodní viditelnost; rozkvět planktonu spuštěný impulsem živin po bouři; turbulentní povrchové míchání přerozděluje hluboké zakalené vody na hladinu. (b) TLAKOVÉ VÝŠE → klidné, stabilní podmínky, nižší aktivita vln — anticyklony přinášejí pěkné počasí, slabé větry, klesající vzduch ve výšce (který potlačuje tvorbu oblaků), čistou oblohu. Nejlepší okna pro potápění jsou typicky během prodloužených hřebenů vysokého tlaku, které „zaparkují“ nad oblastí na několik dní a nechají vlny ustálit a viditelnost se zlepšit. (d) TLAKOVÉ NÍŽE → nestabilní, zvýšený vítr a déšť — cyklony (deprese) přinášejí stoupající vzduch, nestabilitu, bouře, frontální průchody, srážky. Tropické cyklony (hurikány/tajfuny) jsou extrém. Pro plánování potápění: před výletem sledujte synoptickou mapu. Blížící se tlaková níže = vítr se zvedá + vlny se staví během 12–24 hodin; blížící se výše = podmínky se zlepšují. Většina operátorů kontroluje předpověď NOAA / GFS / ECMWF 3–5 dní dopředu a načasuje výlety na okno počasí s vysokým tlakem.",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-179",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Ochrana",
+    "question": "Jak zvýšená kyselost oceánu ovlivňuje mořský život?",
+    "options": {
+      "a": "Snižuje slanost, čímž je voda méně hustá",
+      "b": "Zvyšuje rozpustnost schránek a skeletů z uhličitanu vápenatého",
+      "c": "Způsobuje rychlé oteplování hlubokomořských ekosystémů",
+      "d": "Zvyšuje dostupnost kyslíku ve vodě"
+    },
+    "correct": "b",
+    "explanation": "Zvýšená kyselost = nižší pH = více iontů H⁺; tyto reagují s uhličitanem (CO₃²⁻) za vzniku hydrogenuhličitanu (HCO₃⁻), čímž posouvají uhličitanovou rovnováhu tak, že schránky/skelety z CaCO₃ se SNADNĚJI ROZPOUŠTĚJÍ (= „zvýšená rozpustnost“). Neintuitivní formulace, ale chemicky přesná: více H⁺ spotřebovává volný CO₃²⁻ → zbývá méně CO₃²⁻ v mořské vodě → rovnováha CaCO₃ ⇌ Ca²⁺ + CO₃²⁻ se posouvá → VÍCE CaCO₃ se rozpouští, aby doplnilo spotřebovaný uhličitan. Pod HORIZONTEM NASYCENÍ ARAGONITEM (který stoupá, jak okyselování postupuje) se aragonitová forma CaCO₃ aktivně rozpouští místo aby se stavěla. PRAKTICKÉ DOPADY na mořský život: KORÁLOVÉ SKELETY slábnou (pomalejší kalcifikace, porézní struktury, snížená tuhost); LARVY KORÝŠŮ nemohou úspěšně postavit počáteční schránky ve stále kyselejší vodě (kolaps odvětví ústřic v severozápadním Pacifiku spojený s vzedmutím kyselé vody na líhně); SCHRÁNKY KŘÍDLONOŽCŮ (planktonní plži, základ polárního potravního řetězce) se doslova rozpouštějí v pozorovaných arktických vodách; KORÁLOVÉ ŘASY (klíčové cementující organismy útesů) bojují s udržením struktury; DÍRKONOŠCI (obrovský přispěvatel hlubokomořského ukládání uhlíku) produkují tenčí schránky. V kombinaci s BĚLENÍM a OTEPLOVÁNÍM = katastrofická synergie ohrožující útesové ekosystémy globálně. (a) Okyselování významně nemění slanost. (c) Oteplování je SAMOSTATNÝ efekt — také poháněný emisemi skleníkových plynů, ale jiný mechanismus (absorpce tepla spíše než chemie pH). (d) Opak — teplejší / kyselejší voda typicky obsahuje MÉNĚ rozpuštěného O₂ (Henryho zákon: rozpustnost klesá s teplotou).",
+    "source": "mySSI: SoD Lesson 5.2 Review"
+  },
+  {
+    "id": "mssi-sod-180",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Pohyb vody",
+    "question": "Co jsou vlny od plavidla?",
+    "options": {
+      "a": "Vlny vytvořené pohybem lodní dopravy",
+      "b": "Vlny vytvořené specificky uvnitř uzavřených vodních cest",
+      "c": "Vlny vznikající brzy ráno",
+      "d": "Vlny vytvořené velkými loděmi, ale ne malými čluny"
+    },
+    "correct": "a",
+    "explanation": "VLNY OD PLAVIDLA jsou vzor vln vytvořený jakýmkoli plavidlem pohybujícím se vodou — lodní dopravou jakékoli velikosti. FYZIKA VLN OD PLAVIDLA: pohybující se plavidlo tlačí vodu stranou, jak postupuje → vytváří vzor vln ve tvaru V (KELVINOVA BRÁZDA, popsal Lord Kelvin v roce 1887). Úhel brázdy je zhruba 39° od přídě bez ohledu na rychlost (základ dynamiky tekutin pro výtlačná plavidla v hluboké vodě). Rychlejší + těžší + větší = větší brázda; klouzající plavidla (vodní skútry, rychlé RIB) produkují odlišnou (často menší) brázdu než výtlačná plavidla (plachetnice, velké lodě). Brázda může cestovat DALEKO od zdroje — viditelná brázda od projíždějící lodi může zasáhnout břeh minuty poté, co loď odjela, kilometry daleko. NEBEZPEČÍ RELEVANTNÍ PRO POTÁPĚČE: povrchový potápěč SMETEN — brázda může převrátit potápěče, srazit masky, tlačit je na skály/mola; uvázané lodě se v procházející brázdě prudce houpou (vybavení odlétá); malé potápěčské lodě bojují v rušných kanálech s kumulativní brázdou trajektů/nákladních lodí; přípravy na hladině na malých lodích se stávají nestabilními; výstupy na pláži dostávají zesílený pobřežní příboj od brázdy narážející na břeh. PROVOZNÍ ŘEŠENÍ: ZÓNY BEZ VLN právně vynucené u marín, kotvišť a potápěčských vlajek; lodě by měly ZPOMALIT při míjení vlajky Alpha nebo Diver Down; potápěči SESTUPUJÍ POD 5 m, aby unikli turbulenci brázdy; vstupy načasované tak, aby na hladině nebyli, když plánovaně projedou trajekty. (b) Brázda se vyskytuje i v otevřené vodě, ne „specificky uzavřené“. (c) Denní doba irelevantní — brázda vzniká pohybem plavidla bez ohledu na čas. (d) Každé motorové plavidlo produkuje brázdu; i kajaky produkují malé brázdy; vodní skútry produkují překvapivě velkou brázdu navzdory své velikosti.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-181",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Pohyb vody",
+    "question": "Proč by potápěči měli plánovat výstup během stojaté vody při vysokém přílivu?",
+    "options": {
+      "a": "Aby zabránili setkání s nebezpečným mořským životem",
+      "b": "Aby se vyhnuli silným svislým pohybům vody",
+      "c": "Aby šetřili plyn během dlouhých ponorů",
+      "d": "Pro nejlepší viditelnost a nejbezpečnější podmínky"
+    },
+    "correct": "d",
+    "explanation": "STOJATÁ VODA / SLACK TIDE je krátké okno, kdy je přílivový proud téměř nulový mezi změnami směru (vysoký → nízký odliv, nebo nízký → vysoký příliv). Pro pobřežní ponory je načasování výstupu důležité. PROČ KONKRÉTNĚ STOJATÁ VODA PŘI VYSOKÉM PŘÍLIVU: (1) NEJLEPŠÍ VIDITELNOST — minimální proud znamená minimální suspendovaný sediment; částice se během klidového okna usadily. (2) NEJBEZPEČNĚJŠÍ POVRCHOVÉ PLAVÁNÍ A PŘÍSTUP K PLÁŽI — žádný proud vás netáhne stranou, žádný trhací kanál vás netáhne ven, žádný vír na výběžcích. (3) MAXIMÁLNÍ HLOUBKA VODY U BŘEHU — skály, ústřicová pole, mořské ježky, ostré korály jsou ponořeny hlouběji, snazší výstup bez prořezání bot. (4) SNAZŠÍ VÝSTUPY SKALNATÉ NEBO Z MOLA — nelezení přes obnažené skály obrostlé svijonožci; voda je již blízko vysoké značky, vztlak je na vaší straně. (5) PŘÍSTUP LODĚ — vyzvedávací lodě / potápěčští operátoři mají větší hloubku a snazší kotvení blízko břehu při vysoké vodě. VYHNĚTE SE PRO VÝSTUP: STOJATÁ VODA PŘI ODLIVU — nejtěžší výstup, obnažené skály, kluzké chaluhy, dlouhá chůze přes kluzký nerovný substrát, někdy se nelze dostat k vodě bez průchodů závislých na přílivu; STŘEDNÍ PŘÍLIV / ODLIV — maximální přílivový proud, snížená viditelnost z víření sedimentu, potenciál být smeten z kurzu na hladině. STANDARDNÍ PLÁN POBŘEŽNÍHO PONORU: vstup blízko stojaté vody při vysokém přílivu (nebo těsně po vrcholu), ponor po kruhové trase nebo s proudem ven + proti proudu zpět, výstup na stojaté vodě při návratu na vysokém přílivu. (a) Setkání s mořským životem nejsou takto poháněna přílivem. (b) Svislé pohyby vody nejsou v tomto měřítku skutečně spojeny s přílivem. (c) Šetření plynu není funkcí přílivu.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-182",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Pohyb vody",
+    "question": "Které z následujících jsou typy vln?",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Větrem generované vlny a vlnobití",
+      "c": "Příboj a vlny od plavidla",
+      "d": "Bludné vlny a bouřkové vlny"
+    },
+    "correct": "a",
+    "explanation": "Všechny tři páry pojmenovávají skutečné kategorie vln. (b) VĚTRNÉ VLNY jsou místní vlny generované přímo větrem foukajícím na hladinu — krátká perioda (několik sekund), nepravidelné, přetrvávají, dokud fouká vítr. VLNOBITÍ jsou větrné vlny, které vycestovaly z generační oblasti: delší perioda (10–20+ sekund), uniformnější tvar, nižší strmost, mohou cestovat tisíce km od vzdálené bouře a lámat se na vzdáleném pobřeží (havajské zimní vlnobití pochází ze severopacifických bouří). (c) PŘÍBOJ = horizontální pohyb vody tam a zpět způsobený vlnami procházejícími přes mělčinu (v jeskyních, obloucích, příbojových kanálech) — strká potápěči v hloubce. VLNY OD PLAVIDLA = generované plavidly (mssi-sod-180). (d) BLUDNÉ VLNY = abnormální vlny >2× okolní významné výšky vlny — statisticky vzácné, ale radarově potvrzené na ropných plošinách; mnoho nehod ztrát na moři jim připisováno; způsobeny zaostřením vln v opačných proudech (Agulhasský proud u Jižní Afriky je proslulý) nebo konstruktivní interferencí více vlnových vlaků. BOUŘKOVÉ VLNY = stoupání hladiny moře během tropického / mimotropického cyklonu, poháněné větrem tlačícím vodu na břeh + nízkotlakovým efektem „obráceného barometru“; primární zabiják v hurikánech (Katrina, Sandy, Ike). Odlišný mechanismus od běžných vln, ale dopadá na pobřeží jako pomalá obří vlna. Další typy vln nad rámec této otázky: TSUNAMI (seismicky generované, velmi dlouhá vlnová délka, smrtelné při mělkém přiblížení); PŘÍLIVOVÁ ČELA (přicházející příliv jako vlna v zužujících se řekách); STOJATÉ VLNY; VNITŘNÍ VLNY (mezi hustotními vrstvami uvnitř vodního sloupce).",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-183",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Pohyb vody",
+    "question": "Co by měli potápěči udělat, pokud se ocitnou v silném proudu?",
+    "options": {
+      "a": "Plavat přímo proti proudu",
+      "b": "Přidat více závaží, aby zůstali na jednom místě",
+      "c": "Plavat paralelně/pod úhlem ke břehu nebo se nechat unášet proudem a počkat na vyzvednutí",
+      "d": "Bojovat s proudem co nejdéle"
+    },
+    "correct": "c",
+    "explanation": "Standardní protokol SSI pro únik z proudu: PLAVAT PARALELNĚ S BŘEHEM (nebo pod úhlem ven z proudového pásu), nebo SE UNÁŠET S PROUDEM a počkat na vyzvednutí. Stejná logika jako únik z trhavého proudu na hladině: nebojujte s proudem čelně (vyčerpávající, spotřeba plynu), dostaňte se VEN z úzkého proudového pásu bočně. Pokud daleko od břehu nebo na driftovém ponoru, jeďte s proudem — loď vás vyzvedne dolů po proudu. Nasaďte dSMB pro povrchovou viditelnost, držte se pohromadě s buddym, šetřete plyn a energii. Standardní praxe driftového ponoru: potápět se s proudem, vystupovat s proudem, loď vyzvedává dolů po proudu; nikdy neplánujte ponor, který vyžaduje návrat proti proudu na konci. (a) PLAVAT PROTI = vyčerpávající a spotřebovává plyn; většina úmrtí spojených s proudem zahrnuje potápěče bojující proti proudu až do vyčerpání → panika → nekontrolovaný výstup → DCS / utonutí. (b) PŘIDAT VÍCE ZÁVAŽÍ = nebude fungovat; proud působí na celého potápěče včetně extra závaží, prostě klesnete, zatímco vás bude unášet. Také to zabíjí vaši rezervu odhozitelného závaží. (d) BOJOVAT CO NEJDÉLE = nejhorší odpověď v řízení proudu — vyčerpání pod vodou je scénář, kde špatné výsledky kaskádují rychle.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-184",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Pohyb vody",
+    "question": "Jak mohou vlny ovlivnit potápěčské podmínky?",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Velké vlny v příbojové zóně mohou být nebezpečné",
+      "c": "Vlnění může snížit podvodní viditelnost",
+      "d": "Rozbouřené moře a drsné podmínky mohou ztížit výstupy a vstupy"
+    },
+    "correct": "a",
+    "explanation": "Všechny tři jsou skutečné dopady na potápění. (b) VELKÉ VLNY V PŘÍBOJOVÉ ZÓNĚ jsou nebezpečné (mssi-sod-162) — vstup/výstup přes lámající se vlny může strhnout masky, ztratit ploutve, mlátit potápěče o dno nebo pobřežní skály, vyrazit regulátor z úst. Zvláště nebezpečné jsou ponořovací příboje. (c) SNÍŽENÁ PODVODNÍ VIDITELNOST — vlnění víří písek a sediment ze dna v mělké vodě (zejména nad pískovým nebo bahenním substrátem); zakalený oblak může sahat desítky metrů dolů, přetrvávat hodiny po uklidnění aktivity vln. Bouřemi rozvířené lokality se mohou čistit dny. I mírné vlnobití na hladině může způsobit významné suspenzi sedimentu u dna v hloubce 5–10 m na písčitých dnech. (d) OBTÍŽNÉ VSTUPY A VÝSTUPY — nastupování na loď ve vlnobití je nebezpečné (nárazy do žebříku, žebřík se zvedá a klesá o 1+ m, potápěči naráží do trupu); vstupy na pláži přes lámající se vlny jsou náročné na vybavení a potápěče (řízení příbojové zóny); povrchové plavání se stává vyčerpávajícím a dezorientujícím ve významném vlnobití. Další efekty vln, které stojí za to znát: MĚLKÝ PŘÍBOJ v hloubce — klidně vypadající hladina může mít silný kolébavý pohyb v 10–15 m nad pískem nebo korály; KYVADLOVÝ EFEKT v jeskyních/průplavech (příboj vás unáší tam a zpět, těžko se vznášet); MOŘSKÁ NEMOC NA LODI během povrchových intervalů ovlivňuje kondici pro další ponor; VLNAMI INDUKOVANÉ HOUPÁNÍ uvázaných potápěčských lodí způsobuje zranění od vybavení a mořskou nemoc posádky.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-185",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Pohyb vody",
+    "question": "Proč je stojatá voda považována za ideální pro potápěčské aktivity?",
+    "options": {
+      "a": "Hladiny přílivu jsou nejvyšší a poskytují hluboké vody",
+      "b": "Síla proudů vrcholí, čímž se zlepšuje podvodní navigace",
+      "c": "Přílivový tok se zmírňuje, čímž poskytuje klidné podmínky",
+      "d": "Koreluje s extrémním počasím, čímž minimalizuje rizika"
+    },
+    "correct": "c",
+    "explanation": "STOJATÁ VODA / SLACK TIDE je krátké okno, kdy je přílivový proud téměř nulový mezi přílivem a odlivem (nebo odlivem a přílivem). Pro potápěče klidové okno přináší vše, co chcete: MINIMÁLNÍ PROUD = minimální plavací úsilí, žádné smetení z kurzu, žádný boj proti proudu na zpáteční cestě; NEJLEPŠÍ VIDITELNOST = sediment, který byl suspendován přílivovým tokem, se usadil; SNADNÁ NAVIGACE = žádný proudový vektor ke kompenzaci, kompasový kurz odpovídá skutečné stopě; BEZPEČNÉ LODNÍ OPERACE = loď drží pozici nad lokalitou bez tažení kotvy, potápěči mohou vystupovat po lanu, aniž by byli odtahováni; POHODLNÉ POVRCHOVÉ INTERVALY = žádné odplouvání od lodi; SNAZŠÍ VSTUPY A VÝSTUPY = stabilní přístup k pláži, žádný příboj v příbojových kanálech, žádné boje s proudem v povrchovém plavání. Klidové okno je typicky jen 10–30 MINUT v závislosti na lokalitě. Některé lokality se silnými přílivovými proudy (kanály ve Velké Británii — Strangford Lough, Saltstraumen v Norsku, indonéské úžiny, úžiny v severozápadním Pacifiku) MUSÍ být potápěny při stojaté vodě — časově omezené okno je jediné bezpečné období pro potápění. Místní přílivové tabulky udávají přesné časy stojaté vody. Pojmy přílivového cyklu: VYSOKÝ příliv → STOJATÁ VODA PŘI VYSOKÉM PŘÍLIVU (často nejklidnější) → ODLIV (odtékající tok, voda klesá) → STOJATÁ VODA PŘI ODLIVU → PŘÍLIV (přitékající, voda stoupá) → zpět na vysoký. (a) NEJVYŠŠÍ PŘÍLIVY se týká pouze stojaté vody při vysokém přílivu, ne stojaté vody obecně — stojatá voda při odlivu je také ideální, ale s menší hloubkou vody u břehu. (b) Opak — stojatá voda = MINIMÁLNÍ proud, ne vrchol. (d) Stojatá voda a počasí jsou nesouvisející jevy.",
+    "source": "mySSI: SoD Lesson 5.3 Review"
+  },
+  {
+    "id": "mssi-sod-186",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Co je hlavním zaměřením studia mořské biologie?",
+    "options": {
+      "a": "Geologické procesy Země",
+      "b": "Chemické složení oceánu",
+      "c": "Atmosférické procesy",
+      "d": "Život v oceánu a jeho interakce"
+    },
+    "correct": "d",
+    "explanation": "MOŘSKÁ BIOLOGIE je studium života v oceánu a jeho interakcí — organismů žijících ve slané vodě a toho, jak vzájemně interagují (predace, konkurence, symbióza) a se svým fyzickým prostředím (teplota, slanost, hloubka, světlo, proudy). ROZSAH: ÚROVEŇ ORGANISMU — anatomie, fyziologie, chování, životní cykly druhů od mikrobů po velryby; ÚROVEŇ POPULACE — jak se mění počty druhů v čase, distribuce, migrace, rozmnožování; ÚROVEŇ SPOLEČENSTVA — víceduhové interakce, potravní sítě, predátor-kořist, vzájemnost, konkurence; ÚROVEŇ EKOSYSTÉMU — celé biotopy jako systémy (korálové útesy, kelpové lesy, hydrotermální průduchy, hluboké moře, polární moře); KONZERVAČNÍ BIOLOGIE — aplikovaná stránka, mořské chráněné oblasti, řízení rybolovu, obnova. PŘÍBUZNÉ DISCIPLÍNY: (a) MOŘSKÁ GEOLOGIE / GEOLOGICKÁ OCEÁNOGRAFIE — topografie mořského dna, desková tektonika, sedimenty, středooceánské hřbety, subdukční zóny; (b) CHEMICKÁ OCEÁNOGRAFIE / MOŘSKÁ CHEMIE — složení vody, koloběh živin, chemie uhličitanů (okyselování oceánů — viz mssi-sod-171); (c) ATMOSFÉRICKÁ VĚDA / METEOROLOGIE — interakce vzduch-moře, hurikány, El Niño/La Niña; relevantní pro oceán, ale samostatný obor. Společně tvoří OCEÁNOGRAFII — zastřešující obor, který kombinuje všechny přístupy ke studiu oceánů. Pro potápěče je mořská biologie tím, co dělá ponor zajímavým, jakmile je vyladěn vztlak: znalost druhů + chování + vztahů znásobuje zážitek.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-187",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Které z následujících tvrzení o prokaryotech a eukaryotech je pravdivé?",
+    "options": {
+      "a": "Eukaryoti mají buňky s membránou ohraničeným jádrem",
+      "b": "Eukaryoti zahrnují veškerý život kromě bakterií a archeí",
+      "c": "Všechny odpovědi jsou správné",
+      "d": "Prokaryoti jsou méně složití než eukaryoti"
+    },
+    "correct": "c",
+    "explanation": "Všechna tři tvrzení přesně popisují rozdělení prokaryot–eukaryot. (a) EUKARYOTI MAJÍ MEMBRÁNOU OHRANIČENÉ JÁDRO — definující rys. EU- (řecky „pravý“) + KARYON (jádro) = „pravé jádro“. DNA je uzavřena v jaderném obalu. Eukaryoti mají i další membránou ohraničené organely: mitochondrie (energie), endoplazmatické retikulum, Golgiho aparát, lyzozomy, chloroplasty u rostlin/řas. (b) EUKARYOTI ZAHRNUJÍ VEŠKERÝ ŽIVOT KROMĚ BAKTERIÍ A ARCHEÍ — třídoménová klasifikace života: BAKTERIE (prokaryoti, jednobuněční, bez jádra); ARCHEA (prokaryoti, jednobuněční, bez jádra, biochemicky odlišní; mnozí extremofilové u hydrotermálních průduchů, slaných jezer, horkých pramenů); EUKARYOTA (živočichové, rostliny, houby, protisté včetně jednobuněčných améb + mnohobuněčné řasy). Vše, co byste rozpoznali jako „organismus s vnitřní buněčnou strukturou viditelnou pod mikroskopem“, je eukaryotické. (d) PROKARYOTI JSOU MÉNĚ SLOŽITÍ NEŽ EUKARYOTI strukturálně: MENŠÍ (typický prokaryot 1–10 µm vs eukaryot 10–100 µm); JEDNODUŠŠÍ (žádné membránou ohraničené organely, menší ribozomy 70S vs 80S, kruhová DNA v cytoplazmě vs lineární chromozomy v jádře); žádná vnitřní kompartmentace. Ale prokaryoti jsou BIOCHEMICKY ROZMANITĚJŠÍ — vynalezli fotosyntézu, fixaci dusíku, sirný metabolismus, metanogenezi. Jen méně STRUKTURÁLNĚ složití. MOŘSKÝ VÝZNAM: mořské bakterie + archea pohánějí koloběh živin, rozklad, hlubokomořskou chemosyntézu; SINICE (prokaryotičtí fotosyntetizátoři) jako Prochlorococcus jsou nejhojnější fotosyntetické organismy na Zemi (~20 % atmosférické produkce O₂); veškerý viditelný mořský život (ryby, korály, měkkýši, savci) je eukaryotický.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-188",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Co je heterotrof?",
+    "options": {
+      "a": "Producent energie, jako je hmyz nebo zvíře",
+      "b": "Producent energie, jako je rostlina, řasa nebo fytoplankton",
+      "c": "Savec jako velryba nebo delfín",
+      "d": "Konzument jako hmyz nebo zvíře"
+    },
+    "correct": "d",
+    "explanation": "HETEROTROF je KONZUMENT — organismus, který si nedokáže vyrobit vlastní potravu a musí konzumovat jiné organismy (nebo organickou hmotu), aby získal energii a živiny. Etymologie: řecky HETERO- („jiný“) + TROPH- („krmení“) = „krmí se na jiných“. Kategorie heterotrofů podle stravy: BÝLOŽRAVCI jedí rostliny/řasy (papoušci pyskouni, pyskoun, kapustňáci, dugongové, ježovky); MASOŽRAVCI jedí zvířata (žraloci, kanici, delfíni, chobotnice); VŠEŽRAVCI jedí oboje (mořské želvy, mnoho ryb, krabi); DETRITIVOŘI / MRCHOŽROUTI jedí mrtvou organickou hmotu (sumýši, sliznatky, stejnonožci); FILTRÁTOŘI pasivně filtrují plankton (houby, svijonožci, kosticovci, manty, žraloci velrybí, ústřice); PARAZITI se živí na živých hostitelích (někteří stejnonožci, klanonožci, mihule). AUTOTROFI jsou opakem — „samokrmení“ (auto + troph): FOTOAUTOTROFI využívají světlo + CO₂ k tvorbě potravy (rostliny, řasy, fytoplankton, sinice — PRIMÁRNÍ PRODUCENTI, základ téměř každého potravního řetězce); CHEMOAUTOTROFI využívají chemickou energii (oxidace H₂S, CH₄, NH₃) k fixaci uhlíku (hlubokomořské bakterie u průduchů, sirné bakterie; základ potravních řetězců temné zóny u hydrotermálních průduchů). Trofický tok v mořských potravních sítích: PRIMÁRNÍ PRODUCENTI (autotrofi) → PRIMÁRNÍ KONZUMENTI (býložravci) → SEKUNDÁRNÍ KONZUMENTI (masožravci jedoucí býložravce) → TERCIÁRNÍ KONZUMENTI (vrcholoví predátoři jedoucí jiné predátory) → ROZKLADAČI (heterotrofní bakterie + mrchožrouti). (a) Zvířata jako „producenti“ je špatný směr — zvířata jsou konzumenti. (b) Rostliny/řasy/fytoplankton jsou AUTOTROFI, opak heterotrofa. (c) Velryby/delfíni JSOU heterotrofové (jedí jiné organismy), ale formulace odpovědi zdůrazňuje „savce“, což není definující rys heterotrofie. (d) je přesná definice.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  }
+]

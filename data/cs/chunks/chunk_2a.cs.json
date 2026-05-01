@@ -1,0 +1,317 @@
+[
+  {
+    "id": "mssi-sod-105",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Údržba",
+    "question": "Které z následujících tvrzení o opravách je pravdivé?",
+    "options": {
+      "a": "Potápěči si mohou opravit jakoukoli komponentu sami",
+      "b": "Potápěči mohou rozebírat komponenty, pokud jim pomáhá buddy",
+      "c": "Opravy lze nechat až těsně před ponorem",
+      "d": "Některé komponenty mohou vyžadovat specializovaného technika"
+    },
+    "correct": "d",
+    "explanation": "Opravy vybavení mají úrovně — a volba špatné úrovně ruší záruku, může selhat v hloubce a je pro instruktora profesně katastrofální. (1) UŽIVATELSKÁ ÚROVEŇ (DIY OK): proplachování, sušení, výměna stahovacích pásek na náustku, výměna pásků ploutví/masky, uživatelsky vyměnitelná baterie u některých počítačů, základní výměna o-kroužku LP hadice, mazání inflátoru BCD. (2) TECHNICKÁ ÚROVEŇ (tovární školení, certifikace výrobcem): generální opravy prvního/druhého stupně automatiky, generálka inflátoru BCD, servis ventilu láhve, roční VIP (vizuální inspekce vnitřku láhve), 5letá HYDROSTATICKÁ ZKOUŠKA láhví (tlaková zkouška na 5/3 pracovního tlaku). (3) SPECIALISTICKÁ ÚROVEŇ: elektronika rebreatherů, KYSLÍKOVÝ-ČISTÝ servis (cokoli ≥40 % O₂), automatiky pro směsové plyny, práce na základní desce potápěčského počítače. (a) Špatně — tlakované komponenty vyžadují školené techniky. (b) Buddy nezískává techničtí oprávnění. (c) NIKDY se nepotápějte se známou neopravenou výstrojí; „opravit těsně před ponorem“ je nejhorší možné načasování — žádný testovací cyklus, žádné monitorování poklesu tlaku přestavěné automatiky. Pokud se student zraní na výstroji, kterou jste servisovali bez oprávnění, vaše pojištění odpovědnosti vás pravděpodobně nepokryje.",
+    "source": "mySSI: SoD Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-sod-106",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Výběr",
+    "question": "Mezi věci, které by potápěči měli zvažovat při výběru vybavení, patří, zda bude:",
+    "options": {
+      "a": "Vhodné a spolehlivé pro plánovaný ponor",
+      "b": "Příliš složité",
+      "c": "Všechny odpovědi jsou správné",
+      "d": "Používáno pravidelně"
+    },
+    "correct": "c",
+    "explanation": "Tři platná hlediska, všechna uvedená: (a) VHODNÉ A SPOLEHLIVÉ PRO PLÁNOVANÝ PONOR — největší jednotlivý faktor. Sladění výstroje s podmínkami: studená voda vyžaduje enviromentálně utěsněné automatiky, suchý oblek, kapuci s podoblekem; tropy umožňují lehčí výbavu; hloubkové/dekompresní ponory potřebují redundanci (pony láhev nebo sidemount, dva počítače, redundantní masky/světla/řezáky); jeskynní/wrakové potápění vyžaduje primární dlouhou hadici + záložní bungee, atd. Rekreační automatika dobrá do 30 m nepatří na 60 m trimix. (b) PŘÍLIŠ SLOŽITÉ — formulováno neobratně, ale reálné: sladit složitost vybavení s úrovní dovedností a typem ponoru. Nový OWD potápěč nepotřebuje 7tlačítkový trimixový počítač s integrovaným vzduchem a pěti sloty pro plyny — příliš mnoho menu, příliš mnoho způsobů, jak chybně nakonfigurovat během ponoru, a potápěč ztrácí důvěru ve výstroj, které plně nerozumí. (d) POUŽÍVÁNO PRAVIDELNĚ — výstroj sedící nepoužitá 10 měsíců v roce vyvíjí více problémů než výstroj v pravidelném provozu: o-kroužky vysychají, baterie korodují, neopren praská, pružiny ztrácejí kalibraci. Kupte si to, co skutečně budete používat; pokud se potápíte jen dvakrát ročně na dovolených, půjčená výstroj může předčit vlastnictví jak v spolehlivosti, TAK v rozpočtu.",
+    "source": "mySSI: SoD Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-sod-107",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Maska a šnorchl",
+    "question": "Jaké další vlastnosti by mohl potápěč hledat u šnorchlu?",
+    "options": {
+      "a": "Skutečně složitý design",
+      "b": "Polosuchý nebo suchý vrchol pro zabránění vniku vody",
+      "c": "Integrovanou láhev",
+      "d": "Pásek do úst pro udržení v ústech"
+    },
+    "correct": "b",
+    "explanation": "Tři úrovně designu šnorchlu, přičemž vlastnosti vyšších úrovní jsou upgradem, který si mnoho potápěčů kupuje: (1) MOKRÝ — základní otevřená trubice, staromódně jednoduchý, žádné poruchové body; uživatel musí vyfouknout vodu po každém dýchání pod hladinou nebo cákanci vlny. Preferován u podvodních lovců / freediverů kvůli nízkému odporu. (2) POLOSUCHÝ — STŘÍKACÍ KRYT / DEFLEKTOR na vrcholu odráží vlny a povrchové vlnobití bez plného uzavření — snižuje vstup vody, ale proudění vzduchu je neomezené. (3) SUCHÝ — VENTIL OVLÁDANÝ PLOVÁKEM na vrcholu: při ponoření plovák zvedne a uzavře dýchací cestu → nulový vstup vody; při vynoření plovák klesne a ventil se znovu otevře. Ideální pro nové potápěče, plavání na hladině ve vlnobití, podmínky, kde by vstup vody potápěče vylekal. Většina šnorchlů má také VYPOUŠTĚCÍ VENTIL ve spodním ohybu (jednosměrný výfuk pro vyfouknutí vody ostrým výdechem) a OHEBNOU sekci, aby náustek volně visel, když není v ústech. Šnorchly se připojují k LEVÉ straně pásku masky pomocí držáku/spony šnorchlu. (a) „Skutečně složitý design“ není konkrétní vlastnost, jen přívlastek. (c) Integrovaná láhev maří samotný účel šnorchlu (dýchat na hladině BEZ scuba). (d) Šnorchly drží náustek + spona pásku masky — žádný „pásek do úst“ neexistuje.",
+    "source": "mySSI: SoD Lesson 4.2 Review"
+  },
+  {
+    "id": "mssi-sod-108",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Ploutve",
+    "question": "Jaké faktory by se měly zvažovat při výběru ploutví?",
+    "options": {
+      "a": "Vhodnost",
+      "b": "Vztlak",
+      "c": "Viditelnost",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "d",
+    "explanation": "Všechna tři jsou reálná výběrová kritéria: (a) VHODNOST — sladit ploutve s typem ponoru. OTEVŘENÁ PATA + BOTY pro studenou/mírnou vodu, potápění z lodí a skalnaté vstupy (lepší ochrana nohou, větší síla kopu). PLNÁ NOHA pro vstup z břehu / šnorchlování / scuba v teplé vodě (méně objemná, lehčí na cestování). TUHÝ LIST pro tech, sidemount, potápění v proudu (max tah na kop, např. Hollis F1, OMS Slipstream); OHEBNÝ LIST pro nové potápěče a fotografy (méně únavy nohou, jemnější doladění). DĚLENÉ PLOUTVE pro snadné kraulové kopy, nízká námaha; PÁDLOVÉ PLOUTVE pro frog kick, helikoptérové otočky, technickou polohovou práci. DLOUHÉ FREEDIVINGOVÉ ploutve pro efektivitu zadržování dechu (pro scuba nepraktické). (b) VZTLAK — ploutve sahají od velmi negativních (tech gumové Jet/F1 rychle klesají) po neutrální/pozitivní (cestovní dělené). Negativní ploutve pomáhají vrátit klesající nohy zpět do vodorovné polohy u potápěčů, jejichž objem plic / vzduch v suchém obleku posílá nohy dolů. Pozitivní ploutve udržují nohy nahoře u těch s přirozeně těžkou spodní polovinou těla. Ovlivňuje, zda jsou potřeba kotníková závaží. (c) VIDITELNOST — jasné kontrastní barvy (neonová žlutá, oranžová) pomáhají buddymu sledovat vás v zakalené vodě nebo na nočních ponorech, zejména na dálku — důležitější, než si potápěči obvykle připouštějí, zejména při instruktorské práci, kdy sledujete 4–6 studentů najednou.",
+    "source": "mySSI: SoD Lesson 4.2 Review"
+  },
+  {
+    "id": "mssi-sod-109",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Maska a šnorchl",
+    "question": "Při výběru masky by potápěči měli zvažovat, zda má maska:",
+    "options": {
+      "a": "Vyrovnávací nosní kapsy a/nebo vypouštěcí ventil",
+      "b": "Všechny odpovědi jsou správné",
+      "c": "Zajišťovací zařízení pásku a/nebo přizpůsobitelnost pro korekci zraku",
+      "d": "Silikonovou sukni masky"
+    },
+    "correct": "b",
+    "explanation": "Všechny tři skupiny vlastností jsou reálná výběrová kritéria. (a) VYROVNÁVACÍ NOSNÍ KAPSA — musí být dostatečně MĚKKÁ pro stisknutí nosních dírek pro Frenzel / Valsalva (příliš tuhá nebo příliš široká nosní kapsa znesnadňuje vyrovnávání, zejména hlavou dolů). VYPOUŠTĚCÍ VENTIL — jednosměrný ventil ve spodní části sukně masky, který umožňuje vyfouknout vodu výdechem nosem se vzpřímenou hlavou (užitečné pro nové potápěče; tech/wrakoví potápěči ho obvykle vynechávají — méně netěsných míst, vyfukuje se „náklonem a foukáním“). (c) ZAJIŠŤOVACÍ ZAŘÍZENÍ PÁSKU — račnové přezky, tlačítkové rychloodepínače, BUNGEE PÁSKY (rychlejší nasazení, žádné tahání za vlasy, zejména s kapucí). KOREKCE ZRAKU — mnoho výrobců (Cressi, Tusa, Atomic, Mares) prodává zaklapávací DIOPTRICKÉ ČOČKY, většinou negativní dioptrie, ale existují i bifokální a nalepovací čočky pro čtení logů/počítačů; zásadní pro každého potápěče, který běžně nosí brýle. (d) SILIKONOVÁ SUKNĚ MASKY — moderní průmyslový standard: měkká, hypoalergenní, odolná, časem nežloutne (na rozdíl od staré neoprenové gumy). Dvě barvy sukně: PRŮHLEDNÝ silikon (více periferního světla, lepší pro foto, občas klaustrofobický) a ČERNÝ silikon (zabíjí odlesky, zostřuje sledování displeje na počítačích/kamerách, populární u podvodních lovců a fotografů).",
+    "source": "mySSI: SoD Lesson 4.2 Review"
+  },
+  {
+    "id": "mssi-sod-110",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Ploutve",
+    "question": "Jaké jsou dva hlavní typy ploutví?",
+    "options": {
+      "a": "Žádná z odpovědí není správná",
+      "b": "Ploutve s plnou nohou a monoploutve",
+      "c": "Ploutve s plnou nohou a ploutve s otevřenou patou",
+      "d": "Ploutve s otevřenou patou a pádlové ploutve"
+    },
+    "correct": "c",
+    "explanation": "Dva základní styly UCHYCENÍ NOHY u potápěčských ploutví: (1) PLOUTVE S PLNOU NOHOU — uzavřená kapsa pro nohu jako bota; nasazují se na bosou nohu nebo s tenkou neoprenovou ponožkou. Lehké, malý odpor, populární pro šnorchl/freedive/scuba v teplé vodě a cestovní výbavu. (2) PLOUTVE S OTEVŘENOU PATOU — otevřená záda s nastavitelným patním páskem (gumový, bungee nebo pružinový); nosí se s potápěčskými BOTAMI. Nastavitelná velikost, ochranné, standard pro studenou/mírnou vodu, potápění z lodí a technické konfigurace. (a) Špatně — (c) to pokrývá. (b) MONOPLOUTEV = jeden velký list pro obě nohy, používá se v závodním finswimmingu a některém freedivingu — není to jeden ze dvou základních SCUBA typů uchycení nohy. (d) „Pádlové“ je STYL listu (oproti dělené / otvorové / kloubové), nikoli třída uchycení nohy — ploutve s plnou nohou i s otevřenou patou mohou být pádlové, takže tato možnost míchá kategorie.",
+    "source": "mySSI: SoD Lesson 4.2 Review"
+  },
+  {
+    "id": "mssi-sod-111",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Ploutve",
+    "question": "Jak se liší ploutve s otevřenou patou od ploutví s plnou nohou?",
+    "options": {
+      "a": "Potápěči s nimi mohou používat boty",
+      "b": "Jsou nastavitelné",
+      "c": "Při použití s botami umožňují větší ochranu",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "d",
+    "explanation": "Tři reálné rozdíly, všechny uvedené. (a) BOTY — ploutve s otevřenou patou jsou navrženy kolem použití bot; do kapsy plné nohy (která je dimenzována na bosou nohu) se bota nedostane. (b) NASTAVITELNÉ — patní pásek (gumový, bungee nebo nerezová pružina) umožňuje doladit velikost, sdílet ploutve mezi potápěči ve výuce, přizpůsobit tenké tropické boty na jednu cestu a 7mm boty pro studenou vodu na další. (c) OCHRANA — boty chrání nohu před skalami, mořskými ježky, horkými/studenými povrchy paluby a oděrkami na patě; u ploutví s plnou nohou je noha kromě tenké ponožky odhalená. Vedlejší výhody, které nejsou v otázce: pružinové nebo bungee pásky se nelámou jako staré gumové pásky (a v proudu nezhodí ploutev z nohy); jeden model ploutve s otevřenou patou padne širšímu rozpětí velikostí nohou než ekvivalent s plnou nohou kvůli nastavitelnému pásku.",
+    "source": "mySSI: SoD Lesson 4.2 Review"
+  },
+  {
+    "id": "mssi-sod-112",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Ploutve",
+    "question": "Použití ploutví pomáhá snížit námahu potápěče, protože:",
+    "options": {
+      "a": "Zvětšují plochu povrchu nohou a každým kopem vytlačují více vody",
+      "b": "Mění tah dopředu na pohyb nohou",
+      "c": "Pohánějí potápěče vodou rychlejšími kopy",
+      "d": "Zmenšují plochu povrchu nohou a každým kopem vytlačují méně vody"
+    },
+    "correct": "a",
+    "explanation": "Pohon ploutvemi je Newtonův třetí zákon v praxi. Ploutev ZVĚTŠUJE efektivní povrchovou plochu nohy zhruba 4–10× v závislosti na velikosti a stylu listu → každý kop VYTLAČUJE mnohem větší hmotu vody dozadu → úměrně větší reakční síla dopředu na potápěče. Praktický výsledek: stejná rychlost s MENŠÍM POČTEM, POMALEJŠÍMI, silnějšími kopy (dobře vycvičená scuba kraulová kadence je kolem 1 cyklu za sekundu nebo i pomaleji s tuhými listy) místo zběsilého pádlování naboso. Proč to záleží pro spotřebu plynu: nohy jsou velké svalové skupiny; vysokokadencové kopání spaluje O₂ neúměrně a zvyšuje SAC. Pomalejší, větší, efektivnější kopy snižují produkci CO₂, snižují SAC a snižují námahu relevantní pro DCS v hloubce. (b) Špatný směr příčiny — pohyb nohou vytváří tah, ne naopak. (c) RYCHLEJŠÍ kopy by znamenaly VÍCE námahy; ploutve umožňují POMALEJŠÍ kopy se stejným výsledkem. (d) Opak pravdy.",
+    "source": "mySSI: SoD Lesson 4.2 Review"
+  },
+  {
+    "id": "mssi-sod-113",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Láhve",
+    "question": "Kdy by měl potápěč vyřadit láhev a vyměnit ji za alternativu?",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Když má prošlé datum hydrostatické zkoušky",
+      "c": "Když láhev vykazuje známky poškození, opotřebení nebo koroze",
+      "d": "Když je ventil obtížně ovladatelný"
+    },
+    "correct": "a",
+    "explanation": "Všechny tři jsou reálné spouštěče vyřazení — nikdy nepotápějte láhev, kterou byste neplnili, nikdy neplňte láhev, se kterou byste se nepotápěli. (b) PROŠLÁ HYDROSTATICKÁ ZKOUŠKA — zákonem vyžadovaná tlaková zkouška (typicky 5/3 pracovního tlaku) v plánovaných intervalech pro potvrzení, že láhev neexploduje: EU / PED běžně 2,5letá VIP + 5letá hydro; US / DOT každých 5 let hydro; UK 2,5letá vizuální + 5letá hydro. Prošlá hydro = žádné legální plnění. (c) POŠKOZENÍ, OPOTŘEBENÍ, KOROZE — zachycené při roční vizuální inspekci (VIP): ocelové láhve vyřazeny pro rezavé pittingy (typicky >1,5 mm hloubka), poškození závitů hrdla, selhání svárů, závažné dolíky; hliníkové láhve — zejména starší slitiny 6351-T6 Luxfer — kontrolovány na PRASKLINY ZE STÁLÉHO ZATÍŽENÍ v závitech hrdla pomocí vířivých proudů (několik katastrofálních selhání v reálném světě). Poškození ohněm / teplem žíhá kov a trvale ho oslabuje → okamžitě vyřadit. (d) TUHÝ VENTIL — koroze nebo opotřebení mechanismu ventilu, netěsná pojistná membrána, poškozené sedlo. Často potřebuje servis nebo výměnu samotný VENTIL, ale násilné odstranění může poškodit závity hrdla láhve a vyřadit celou láhev. Nikdy neforcujte zaseklý ventil. Pokud máte pochybnosti, VIP / vířivé proudy / hydro před riskováním plnění — selhání láhve při 200 barech jsou prudká.",
+    "source": "mySSI: SoD Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-sod-114",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Láhve",
+    "question": "Jednotlivé láhve lze používat:",
+    "options": {
+      "a": "Spojené dohromady manifoldem pro ponory s rozšířeným dosahem.",
+      "b": "Při sidemount potápění",
+      "c": "Všechny odpovědi jsou správné",
+      "d": "Rekreačními potápěči pro bezdekompresní ponory."
+    },
+    "correct": "c",
+    "explanation": "Všechny tři jsou reálné konfigurace používající JEDNOTLIVÉ láhve jako stavební prvek: (a) MANIFOLDOVANÁ DVOJČATA / SVÁZANÉ DVOJČATA — dvě sladěné jednotlivé láhve jsou sešroubovány vedle sebe a spojeny nahoře IZOLAČNÍM MANIFOLDEM: středový ventil s knoflíkem uprostřed, který při zavření izoluje levou od pravé. Tech / extended-range / jeskynní / wrakoví potápěči toto používají pro obrovský objem plynu + redundanci. Izolační knoflík je bezpečnostní prvek: netěsný ventil, prasklá pojistná membrána nebo selhání hadice na jedné straně lze izolovat a zachovat druhou polovinu. (b) SIDEMOUNT — dvě NEZÁVISLÉ jednotlivé láhve nošené na bocích potápěče, každá s vlastní kompletní automatikou (první stupeň + druhý stupeň + LP inflátorová hadice pro wing). Vzniklo v britském / floridském jeskynním potápění; nyní mainstream pro tech a rekreační redundanci. Dva skutečně nezávislé zdroje plynu, snadná přeprava, projde úzkými jeskynními zúženími. (c) REKREAČNÍ JEDNOTLIVÝ ZADNÍ MOUNT — standardní rekreační sestava: jedna láhev na zádech, jedna automatika (první stupeň + primární druhý + alternativní/octopus + LP inflátor + manometr), ponory v rámci NDL. ~99 % rekreačních ponorů.",
+    "source": "mySSI: SoD Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-sod-115",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Láhve",
+    "question": "Jak potápěč používá manifold k izolaci toku plynu z jedné láhve při použití twinsetu?",
+    "options": {
+      "a": "Zavře izolační manifold pro vypnutí toku plynu mezi láhvemi",
+      "b": "Vypne ventil pravé láhve",
+      "c": "Vypne ventil láhve, který nefunguje",
+      "d": "Vypne ventil levé láhve"
+    },
+    "correct": "a",
+    "explanation": "Geometrie ventilů twinsetu má TŘI ventily: LEVÝ POST (napájí levou automatiku), PRAVÝ POST (napájí pravou automatiku) a IZOLAČNÍ VENTIL ve středu příčné tyče manifoldu (řídí tok MEZI dvěma láhvemi). Normální stav potápění: všechny tři ventily OTEVŘENÉ — plyn se vyrovnává mezi oběma láhvemi, obě automatiky napájejí ze sloučeného objemu. IZOLAČNÍ POSTUP při zjištění netěsnosti: (1) NEJPRVE ZAVŘETE STŘEDOVÝ IZOLAČNÍ VENTIL — to přeruší spojení mezi láhvemi, takže netěsnost na jedné straně nyní vypouští jen vlastní láhev, ne tu druhou. (2) Identifikujte a uzavřete post ventil netěsnící strany (levý nebo pravý) — úplně zastaví netěsnost. (3) Přepněte na funkční automatiku na neporušené straně, signalizujte buddymu a přerušte ponor — polovina plynu je zachována (plný obsah neporušené láhve). Kritická posloupnost: pokud nejprve zavřete post ventil bez izolace manifoldu, plyn nadále protéká přes manifold z druhé láhve VEN přes netěsnost — ztratíte všechno. (b, c, d) zavření jen post ventilu vypne jednu automatiku, ale NEizoluje tok MEZI láhvemi, což je přesně to, na co se otázka ptá.",
+    "source": "mySSI: SoD Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-sod-116",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Láhve",
+    "question": "Pony láhev je:",
+    "options": {
+      "a": "Malá láhev používaná pro stupňovitou dekompresi",
+      "b": "Malá láhev s ventilem ve tvaru poníka",
+      "c": "Malá láhev, kterou lze připojit k jednotlivé láhvi pomocí manifoldu",
+      "d": "Malá láhev, která obsahuje dodatečnou zásobu plynu pro nouzové situace"
+    },
+    "correct": "d",
+    "explanation": "PONY LÁHEV = malá pomocná láhev s VLASTNÍ KOMPLETNÍ NEZÁVISLOU AUTOMATIKOU (první stupeň + druhý stupeň), nesená vedle hlavní láhve jako nouzový zdroj plynu. Běžné velikosti: 2 L / 3 L / 4 L / 6 L (= zhruba 13 / 19 / 30 / 40 cu ft US). Montáž pomocí slingu, bungee na boku nebo držáku na zádech. Celý smysl je NEZÁVISLOST — jakékoli selhání hlavního systému (free-flow, prasklá hadice, izolovaná netěsnost, kterou jste včas nezachytili, rozbitý manometr) se pony netýká. Přepněte na automatiku pony láhve a bezpečně vystupte. Kdy je potápěči používají: solo potápění (pony nahrazuje buddyho jako redundantní zdroj plynu), hluboké ponory blízko NDL (rezerva tam, kde výstup trvá dlouho), fotografové / videografové (často fyzicky odděleni od buddyho a hluboce zaujati subjektem), lehké průplavy / wrakové průplavy, kde CESA není čistou možností. Důležité rozlišení: STAGE / DECO láhev je láhev, kterou plánujete BĚHEM ponoru POUŽÍT (extra plyn pro dosah, nebo čistý O₂ / bohatý nitrox pro dekompresi); PONY je striktně NOUZOVÝ plyn, ideálně nikdy nedýchaný. (a) Špatně — láhev pro stupňovitou dekompresi = stage/deco láhev, jiná role. (b) Vtipný distraktor. (c) Manifoldování pony k hlavní maří smysl — plyn by se vyrovnal mezi oběma a netěsnost v kterékoli by vypustila všechno; cílem designu je NEZÁVISLOST.",
+    "source": "mySSI: SoD Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-sod-117",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Láhve",
+    "question": "Které z následujících tvrzení o yoke připojení je pravdivé?",
+    "options": {
+      "a": "První stupeň se nasazuje jako svorka a utahuje se přes ventil láhve",
+      "b": "Je to standardní připojení na většině láhví vyrobených v USA.",
+      "c": "Pracuje při nižších pracovních tlacích ve srovnání s DIN připojeními.",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "d",
+    "explanation": "Všechna tři tvrzení o YOKE (také nazývaném A-CLAMP nebo INT) připojeních jsou správná. (a) MECHANICKÝ DESIGN — první stupeň automatiky má svorku ve tvaru podkovy, která se zachytí přes čelo ventilu láhve; šroub na zadní straně automatiky utahuje svorku proti ventilu, čímž stlačuje O-KROUŽEK NA ČELE VENTILU pro utěsnění. Vizuální identifikace: vnější svorka, velký knoflík vyčnívající za automatikou. (b) STANDARD V USA — yoke (CGA-850 / INT 232) dominuje v Severní Americe, zejména rekreační scuba. Většina amerických hliníkových-80 láhví se dodává s yoke ventily; pronájemní flotily v Karibiku / Cozumelu / na Floridě jsou převážně yoke. (c) NIŽŠÍ PRACOVNÍ TLAK — yoke je dimenzován do max ~232 bar (3300 psi). DIN připojení existují ve dvou rozsazích: 5závitový DIN (G5/8\") do 232 bar, a 7závitový DIN (M26x2) do 300 bar. DIN je také považován za bezpečnější, protože O-KROUŽEK JE ZACHYCEN uvnitř závitového spoje (nemůže se vystřelit pod nárazovým zatížením) a není zde žádná vyčnívající svorka, která by se mohla zachytit o převisy. Evropští, tech a potápěči ve studené vodě silně preferují DIN; většina prémiových automatik se dodává s DIN se zašroubovacím ADAPTÉREM DIN-NA-YOKE pro zpětnou kompatibilitu.",
+    "source": "mySSI: SoD Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-sod-118",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Láhve",
+    "question": "Jaká je role filtračních systémů v dýchacích kompresorech?",
+    "options": {
+      "a": "Odstraňování vody ze vzduchu",
+      "b": "Sledování teploty kompresoru",
+      "c": "Odstraňování kontaminantů ze vzduchu",
+      "d": "Regulace toku plynu"
+    },
+    "correct": "c",
+    "explanation": "Kompresor pro dýchací vzduch má STOH FILTRŮ v sérii, všechny zaměřené na odstraňování KONTAMINANTŮ — voda je jen jedním z mnoha. Typické stupně: (1) SACÍ FILTR — nečistoty, prach, velké částice; (2) MEZISTUPŇOVÉ CHLADIČE — snižují teplotu vzduchu mezi kompresními stupni, takže vodní pára kondenzuje; (3) KOALESCENTNÍ / VODNÍ ODLUČOVAČ — kapky vody a olejové aerosoly; (4) AKTIVNÍ UHLÍ — pachy, uhlovodíky, chuť; (5) MOLEKULÁRNÍ SÍTO — zbytková vlhkost (rosný bod < −50 °C); (6) HOPCALITOVÝ KATALYZÁTOR — oxid manganičitý + oxid měďnatý, převádí smrtelný CO → CO₂ (kritické: sání kompresoru blízko běžícího vozidla nasává oxid uhelnatý). Společně udržují plyn v rámci NOREM dýchacího vzduchu — EU EN 12021 / US CGA Grade E: O₂ 19,5–23,5 %, CO ≤ 5–10 ppm, CO₂ ≤ 500 ppm, olej ≤ 0,5 mg/m³, nízký obsah vody. Proč to záleží: v hloubce parciální tlak jakéhokoli kontaminantu škáluje s okolním (4 bar v 30 m = 5× hladina). CO, který je tolerovatelný při 1 bar, se v hloubce stává neschopnícím (váže hemoglobin ~250× ochotněji než O₂). Špatná plnění zabíjejí potápěče. (a) Odstranění vody je PODMNOŽINA (c) — částečná odpověď. (b) Teplotu sledují senzory / termočlánky, ne filtry. (d) Regulace toku plynu je úkolem automatiky, po proudu od láhve.",
+    "source": "mySSI: SoD Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-sod-119",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Automatiky",
+    "question": "Jaký je základní účel prvního a druhého stupně?",
+    "options": {
+      "a": "Ventily prvního a druhého stupně se otevírají a zavírají podle poptávky",
+      "b": "První stupeň redukuje vysokotlaký plyn z láhve na mezitlak",
+      "c": "Druhý stupeň redukuje plyn o mezitlaku na okolní tlak",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "d",
+    "explanation": "Všechna tři tvrzení popisují moderní dvoustupňovou POPTÁVKOVOU automatiku. (a) POPTÁVKOU AKTIVOVANÁ — oba stupně cyklují otevírání/zavírání v reakci na tok plynu. Druhý stupeň: nádech → membrána se prohne dovnitř → páčka se nakloní → poppet se otevře → plyn proudí; konec nádechu → membrána se uvolní → poppet se zavře. První stupeň: udržuje nastavený MEZITLAK (IP) v LP hadici; když IP klesne, protože plyn právě odešel přes druhý stupeň při nádechu, první stupeň se otevře, naplní hadici, pak se zavře — také cyklus poháněný poptávkou. (b) HP → IP — tlak láhve (200–300 bar / 3000–4500 psi) je redukován na OKOLNÍ + ~9–10 bar (130–145 psi). Pozor na „okolní +„: membránové/pístové první stupně KOMPENZUJÍ hloubku — v 30 m (4 bar okolního) IP stoupá na ~13–14 bar absolutního, takže druhý stupeň zůstává na stejném Δ-tlaku pro dýchací úsilí bez ohledu na hloubku. (c) IP → OKOLNÍ — stupeň na konci náustku snižuje IP na cokoli, jaký je okolní tlak vody, takže dýcháte při stejném tlaku jako voda kolem hrudníku. Nulový tlakový rozdíl přes plíce je přesně proč scuba dýchání působí blízko povrchovému dýchání místo jako vysávání 30m brčkem. Genialita dvoustupňového systému: provedení tlakového poklesu ve dvou postupných krocích udržuje automatiku stabilní a dýchací úsilí nízké, a umožňuje optimalizaci každého stupně pro vlastní tlakové rozsahy.",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-sod-120",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Automatiky",
+    "question": "Vnitřní zamrzání může být způsobeno:",
+    "options": {
+      "a": "Příliš nízkou vlhkostí v láhvi",
+      "b": "Potápěním v extrémně studené vodě",
+      "c": "Rychlým nafouknutím suchého obleku při intenzivním dýchání",
+      "d": "Příliš vysokou vlhkostí v láhvi"
+    },
+    "correct": "d",
+    "explanation": "VNITŘNÍ ZAMRZÁNÍ automatiky je způsobeno VLHKOSTÍ UVNITŘ SAMOTNÉHO PLYNU. Mechanismus: (1) plyn v láhvi obsahuje vodní páru (funkce kvality plnícího vzduchu — nikdy dokonale suchý); (2) jak HP plyn expanduje skrze otvor prvního stupně, JOULEOVO-THOMSONOVO OCHLAZENÍ (adiabatická expanze) snižuje teplotu plynu o desítky stupňů; (3) pokud pokles posune plyn pod 0 °C, vodní pára v plynu KONDENZUJE A ZAMRZNE na vnitřních površích (poppet, páčka, sedlo); (4) led mechanicky drží ventil OTEVŘENÝ → nekontrolovatelný FREE-FLOW. Řetězec: vodní pára + extrémní ochlazení + vysoký průtok = vnitřní led. (a) PŘÍLIŠ NÍZKÁ vlhkost ve skutečnosti ZABRAŇUJE zamrzání — suchý plyn nemůže tvořit led. Proto kvalita plnění záleží: Grade E / EN 12021 specifikace omezují obsah vody a tech potápěči plní na rosný bod < −50 °C právě pro potápění ve studené vodě bez rizika zamrznutí. (b) Studená voda je PŘISPÍVAJÍCÍ faktor, ale ne hlavní příčina: studené okolí přibližuje plyn k bodu mrazu ještě před expanzí, takže JT ochlazení nyní tlačí výrazně pod 0 °C — ale suchý plyn ve studené vodě stále led nevytvoří. Studená voda primárně pohání VNĚJŠÍ zamrzání (voda v těle automatiky zamrzající na kovových površích). (c) Rychlé nafukování suchého obleku + intenzivní dýchání je SPOUŠTĚCÍ událost (bleskový led během chvíle vysoké poptávky), ale opět problém jen tehdy, je-li přítomna vlhkost. Otázka se ptá, co fundamentálně ZPŮSOBUJE vnitřní zamrzání — to je vlhkost v (d).",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-sod-121",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Automatiky",
+    "question": "Mezi běžné typy pístového prvního stupně patří:",
+    "options": {
+      "a": "Píst poptávkového ventilu",
+      "b": "Vyvážená membrána",
+      "c": "Venturi asist",
+      "d": "Klasický píst a vzduchově vyvážený průtokový píst"
+    },
+    "correct": "d",
+    "explanation": "Dvě hlavní pístové architektury prvního stupně: (1) KLASICKÝ / NEVYVÁŽENÝ PÍST (např. starší Scubapro Mk2) — jednoduchý, levný, odolný, velmi málo pohyblivých částí. Nevýhoda: mezitlak (IP) mírně driftuje s tlakem láhve (o pár psi vyšší při plné láhvi, nižší při téměř prázdné), takže dýchací úsilí není během ponoru dokonale konstantní. (2) VZDUCHOVĚ VYVÁŽENÝ PRŮTOKOVÝ PÍST (např. Scubapro Mk-25, Atomic Z3) — stejné průtokové uspořádání, ale s VYVAŽOVACÍ KOMOROU nad pístem, takže IP zůstává KONSTANTNÍ bez ohledu na tlak láhve. Velmi vysoké průtoky plynu → vynikající dýchací výkon i při sdílení s buddym, v hloubce nebo při vysoké zátěži. Průmyslový tahoun pro tech a špičkové rekreační potápění. (a) „Píst poptávkového ventilu“ — nestandardní termín; „poptávkový ventil“ je koncept druhého stupně. (b) VYVÁŽENÁ MEMBRÁNA je TYP prvního stupně, ale používá MEMBRÁNU (ohebnou blánu) místo pístu jako pohyblivý prvek — jiná kategorie. Membránové první stupně jsou často enviromentálně utěsněné pro studenou vodu a potápění v silně zakalené vodě (Apeks DST, ScubaPro Mk-17). (c) VENTURI ASIST je vlastnost DRUHÉHO STUPNĚ (páčka dive/pre-dive na Apeks, systém VAD u Mares), která usměrňuje tok plynu pro další otevření membrány po začátku dýchání — vůbec ne typ prvního stupně.",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-sod-122",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Automatiky",
+    "question": "První stupeň se složitými pohyblivými částmi může:",
+    "options": {
+      "a": "Být dražší na servis",
+      "b": "Vyžadovat méně častý servis",
+      "c": "Být levnější na servis",
+      "d": "Mít méně bodů potenciálního selhání"
+    },
+    "correct": "a",
+    "explanation": "Více složitosti = více pohyblivých částí (extra vyvažovací komory, další o-kroužky, citlivé pružiny, otočné věže) = více komponent ke kontrole, mazání a výměně při každém servisu. Větší servisní sady stojí více jen na dílech a doba práce na generálku je delší → VYŠŠÍ cena servisu. To je věčný kompromis automatik: KLASICKÝ NEVYVÁŽENÝ PÍST (Mk2-styl) je nejlevnější na údržbu — méně dílů, desetiletí bezproblémového provozu, jednoduchý — ale dýchá tížeji v hloubce a při sdílení. VYVÁŽENÁ / VZDUCHOVĚ VYVÁŽENÁ pístová nebo membránová automatika dýchá hladce v jakékoli hloubce, drží IP konstantní a dobře daruje plyn — ale každá roční prohlídka stojí více a špatně vycvičený technik má více míst, kde to může pokazit. (b) MÉNĚ ČASTO? Opak — složité automatiky mají typicky stejné nebo KRATŠÍ servisní intervaly, protože více částí podléhá opotřebení. (c) Levnější? Opak. (d) MÉNĚ bodů selhání? Opak — více částí znamená více potenciálních režimů selhání (každá pružina, o-kroužek, otočka, vyvažovací komora přidává další způsob, jak může netěsnit, zamrznout nebo se odchýlit od specifikace).",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-sod-123",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Automatiky",
+    "question": "Síla nádechu, kterou potápěč musí použít k otevření poptávkového ventilu, se někdy nazývá:",
+    "options": {
+      "a": "Deko úsilí",
+      "b": "Štěpicí úsilí",
+      "c": "Blackout",
+      "d": "Otevírací úsilí"
+    },
+    "correct": "d",
+    "explanation": "OTEVÍRACÍ ÚSILÍ (také nazývané OTEVÍRACÍ TLAK nebo CRACKING EFFORT) je negativní tlak (sání), který musí potápěč vytvořit, aby nejprve nadzvedl poppet druhého stupně ze sedla a spustil tok plynu. Měřeno v PALCÍCH VODNÍHO SLOUPCE (in. H₂O) nebo milibarech. Specifikace ANSTI dýchacího simulátoru: špičková vyvážená automatika ~1,0–1,2 in. H₂O otevírací úsilí; střední třída ~1,5–2,0 in. H₂O. NASTAVITELNÉ druhé stupně (Apeks XTX, Atomic, Scubapro G-series) mají uživatelský knoflík pro doladění otevíracího úsilí proti riziku free-flow — otevřete ho v hloubce pro snazší dýchání, utáhněte pro povrchové plavání a manipulaci s lodí pro zabránění free-flow, když automatika visí náustkem nahoru ve vodě. Nižší otevírací úsilí = snazší dýchání, ale větší riziko free-flow; vyšší otevírací úsilí = stabilní, ale větší dýchací práce. Celkový dýchací výkon zahrnuje také DÝCHACÍ PRÁCI (WOB, integrované úsilí přes celý dýchací cyklus) a VÝDECHOVÉ ÚSILÍ (odpor v opačném směru — obvykle nízký díky houbovitým výdechovým ventilům). (a, b) Nejsou skutečné termíny. (c) Blackout = ztráta vědomí, např. blackout v mělké vodě u freedivingu z hypoxie — zcela odlišný koncept.",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-sod-124",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Automatiky",
+    "question": "Automatiky s vestavěnou enviromentální ochranou:",
+    "options": {
+      "a": "Mají enviromentální utěsnění",
+      "b": "Jsou navrženy pro použití ve studené vodě",
+      "c": "Mohou mít povlakované povrchy pístu pro tepelnou ochranu",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "d",
+    "explanation": "Všechny tři popisují enviromentálně utěsněné (pro studenou vodu) první stupně. (a) ENVIROMENTÁLNÍ UTĚSNĚNÍ — utěsněná sekundární komora obklopuje pružinu / píst / membránu, izoluje ji od okolní vody. Komora je naplněna silikonovým olejem, směsí alkohol/glykol nebo utěsněna DRUHOU MEMBRÁNOU, která přenáší okolní tlak, aniž by propouštěla vodu. Zastavuje sůl, bahno a mrazivou vodu od kontaktu s pohyblivými částmi. (b) STUDENÁ VODA — utěsněné automatiky zvládají 4 °C / 39 °F a méně mnohem lépe než designy s otevřenou pružinou, protože uvnitř automatiky není žádná voda, která by zmrzla. SSI / EN-250 hodnocení pro studenou vodu (≤10 °C) typicky vyžaduje tento design. MEMBRÁNOVÉ první stupně se utěsňují snadněji (sama membrána funguje jako zábrana proti vodě — Apeks DST, Scubapro Mk-17); pístové designy (Mk-25 EVO) utěsňují komoru pružiny enviromentální sadou. (c) POVLAKOVANÉ POVRCHY PÍSTU — DLC (diamantu podobný uhlík), nitrid titanu nebo silné chromové úpravy povrchu na hřídeli pístu a sedle snižují tepelnou vodivost, tření a tendenci k nukleaci ledu. Atomic, Scubapro, Apeks, všichni je používají na svých řadách pro studenou vodu. Kombinovaně: automatika přežije ponory v ledové vodě, kde by základní neutěsněný píst do 30 sekund zablokoval otevřený ve free-flow.",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-sod-125",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Automatiky",
+    "question": "Základní princip fungování automatiky je, že nádech potápěče způsobí, že tlak uvnitř automatiky:",
+    "options": {
+      "a": "Stoupne a otevře ventily, aby umožnil tok plynu",
+      "b": "Klesne a otevře ventily, aby umožnil tok plynu",
+      "c": "Klesne a zavře ventily, aby umožnil tok plynu",
+      "d": "Stoupne a zavře ventily, aby umožnil tok plynu"
+    },
+    "correct": "b",
+    "explanation": "Sekvence poptávkového ventilu ve zpomaleném záběru: (1) Potápěč NADECHNE — hrudník se rozšíří, vytvoří sání u náustku. (2) Tlak KLESNE uvnitř vzduchové komory druhého stupně (prostor mezi membránou a náustkem) pod okolní tlak vody. (3) Existuje tlakový rozdíl přes membránu: okolní voda zvenčí > vnitřek automatiky. (4) Membrána se PROHNE DOVNITŘ tlačena vodou. (5) Membrána kontaktuje páčku a nakloní ji. (6) Páčka zvedne poppet ZE sedla → ventil se OTEVŘE. (7) Plyn proudí z LP hadice přes otevřený ventil do komory druhého stupně a ven náustkem. (8) Potápěč přestane nadechovat → tlak se vyrovná → membrána se uvolní → malá pružina zavře poppet. Genialita: membrána je rozhraním potápěče s OKOLNÍM TLAKEM VODY. Ať je voda v jakémkoli tlaku, automatika dodává plyn přesně v tom tlaku (kompenzace okolního tlaku zabudovaná do designu). V 30 m vychází plyn při 4 bar absolutních; na hladině 1 bar — vždy odpovídá tlaku v hrudníku potápěče, takže dýchací úsilí zůstává nízké. (a) Stoupne + otevře — špatný směr; nádech vytváří podtlak, ne nárůst tlaku. (c) Klesne + zavře — tlak skutečně klesá, ale ventil se OTEVŘE, ne zavře. (d) Stoupne + zavře — špatně v obou bodech.",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  }
+]

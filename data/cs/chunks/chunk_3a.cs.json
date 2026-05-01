@@ -1,0 +1,317 @@
+[
+  {
+    "id": "mssi-sod-147",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Přístroje",
+    "question": "Jaká je jedna z výhod potápěčských počítačů na zápěstí?",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Mají široký pásek, který lze upevnit přes rukáv suchého obleku",
+      "c": "Jsou elegantní a kompaktní",
+      "d": "Jsou všestranné a lze je nosit jako běžné hodinky"
+    },
+    "correct": "a",
+    "explanation": "Všechny tři jsou skutečné výhody potápěčských počítačů na zápěstí. (b) ŠIROKÝ NASTAVITELNÝ PÁSEK — sedí přes rukáv suchého obleku, manžetu 7 mm mokrého obleku nebo podoblek s kapucí. Většina obsahuje prodloužení pásku. Konzolové počítače (připnuté k hadici manometru) tuto možnost nemají — visí připevněné k vysokotlaké hadici. (c) ELEGANTNÍ A KOMPAKTNÍ — moderní zápěstní počítače jsou menší než mnoho sportovních hodinek (Shearwater Peregrine, Suunto Zoop Novo, Garmin Descent G1, Mares Smart). Snižují odpor, nezachytávají se o lana, snadno se na ně podívá bez narušení trimu. (d) NOSITELNÉ JAKO BĚŽNÉ HODINKY — Garmin Descent, Shearwater Teric, Suunto D5, Suunto Eon Steel a podobné jsou plnohodnotné chytré hodinky, když se nepotápíte — měření tepu, GPS, sledování fitness/spánku, notifikace ze smartphonu, každodenní styl. Potápěč nosí JEDNY hodinky pořád; připraven na neplánovaný ponor bez hledání v batohu. Další výhody neuvedené v možnostech: čtení v jakékoli orientaci (stačí podívat na zápěstí — konzole vyžaduje otočení ruky); uvolňuje pravou ruku pro správu konzole SPG/octo zvlášť; snadné sdílení dat s buddym nebo instruktorem zvednutím paže.",
+    "source": "mySSI: SoD Lesson 4.8 Review"
+  },
+  {
+    "id": "mssi-sod-148",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Přístroje",
+    "question": "Digitální hloubkoměry jsou standardem ve všech potápěčských počítačích a zahrnují:",
+    "options": {
+      "a": "Aktuální hloubku, maximální hloubku a rychlost výstupu",
+      "b": "Maximální hloubku a značky stupňů",
+      "c": "Žádná odpověď není správná",
+      "d": "Aktuální hloubku, maximální hloubku a teplotu vzduchu"
+    },
+    "correct": "a",
+    "explanation": "Standardní údaje o hloubce na každém potápěčském počítači: (1) AKTUÁLNÍ HLOUBKA — odečet v reálném čase z tlakového převodníku (piezorezistivní senzor v kontaktu s vodou, aktualizuje se několikrát za sekundu). (2) MAXIMÁLNÍ HLOUBKA — nejhlubší bod dosažený během aktuálního ponoru, často zobrazena vedle aktuální hloubky („MAX 28,4 m / NYNÍ 18,2 m“) aby potápěč věděl spouštěcí hloubku pro zatížení tkání. (3) RYCHLOST VÝSTUPU — obvykle zobrazena jako grafický pruh (zelená/žlutá/červená), číselná hodnota (m/min) nebo obojí. Spouští zvukový/vizuální ALARM, když rychlost výstupu překročí bezpečný práh — typicky 9–10 m/min, s pomalejšími rychlostmi vynucenými v posledních 10 m u konzervativnějších algoritmů (např. 6 m/min v zóně mělkého stopu u některých profilů Suunto / Shearwater). Další údaje o hloubce typicky zobrazené vedle: průměrná hloubka (u některých logovacích algoritmů), uplynulý čas na dně, odpočet NDL, čas do hladiny (TTS) včetně případných dekompresních zastávek, dekompresní strop po překročení NDL. (b) „Značky stupňů“ je funkce KOMPASU, ne hloubky. (c) Špatně — (a) je správně. (d) Teplota VZDUCHU není typický údaj — potápěčské počítače měří teplotu VODY přes senzor v přímém kontaktu s vodou během ponoru (některé počítače mohou také ukazovat povrchovou „teplotu vzduchu“ před ponořením, ale není to standardní trojice údajů hloubkoměru).",
+    "source": "mySSI: SoD Lesson 4.8 Review"
+  },
+  {
+    "id": "mssi-sod-149",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Přístroje",
+    "question": "Které z následujících tvrzení o nitroxových potápěčských počítačích je pravdivé?",
+    "options": {
+      "a": "Nitroxové počítače počítají data na základě zvýšené hladiny kyslíku",
+      "b": "Nitroxové počítače lze použít pro vzduchové ponory",
+      "c": "Všechny odpovědi jsou správné",
+      "d": "Většina standardních potápěčských počítačů je schopna pracovat s nitroxem"
+    },
+    "correct": "c",
+    "explanation": "Všechny tři popisují realitu moderních potápěčských počítačů. (a) NITROXOVÉ POČÍTAČE POČÍTAJÍ NA ZÁKLADĚ FO₂ — nastavte skutečnou směs (32 %, 36 % nebo jinou) a algoritmus: upraví NDL (bohatší směs = méně N₂ zatíženo → delší NDL v hloubce); sleduje % CNS KYSLÍKOVÉ TOXICITY (kumulativní na základě PpO₂ × čas expozice); sleduje OTU (Oxygen Tolerance Units) pro plicní toxicitu napříč více dny potápění; vypočítá výstrahy MOD na základě limitů PpO₂ (1,4 pracovní / 1,6 nouzový); moderní počítače také sledují přepínání plynů mezi dvěma nebo více nitroxovými směsmi uprostřed ponoru (rekreační AI počítače a tech počítače jako Shearwater Petrel). (b) POUŽITÍ PRO VZDUCHOVÉ PONORY — stačí nastavit FO₂ = 21 % (nebo režim „Air“). Stejný algoritmus zpracovává vzduch jako speciální případ (běžný nitrox = 21 %/79 %). (d) VĚTŠINA STANDARDNÍCH POTÁPĚČSKÝCH POČÍTAČŮ JE NITROX-COMPATIBLE — od cca 2010 prakticky každý vstupní rekreační počítač má podporu nitroxu z výroby: Suunto Zoop Novo, Mares Puck, Cressi Leonardo, Shearwater Peregrine, Garmin Descent G1, Aqualung i100/i200/i300/i330. Starší počítače z 90. let (např. originální Mk1 Aladin) byly někdy pouze pro vzduch — ty jsou většinou vyřazené nebo používané jako záložní měřidla.",
+    "source": "mySSI: SoD Lesson 4.8 Review"
+  },
+  {
+    "id": "mssi-sod-150",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Přístroje",
+    "question": "Manometr je připojen k:",
+    "options": {
+      "a": "Inflátoru BCD",
+      "b": "Vysokotlakému portu regulátoru",
+      "c": "Bourdonově trubici",
+      "d": "Nízkotlakému portu regulátoru"
+    },
+    "correct": "b",
+    "explanation": "Manometr (SPG) se připojuje k VYSOKOTLAKÉMU (HP) portu na první stupni regulátoru. Proč HP a ne LP: (1) SPG musí číst SKUTEČNÝ tlak v lahvi (200–300 bar / 3000–4500 psi) přímo, aby ukázal „kolik plynu zbývá v lahvi“. LP plyn už byl redukován na ~9–10 bar nad okolní tlak a je k odečtu obsahu lahve nepoužitelný. (2) HP port má v portu regulátoru zabudovaný malý průtokový omezovací otvor; pokud HP hadice praskne, plyn je omezen na rychlost úniku, která dává potápěči čas se vynořit — plný tlak lahve nemůže okamžitě vytéct přes otvor 7/16 palce. (3) Uvnitř těla SPG je typicky BOURDONOVA TRUBICE — zakřivená dutá mosazná trubice, která se mírně narovnává s rostoucím vnitřním tlakem, mechanicky otáčí jehlou přes ozubená kola (past možnosti (c): Bourdonova trubice je UVNITŘ mechanismu SPG, ne to, k čemu se SPG připojuje). Moderní digitální SPG nahrazují Bourdonovu trubici piezorezistivním převodníkem, ale stále se připojují k HP portu. Identifikace portu: HP porty na prvním stupni jsou označeny „HP“ a mají závit 7/16 palce UNF (jiný než LP 3/8 palce UNF), takže je fyzicky nelze zaměnit. BEZDRÁTOVÉ VZDUCH-INTEGROVANÉ VYSÍLAČE (Suunto Tank POD, Shearwater Swift, Garmin Descent T2) se také šroubují do stejného HP portu a vysílají tlak do zápěstního počítače přes nízkofrekvenční RF — nahrazují kombinaci analogové hadice + SPG. (a) Power inflator = LP. (d) LP port = druhé stupně, inflátor BCD, inflátor suchého obleku — tlak příliš nízký pro odečet obsahu lahve.",
+    "source": "mySSI: SoD Lesson 4.8 Review"
+  },
+  {
+    "id": "mssi-sod-151",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Přístroje",
+    "question": "Jak plyn-integrovaný potápěčský počítač pomáhá potápěčům spravovat plyn?",
+    "options": {
+      "a": "Automatickým upravováním rychlosti dýchání potápěče",
+      "b": "Ukládáním historických dat o teplotě ponoru",
+      "c": "Sledováním a zobrazováním zbývající zásoby plynu v reálném čase",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "c",
+    "explanation": "Vzduch-integrované (také GAS-INTEGRATED, AI) počítače sledují tlak v lahvi v reálném čase a zobrazují ho vedle dat hloubka/NDL na obrazovce zápěstí nebo konzole. Implementace: HP PŘEVODNÍK — buď HP hadice připojená k HP portu prvního stupně, nebo častěji BEZDRÁTOVÝ VYSÍLAČ (Suunto Tank POD, Shearwater Swift, Garmin Descent T2, Atomic Cobalt), který se šroubuje do HP portu a vysílá tlak přes nízkofrekvenční RF (typicky ~38 kHz, dosah několik metrů). Zobrazení: aktuální tlak v lahvi (např. 142 bar) zobrazený vedle hloubky, NDL, času. KILLER FEATURE — ZBÝVAJÍCÍ ČAS PLYNU (GTR / RGT): počítač měří aktuální SAC potápěče (spotřebu plynu v hloubce) a extrapoluje „kolik minut plynu zbývá při aktuální hloubce + aktuální spotřebě“. Mnohem užitečnější než jen bar/psi, protože odpovídá na skutečnou provozní otázku. SLEDOVÁNÍ VÍCE LAHVÍ na moderním AI (Shearwater Perdix, Petrel, Teric; Garmin Descent Mk2/Mk3): 2+ vysílače současně pro sidemount L/R, primární + dekompresní lahev, doubles + stage — tlak na lahev a GTR na lahev. LOGOVÁNÍ: profil tlaku každého ponoru uložen pro post-dive analýzu SAC a sledování trendů. Upozornění: bezdrát může ztratit signál (rušení, vzdálenost, blokování tělem); záložní analogový SPG je nejlepší praxe na kritických ponorech. Baterie vysílače 1–2 roky. (a) Počítač nemůže upravit dýchání potápěče — to je disciplína potápěče. (b) Logování teploty jsou historická data, ne správa plynu. (d) Pouze (c) je skutečná správa plynu.",
+    "source": "mySSI: SoD Lesson 4.8 Review"
+  },
+  {
+    "id": "mssi-sod-152",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Příslušenství",
+    "question": "Aby zabránili poškození životního prostředí, čeho se musí potápěči vyvarovat při použití reef hooku?",
+    "options": {
+      "a": "Připevnění k troskám",
+      "b": "Použití nylonových lan",
+      "c": "Použití karabin z nerezové oceli",
+      "d": "Připevnění k živým korálům"
+    },
+    "correct": "d",
+    "explanation": "Hlavní pravidlo použití reef hooku: NIKDY NEZAHÁKLE DO ŽIVÉHO KORÁLU. Pozadí: REEF HOOK je J-háček z nerezové oceli na 1–2 m laně, používaný na lokalitách se silným proudem (Blue Corner Palau, Komodo Strait, Galapágy, Cocos Island, Tubbataha), aby potápěči mohli držet pozici a sledovat pelagickou akci bez neustálého ploutvení proti proudu. Správný postup: drift dovnitř, identifikujte MRTVÝ podklad jako kotvící bod (holá skála, mrtvá kostra korálu, římsa obroušená pískem, zlomené/mrtvé korálové trosky), nasaďte tam háček, držte nebo připněte lano k D-kroužku BCD, přidejte malé množství plynu do BCD pro horizontální letění na napnutém laně za kotvícím bodem. Uvolnění: odhákněte zvednutím a opatrným odepnutím; nikdy neopouštějte háček + lano na útesu. Proč je ŽIVÝ KORÁL zakázán: živý korál je kolonie drobných polypů s vápnitými skelety, která roste pouze mm až několik cm za rok u kamenitých druhů. Jediný úder háčku může odlomit desítky let růstu, strhnout sliz a tkáň a otevřít cestu k infekci nebo vybělení. Většina destinací reef hooku jsou MOŘSKÉ CHRÁNĚNÉ OBLASTI s podstatnými pokutami za poškození korálů. Další zákazy: tažení řetězu po korálu při usazování, zaháknutí mořských vějířů (to jsou gorgonie — živočichové, ne kotvy), nechat háček divoce mávat při odhákávání, opouštění vybavení na útesu. (a) MRTVÝ podklad / zlomené korálové trosky jsou přesně SPRÁVNÝ kotvící bod — v pořádku zaháknout. (b) Nylonové lano je standardní, žádný environmentální problém. (c) Karabiny z nerezové oceli jsou odolné, korozivzdorné a standardní hardware háčku.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-153",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Příslušenství",
+    "question": "Uzavřená pozdě nasazená bójka je spolehlivá, protože:",
+    "options": {
+      "a": "Je vyrobena z lehkého materiálu, který plave i po proražení",
+      "b": "Udržuje objem plynu",
+      "c": "Má integrovaný modul GPS",
+      "d": "Obsahuje nastavitelné lano pro změnu rychlosti výstupu"
+    },
+    "correct": "b",
+    "explanation": "UZAVŘENÁ (closed-bottom) pozdě nasazená bójka udrží plyn uvnitř po nafouknutí, čímž je spolehlivě tuhá a viditelná na hladině. Mechanismus: HORNÍ KONEC má jednosměrný PŘETLAKOVÝ VENTIL (OPRV) — vypouští přebytečný plyn během výstupu (plyn se rozpíná podle Boyleova zákona), aniž by bójka praskla; plyn může unikat ven, ale voda nemůže dovnitř. SPODNÍ KONEC je zcela UZAVŘENÝ — žádný otvor. Nafouknutí probíhá orálním inflátorem (kachní zobákový ventil, vyfouknutí regulátoru do něj) nebo přes LP whip připnutý k inflátoru BCD; plyn jde dovnitř, ale nemůže uniknout dolů. Výsledek: na hladině zůstává bójka PLNÁ a TUHÁ, stojí vysoko, vysoce viditelná na dálku — zásadní pro vyzvednutí lodí ve vlnách / proudu / špatném počasí. Uzavřené dSMB jsou povinné na mnoha hlubokých / drift / dekompresních ponorech, kde je spolehlivá viditelnost pro loď nediskutovatelná. Porovnání s OTEVŘENÝMI dSMB (levnější, jednodušší) — otevřené dole, nafukované převrácením a vstříknutím plynu z octa nebo orálně, náchylné k úniku plynu spodem, pokud se nakloní nebo příboj zatlačí vodu nahoru; často povisují nebo se na hladině částečně vyfouknou; stále široce používané v rekreačních hloubkách. (a) dSMB jsou odolné, ale propíchnutá klesne — ne magicky samoplovoucí. (c) GPS není standardní funkce dSMB; některé mají RFID pro osobní sledování, ne GPS. (d) Lano/spool je výstupová linie, ne mechanismus regulace rychlosti.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-154",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Příslušenství",
+    "question": "Proč by si potápěči měli nosit řezací nástroj?",
+    "options": {
+      "a": "Pro reakci na nebezpečí podvodního zamotání",
+      "b": "Pro efektivnější lov podvodních tvorů",
+      "c": "Pro signalizaci ostatním potápěčům řinčením kovu",
+      "d": "Pro vyřezávání navigačních značek do podvodních skal"
+    },
+    "correct": "a",
+    "explanation": "Řezací nástroje (nože, odřezávače lana, EMT nůžky) jsou BEZPEČNOSTNÍ VYBAVENÍ pro REAKCI NA ZAMOTÁNÍ. Běžná nebezpečí zamotání: MONOFILAMENTOVÉ RYBÁŘSKÉ VLASCE (nejčastější, téměř neviditelné, dokud se nezamotají); ZTRACENÉ GHOST SÍTĚ rozprostřené na vracích / útesech; KOTEVNÍ / DEKOMPRESNÍ LANA náhodně omotaná; KELP, který se otáčí na ponorech v kelpových lesích; JESKYNNÍ nebo VRAKOVÁ VODICÍ LINIE, která se zachytí v ploutvi nebo popruhu. Typy odřezávačů: (1) Z-NŮŽ / ODŘEZÁVAČ LANA — malá uzavřená čepel se slotem pro vložení lana, hákovaná bezpečnostní čepel — neporaní vás, jen lano. (2) TRAUMA / EMT NŮŽKY — lékařské nůžky, překvapivě efektivní na těžký monofilament a dokonce tenké sítě. (3) STANDARDNÍ POTÁPĚČSKÝ NŮŽ — čepel 3–5 palců, zubatá sekce pro lano + hladká sekce pro obecné použití. (4) TITANOVÝ skládací kapesní nůž — odolný proti korozi. NEJLEPŠÍ PRAXE: noste DVA odřezávače na různých polohách těla (např. jeden na BCD chest D-kroužku, jeden na boku nebo paži) — pokud jste zamotaní jednou paží, musíte dosáhnout odřezávače DRUHOU. (b) Lov pod vodou je ve většině mořských chráněných oblastí nelegální a je to specializovaná / licencovaná aktivita; standardní potápěčské nože nejsou zbraně. (c) Signalizace = TANK BANGER nebo RATTLE STICK, ne nůž (a klepání na ventil lahve ho poškozuje). (d) NIKDY nevyřezávejte do podvodního prostředí — environmentálně destruktivní, nelegální v chráněných oblastech.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-155",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Příslušenství",
+    "question": "Povrchová bójka se používá ke sdělení polohy potápěče:",
+    "options": {
+      "a": "Jeho potápěčskému buddymu",
+      "b": "Personálu na povrchu a lodím",
+      "c": "Pilotům",
+      "d": "Jiným potápěčským skupinám pod vodou"
+    },
+    "correct": "b",
+    "explanation": "Povrchová bójka (SMB) je PLOVÁK VIDITELNÝ NA HLADINĚ, který označuje polohu potápěče PERSONÁLU NA POVRCHU a LODÍM — překlenuje mezeru ve viditelnosti mezi potápěčem pod vodou a lodí na povrchu. Dva hlavní případy použití. (1) PŘEDEM NASAZENÁ SMB — připnutá k potápěči od sestupu, lano vyhrávané ze spool/reelu, bójka plave nahoře po celý ponor. Používá se v proudových / drift ponorech, oblastech s rušným provozem lodí, když musí tendr loď sledovat polohu potápěčů. (2) POZDĚ NASAZENÁ SMB (dSMB) — zůstává uložená během ponoru, nasazená PŘED VÝSTUPEM (typicky na bezpečnostní zastávce) nafouknutím z regulátoru a uvolněním lana ze spoolu. Signalizuje „vynořujeme se zde za ~3 minuty“ pro vyzvedávací loď. Standardní praxe na každém drift ponoru. Celý smysl: potápěči pod vodou nevidí loď a loď nevidí potápěče — SMB tuto smyčku uzavírá. (a) Buddy je s vámi pod vodou, komunikuje s vámi ručními signály / světly. (c) Piloti jsou příliš vysoko, aby zahlédli 1,5m bójku. (d) Jiné potápěčské skupiny pod vodou nevidí hladinu jasně z hloubky.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-156",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Příslušenství",
+    "question": "Jaká je primární funkce elektronického signalizačního zařízení?",
+    "options": {
+      "a": "Poskytovat navigační pomoc",
+      "b": "Sledovat pohyb potápěče pod vodou",
+      "c": "Vysílat nouzový signál",
+      "d": "Monitorovat teplotu vody"
+    },
+    "correct": "c",
+    "explanation": "Elektronická signalizační zařízení pro potápěče existují primárně pro VYSÍLÁNÍ NOUZOVÉHO SIGNÁLU, když se něco pokazí (ztracený na hladině, drift unáší potápěče od lodi, lékařská nouze). Kategorie: (1) PLB (osobní lokátorová bóje) — 406 MHz satelitní nouzová bóje používající systém Cospas-Sarsat. Aktivace → polární satelit zachytí signál → přesměruje se do Mission Control Center → pobřežní stráž / SAR upozorněna s GPS polohou potápěče. Příklady: ACR ResQLink, Ocean Signal PLB1, McMurdo FastFind. ŽÁDNÉ předplatné není potřeba pro základní PLB; zaregistrujte se zdarma u národního úřadu (NOAA US, MCA UK). (2) SATELITNÍ MESSENGERY — obousměrné textové jednotky jako Garmin inReach Mini, Spot Gen4. Vyžadováno měsíční předplatné; umožňuje psát „OK, vyzvedněte mě“ nebo poslat SOS s situačními zprávami. (3) VHF RÁDIO — handheld VHF (Nautilus Lifeline, Cobra HH150) hodnocený jako float pro přímý hlasový kontakt s loděmi v dohledové vzdálenosti (~5–10 km na hladině). (4) STROBOSKOP / SOS POTÁPĚČSKÉ SVĚTLO — vizuální signál v noci, hladina nebo horní vodní sloupec. (5) PODVODNÍ PINGERY — sledování buddyho (tech/cave), ne přesně „nouzové“. (a) Navigace = kompas / GPS, jiná kategorie. (b) Sledování = kontinuální logování (např. Garmin Descent dive GPS log), jiné. (d) Teplota = standardní teploměr potápěčského počítače.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-157",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Příslušenství",
+    "question": "Jaká je jedna nevýhoda použití osobní lokátorové bóje?",
+    "options": {
+      "a": "Nemohou vysílat signály pod vodou",
+      "b": "Mají omezenou hloubkovou odolnost bez dodatečného pouzdra",
+      "c": "Bez kanystru jsou negativně vztlačné",
+      "d": "Vyžadují předplatné pro použití"
+    },
+    "correct": "b",
+    "explanation": "Většina PLB NENÍ tlakově dimenzována pro potápěčské hloubky a potřebuje samostatný vodotěsný kanystr. Typické hodnocení ochrany proti vniknutí PLB: levné PLB IPX7 (1 m po dobu 30 min — v pohodě pro postříkání, neužitečné nad ponořením na hladině); lepší PLB IPX8 s výrobcem specifikovanými kombinacemi hloubka/doba (často 5–10 m po dobu 1–24 hodin). ACR ResQLink a Ocean Signal PLB1 jsou typicky hodnoceny na maximálně 5–10 m — v pohodě pro povrchové použití PO vynoření, ne pro nošení skrz 30m ponor. Pro potápěčské použití musí být PLB nesen uvnitř VODOTĚSNÉHO KANYSTRU dimenzovaného na plánovanou hloubku ponoru — příklady: nyní vyřazené Nautilus Lifeline GPS (účelově postavené potápěčské pouzdro kombinující VHF + GPS); generické potápěčské kanystry dimenzované na 100 m+, které drží PLB suchý; nebo PLB integrované v účelově postavených potápěčských pouzdrech. V případě nouze potápěč: vynoří se (žádné vysílání pod vodou stejně — rádiové vlny se v slané vodě nešíří při smysluplném výkonu), vytáhne PLB z kanystru, rozvine anténu, aktivuje → 406 MHz signál putuje k satelitům. (a) Neschopnost vysílat pod vodou je pravda, ale je to fundamentální fyzikální problém ovlivňující KAŽDÉ zařízení založené na rádiu, ne opravdu „nevýhoda“, kterou byste mohli inženýrsky obejít. (c) Vztlak se liší podle modelu; ne primární praktický problém. (d) Základní 406 MHz PLB NEVYŽADUJÍ předplatné (zdarma národní registrace); pouze satelitní messengery (Garmin inReach, Spot) ho potřebují — takže to není univerzálně pravda.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-158",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Příslušenství",
+    "question": "Proč by si potápěči měli nosit více signalizačních zařízení?",
+    "options": {
+      "a": "Více zařízení podporuje rychlejší podvodní navigaci",
+      "b": "Nošení více zařízení snižuje šanci ztráty kteréhokoli z nich",
+      "c": "Aby byli připraveni na různé nouzové situace",
+      "d": "Rozmanitost zařízení pomáhá potápěčům udržet kontrolu vztlaku"
+    },
+    "correct": "c",
+    "explanation": "Různé nouzové situace vyžadují různé signály — žádné jediné zařízení nepokrývá všechny scénáře. SCÉNÁŘOVÁ MATICE: (1) ZTRACENÝ NA HLADINĚ poblíž lodi → zvuková píšťalka, Dive Alert vzduchová houkačka, SMB zvednutá vysoko, signální zrcátko; (2) ZTRACENÝ NA HLADINĚ daleko od lodi → VHF rádio, PLB satelitní signál, dSMB zvednutá vysoko, kouřový marker; (3) POZORNOST BUDDYHO pod vodou → tank banger, rattle stick, SOS vzor potápěčského světla; (4) POTÁPĚČ V NOUZI pod vodou → obrácené ruční signály + tank banger urgentní; (5) NOČNÍ PONOR — loď vás nevidí → stroboskop (bílé blikání), chemická svítící tyčinka na lahvi; (6) DLOUHÝ DRIFT / ZTRACENÝ NA MOŘI (nejhorší případ) → PLB aktivován, VHF tísňové, kouřové světlice. Každé zařízení má dosah, dohled a omezení použití: píšťalka ~200 m v klidném moři (neužitečné v rozbouřeném), zrcátko vyžaduje slunce + loď dívající se vaším směrem, SMB viditelná 1+ km, ale jen pokud se oči dívají nahoru, VHF dohled ~5–10 km hladina, PLB je globální přes satelit, ale trvá minuty na mobilizaci SAR. Vrstvená redundance napříč kategoriemi znamená, že ať se ocitnete v jakékoli situaci, alespoň jeden nástroj sedne. Standardní rec sada: píšťalka + dSMB + Dive Alert. Drift / blue-water sada přidává: PLB + zrcátko + stroboskop. Cave/wreck sada přidává: rezervní masku + více světel + line markery. (a) Signalizace nemá nic společného s navigací. (b) Redundance proti ztrátě je VEDLEJŠÍ benefit, ne primární důvod — hlavní bod je pokrytí scénářů. (d) Nesouvisí se vztlakem.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-159",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Příslušenství",
+    "question": "Jaká je jedna nevýhoda potápění s povrchovou bójkou?",
+    "options": {
+      "a": "Zamotání do kotevních lan a jiných bójí",
+      "b": "Bójka může přilákat nebezpečné mořské živočichy.",
+      "c": "Bójka může v slané vodě rychle korodovat",
+      "d": "Změny počasí mohou trvale změnit barvu bójky"
+    },
+    "correct": "a",
+    "explanation": "ZAMOTÁNÍ je primární praktické nebezpečí u SMB. Vlečené lano od potápěče k povrchové bójce se může omotat kolem: KOTEVNÍCH LAN okolních lodí (běžné na rušných lokalitách); SMB LAN jiných potápěčských operátorů (více skupin ve stejné oblasti, lana se křižují); RYBÁŘSKÝCH LAN / LAN NA HUMRY (pobřežní lokality, zejména v proudu); jiných kotevních nebo sestupových lan; VLASTNÍHO VYBAVENÍ POTÁPĚČE (popruhy ploutví, ventily manifoldu, smyčky hadic, pokud se lano uvolní a proud ho zatlačí). Horší: SPOOLY / REELY mohou BACKLASHOVAT, pokud jsou nasazeny nedbale, vytvářejí „hnízdo krys“ uprostřed ponoru, které musíte vyřezat svým odřezávačem lana. LODĚ mohou také přejet nasazené povrchové lano a přeříznout ho (nebo hůř, zachytit svým lodním šroubem). MITIGACE: udržujte NAPNUTÍ na laně neustále — nikdy povolené; používejte FINGER SPOOL (~30 m na malém disku) pro rekreační mělkovodní, větší REEL s rukojetí pro hlubší/delší; cvičte nasazení v příznivých podmínkách před prováděním na pracovním ponoru; buďte si vědomi polohy lana vůči potápěči a okolí; noste DVA odřezávače (podle mssi-sod-154); nenasazujte pod 6 m (lano se příliš prodlouží, hůře se ovládá). (b) Žádný důkaz, že SMB přitahují nebezpečné mořské živočichy — mýtus. (c) Moderní dSMB jsou odolné Cordura/PVC, životnost roky, ne dny. (d) UV barvu dSMB časem vybledne, ale ne relevantní provozní nevýhoda ve srovnání se zamotáním.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-160",
+    "area": "science_of_diving",
+    "subarea": "Vybavení — Příslušenství",
+    "question": "Alfa vlajka označuje potápěče ve vodě a:",
+    "options": {
+      "a": "Hloubky mimo rekreační limity",
+      "b": "Přítomnost nebezpečných mořských živočichů",
+      "c": "Omezenou manévrovatelnost plavidla",
+      "d": "Rybolov je v oblasti zakázán"
+    },
+    "correct": "c",
+    "explanation": "ALFA vlajka — mezinárodní námořní signální vlajka, modrobílá, vlaštovčí ocas — znamená: „Mám potápěče dole — držte se daleko pomalou rychlostí.“ Podle MEZINÁRODNÍHO KÓDU SIGNÁLŮ / COLREGS: plavidlo zobrazující vlajku A signalizuje OMEZENOU MANÉVROVATELNOST, protože potápěči jsou fyzicky uvázáni k lodi (na tag-line, sestupové linii nebo se vracejí pod trupem). Ostatní plavidla musí ustoupit a projet v bezpečné vzdálenosti a pomalou rychlostí. Toto je MEZINÁRODNÍ standard používaný celosvětově. Odlišný od vlajky „DIVER DOWN“ — červená s bílým úhlopříčným pruhem — používaná primárně v USA, Karibiku a některých asijských regionech; není mezinárodní námořní zákon, ale vynucována státními předpisy USA a konvencí potápěčského průmyslu. Mnoho potápěčských lodí v USA zobrazuje OBĚ vlajky Alfa a Diver Down, aby zahraniční i domácí plavidla rozpoznala potápěče ve vodě. Nejlepší praxe pro instruktory v zahraničí: vědět, která vlajka se používá ve vaší jurisdikci, a v pochybnostech nosit/zobrazovat obě. (a) Alfa vlajka nemá žádný hloubkový význam — hloubka je věc plánování / počítače. (b) Nebezpečné mořské živočichy nepoužívají žádnou specifickou vlajku. (d) Rybolovná omezení jsou označena hraničními bójemi MPA, značením nebo místní regulací — ne Alfou.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-161",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Potápěčské lokality",
+    "question": "Proč jsou vzdálené podmořské hory a oceánské ostrovy často skvělé potápěčské destinace?",
+    "options": {
+      "a": "Obvykle mají zdravé korálové útesy a hojnou mořskou faunu.",
+      "b": "Potápěči vždy najdou žraloky, rejnoky a želvy na každém ponoru.",
+      "c": "Jsou daleko od oblastí zemětřesení.",
+      "d": "Útesy ostrovů jsou chráněny před aktivitou lodí."
+    },
+    "correct": "a",
+    "explanation": "Vzdálené podmořské hory a oceánské ostrovy jsou destinace světové třídy díky konvergujícím faktorům, které produkují ZDRAVÉ KORÁLY + HOJNOU MOŘSKOU FAUNU: (1) MENŠÍ LIDSKÝ TLAK — daleko od populačních center znamená menší rybářský tlak, méně pobřežního znečištění, méně potápěčů ročně, méně poškození kotvami; útesy blíže přírodnímu stavu. (2) UPWELLING PODMOŘSKÝCH HOR — ponořené vrcholy nutí hlubokou studenou vodu bohatou na živiny NAHORU do osvětlené fotické zóny → rozkvět planktonu → rozkvět malých ryb → agregace velkých ryb + pelagických druhů. Efekt podmořské hory je důvod, proč izolované vrcholy konzistentně produkují potápění s velkými zvířaty světové třídy. (3) PELAGICKÁ KŘIŽOVATKA — oceánské ostrovy často leží na migračních trasách žraloků, mant, tuňáků, billfishů, velryb; útes se stává čisticí stanicí a místem agregace. (4) ENDEMISMUS — geografická izolace pohání genetickou divergenci → druhy nikde jinde nenalezené (Galapágy, Socorro, endemické druhy Cocos). Ikonické příklady: Galapágy / Darwin & Wolf, Cocos Island, Socorro / Revillagigedo, Tubbataha, Coral Sea, vnější atoly Maledivy. (b) Přehnané — i na lokalitách světové třídy jsou pozorování velkých zvířat statistická, ne zaručená; nikdy neslibujte studentům „uvidíme X“. (c) Mnoho podmořských hor a oceánských ostrovů JE vulkanického původu a seismicky aktivních (havajský řetězec, hotspot Galapág, Socorro je aktivní nadhladinová sopka). (d) Nižší hustota lodí ano, „chráněné“ ne — mnoho jich je také daleko od záchranných zdrojů, což je vlastní výzva.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-162",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Pohyb vody",
+    "question": "Co se stane, když vlna dosáhne příbojové zóny?",
+    "options": {
+      "a": "Vlna se stává přílivovou vlnou a pohybuje se do vnitrozemí",
+      "b": "Vlna se zcela přestává pohybovat vpřed",
+      "c": "Vlna se zpomalí, zvýší se její výška a láme se",
+      "d": "Vlna zrychluje a pokračuje pohybem od pobřeží"
+    },
+    "correct": "c",
+    "explanation": "Klasická fyzika MĚLKOVODNÍHO EFEKTU VLN. (1) Hluboká voda — rychlost vlny je úměrná √(g·d), kde d je hloubka, nízká amplituda vzhledem k vlnové délce. (2) Přibližování ke břehu — hloubka klesá; vlna „cítí“ dno, jakmile hloubka < ½ vlnové délky. (3) Tření dna ZPOMALUJE vlnu. (4) Zachování energie — zpomalující vlna stlačuje svou energii do menšího prostoru → VÝŠKA VLNY ROSTE (vlna se zvedá). (5) Vlnová délka se zkracuje — vrcholy se shlukují, vlna se stává strmější. (6) Kritická nestabilita — když hloubka vody ≈ 1,3× výška vlny, vrchol již nelze udržet → vlna SE LÁME. Tři typy lámání: SPILLING (postupné, pěnivé, mírný svah — nejbezpečnější vstupy z pláže); PLUNGING (náhlé stočení a pád, strmý svah, silné — oblíbenec surfařů, noční můra potápěčů); SURGING (žene se po strmém pobřeží, aniž by se stočilo, vyhazuje vodu na břeh). Strategie potápěče v příbojové zóně: načasujte vstupy/výstupy mezi SETY (vlny přicházejí ve skupinách s klidnějšími mezerami); projděte s ploutvemi v ruce, dokud nejste po kolena, pak nasaďte ploutve a krčte se nízko skrz lámající vlny; vystupte „surfováním na hřbetu“ vlny do břehu na břiše, ploutve nasazené; vyhněte se plunging vlnám — mohou strhnout masku a praštit vámi o dno. (a) PŘÍLIVOVÁ VLNA je jiný jev — stoupající příliv tlačí vlnu do vnitrozemí v zužujícím se říčním/ústí kanálu (Severn, Qiantang, Amazon Pororoca). (b) Vlna se nezastaví — energie se přenáší na pláž. (d) OPAK fyziky — vlny zpomalují při blížení ke břehu.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-163",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Potápěčské lokality",
+    "question": "Pobřežní oblast mezi přílivem a odlivem se také nazývá:",
+    "options": {
+      "a": "Příbojová zóna",
+      "b": "Litorální zóna",
+      "c": "Neritická zóna",
+      "d": "Pelagická zóna"
+    },
+    "correct": "b",
+    "explanation": "LITORÁLNÍ ZÓNA (také PŘÍLIVOVÁ ZÓNA nebo „foreshore“) je pobřežní pás mezi průměrnou hladinou přílivu a průměrnou hladinou odlivu — střídavě VYSTAVENA vzduchu při odlivu a PONOŘENA při přílivu. Je to vysoce stresové stanoviště: extrémní výkyvy teplot, vysušování, bití vln, kolísání slanosti. Daří se zde specializovaným organismům: barnacles, přílipky, slávky, hvězdice, raci poustevníci, sasanky, periwinkles, kelp ve spodní zóně. Rozděleno na: SPLASH / SUPRALITORÁL (nad přílivem, smáčen pouze stříkáním vln; lišejníky, periwinkles); HORNÍ PŘÍLIVOVÁ (vystavená dlouhé doby; barnacles, periwinkles, přílipky); STŘEDNÍ PŘÍLIVOVÁ (střídavě mokrá/suchá; slávky, hvězdice, sasanky); SPODNÍ PŘÍLIVOVÁ (vystavena pouze při nejnižších přílivech; bohatší život, kelp, ježovky, sumýši). Jiné mořské zóny: (a) PŘÍBOJOVÁ ZÓNA = kde se vlny lámou (definováno funkcí mělkovodního efektu vln, ne přílivem); často se překrývá s litorálem, ale odlišný koncept. (c) NERITICKÁ ZÓNA = vodní sloupec nad kontinentálním šelfem, od linie odlivu ven do hloubky ~200 m (mnohem ŠIRŠÍ než přílivová). (d) PELAGICKÁ ZÓNA = otevřený oceánský vodní sloupec za kontinentálním šelfem — zcela odlišná ekologická zóna.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-164",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Potápěčské lokality",
+    "question": "Proč jsou skály a útesy důležité pro pobřežní linie?",
+    "options": {
+      "a": "Fungují jako přírodní bariéry, které chrání pobřežní linie před erozí a poškozením vlnami",
+      "b": "Snižují slanost oceánu a mění globální proudy",
+      "c": "Zabraňují přílišnému usazování mořské fauny v jedné oblasti",
+      "d": "Blokují veškerý přílivový pohyb směrem k pobřeží"
+    },
+    "correct": "a",
+    "explanation": "Skály a zejména KORÁLOVÉ ÚTESY fungují jako PŘÍRODNÍ VLNOLAMY, které absorbují energii vln, než dosáhnou pobřeží. (1) ROZPTYL ENERGIE VLN — vlny se lámou na hřebenu útesu, než dosáhnou pobřeží; zdravý lemový útes může absorbovat 70–97 % příchozí energie vln (dobře dokumentováno pro karibské korálové útesy, pacifické atoly, Velký bariérový útes). (2) SNÍŽENÁ VÝŠKA VLN — než voda projde přes útes do laguny, výška vln je zlomkem toho, co zasáhlo vnější svah útesu, chrání pláže a pobřežní infrastrukturu. (3) ZACHYCOVÁNÍ SEDIMENTU — útesy zpomalují tok vody → sediment se usazuje → buduje pobřežní linii spíše než ji vymílá. (4) TVORBA PLÁŽE — velká část tropického plážového písku je ODVOZENA Z ÚTESU (vyloučení parrotfishů z koral, zlomená kostra korálu, schránky foraminifer). Žádný útes = žádná náhrada písku → pláž zmizí během desetiletí. (5) OCHRANA LAGUNY — klidná voda za útesem podporuje záhony mořské trávy a mangrove, které poskytují další stabilizaci pobřežní linie přes kořenové systémy držící sediment. Reálný důsledek: když korálové útesy odumřou (vybělování, okyselování oceánů, dynamitové rybaření, hloubení), pobřežní komunity vidí dramaticky zvýšenou EROZI, POŠKOZENÍ BOUŘÍ a ZTRÁTU PLÁŽE — klíčový hnací prvek za projekty obnovy útesů na Maledivách, v Indonésii, Karibiku. Stejná logika pro skalnaté pobřeží: výchozy, čedičové prahy, ledovcové morény všechny fungují jako přírodní vlnolamy. (b) Útesy nesnižují slanost (sami slanovodní organismy) a neovlivňují globální proudy ve smysluplném měřítku. (c) Opak — útesy VYTVÁŘEJÍ stanoviště, podporují ~25 % všech mořských druhů, přestože pokrývají <1 % mořského dna. (d) Útesy snižují energii VLN, ale neblokují PŘÍLIVY (přílivy jsou gravitační, planetárního měřítka, lokálně neovlivněné).",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-165",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Potápěčské lokality",
+    "question": "Znalost podvodního terénu pomáhá potápěčům:",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Porozumět mořským stanovištím",
+      "c": "Bezpečně se navigovat skrz vlny a proudy",
+      "d": "S plánováním ponoru"
+    },
+    "correct": "a",
+    "explanation": "Povědomí o terénu je ústřední pro všechny tři potápěčské disciplíny. (b) POROZUMĚNÍ MOŘSKÝM STANOVIŠTÍM — terén DIKTUJE ekologii. Písek vs. skála vs. korál vs. kelp vs. muck = zcela odlišná shromáždění druhů. Skalnatý útes = tvrdé korály + útesové ryby; pískové dno = rejnoci, platýsi, zahradní úhoři; muck = „critteři“, ropušnice, chobotnice; kelpový les = garibaldi, vydry mořské, leopardí žraloci; vrak = sukcese kolonizace + ukrývající se ryby. Znalost podloží vám řekne, co očekávat, kam se dívat, co je biologicky zajímavé. (c) BEZPEČNÁ NAVIGACE skrz vlny a proudy — terén vytváří vzorce pohybu vody. MYSY zrychlují proudy (voda se vmačkává kolem); ZÁTOKY je uklidňují; otvory kanálů kanalizují proud; STĚNY vytvářejí klesající proud na závětrné straně; PODMOŘSKÉ HORY produkují upwelling + vroucí zóny; římsy vytvářejí vlny příboje. Znalost topografie dna vám řekne, kde bude příboj silný, kde se tvoří víry, kde se schovat před proudem za skálou. (d) PLÁNOVÁNÍ PONORU — terén informuje každý prvek plánu: vstupní/výstupní body, profil hloubky, trasa, navigační úseky, očekávaná spotřeba plynu, místo bezpečnostní zastávky, výstupní bezpečné útočiště, pokud se podmínky zhorší. Před každou neznámou lokalitou: prostudujte mapu lokality, dostaňte důkladný briefing, zeptejte se místního divemastera na směr proudu, kde najít úkryt, kde je nejhlubší bod. (a) všechny správné.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-166",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Potápěčské lokality",
+    "question": "Které pelagické druhy mohou potápěči vidět v otevřeném oceánu?",
+    "options": {
+      "a": "Žraloky, delfíny a velryby",
+      "b": "Kraby, hvězdice a korály",
+      "c": "Hlemýždě, barnacles a ústřice",
+      "d": "Mořské želvy, mrože a tučňáky"
+    },
+    "correct": "a",
+    "explanation": "PELAGICKÝ = obyvatelé otevřeného oceánu vodního sloupce (řecky „pelagos“ = otevřené moře). Opak BENTICKÉ = obyvatelé mořského dna. Klasická pelagická fauna: ŽRALOCI (oceánské druhy — modrý, hedvábný, oceánský bělohřbetý, mako, liščí, žralok velrybí); DELFÍNI (točený, obecný, offshore forma skákavého, Rissův, falešný kosatka); VELRYBY — kytovci, všichni mořští savci (hrbatý, vorvaň, plejtvák myšok, modrý, malý plejtvák, plejtvákovci); TUŇÁCI a BILLFISH (žlutoploutvý, velkooký, marlín, plachetník, mečoun — stavění na rychlost otevřeného oceánu); MANTY a MOBULY (velcí pelagičtí rejnoci); MOLA MOLA (mořský měsíčník, největší kostnatá ryba světa); PELAGICKÉ MEDÚZY + SIPHONOPHORY (portugalský man-o-war, salpy, žebernatky); PELAGICKÉ SEPIE (Humboldt, hlubokomořské druhy). (b) Krabi, hvězdice, korály = BENTICKÉ (obyvatelé dna, přichycení nebo plazící se po podloží). (c) Hlemýždi, barnacles, ústřice = BENTICKÉ / LITORÁLNÍ (na skalách / podloží, často v přílivové zóně). (d) Smíchané: mořské želvy JSOU pelagicky schopné (přechází oceány), ale MROŽI jsou pobřežní arktičtí / sub-arktičtí savci ledového okraje (tichomořský mrož zůstává blízko ledu) a TUČŇÁCI jsou pobřežní ptáci, kteří přicházejí na břeh hnízdit — trojice nesedí čistě s „pelagickým“. (a) je čistá klasifikace.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-167",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Potápěčské lokality",
+    "question": "Jaká je klíčová adaptace hlubokomořských organismů?",
+    "options": {
+      "a": "Fotosyntéza pro produkci energie",
+      "b": "Hustá srst pro zadržování tepla",
+      "c": "Velké plíce pro držení extra kyslíku",
+      "d": "Bioluminiscence pro komunikaci a predaci"
+    },
+    "correct": "d",
+    "explanation": "BIOLUMINISCENCE je definující adaptace hlubokomořského života — asi 75–90 % hlubokomořských organismů produkuje světlo, zdaleka nejvyšší koncentrace bioluminiscentních druhů kdekoli na Zemi. PROČ TAK ROZŠÍŘENÉ: pod ~1000 m je nulové sluneční světlo („afotická zóna“); jediné světlo pochází od organismů samotných. Většina hlubokomořské bioluminiscence je MODROZELENÁ (~470–490 nm) — vlnové délky, které nejlépe pronikají mořskou vodou (evoluční ladění, i když je penetrace bezpředmětná). Generována chemickou reakcí LUCIFERIN–LUCIFERÁZA (studené světlo, ~95 % účinné — téměř žádný odpad tepla). FUNKCE: (1) PREDAČNÍ NÁVNADY — ďas mořský s blikající návnadou na své ilíciu; hlubokomořští dragonfish „red-light snipers“ (jediné hlubokomořské ryby produkující červenou — neviditelná pro většinu kořisti). (2) KOMUNIKACE / PÁŘENÍ — vzorce blesků pro nalezení příslušníků stejného druhu v rozsáhlé tmě. (3) PROTI-OSVĚTLENÍ — spodní strana organismu produkuje světlo odpovídající slabému sestupujícímu světlu → skrývá siluetu před predátory zespoda (cookiecutter shark, hatchet fish, lanternfish). (4) ZLODĚJSKÝ POPLACH — když je některý organismus chycen, blikne jasně, aby přilákal většího predátora, který by mohl zaútočit na predátora. (5) NÁVNADA / OBĚŤ — některé sépie uvolňují žhnoucí inkoust „stín“ pro zmatení pronásledovatelů. (6) ÚLEK PREDÁTORA — náhlý jasný blesk získá čas k úniku. (a) Fotosyntéza nemožná bez slunečního světla (hlubokomořské hydrotermální komíny místo toho hostí CHEMOSYNTÉZU — bakterie používající H₂S jako zdroj energie, zcela samostatná adaptace). (b) Žádná srst u většiny hlubokomořských tvorů (ryby, bezobratlí, hlavonožci — žádní savci v abyssálních hloubkách). (c) Plíce nejsou anatomií ryb; hlubokomořské ryby mají často redukované/chybějící plynové měchýře kvůli extrémnímu tlaku.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  }
+]

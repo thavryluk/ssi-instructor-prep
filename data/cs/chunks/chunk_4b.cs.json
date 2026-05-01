@@ -1,0 +1,287 @@
+[
+  {
+    "id": "mssi-sod-208",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Jaké jsou tři hlavní skupiny ryb?",
+    "options": {
+      "a": "Kostnaté ryby, chrupavčité ryby a kosatky",
+      "b": "Kostnaté ryby, chrupavčité ryby a bezčelistnaté ryby",
+      "c": "Chrupavčité ryby, kostnaté ryby a masožravé ryby",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "b",
+    "explanation": "Tři třídy ryb v moderní taxonomii: (1) AGNATHA / CYCLOSTOMATA — BEZČELISTNATÉ ryby: mihule (parazitické, přisají se k hostiteli pomocí přísavkovitých úst, drásají krev/tkáň) a sliznatky (hlubokomořští mrchožrouti; produkují obrovské množství slizu jako obranu). Nejstarobylejší linie ryb; ~120 přežívajících druhů; bez párových ploutví, bez čelistí, chrupavčitá kostra, bez pravých šupin. (2) CHONDRICHTHYES — CHRUPAVČITÉ ryby: žraloci (~500 druhů), rejnoci (manta, trnucha, orlice, parejnok), rejnokovití, chiméry (chimérovití). ~1200 druhů; chrupavčitá kostra (bez kostí), plakoidní šupiny (kůže jako smirkový papír), 5–7 žaberních štěrbin viditelných zvenčí, vnitřní oplodnění. (3) OSTEICHTHYES — KOSTNATÉ ryby: ~30 000 druhů, největší třída obratlovců. Kostěná kostra, jediný žaberní kryt (skřele), plynový měchýř pro vztlak. Dvě podtřídy: PAPRSKOPLOUTVÉ (většina žijících ryb) + LALOKOPLOUTVÉ (latimérie, dvojdyšní — předkové čtyřnožců). Zahrnuje vše od zlatých rybek po tuňáky, všechny rybí druhy z útesů, všechny teleosty. (a) KOSATKA je SAVEC (kytovec) — častý zmatek kvůli názvu „killer WHALE“ (zabijácká velryba); není to ryba. (c) „MASOŽRAVÉ RYBY“ je strategie KRMENÍ (mssi-sod-205), ne taxonomická třída — kategorie musí být paralelní (buď všechny krmné kategorie, nebo všechny taxonomické, ne smíšené). (d) Nesprávné, protože (a) a (c) jsou nesprávné.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-209",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Co si mořští ptáci vyvinuli pro život v mořském prostředí?",
+    "options": {
+      "a": "Plovací blány, voděodolné peří, přizpůsobené zobáky a solné žlázy",
+      "b": "Voděodolné peří, solné žlázy a ploutve",
+      "c": "Plovací blány, voděodolné peří a žábry",
+      "d": "Žádná odpověď není správná"
+    },
+    "correct": "a",
+    "explanation": "Mořští ptáci si vyvinuli čtyři klíčové adaptace pro život ve slané vodě. (1) PLOVACÍ BLÁNY — kůže mezi prsty funguje jako pádlo pro pohyb na hladině (rackové, kachny) nebo pohon pod vodou (tučňáci, kormoráni). (2) VODĚODOLNÉ PEŘÍ — natírání olejem z UROPYGIÁLNÍ / KOSTRČNÍ ŽLÁZY (na bázi ocasu) pokrývá peří a uzavírá ho proti vodě. Pozoruhodná výjimka: KORMORÁNI nemají voděodolné peří (vidíte je sušit se na slunci s rozprostřenými křídly po lovu) — to jim umožňuje být méně vztlakoví pro hlubší ponory. (3) PŘIZPŮSOBENÉ ZOBÁKY — potravní specialisté: střemhlaví potápěči (terejové, rybáci) mají ostré špičaté zobáky pro nabodávání ryb; filtrátoři (plameňáci, někteří buřňáci) mají zobáky s lamelami; drtiči (ústřičníci) mají silné zobáky na měkkýše; háčkovité (rackové, albatrosi) jsou víceúčelové. (4) SOLNÉ ŽLÁZY — supraorbitální (nad očima) žlázy, které vylučují koncentrovaný roztok soli z pití mořské vody + slané kořisti. Kapičky soli viditelné na špičce zobáku u mnoha mořských ptáků (albatros, buřňáci, rackové). Tučňáci, leguáni mořští, mořské želvy mají všichni analogické solné žlázy. Bez nich by mořští ptáci dehydrovali kvůli osmotické nerovnováze. Další adaptace: kosti naplněné vzduchem pro let (většina druhů); protistínová maskovací kresba (tmavá nahoře + světlá dole); schopnost pít přímo mořskou vodu díky těm solným žlázám. (b) Mořští ptáci nemají PLOUTVE — tučňáci mají PLOUTEVNÍ KŘÍDLA, která se vyvinula z křídel, ne z ploutví. (c) Ptáci dýchají VZDUCH PLÍCEMI, ne žábrami. (d) Nesprávné, protože (a) je správné.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-210",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Jaké jsou hlavní skupiny mořských savců?",
+    "options": {
+      "a": "Lasicovití (vydry mořské) a medvědovití (lední medvědi)",
+      "b": "Ploutvonožci (tuleni, lachtani a mroži) a sirény (dugongové a kapustňáci)",
+      "c": "Všechny odpovědi jsou správné",
+      "d": "Kytovci (velryby, delfíni a sviňuchy)"
+    },
+    "correct": "c",
+    "explanation": "Všechna tři seskupení zahrnují skutečné linie mořských savců. ~130+ druhů mořských savců po celém světě, všechny SEKUNDÁRNĚ VODNÍ (pocházejí z pozemských předků, kteří se v různých dobách vrátili do moře). (d) KYTOVCI — velryby, delfíni, sviňuchy: MYSTICETI (kosticovité velryby — modrá, hrbatá, plejtvák, malý plejtvák, šedá, jižní; filtrátoři, ti největší); ODONTOCETI (ozubení kytovci — kosatky, vorvani, delfíni, sviňuchy, vorvaňovci, běluhy, narvalové; predátoři). Zcela vodní, nikdy nevycházejí na břeh; pocházejí z předků sudokopytníků (nejbližší žijící příbuzní jsou hroši). (b) PLOUTVONOŽCI („ploutvonohé“) + SIRÉNY: PLOUTVONOŽCI — pravé tulenovití (Phocidae), ušaní tulenovití + lachtani (Otariidae), mrožovití (Odobenidae); rozmnožují se na souši, plně vodní při lovu; pocházejí z psotvarých šelem (příbuzní s medvědy). SIRÉNY — kapustňáci (3 druhy, atlantická pánev) + dugongové (1 druh, indo-pacifický); plně vodní BÝLOŽRAVCI spásající mořskou trávu; pocházejí z afroterních předků (nejbližší žijící příbuzní jsou sloni). (a) LASICOVITÍ + MEDVĚDOVITÍ — POLOVODNÍ skupiny: VYDRA MOŘSKÁ (Enhydra lutris) je plně mořská, vydra mořská chilská (Lontra felina) pobřeží Jižní Ameriky; nejhustší srst ze všech savců (nahrazuje tuk); LEDNÍ MEDVĚD (Ursus maritimus) uznávaný jako mořský savec kvůli závislosti na mořském ledu pro lov tuleňů — ekologicky mořský, ale ne plně vodní. Takže (c) všechny odpovědi správné.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-211",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Které z následujících tvrzení o obratlovcích je pravdivé?",
+    "options": {
+      "a": "Mají ochrannou lebku",
+      "b": "Všechny odpovědi jsou správné",
+      "c": "Mají složitý nervový systém",
+      "d": "Mají páteř"
+    },
+    "correct": "b",
+    "explanation": "Všechny tři popisují definující znaky obratlovců. (d) PÁTEŘ — eponymní znak: řada kloubně spojených OBRATLŮ tvořících páteřní sloup, který chrání míchu. Toto je jediná definující synapomorfie podkmene VERTEBRATA. Od sliznatek (rudimentární obratlovité elementy) po modré velryby (největší) sdílejí všichni obratlovci tento tělesný plán. (a) OCHRANNÁ LEBKA (kranium) — kostěná nebo chrupavčitá struktura obklopující mozek. Umožňuje bezpečně vyvíjet velké, složité mozky. Odlišuje obratlovce od ostatních strunatců (kopinatci, pláštěnci), kteří mají strunu hřbetní, ale ne lebku. (c) SLOŽITÝ NERVOVÝ SYSTÉM — centralizovaný MOZEK + MÍCHA + periferní nervy; bilaterálně symetrický tělesný plán; CEFALIZACE (koncentrace smyslových orgánů a nervové tkáně na předním konci). Umožňuje sofistikované chování, učení, smyslové zpracování — to, co dělá z obratlovců dominantní predátory ve většině ekosystémů. Další znaky obratlovců nad rámec této otázky: UZAVŘENÝ OBĚHOVÝ SYSTÉM s komorovým srdcem (2 komory u ryb, 3 u obojživelníků, 4 u ptáků/savců); ENDOSKELET z kosti nebo chrupavky (umožňuje růst bez svlékání); FARYNGEÁLNÍ ŠTĚRBINY / VAKY (žábry u vodních; vyvíjejí se v ušní/krční struktury u suchozemských); STRUNA HŘBETNÍ během vývoje (nahrazená páteří v dospělosti); POSTANÁLNÍ OCAS (různé projevy v dospělosti). Mořští obratlovci: ryby (bezčelistnaté, chrupavčité, kostnaté), plazi (mořské želvy, mořští hadi, mořští leguáni, krokodýl mořský), ptáci (tučňáci, mořští ptáci), savci (kytovci, ploutvonožci, sirény, vydry mořské).",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-212",
+    "area": "science_of_diving",
+    "subarea": "Prostředí — Mořský život",
+    "question": "Co jsou „Lorenziniho ampuly“?",
+    "options": {
+      "a": "Filtrační destičky",
+      "b": "Žahavá chapadla",
+      "c": "Smyslové orgány, které pomáhají chrupavčitým rybám lovit",
+      "d": "Složité nervové sítě"
+    },
+    "correct": "c",
+    "explanation": "LORENZINIHO AMPULY jsou ELEKTRORECEPTOROVÉ ORGÁNY — síť pórů naplněných želé kolem hlav chrupavčitých ryb (žraloků, rejnoků, rejnokovitých, chimér) — které detekují BIOELEKTRICKÁ POLE generovaná živými organismy. ANATOMIE + FUNKCE: viditelné jako malé černé tečky (póry) kolem žraločích čenichů a hlav rejnoků; každý pór je propojen kanálem naplněným želé se smyslovou bání (vlastní AMPULA), která je vyložena elektroreceptorovými buňkami; želé vede elektrická pole z okolní vody k receptorům. CITLIVOST JE MIMOŘÁDNÁ — žraloci dokáží detekovat elektrická pole slabá až 5 NANOVOLTŮ NA CENTIMETR (5×10⁻⁹ V/cm) — jako cítit tlukot srdce ryby z metru daleko. DETEKUJÍ: BIOELEKTRICKÉ SIGNÁLY ze stahů svalů kořisti, tlukotu srdce, pohybů žaber (umožňuje lov kořisti ZAHRABANÉ V PÍSKU, rejnoci to dělají běžně); ZEMSKÉ MAGNETICKÉ POLE pro navigaci na velké vzdálenosti u některých druhů; TEPLOTNÍ gradienty (citlivost 1 milikelvin). OBJEV: popsal Stefano LORENZINI v roce 1678, ale jejich funkce (elektrorecepce) nebyla pochopena až do 60. let 20. století. PROČ NA TOM ZÁLEŽÍ POTÁPĚČŮM: žraloci vás dokážou detekovat při nulové viditelnosti — vaše srdce bije, vaše žábry se hýbou, lehké svalové třesy vytvářejí detekovatelná pole. Potápěčské vybavení s kovem/bateriemi (kamery s blesky, potápěčské počítače, kovy automatik v mořské vodě) může občas vyvolat zvědavé prozkoumání. Žraločí odpuzovače (Sharkbanz, Shark Shield) fungují tak, že zaplaví ampuly silnými elektrickými impulzy, což způsobí, že se žralok odvrátí. (a) Filtrační destičky = kostice u velryb nebo žaberní hřebínky u ryb, něco zcela jiného. (b) Žahavá chapadla = žahavé buňky cnidarů (mssi-sod-198/199). (d) Nervové sítě = jednoduché decentralizované nervové systémy u cnidarů a několika dalších bezobratlých; ampuly jsou vysoce specializované orgány, ne nervová síť.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-213",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Plynové směsi",
+    "question": "Plyny s podílem kyslíku větším než 0,21 jsou:",
+    "options": {
+      "a": "Hyperoxické",
+      "b": "Normoxické",
+      "c": "HighOx",
+      "d": "Hypoxické"
+    },
+    "correct": "a",
+    "explanation": "Klasifikace plynů podle podílu kyslíku (FO₂), srovnávané s atmosférickým vzduchem (21 % O₂). HYPOXICKÉ: FO₂ < 0,21 — příklady zahrnují trimix pro hluboké ponory (např. 10/70 = 10 % O₂ + 70 % He + 20 % N₂); NELZE bezpečně dýchat na hladině (PpO₂ příliš nízký: 0,10 bar při 1 ATA způsobuje ztrátu vědomí); pouze cestovní/dnový plyn v hloubkách, kde tlak zvedne PpO₂ nad ~0,18 bar minimum. NORMOXICKÉ: FO₂ ≈ 0,21 — samotný vzduch; „normoxický trimix“ (např. 21/35 = 21 % O₂ + 35 % He + 44 % N₂, dýchatelný na hladině). HYPEROXICKÉ: FO₂ > 0,21 — NITROXOVÉ směsi (EAN32, EAN36, EAN40, EAN50, EAN80) a čistý O₂ (100 %). Etymologie: HYPO- (řec. „pod“) / NORMO- (normální) / HYPER- („nad“) + -OXICKÝ. PROČ NA ROZLIŠENÍ ZÁLEŽÍ: HYPOXICKÉ směsi jsou nedýchatelné u hladiny, musí se přepnout hlouběji. HYPEROXICKÉ směsi prodlužují NDL snížením zatížení inertním plynem, ale mají MAXIMÁLNÍ PROVOZNÍ HLOUBKU (MOD) určenou limitem PpO₂ (1,4 bar pracovní / 1,6 bar pouze nouzový): EAN32 MOD ~33 m při 1,4; EAN36 ~28 m; EAN40 ~22 m; čistý O₂ ~6 m. PŘEKROČENÍ MOD riskuje CNS OTRAVU KYSLÍKEM — křeče pod vodou = utonutí, ultimátní nezvratná chyba. Kontext lekce 3.5: nomenklatura plynových směsí ukotvuje teorii nitroxu (mssi-sod-127..133), výpočty MOD a fyziku parciálních tlaků, která řídí technické a rekreační nitroxové potápění. (b) NORMOXICKÉ = 21 %, stejné jako vzduch. (c) „HighOx“ není uznávaný termín. (d) HYPOXICKÉ = MÉNĚ kyslíku než vzduch, opačný směr.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-214",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Plynové směsi",
+    "question": "Známky a příznaky CNS otravy kyslíkem zahrnují:",
+    "options": {
+      "a": "Křeče a záškuby",
+      "b": "Třešňově červené rty a kašel",
+      "c": "Necitlivost a brnění",
+      "d": "Kašel a pálivý pocit v plicích"
+    },
+    "correct": "a",
+    "explanation": "CNS OTRAVA KYSLÍKEM (Paul Bertův efekt) je vyvolána, když PpO₂ překročí ~1,4–1,6 bar (pracovní / nouzové limity) na příliš dlouho → hyperexcitabilita CNS → záchvat. Klasická mnemotechnická pomůcka VENTID-C: V Vision (změny zraku — tunelové vidění); E Ear (změny sluchu — tinnitus); N Nausea (nevolnost); T Twitching (ZÁŠKUBY, často nejprve obličejové / rty — „škubání rtů“); I Irritability (podrážděnost); D Dizziness (závrať); C Convulsions (KŘEČE — grand mal záchvat — nejnebezpečnější, často udeří bez varovného prodromu). Fáze KŘEČÍ je katastrofickým stadiem: potápěč ztratí automatiku → utopí se. Zotavení z křečí v hloubce je zřídka přežitelné bez parťáka, který dokáže udržet automatiku na místě, dokud postiktální fáze nepomine (pak pomalý výstup). PREVENCE: respektovat limity MOD, zaznamenávat % CNS hodin (kumulativní procento expozice CNS na základě PpO₂ × čas), držet PpO₂ ≤ 1,4 bar pracovní / ≤ 1,6 bar pouze nouzový. Nikdy nedýchat bohatý nitrox pod jeho MOD ani krátce. INDIVIDUÁLNÍ VARIABILITA je obrovská — stejná osoba může dostat křeče jeden den při 1,3 bar a snášet 1,6 bar druhý den; retence CO₂, námaha, ponoření, chlad — to vše snižuje práh. (b) TŘEŠŇOVĚ ČERVENÉ RTY = známka OTRAVY CO (jasně červená barva karboxyhemoglobinu). (c) Necitlivost / brnění má mnoho příčin (DCS, hyperventilace, neuropraxie, hypoglykémie) — není specifické pro otravu O₂. (d) Kašel + pálení plic = PLICNÍ OTRAVA O₂ (Lorrain Smithův efekt), jiný systém, pomalu nastupující v průběhu dnů trvalého vysokého PpO₂; sledován pomocí OTU (jednotky tolerance kyslíku), postihuje technické / saturační potápěče více než rekreační.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-215",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Plynové směsi",
+    "question": "Histotoxická hypoxie nastává, když:",
+    "options": {
+      "a": "Toxické látky způsobují problémy s funkcí červených krvinek",
+      "b": "Okysličená krev se nemůže dostat ke tkáním a orgánům",
+      "c": "Tělo nedokáže absorbovat dostatek kyslíku ze vzduchu",
+      "d": "Nízká hladina hemoglobinu zabraňuje vázání kyslíku na červené krvinky"
+    },
+    "correct": "a",
+    "explanation": "⚠️ POTŘEBUJE OVĚŘENÍ — mySSI hodnotí (a) jako správné, ale striktní lékařsko-fyziologická definice histotoxické hypoxie popisuje jiný mechanismus. Čtyři klasické typy hypoxie: (1) HYPOXICKÁ HYPOXIE — nedostatek O₂ ve vdechovaném plynu (nadmořská výška, utonutí, hypoxická směs u hladiny). (2) ANEMICKÁ HYPOXIE — nedostatek nebo dysfunkce HEMOGLOBINU pro přenos O₂ (anémie, ztráta krve, OTRAVA CO, kde oxid uhelnatý váže Hb 250× pevněji než O₂). (3) STAGNAČNÍ / OBĚHOVÁ HYPOXIE — nedostatečný PRŮTOK krve do tkání (šok, srdeční selhání, ischemie). (4) HISTOTOXICKÁ HYPOXIE — TKÁNĚ / BUŇKY NEDOKÁŽÍ POUŽÍT kyslík, i když je dodáván. Způsobená buněčnými toxiny jako CYANID, sirovodík, azid sodný, které blokují MITOCHONDRIÁLNÍ ELEKTRONOVÝ TRANSPORT (konkrétně cytochrom c oxidázu / komplex IV). Buněčné dýchání se zastaví navzdory normálnímu PaO₂ a normálnímu Hb. Etymologie: HISTO- (tkáň) + TOXICKÝ = „otravující tkáně“ — toxin působí na úrovni tkáně/buňky, NIKOLI na úrovni červených krvinek. Formulace v možnosti (a) od mySSI — „toxické látky způsobují problémy s funkcí červených krvinek“ — ve skutečnosti přesněji popisuje ANEMICKOU HYPOXII (otrava CO je klasický potápěčsky relevantní případ ovlivňující funkci červených krvinek). Učebnicová histotoxická odpověď by se blížila „tkáně nedokáží využít dodaný kyslík kvůli buněčné otravě (cyanid atd.)“. Jdu s hodnocením mySSI, protože to je to, co testuje zkouška, ale uvědomte si, že lékařsky přesná definice se liší. Pokud uvidíte tuto otázku v kontextu DAN nebo učebnice potápěčské medicíny, očekávejte odpověď s blokádou buněčného využití. (b) STAGNAČNÍ hypoxie. (c) HYPOXICKÁ hypoxie. (d) ANEMICKÁ hypoxie.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-216",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Plynové směsi",
+    "question": "Jaký stav je způsoben zvýšenou expozicí zvýšeným hladinám parciálního tlaku kyslíku?",
+    "options": {
+      "a": "Otrava kyslíkem",
+      "b": "Dusíková narkóza",
+      "c": "Dekompresní onemocnění",
+      "d": "Hyperkapnie"
+    },
+    "correct": "a",
+    "explanation": "OTRAVA KYSLÍKEM — viz mssi-sod-214 pro kompletní rozbor. Dvě formy: (1) CNS / CENTRÁLNÍ OTRAVA KYSLÍKEM (Paul Bertův efekt) — akutní, vyvolaná PpO₂ překračujícím ~1,4–1,6 bar; příznaky VENTID-C (zrak, sluch, nevolnost, záškuby, podrážděnost, závrať, křeče); křeče pod vodou = utonutí; toto je limitující faktor, který určuje MOD pro nitroxové/trimixové ponory. (2) PLICNÍ / CELOTĚLESNÁ OTRAVA KYSLÍKEM (Lorrain Smithův efekt) — pomalu nastupující v průběhu dnů trvalého středně vysokého PpO₂; příznaky kašel, pálení v hrudi, snížená vitální kapacita; sledována pomocí OTU (jednotky tolerance kyslíku), postihuje technické / saturační / hyperbarická-medicínské pacienty více než rekreační. PREVENCE: respektovat MOD (max 1,4 bar pracovní / 1,6 nouzový), sledovat CNS hodiny a OTU při vícedenních ponorech, nikdy nedýchat bohatý nitrox pod jeho MOD. (b) DUSÍKOVÁ NARKÓZA pochází ze zvýšeného PpN₂, ne O₂. (c) DEKOMPRESNÍ ONEMOCNĚNÍ je z příliš rychlého odsávání rozpuštěného inertního plynu při výstupu (převážně bublinky N₂), ne z vysokého PpO₂. (d) HYPERKAPNIE je retence CO₂ — samostatný problém toxicity plynu (mssi-sod-078).",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-217",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Plynové směsi",
+    "question": "Jak může přerušované dýchání způsobit hypoxii?",
+    "options": {
+      "a": "Umožňuje, aby hladiny kyslíku klesaly a hladiny oxidu uhličitého stoupaly",
+      "b": "Snižuje objem krve",
+      "c": "Umožňuje, aby hladiny oxidu uhličitého klesaly a hladiny kyslíku stoupaly",
+      "d": "Zvyšuje CNS otravu kyslíkem"
+    },
+    "correct": "a",
+    "explanation": "PŘERUŠOVANÉ DÝCHÁNÍ je špatný zvyk, který si někteří potápěči vyvinou, aby „šetřili plyn“ vkládáním pauz mezi nádechy nebo krátkým zadržením dechu mezi nádechem a výdechem. NEŠETŘÍ to plyn a je to nebezpečné. FYZIOLOGIE BĚHEM PAUZY: metabolismus pokračuje — buňky spotřebovávají O₂ a produkují CO₂ normální rychlostí; CO₂ SE HROMADÍ v krvi → hyperkapnie → respirační acidóza → BOLEST HLAVY, dušnost, narkóze podobné účinky, případná PANIKA; HLADINY O₂ KLESAJÍ v plicích a krvi → mírná hypoxie (horší ve výšce nebo při hlubších ponorech). Potápěč se cítí stále hůř, pak nakonec dýchá VÍCE → SAC míra nakonec STOUPÁ, ne klesá. SPRÁVNÝ VZOREC: pomalé, hluboké, rytmické dýchání — dlouhé výdechy (delší než nádechy, např. 3 s nádech, 5 s výdech), plné využití objemu plic pro mobilizaci vzduchu z mrtvého prostoru, kontinuální tok, NIKDY nezadržovat dech. Výsledek: nižší SAC A žádné hromadění CO₂ A žádná panika. PROČ JE TO NEBEZPEČNĚJŠÍ NEŽ JEN NEPŘÍJEMNÉ: (1) Hyperkapnie POTENCUJE dusíkovou narkózu v hloubce (může proměnit snesitelný 30 m ponor v těžkou narkózu); (2) Zvýšený CO₂ predisponuje k CNS otravě kyslíkem (snižuje práh záchvatu); (3) Nakonec vede k dyspnoi / panice, která může kaskádovat v nekontrolovaný výstup. (b) Přerušované dýchání nesnižuje objem krve. (c) OPAK — přerušované dýchání ZVYŠUJE CO₂ a SNIŽUJE O₂. (d) Přerušované dýchání ve skutečnosti zvyšuje riziko narkózy přes hyperkapnii, ale přímo nezpůsobuje CNS otravu O₂ (i když hyperkapnie snižuje práh otravy).",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-218",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Plynové směsi",
+    "question": "Známky a příznaky hypoxie zahrnují:",
+    "options": {
+      "a": "Plazivý pocit",
+      "b": "Cyanózu",
+      "c": "Necitlivost",
+      "d": "Všechny odpovědi jsou správné"
+    },
+    "correct": "d",
+    "explanation": "Všechny tři jsou skutečné známky HYPOXIE (nízký O₂ v krvi/tkáních). (a) PLAZIVÝ POCIT / PARESTEZIE — „mravenčení“, brnění na kůži, zejména na končetinách; z dysfunkce periferních nervů, jak klesá dostupnost O₂. (b) CYANÓZA — modrofialové zbarvení rtů, konečků prstů, sliznic. Klasická POZDNÍ známka — nastane, když je deoxygenovaný hemoglobin >5 g/dl v kapilárách. Viditelná cyanóza = významná hypoxie (SpO₂ obvykle <85 %, než je patrná). (c) NECITLIVOST — ztráta citu v končetinách; mozek nedostává dostatek O₂ k udržení normální funkce nervů. DALŠÍ ZNÁMKY HYPOXIE neuvedené v otázce: BOLEST HLAVY (časná); ZMATENOST / ZHORŠENÉ ÚSUDKY (zákeřné — potápěč si neuvědomuje, že je narušený); ZRAKOVÉ PORUCHY (tunelové vidění, ztmavnutí); EUFORIE („šťastná hypoxie“) — obzvlášť nebezpečná, protože potápěč se cítí DOBŘE; TACHYPNOE + TACHYKARDIE (kompenzační); ZTRÁTA VĚDOMÍ v těžkém stadiu; ZÁSTAVA SRDCE v extrému. POTÁPĚČSKÝ KONTEXT: MĚLKOVODNÍ BLACKOUT u freediverů = hypoxie na konci dlouhého výstupu se zadrženým dechem (PpO₂ klesá, jak klesá okolní tlak) = nevědomý potápěč, který vypadá klidně. Proč sólo freediving = sólo umírání. OTRAVA CO z kontaminované náplně produkuje hypoxii vázáním Hb. HYPOXICKÁ SMĚS u hladiny (chyba technického potápění) udeří během sekund. Zákeřná „šťastná hypoxie“ činí hypoxii jedinečně nebezpečnou — než si všimnete, že něco není v pořádku, je úsudek již narušen a rozhodnutí jsou špatná.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-219",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Plynové směsi",
+    "question": "Nedostatek kyslíku v těle může způsobit:",
+    "options": {
+      "a": "Všechny odpovědi jsou správné",
+      "b": "Asfyxii a smrt",
+      "c": "Narušení metabolických funkcí",
+      "d": "Bezvědomí"
+    },
+    "correct": "a",
+    "explanation": "Těžká hypoxie produkuje kaskádu selhání, všechna uvedená. (b) ASFYXIE A SMRT — v extrému. Mozek nezvratné poškození při ~4–6 minutách bez O₂. Srdeční sval následuje. Utonutí, těžká otrava CO, dušení, incidenty s hypoxickou směsí u hladiny jsou potápěčsky relevantní cesty. (c) NARUŠENÍ METABOLICKÝCH FUNKCÍ — buňky potřebují O₂ pro AEROBNÍ DÝCHÁNÍ (elektronový transportní řetězec v mitochondriích → produkce ATP, ~36 ATP na glukózu). Bez dostatku O₂ se buňky přepnou na ANAEROBNÍ GLYKOLÝZU → pouze ~2 ATP na glukózu + odpadní kyselina mléčná → metabolická acidóza → dysfunkce tkání. Udržitelné maximálně několik minut, než dojde k buněčnému poškození. (d) BEZVĚDOMÍ — MOZEK spotřebovává ~20 % O₂ těla, přestože tvoří pouze 2 % hmotnosti těla; zdaleka nejcitlivější orgán na O₂. Pokles PaO₂ způsobí ztrátu vědomí během sekund — 10–20 s při náhlém zastavení, déle při postupné hypoxii. POŘADÍ SELHÁNÍ ORGÁNŮ při zhoršení nedostatku O₂: (1) MOZEK první (ztráta vědomí za 10–20 s úplného zastavení; buněčné poškození za 4–6 min; trvalé poškození za 6–10 min — základ „5minutového okna“ KPR). (2) SRDCE — ischemie myokardu, arytmie, případná asystolie. (3) DALŠÍ ORGÁNY (ledviny, játra) tolerantnější, selhávají při delší trvání. POTÁPĚČSKÝ KONTEXT: mělkovodní blackout (hypoxie freediverů při výstupu), otrava CO z kontaminované náplně, hypoxická směs u hladiny (chyba technického potápění), utonutí (voda v plicích = žádný příjem O₂) — všechny mohou produkovat tuto smrtící kaskádu.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-220",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Plynové směsi",
+    "question": "Jak může hyperventilace způsobit hypoxii?",
+    "options": {
+      "a": "Snižuje hladiny hemoglobinu",
+      "b": "Snižuje hladiny oxidu uhelnatého v krvi",
+      "c": "Masivně zvyšuje množství kyslíku, které potápěč vdechuje",
+      "d": "Způsobuje nerovnováhu mezi příjmem kyslíku a hladinami oxidu uhličitého"
+    },
+    "correct": "d",
+    "explanation": "Toto je klasický mechanismus FREEDIVINGOVÉHO MĚLKOVODNÍHO BLACKOUTU. SEKVENCE: (1) Předponořová HYPERVENTILACE — potápěč dýchá hluboce a rychle v naději, že „naloží kyslík“ (mýtus — krevní Hb je již nasycený na hladině moře, nelze ho předem nahromadit více). (2) ÚČINEK: CO₂ je vyfouknut → HYPOKAPNIE (nízký CO₂); hladiny O₂ se sotva změní. (3) Potápěč sestoupí, zadrží dech; metabolismus pokračuje. (4) Jak metabolismus postupuje, CO₂ se znovu hromadí A O₂ klesá. (5) Normálně rostoucí CO₂ spouští naléhavou potřebu nadechnout se — ale začínají z uměle NÍZKÉHO CO₂, spouštěč nutkání k dýchání je ZPOŽDĚN daleko za bezpečné hladiny O₂. (6) Při VÝSTUPU klesá okolní tlak, PpO₂ v plicích klesá dále → O₂ KLESNE POD PRÁH VĚDOMÍ DŘÍVE, NEŽ UDEŘÍ NUTKÁNÍ K DÝCHÁNÍ → MĚLKOVODNÍ BLACKOUT (často během několika metrů od hladiny). (7) Nevědomý potápěč pod vodou se utopí, pokud nebude zachráněn vyškoleným parťákem. „NEROVNOVÁHA MEZI PŘÍJMEM O₂ A HLADINAMI CO₂“ (d) přesně toto popisuje: tělesný přirozený poplašný systém (CO₂-řízené nutkání k dýchání) je ZTLUMEN, zatímco O₂ skutečně klesá nebezpečně. Proto NIKDY nehyperventilovat před freedivingem, VŽDY se potápět s vyškoleným parťákem, který může zachránit. Moderní freedivingový výcvik výslovně zakazuje hyperventilaci. (a) Hyperventilace nesnižuje hladiny Hb. (b) Hyperventilace významně neovlivňuje hladiny CO. (c) Nelze masivně zvýšit vdechovaný O₂ silnějším dýcháním — již nasycené.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-221",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Plynové směsi",
+    "question": "Minimální parciální tlak kyslíku potřebný k udržení života je:",
+    "options": {
+      "a": "1,40",
+      "b": "0,10",
+      "c": "0,21",
+      "d": "0,18"
+    },
+    "correct": "b",
+    "explanation": "Absolutní fyziologické minimum pro udržení vědomí / života je kolem 0,10 bar PpO₂ — pod touto hodnotou se arteriální saturace O₂ rychle hroutí a bezvědomí/smrt následuje během sekund až minut. PpO₂ MEZNÍKY PRO POTÁPĚČE: <0,10 bar = SMRTELNÁ HYPOXIE (okamžité bezvědomí, toto je odpověď na otázku); 0,16 bar = minimum udržitelné (významné poškození, tunelové vidění, narušený úsudek); 0,18 bar = PRAKTICKÉ BEZPEČNÉ MINIMUM (technický potápěčský standard pro cestovní/dnový plyn; pod tím byste úmyslně nenavrhovali dýchatelnou směs); 0,21 bar = vzduch na hladině moře (normoxická základní linie); 1,4 bar = doporučené PRACOVNÍ MAXIMUM (bezpečnostní standard CNS otravy pro nitrox/trimix); 1,6 bar = NOUZOVÉ MAXIMUM (pouze pro deko / nouzové použití); >1,6 bar = stupňující se riziko CNS otravy kyslíkem. PRAVIDLO NÁVRHU TECH POTÁPĚNÍ: hypoxické směsi musí být navrženy tak, aby PpO₂ ≥ 0,18 bar v NEJMĚLČÍ hloubce, kde budou dýchány — jinak máte „blackout zónu hloubky“, kterou nemůžete bezpečně projít. Rozdíl mezi 0,10 (absolutní práh přežití) a 0,18 (bezpečné provozní minimum) poskytuje rezervu, takže krátké selhání automatiky nebo náhodný výstup vás okamžitě nehodí do bezvědomí. (a) 1,40 bar je pracovní MAXIMUM pro bezpečnost CNS u nitroxu, ne minimum. (c) 0,21 bar je normální vzduch na hladině moře, ne minimum k přežití. (d) 0,18 bar je PROVOZNÍ bezpečné minimum (DIR / tech standard), ale technicky život může krátce přetrvat až do ~0,10 bar.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-222",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Plynové směsi",
+    "question": "Plyny s podílem kyslíku menším než 0,18 jsou:",
+    "options": {
+      "a": "Hyperoxické",
+      "b": "Hypoxické",
+      "c": "Normoxické",
+      "d": "Anoxické"
+    },
+    "correct": "b",
+    "explanation": "HYPOXICKÉ směsi mají FO₂ < 0,18 podle striktního tech potápěčského limitu používaného v této lekci 3.5. Pozn.: SSI používá v různých kontextech dva různé limity — mssi-sod-213 používá volnější definici „< 0,21“ (cokoli pod normálním vzduchem), zatímco tato otázka používá striktnější definici „< 0,18“ (práh nedýchatelnosti u hladiny). Obě definice se objevují v textech SSI. Limit 0,18 je PROVOZNĚ smysluplnější, protože tam selhává dýchatelnost u hladiny: při 1 ATA znamená FO₂ < 0,18, že PpO₂ < 0,18 bar, pod praktickým bezpečným minimem (mssi-sod-221). PŘÍKLADY HYPOXICKÝCH SMĚSÍ: trimix 10/70 = 10 % O₂ + 70 % He + 20 % N₂ (používaný pro velmi hluboké ponory, dýchatelný pouze v hloubce, kde tlak zvedá PpO₂); trimix 12/65 = 12 % O₂ používaný pro extrémní hloubky. TYTO SMĚSI MUSÍ BÝT PŘEPNUTY NAD JEJICH MINIMÁLNÍ HLOUBKOU (kde PpO₂ ≥ 0,18 bar minimum) — typicky CESTOVNÍM PLYNEM (často EAN32 nebo vzduch) pro horní část ponoru. Procesní chyba při přepnutí zpět na hypoxickou směs nad její bezpečnou hloubkou = bezvědomí během sekund. (a) HYPEROXICKÉ = nad 0,21 (nitrox, čistý O₂). (c) NORMOXICKÉ = ~0,21 (vzduch, normoxický trimix). (d) ANOXICKÉ = doslova NULA kyslíku, extrémnější než hypoxické; prakticky se v potápění jako kategorie nepoužívá (anoxickou směs byste nikdy nedýchali).",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-223",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Plynové směsi",
+    "question": "Hypoxemická hypoxie nastává, když:",
+    "options": {
+      "a": "Parciální tlak kyslíku v arteriální krvi je příliš nízký",
+      "b": "Nízká hladina hemoglobinu zabraňuje vázání kyslíku na červené krvinky",
+      "c": "Okysličená krev se nemůže dostat ke tkáním a orgánům",
+      "d": "Toxické látky způsobují problémy s funkcí červených krvinek"
+    },
+    "correct": "a",
+    "explanation": "⚠️ POTŘEBUJE OVĚŘENÍ — zaznamenávám lékařsky správnou odpověď (a). HYPOXEMICKÁ HYPOXIE doslova znamená „nízký kyslík v krvi“ (hypo + oxy + -emia = krev) a označuje NÍZKÝ PaO₂ (parciální tlak O₂ v ARTERIÁLNÍ KRVI). To je možnost (a). PŘÍČINY HYPOXEMICKÉ HYPOXIE: nízký FO₂ ve vdechovaném plynu (hypoxická směs dýchaná u hladiny, vysoká nadmořská výška); V/Q nepoměr v plicích (plicní onemocnění); difuzní defekty (plicní edém, fibróza); hypoventilace (lékově indukovaná, mechanický problém hrudní stěny). Potápěčsky relevantní scénáře: hypoxická směs u hladiny, utonutí (voda v plicích blokuje příjem O₂), těžký IPE. ČTYŘI KLASICKÉ TYPY HYPOXIE PŘESNĚ MAPUJÍ NA MOŽNOSTI: HYPOXEMICKÁ / HYPOXICKÁ = (a) nízký PaO₂; ANEMICKÁ = (b) dysfunkce Hb (otrava CO, anémie); STAGNAČNÍ / OBĚHOVÁ = (c) nedostatečný průtok krve; HISTOTOXICKÁ = (d) buněčný toxin (cyanid blokuje cytochromoxidázu) — i když mssi-sod-215 od SSI mapovala histotoxickou na „funkci červených krvinek“, což je ve skutečnosti anemické území. KONZISTENTNÍ LÉKAŘSKÁ TAXONOMIE: (a)=Hypoxemická, (b)=Anemická, (c)=Stagnační, (d)=Histotoxická. Uživatel zaznamenal nejistotu ohledně odpovědi (b) — učebnicová odpověď je jasně (a). Pokud mySSI skutečně hodnotí (b), jde o nekonzistenci formulací mySSI mezi Q215 (histotoxická mapovaná na červené krvinky) a správnou hypoxemickou definicí; označit jako zkouškovou zvláštnost k zapamatování podle mySSI versus standard potápěčské medicíny.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-224",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Plynové směsi",
+    "question": "Rekreační potápěči provádějící bezdekompresní ponory musí používat dýchací plyny s parciálním tlakem kyslíku:",
+    "options": {
+      "a": "Mezi 0,18 a 0,21",
+      "b": "Mezi 1,4 a 1,6",
+      "c": "Mezi 0,21 a 1,4",
+      "d": "Cokoli až do 1,6"
+    },
+    "correct": "c",
+    "explanation": "Rekreační bezdekompresní potápění vyžaduje, aby PpO₂ zůstal v bezpečném provozním okně: 0,21 bar (atmosférický vzduch, dolní hranice — rekreační potápěči nepoužívají hypoxické směsi) až 1,4 bar (pracovní bezpečnostní limit CNS otravy, horní hranice). Nad 1,4 bar je území POUZE NOUZOVÉ (1,6 bar maximum vyhrazeno pro nouzové/dekompresní scénáře v technickém potápění) — nikdy plánováno pro rekreační profily. Toto rozmezí řídí VÝPOČTY MOD pro nitroxové ponory: MOD (m) = (PpO₂_max / FO₂ − 1) × 10. EAN32: MOD = (1,4 / 0,32 − 1) × 10 = 33,75 m; EAN36: MOD = 28,9 m; EAN40: MOD = 25 m; EAN50 (deko plyn): MOD = 18 m; čistý O₂: MOD = 4 m. Rekreační potápěči potápějící se na vzduch zůstávají bezpečně pod PpO₂ 1,4, protože PpO₂ vzduchu při 60 m by byl stále jen 1,47 bar — ale rekreační hloubkový limit je stejně 40 m, takže vzduch = max ~1,05 PpO₂. Rozsah 0,21–1,4 je praktická obálka, kde každý rekreační certifikovaný nitroxový potápěč musí zůstat. (a) 0,18–0,21 je úzká hypoxicko-vzduchová zóna, příliš restriktivní (toto by zakázalo všechen nitrox). (b) 1,4–1,6 je pouze nouzové, žádný čas tam strávený dobrovolně. (d) „Až do 1,6“ umožňuje nouzovou hloubku, ne rekreační standard.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-225",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Plynové směsi",
+    "question": "Při jakém parciálním tlaku kyslíku může dojít k hypoxii?",
+    "options": {
+      "a": "0,21",
+      "b": "0,16",
+      "c": "1,60",
+      "d": "0,18"
+    },
+    "correct": "b",
+    "explanation": "Příznaky HYPOXIE typicky začínají při PpO₂ ≤ 0,16 bar — první známky jsou narušený úsudek, tunelové vidění, mírná euforie/zmatenost (nebezpečná „šťastná hypoxie“, kdy se potápěč cítí dobře, ale kognice je narušená). Pod tímto prahem začínají buňky mozku ztrácet využitelný O₂ pro normální metabolismus. ŠKÁLA HYPOXIE PpO₂: 0,21 bar = normální vzduch na hladině moře (plně okysličený, žádná hypoxie); 0,18 bar = PROVOZNÍ BEZPEČNÉ MINIMUM (těsně nad prahem hypoxie, používáno jako konstrukční dno v technickém potápění); 0,16 bar = NÁSTUP HYPOXIE — symptomatický; 0,10 bar = SMRTELNÉ minimum (okamžité bezvědomí, mssi-sod-221). Mezera mezi 0,18 (bezpečné minimum) a 0,16 (nástup hypoxie) je bezpečnostní rezerva zabudovaná do plánování plynů technického potápění. PROČ 0,16 ZÁLEŽÍ v praxi: incidenty s hypoxickou směsí u hladiny (technický potápěč náhodně dýchá 10/70 při 1 ATA → PpO₂ = 0,10, okamžité bezvědomí — ale varování začíná již při 0,16); potápění ve výškách (efektivní FO₂ ve výšce je snížený; vysokohorská letiště mohou potápěče vystavit riziku); freedivingový mělkovodní blackout (výstup snižuje PpO₂, jak klesá okolní tlak, může dosáhnout 0,16 těsně před hladinou). (a) 0,21 = normální vzduch, žádná hypoxie. (c) 1,6 = HYPEROXICKÉ rozmezí (riziko CNS otravy), zcela opačný směr. (d) 0,18 = přesně na prahu bezpečného minima, těsně nad nástupem hypoxie; SSI text používá 0,16 jako explicitní práh hypoxie.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-226",
+    "area": "science_of_diving",
+    "subarea": "Anatomie a fyziologie — Plynové směsi",
+    "question": "Při jakém parciálním tlaku kyslíku typicky dochází k toxicitě centrálního nervového systému?",
+    "options": {
+      "a": "Nižším než 0,18",
+      "b": "Vyšším než 1,60",
+      "c": "Nižším než 1,20",
+      "d": "Vyšším než 0,21"
+    },
+    "correct": "b",
+    "explanation": "CNS OTRAVA KYSLÍKEM (Paul Bertův efekt) se typicky projevuje při PpO₂ PŘEKRAČUJÍCÍM 1,6 bar — nouzové maximum, které by rekreační a techničtí potápěči nikdy neměli dobrovolně překročit. RIZIKOVÉ ZÓNY: 0,21–1,4 bar = rekreační bezpečné rozmezí; 1,4 bar = PRACOVNÍ MAXIMUM (plánovaná expozice zůstává na nebo pod tímto pro normální nitroxové/trimixové profily); 1,4–1,6 bar = NOUZOVÁ zóna (nouze / dekomprese / krátká odchylka od plánu, nikdy plánovaný čas na dně); >1,6 bar = VYSOKÉ RIZIKO, kde se CNS otrava typicky projevuje akutně s příznaky VENTID-C (zrak, sluch, nevolnost, záškuby, podrážděnost, závrať, KŘEČE — viz mssi-sod-214). Konzervativní pracovní limit 1,4 baru je nastaven hluboko pod 1,6, protože riziko CNS otravy roste NELINEÁRNĚ s PpO₂ × čas expozice, sledováno jako procento CNS HODIN (např. 1,6 bar = 100 % CNS hodin při 45 min expozici; 1,5 bar = 100 % při 120 min; 1,4 bar = 100 % při 150 min). INDIVIDUÁLNÍ VARIABILITA je obrovská — stejný potápěč může jeden den dostat křeče při 1,3 bar a snášet 1,6 bar druhý den (retence CO₂, námaha, ponoření, chlad — to vše snižuje práh záchvatu). REKREAČNÍ PROFILY: zřídka se přibližují k 1,4 (většina rekreačního potápění na vzduch při 30 m dává PpO₂ ~0,84; dokonce EAN40 při 25 m dává 1,4 — plánovaný MOD). TECHNICKÉ PROFILY: deko zastávky na 50% nitroxu při 21 m = PpO₂ 1,55 bar (v rámci 1,6 nouzového); 100% O₂ při 6 m = 1,6 bar (dekompresní standard). (a) <0,18 = HYPOXICKÉ rozmezí, opačný mechanismus. (c) <1,20 = v rámci bezpečného provozního rozmezí. (d) >0,21 = cokoli nad vzduchem by zahrnovalo celé bezpečné rozmezí, příliš inkluzivní.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  }
+]

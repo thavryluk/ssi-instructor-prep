@@ -1,0 +1,317 @@
+[
+  {
+    "id": "mssi-sod-147",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Instruments",
+    "question": "What is one advantage of wrist-mounted dive computers?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "They have a large strap that can be secured over a dry suit sleeve",
+      "c": "They are sleek and compact",
+      "d": "They are versatile and can be worn as a regular watch"
+    },
+    "correct": "a",
+    "explanation": "All three are real benefits of wrist-mounted dive computers. (b) LARGE ADJUSTABLE STRAP — fits over a drysuit sleeve, a 7 mm wetsuit cuff, or hooded undersuit. Most include strap extensions. Console-mounted computers (clipped to the SPG hose) don't have this option — they hang attached to the high-pressure hose. (c) SLEEK AND COMPACT — modern wrist computers are smaller than many sport watches (Shearwater Peregrine, Suunto Zoop Novo, Garmin Descent G1, Mares Smart). Reduce drag, don't snag on lines, easy to glance at without breaking trim. (d) WEARABLE AS A REGULAR WATCH — the Garmin Descent series, Shearwater Teric, Suunto D5, Suunto Eon Steel and similar are full-featured smartwatches when not diving — heart-rate monitoring, GPS, fitness/sleep tracking, smartphone notifications, daily-wear styling. The diver wears ONE watch all the time; ready for an unplanned dive without fishing through the gear bag. Other benefits not listed: view readout in any orientation (just look at the wrist — console-mount means turning your hand under to read); frees the right hand to manage the SPG/octo console separately; easy to share data with buddy or instructor by raising the arm.",
+    "source": "mySSI: SoD Lesson 4.8 Review"
+  },
+  {
+    "id": "mssi-sod-148",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Instruments",
+    "question": "Digital depth gauges are standard in all dive computers and include:",
+    "options": {
+      "a": "Current depth, maximum depth, and ascent rate",
+      "b": "Maximum depth and degree markings",
+      "c": "No answers are correct",
+      "d": "Current depth, maximum depth, and air temperature"
+    },
+    "correct": "a",
+    "explanation": "Standard depth-related readouts on every dive computer: (1) CURRENT DEPTH — real-time reading from the pressure transducer (piezoresistive sensor in contact with water, updates several times per second). (2) MAXIMUM DEPTH — the deepest point reached during the current dive, often shown alongside current depth ('MAX 28.4 m / NOW 18.2 m') so the diver knows the trigger depth for tissue loading. (3) ASCENT RATE — usually shown as a graphic bar (green/yellow/red), a numeric value (m/min), or both. Triggers an audible / visual ALARM when ascent rate exceeds the safe threshold — typically 9–10 m/min, with slower rates enforced in the last 10 m on more conservative algorithms (e.g., 6 m/min in the shallow stop zone on some Suunto / Shearwater profiles). Other depth-zone data typically shown alongside: average depth (for some logging algorithms), bottom time elapsed, NDL countdown, time to surface (TTS) including any required deco stops, the decompression ceiling once NDL is exceeded. (b) 'Degree markings' is a COMPASS feature, not depth. (c) Wrong — (a) is right. (d) AIR temperature isn't a typical readout — dive computers measure WATER temperature via a sensor in direct contact with water during the dive (some computers may also show surface 'air temperature' before submersion, but it's not the standard depth-gauge data triple).",
+    "source": "mySSI: SoD Lesson 4.8 Review"
+  },
+  {
+    "id": "mssi-sod-149",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Instruments",
+    "question": "Which of the following statements about nitrox dive computers is true?",
+    "options": {
+      "a": "Nitrox computers calculate data based on increased oxygen levels",
+      "b": "Nitrox computers can be used for air dives",
+      "c": "All answers are correct",
+      "d": "Most standard dive computers are nitrox-capable"
+    },
+    "correct": "c",
+    "explanation": "All three describe modern dive-computer reality. (a) NITROX COMPUTERS CALCULATE BASED ON FO₂ — set the actual blend (32%, 36%, or other) and the algorithm: adjusts NDL (richer mix = less N₂ loaded → longer NDL at depth); tracks CNS OXYGEN TOXICITY % (cumulative based on PpO₂ × time exposure); tracks OTU (Oxygen Tolerance Units) for pulmonary toxicity across multi-day diving; calculates MOD alerts based on PpO₂ limits (1.4 working / 1.6 contingency); modern computers also track gas switching between two or more nitrox blends mid-dive (recreational AI computers and tech computers like Shearwater Petrel). (b) USED FOR AIR DIVES — just set FO₂ = 21% (or 'Air' mode). The same algorithm handles air as a special case (regular nitrox = 21%/79%). (d) MOST STANDARD DIVE COMPUTERS ARE NITROX-CAPABLE — by ~2010 onward essentially every entry-level recreational computer ships with nitrox support out of the box: Suunto Zoop Novo, Mares Puck, Cressi Leonardo, Shearwater Peregrine, Garmin Descent G1, Aqualung i100/i200/i300/i330. Older 1990s computers (e.g., original Mk1 Aladin) were sometimes air-only — those are mostly retired or used as backup gauges.",
+    "source": "mySSI: SoD Lesson 4.8 Review"
+  },
+  {
+    "id": "mssi-sod-150",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Instruments",
+    "question": "A submersible pressure gauge is connected to the:",
+    "options": {
+      "a": "Power inflator",
+      "b": "Regulator's high-pressure port",
+      "c": "Bourdon tube",
+      "d": "Regulator's low-pressure port"
+    },
+    "correct": "b",
+    "explanation": "The Submersible Pressure Gauge (SPG) connects to the HIGH-PRESSURE (HP) port on the regulator's 1st stage. Why HP not LP: (1) the SPG must read the ACTUAL cylinder pressure (200–300 bar / 3000–4500 psi) directly to show 'how much gas is left in the tank'. LP gas has already been reduced to ~9–10 bar above ambient and is useless for tank-contents reading. (2) The HP port has a small flow-restriction orifice built into the regulator port; if the HP hose ever ruptures, gas is limited to a leak rate that gives the diver time to surface — full cylinder pressure can't dump through a 7/16\" orifice instantly. (3) Inside the SPG body is typically a BOURDON TUBE — a curved hollow brass tube that uncurls slightly as internal pressure rises, mechanically rotating a needle through gears (the option (c) trap: Bourdon tube is INSIDE the SPG mechanism, not what it connects TO). Modern digital SPGs replace the Bourdon tube with a piezoresistive transducer but still connect to the HP port. Port identification: HP ports on a 1st stage are labeled 'HP' and have 7/16-inch UNF threading (different from LP's 3/8-inch UNF) so you physically can't cross-connect. WIRELESS AIR-INTEGRATED TRANSMITTERS (Suunto Tank POD, Shearwater Swift, Garmin Descent T2) also screw into the same HP port and broadcast pressure to the wrist computer via low-frequency RF — replacing the analog hose + SPG combo. (a) Power inflator = LP. (d) LP port = 2nd stages, BCD inflator, drysuit inflator — pressure too low to read tank contents.",
+    "source": "mySSI: SoD Lesson 4.8 Review"
+  },
+  {
+    "id": "mssi-sod-151",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Instruments",
+    "question": "How does a gas-integrated dive computer help divers manage their gas?",
+    "options": {
+      "a": "By automatically adjusting the diver's breathing rate",
+      "b": "By storing historical data about the temperature of the dive",
+      "c": "By monitoring and displaying the remaining gas supply in real-time",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "Air-integrated (also GAS-INTEGRATED, AI) computers track cylinder pressure in real time and display it alongside depth/NDL data on the wrist or console screen. Implementation: HP TRANSDUCER — either an HP hose connected to the 1st stage HP port, or more commonly a WIRELESS TRANSMITTER (Suunto Tank POD, Shearwater Swift, Garmin Descent T2, Atomic Cobalt) that screws into the HP port and broadcasts pressure via low-frequency RF (typically ~38 kHz, range a few meters). Display: current cylinder pressure (e.g., 142 bar) shown alongside depth, NDL, time. KILLER FEATURE — GAS TIME REMAINING (GTR / RGT): the computer measures the diver's current SAC rate (gas consumption at depth) and extrapolates 'how many minutes of gas remain at current depth + current consumption rate'. Far more useful than just bar/psi alone, because it answers the actual operational question. MULTI-CYLINDER tracking on modern AI (Shearwater Perdix, Petrel, Teric; Garmin Descent Mk2/Mk3): 2+ transmitters simultaneously for sidemount L/R, primary + deco bottle, doubles + stage — per-cylinder pressure and per-cylinder GTR. LOGGING: every dive's pressure profile stored for post-dive SAC analysis and trend tracking. Cautions: wireless can drop signal (interference, distance, body blocking); a backup analog SPG is best practice on critical dives. Transmitter battery 1–2 years. (a) Computer can't adjust the diver's breathing — that's the diver's discipline. (b) Temperature logging is historical data, not gas management. (d) Only (c) is actual gas management.",
+    "source": "mySSI: SoD Lesson 4.8 Review"
+  },
+  {
+    "id": "mssi-sod-152",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Accessories",
+    "question": "To prevent environmental damage, what must divers avoid when using a reef hook?",
+    "options": {
+      "a": "Attaching to debris",
+      "b": "Using nylon lines",
+      "c": "Using stainless steel snaps",
+      "d": "Attaching to live corals"
+    },
+    "correct": "d",
+    "explanation": "The cardinal rule of reef-hook use: NEVER HOOK INTO LIVE CORAL. Background: a REEF HOOK is a stainless-steel J-hook on a 1–2 m line, used at strong-current dive sites (Blue Corner Palau, Komodo Strait, Galapagos, Cocos Island, Tubbataha) so divers can hold position and watch pelagic action without finning constantly against current. Correct procedure: drift in, identify a DEAD substrate anchor point (bare rock, dead coral skeleton, sand-worn ledge, broken/dead coral debris), set the hook there, hold or clip the line to a BCD attachment, add a small amount of BCD gas to fly horizontally on a taut line behind the anchor. Release: unhook by lifting and unclipping carefully; never abandon hook + line on the reef. Why LIVE CORAL is forbidden: live coral is a colony of tiny polyps with calcium-carbonate skeletons that grow only mm to a few cm per year for stony species. A single hook strike can break off decades of growth, strip mucus and tissue, and open a path to infection or bleaching. Most reef-hook destinations are MARINE PROTECTED AREAS with substantial fines for coral damage. Other no-nos: dragging chain across coral as you settle, hooking sea fans (those are gorgonian animals, not anchors), letting the hook flail wildly when you unhook, abandoning gear on the reef. (a) DEAD substrate / broken coral debris is exactly the CORRECT anchor — fine to hook. (b) Nylon line is standard, no environmental issue. (c) Stainless steel snaps are durable, corrosion-resistant, and standard hook hardware.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-153",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Accessories",
+    "question": "A sealed delayed surface marker buoy is reliable because it:",
+    "options": {
+      "a": "Is made of lightweight material that floats even if punctured",
+      "b": "Maintains gas volume",
+      "c": "Has an integrated Global Positioning System module",
+      "d": "Includes an adjustable tether for changing ascent rates"
+    },
+    "correct": "b",
+    "explanation": "A SEALED (closed-bottom) Delayed Surface Marker Buoy keeps gas trapped inside once inflated, making it reliably stiff and visible at the surface. Mechanism: TOP END has a one-way OVER-PRESSURE RELIEF VALVE (OPRV) — vents excess gas during ascent (gas expands per Boyle's Law) without rupturing the buoy; gas can vent out, but water can't get in. BOTTOM END is completely SEALED — no opening. Inflation is via an oral inflator (duckbill valve, purge a regulator into it) or via an LP whip connector clipped to the BCD inflator; gas goes in but can't escape downward. Result: on the surface the buoy stays FULL and STIFF, stands tall, highly visible at distance — vital for boat pickup in chop / current / bad weather. Sealed dSMBs are mandatory on many deep / drift / decompression dives where reliable visibility for the boat is non-negotiable. Compare with OPEN-BOTTOM dSMBs (cheaper, simpler) — open at the bottom, inflated by inverting and injecting gas from an octo or oral, prone to leaking gas out the bottom if it tips or surge pushes water up; often droops or partially deflates on the surface; still widely used at recreational depth. (a) dSMBs are durable but a punctured one sinks — not magically self-floating. (c) GPS isn't a standard dSMB feature; some have RFID for personal tracking, not GPS. (d) The tether/spool is the ascent line, not a rate-adjustment mechanism.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-154",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Accessories",
+    "question": "Why should divers carry a cutting device?",
+    "options": {
+      "a": "To respond to underwater entanglements hazards",
+      "b": "To hunt underwater creatures more effectively",
+      "c": "To signal other divers through metal clanging",
+      "d": "To carve navigational markers into underwater rocks"
+    },
+    "correct": "a",
+    "explanation": "Cutting devices (knives, line cutters, EMT shears) are SAFETY EQUIPMENT for ENTANGLEMENT RESPONSE. Common entanglement hazards: MONOFILAMENT FISHING LINE (most common, nearly invisible until tangled); LOST 'GHOST' NETS draped on wrecks / reefs; ANCHOR / MOORING / DECOMPRESSION LINES wrapped accidentally; KELP that twists around in kelp-forest dives; CAVE or WRECK GUIDELINE that catches in a fin or strap. Cutter types: (1) Z-KNIFE / LINE CUTTER — small enclosed blade with a slot to feed line in, hooked safety blade — won't cut you, only line. (2) TRAUMA / EMT SHEARS — medical scissors, surprisingly effective on heavy monofilament and even thin nets. (3) STANDARD DIVE KNIFE — 3–5\" blade, serrated section for line + smooth section for general use. (4) TITANIUM folding pocket knife — corrosion-resistant. BEST PRACTICE: carry TWO cutters at different body positions (e.g., one on BCD chest D-ring, one on hip or arm) — if you're tangled by one arm, you need to reach a cutter with the OTHER. (b) Hunting underwater is illegal in most marine protected areas and is specialty / licensed activity; standard dive knives are not weapons. (c) Signaling = TANK BANGER or RATTLE STICK, not a knife (and clanging on the cylinder valve damages it). (d) NEVER carve into underwater environment — environmentally destructive, illegal in protected areas.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-155",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Accessories",
+    "question": "The surface marker buoy is used to communicate the diver's position to:",
+    "options": {
+      "a": "Their dive buddy",
+      "b": "Topside personnel and boats",
+      "c": "Pilots",
+      "d": "Other dive groups underwater"
+    },
+    "correct": "b",
+    "explanation": "The Surface Marker Buoy (SMB) is a SURFACE-VISIBLE float that marks the diver's location to TOPSIDE PERSONNEL and BOATS — bridging the visibility gap between an underwater diver and a topside boat. Two main use cases. (1) PRE-DEPLOYED SMB — clipped to the diver from descent, line played out from a reel/spool, buoy floats above on the surface throughout the dive. Used in current / drift dives, busy boat-traffic areas, when a tender boat needs to follow divers' position. (2) DELAYED SMB (dSMB) — kept stowed during the dive, deployed BEFORE ASCENT (typically at the safety stop) by inflating it from a regulator and letting the line spool out. Signals 'we're surfacing here in ~3 minutes' to the pickup boat. Standard practice on every drift dive. The whole point: divers underwater can't see the boat, and the boat can't see the divers — the SMB closes that loop. (a) Buddy is underwater with you, communicates with hand signals / lights. (c) Pilots are far too high to spot a 1.5 m buoy. (d) Other dive groups underwater can't see the surface clearly from depth.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-156",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Accessories",
+    "question": "What is the primary function of an electronic signaling device?",
+    "options": {
+      "a": "To provide navigation assistance",
+      "b": "To track a diver's movement underwater",
+      "c": "To transmit a distress signal",
+      "d": "To monitor water temperature"
+    },
+    "correct": "c",
+    "explanation": "Electronic signaling devices for divers exist primarily to TRANSMIT A DISTRESS SIGNAL when something goes wrong (lost at surface, drift carries diver away from boat, medical emergency). Categories: (1) PLB (Personal Locator Beacon) — 406 MHz satellite distress beacon using the Cospas-Sarsat system. Activate → polar satellite catches signal → relayed to a Mission Control Center → coast guard / SAR alerted with the diver's GPS position. Examples: ACR ResQLink, Ocean Signal PLB1, McMurdo FastFind. NO subscription needed for the basic PLB; register free with national authority (NOAA US, MCA UK). (2) SATELLITE MESSENGERS — two-way text-capable units like Garmin inReach Mini, Spot Gen4. Monthly subscription required; lets you text 'OK, picked me up' or send SOS with situational messaging. (3) VHF RADIO — float-rated handheld VHF (Nautilus Lifeline, Cobra HH150) for direct voice contact with boats within line-of-sight (~5–10 km on the surface). (4) STROBE / DIVE LIGHT SOS — visual signal at night, surface or upper water column. (5) UNDERWATER PINGERS — buddy tracking (tech/cave), not 'distress' per se. (a) Navigation = compass / GPS, different category. (b) Tracking = continuous logging (e.g., Garmin Descent dive GPS log), different. (d) Temperature = standard dive computer thermometer.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-157",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Accessories",
+    "question": "What is one disadvantage of using a personal locator beacon?",
+    "options": {
+      "a": "They cannot transmit signals underwater",
+      "b": "They have a limited depth rating without additional housing",
+      "c": "They are negatively buoyant without a canister",
+      "d": "They require a subscription for use"
+    },
+    "correct": "b",
+    "explanation": "Most PLBs are NOT pressure-rated to diving depths and need a separate waterproof canister. Typical PLB ingress-protection ratings: cheap PLBs at IPX7 (1 m for 30 min — fine for splash, useless beyond surface immersion); better PLBs at IPX8 with manufacturer-specified depth/duration combos (often 5–10 m for 1–24 hours). ACR ResQLink and Ocean Signal PLB1 are typically rated 5–10 m maximum — fine for surface use AFTER surfacing, not for carrying through a 30 m dive. For dive use the PLB must be carried inside a WATERPROOF CANISTER rated to the planned dive depth — examples: the now-discontinued Nautilus Lifeline GPS (purpose-built dive housing combining VHF + GPS); generic dive canisters rated to 100 m+ that hold a PLB stowed dry; or PLBs integrated into purpose-built dive housings. In an emergency the diver: surfaces (no transmitting underwater anyway — radio waves don't propagate through saltwater at meaningful power), pulls the PLB out of the canister, deploys the antenna, activates → 406 MHz signal beams up to satellites. (a) Inability to transmit underwater is true but a fundamental physics issue affecting EVERY radio-based device, not really a 'disadvantage' you can engineer around. (c) Buoyancy varies by model; not the primary practical issue. (d) Basic 406 MHz PLBs DON'T require a subscription (free national registration); only satellite messengers (Garmin inReach, Spot) need one — so this isn't universally true.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-158",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Accessories",
+    "question": "Why should divers carry multiple signaling devices?",
+    "options": {
+      "a": "Having multiple devices encourages faster underwater navigation",
+      "b": "Carrying more devices lessens the chance of losing any single one",
+      "c": "To be prepared for different emergency situations",
+      "d": "Device diversity helps divers maintain buoyancy control"
+    },
+    "correct": "c",
+    "explanation": "Different emergencies require different signals — no single device covers every scenario. SCENARIO MATRIX: (1) LOST AT SURFACE near boat → audible whistle, Dive Alert air-horn, SMB held high, signal mirror flash; (2) LOST AT SURFACE drifting far from boat → VHF radio, PLB satellite signal, dSMB held high in the air, smoke marker; (3) BUDDY ATTENTION underwater → tank banger, rattle stick, dive light SOS pattern; (4) DIVER IN DISTRESS underwater → reverse hand signals + tank banger urgent; (5) NIGHT DIVE — boat can't see you → strobe (white blink), chemical glowstick on cylinder; (6) LONG DRIFT / LOST AT SEA (worst case) → PLB activated, VHF distress, smoke flare. Each device has range, line-of-sight, and use-case constraints: whistle ~200 m in calm seas (useless in chop), mirror requires sun + boat looking your direction, SMB visible 1+ km but only if eyes are looking up, VHF line-of-sight ~5–10 km surface, PLB is global via satellite but takes minutes for SAR mobilization. Layered redundancy across categories means whatever situation you find yourself in, at least one tool fits. Standard rec kit: whistle + dSMB + Dive Alert. Drift / blue-water kit adds: PLB + mirror + strobe. Cave/wreck kit adds: spare mask + multiple lights + line markers. (a) Signaling has nothing to do with navigation. (b) Redundancy against loss is a SIDE benefit, not the primary reason — main point is scenario coverage. (d) Unrelated to buoyancy.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-159",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Accessories",
+    "question": "What is one disadvantage of diving with a surface marker buoy?",
+    "options": {
+      "a": "Entanglement on mooring lines and other buoys",
+      "b": "The buoy might attract dangerous marine animals.",
+      "c": "The buoy can corrode quickly in saltwater environments",
+      "d": "Weather changes can permanently alter the buoy's color"
+    },
+    "correct": "a",
+    "explanation": "ENTANGLEMENT is the primary practical hazard with SMBs. The trailing line from diver to surface buoy can wrap around: MOORING LINES of nearby boats (common in busy sites); other dive operators' SMB LINES (multiple groups in the same area, lines crossing); LOBSTER POT / FISHING LINES (coastal sites, especially in current); other anchor or descent lines; the DIVER'S OWN GEAR (fin straps, manifold valves, hose loops if the line goes slack and current pushes it). Worse: SPOOLS / REELS can BACKLASH if deployed sloppily, creating a 'rats' nest' mid-dive that you have to cut out with your line cutter. BOATS can also run over a deployed surface line and cut it (or worse, foul their prop). MITIGATIONS: keep TENSION on the line at all times — never slack; use a FINGER SPOOL (~30 m on a small disc) for shallow recreational, larger REEL with handle for deeper/longer; practice deployment in benign conditions before doing it on a working dive; stay aware of line position relative to diver and surroundings; carry TWO cutters (per mssi-sod-154); don't deploy below 6 m (line gets too long, harder to manage). (b) No evidence SMBs attract dangerous marine life — myth. (c) Modern dSMBs are durable Cordura/PVC, lifespan years not days. (d) UV does fade dSMB color over time but not a relevant operational disadvantage compared to entanglement.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-160",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Accessories",
+    "question": "Alpha flag indicates divers in the water and:",
+    "options": {
+      "a": "Depths beyond recreational limits",
+      "b": "The presence of dangerous marine life",
+      "c": "Limited vessel maneuverability",
+      "d": "Fishing is prohibited in the area"
+    },
+    "correct": "c",
+    "explanation": "The ALPHA (Alfa) flag — international maritime signal flag, blue and white, swallow-tailed — means: 'I have a diver down — keep clear at slow speed.' Per the INTERNATIONAL CODE OF SIGNALS / COLREGS: a vessel displaying flag A is signaling RESTRICTED MANEUVERABILITY because divers are physically tethered to the boat (on a tag-line, descent line, or returning under the hull). Other vessels must give way and pass at a safe distance and slow speed. This is the INTERNATIONAL standard used worldwide. Distinct from the 'DIVER DOWN' FLAG — red with a white diagonal stripe — used primarily in the US, Caribbean, and some Asian regions; not international maritime law but enforced by US state regulations and dive-industry convention. Many US-based dive boats display BOTH the Alpha and Diver Down flags so foreign and domestic vessels alike recognize divers in the water. Best practice for instructors abroad: know which flag is used in your jurisdiction and carry/display both when in doubt. (a) Alpha flag has no depth meaning — depth is a planning/computer matter. (b) Dangerous marine life uses no specific flag. (d) Fishing restrictions are marked by MPA boundary buoys, signage, or local regulation — not by Alpha.",
+    "source": "mySSI: SoD Lesson 4.9 Review"
+  },
+  {
+    "id": "mssi-sod-161",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "Why are remote seamounts and oceanic islands often great dive destinations?",
+    "options": {
+      "a": "They usually have healthy coral reefs and abundant marine life.",
+      "b": "Divers will always find sharks, rays, and turtles on every dive.",
+      "c": "They are far away from earthquake areas.",
+      "d": "Island reefs are protected from boat activity."
+    },
+    "correct": "a",
+    "explanation": "Remote seamounts and oceanic islands are world-class destinations because of converging factors that produce HEALTHY CORAL + ABUNDANT MARINE LIFE: (1) LESS HUMAN PRESSURE — far from population centers means less fishing pressure, less coastal pollution runoff, fewer divers per year, less anchor damage; reefs closer to natural state. (2) SEAMOUNT UPWELLING — submerged peaks force deep cold nutrient-rich water UP into the sunlit photic zone → plankton bloom → small-fish bloom → big-fish + pelagic aggregation. The seamount effect is why isolated peaks consistently produce world-class big-animal diving. (3) PELAGIC CROSSROADS — oceanic islands often sit along migration routes of sharks, mantas, tunas, billfish, whales; the reef becomes a cleaning station and aggregation site. (4) ENDEMISM — geographic isolation drives genetic divergence → species found nowhere else (Galapagos, Socorro, Cocos endemics). Iconic examples: Galapagos / Darwin & Wolf, Cocos Island, Socorro / Revillagigedo, Tubbataha, Coral Sea, Maldives outer atolls. (b) Overstated — even at world-class sites, big-animal sightings are statistical, not guaranteed; never promise students 'we'll see X.' (c) Many seamounts and oceanic islands ARE volcanic in origin and seismically active (Hawaiian chain, Galapagos hotspot, Socorro is an active above-water volcano). (d) Lower boat density yes, 'protected' no — many are also far from rescue assets, which is its own challenge.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-162",
+    "area": "science_of_diving",
+    "subarea": "Environment — Water Movement",
+    "question": "What happens when a wave reaches the surf zone?",
+    "options": {
+      "a": "The wave becomes a tidal bore and moves inland",
+      "b": "The wave completely stops moving forward",
+      "c": "The wave slows down, increases in height, and breaks",
+      "d": "The wave speeds up and continues moving offshore"
+    },
+    "correct": "c",
+    "explanation": "Classic WAVE SHOALING physics. (1) Deep water — wave speed is proportional to √(g·d) where d is depth, low amplitude relative to wavelength. (2) Approaching shore — depth decreases; wave 'feels' the bottom once depth < ½ wavelength. (3) Bottom friction SLOWS the wave. (4) Energy conservation — slowing wave compresses its energy into less space → wave HEIGHT INCREASES (the wave stands up). (5) Wavelength shortens — peaks bunch together, wave gets steeper. (6) Critical instability — when water depth ≈ 1.3× wave height, the crest can no longer be supported → wave BREAKS. Three break types: SPILLING (gradual, foamy, gentle slope — safest beach entries); PLUNGING (abrupt curl-and-crash, steep slope, powerful — surfers' favorite, divers' nightmare); SURGING (runs up a steep beach without curling, dumps water on shore). Diver strategy in the surf zone: time entries/exits between SETS (waves come in groups with calmer gaps); walk through with fins in hand until knee-deep, then put fins on and crouch low through breakers; exit by 'surfing the back' of a wave into shore on belly, fins on; avoid plunging breakers — they can rip masks off and slam you to the bottom. (a) TIDAL BORE is a different phenomenon — rising tide pushes a wave inland up a narrowing river/estuary channel (Severn, Qiantang, Amazon Pororoca). (b) Wave doesn't stop — energy transfers to the beach. (d) OPPOSITE of physics — waves slow approaching shore.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-163",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "The coastal region between high and low tide is also known as:",
+    "options": {
+      "a": "The surf zone",
+      "b": "The littoral zone",
+      "c": "The neritic zone",
+      "d": "The pelagic zone"
+    },
+    "correct": "b",
+    "explanation": "The LITTORAL ZONE (also called INTERTIDAL ZONE or 'foreshore') is the coastal strip between mean high water and mean low water marks — alternately EXPOSED to air at low tide and SUBMERGED at high tide. It's a high-stress habitat: extreme temperature swings, desiccation, wave pounding, salinity fluctuation. Specialized organisms thrive here: barnacles, limpets, mussels, sea stars, hermit crabs, anemones, periwinkles, lower-zone kelp. Subdivided into: SPLASH / SUPRALITTORAL (above high tide, only wetted by wave splash; lichens, periwinkles); HIGH INTERTIDAL (exposed long periods; barnacles, periwinkles, limpets); MID INTERTIDAL (alternating wet/dry; mussels, sea stars, anemones); LOW INTERTIDAL (exposed only at lowest tides; richer life, kelp, urchins, sea cucumbers). Other marine zones: (a) SURF ZONE = where waves break (function-defined by wave shoaling, not tide-defined); often overlaps the littoral but distinct concept. (c) NERITIC ZONE = water column above continental shelf, from low-tide line out to ~200 m depth (much BROADER than intertidal). (d) PELAGIC ZONE = open-ocean water column beyond the continental shelf — totally different ecological zone.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-164",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "Why are rocks and reefs important for coastlines?",
+    "options": {
+      "a": "They act as natural barriers that protect coastlines from erosion and wave damage",
+      "b": "They reduce ocean salinity and alter global currents",
+      "c": "They prevent too much marine life from settling in one area",
+      "d": "They block all tidal movement from reaching the shore"
+    },
+    "correct": "a",
+    "explanation": "Rocks and especially CORAL REEFS function as NATURAL BREAKWATERS that absorb wave energy before it reaches shore. (1) WAVE ENERGY DISSIPATION — waves break on the reef crest before reaching the shore; a healthy fringing reef can absorb 70–97% of incoming wave energy (well-documented for Caribbean coral reefs, Pacific atolls, Great Barrier Reef). (2) REDUCED WAVE HEIGHT — by the time water passes over a reef into the lagoon, wave height is a fraction of what hit the outer reef slope, protecting beaches and coastal infrastructure. (3) SEDIMENT TRAPPING — reefs slow water flow → sediment settles → builds up coastline rather than scouring it. (4) BEACH FORMATION — much of tropical beach sand is REEF-DERIVED (parrotfish-graze coral excretion, broken coral skeleton, foraminifera shells). No reef = no replacement sand → beach disappears over decades. (5) LAGOON PROTECTION — calm water behind reef supports seagrass beds and mangroves, which provide additional shoreline stabilization through root systems holding sediment. Real-world consequence: when coral reefs die (bleaching, ocean acidification, blast fishing, dredging), coastal communities see dramatically increased EROSION, STORM DAMAGE, and BEACH LOSS — a key driver behind reef-restoration projects in Maldives, Indonesia, Caribbean. Same logic for rocky shorelines: outcrops, basalt sills, glacial moraines all function as natural breakwaters. (b) Reefs don't reduce salinity (saltwater organisms themselves) and don't affect global currents at meaningful scale. (c) Opposite — reefs CREATE habitat, supporting ~25% of all marine species despite covering <1% of seafloor. (d) Reefs reduce WAVE energy but don't block TIDES (tides are gravitational, planetary scale, locally unaffected).",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-165",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "A knowledge of underwater terrain helps divers:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Understand marine habitats",
+      "c": "Navigate safely through waves and currents",
+      "d": "With dive planning"
+    },
+    "correct": "a",
+    "explanation": "Terrain awareness is central to all three diving disciplines. (b) UNDERSTAND MARINE HABITATS — terrain DICTATES ecology. Sand vs rock vs coral vs kelp vs muck = totally different species assemblages. Rocky reef = hard corals + reef fish; sandy bottom = rays, flatfish, garden eels; muck = critters, frogfish, octopus; kelp forest = garibaldi, sea otters, leopard sharks; wreck = colonization succession + hiding fish. Knowing substrate tells you what to expect, where to look, what's biologically interesting. (c) SAFE NAVIGATION through waves and currents — terrain creates water-movement patterns. HEADLANDS accelerate currents (water squeezing past); BAYS calm them; channel openings funnel current; WALLS create downcurrent on the lee side; SEAMOUNTS produce upwellings + boil zones; ledges create surge eddies. Knowing bottom topography tells you where surge will be strong, where eddies form, where to hide from current behind a rock. (d) DIVE PLANNING — terrain informs every plan element: entry/exit points, depth profile, route, navigation legs, expected gas consumption, safety-stop location, exit safe haven if conditions deteriorate. Before any unfamiliar site: study the site map, get a thorough briefing, ask the local divemaster about current direction, where to take shelter, where the deepest point is. (a) all correct.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-166",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "What pelagic species might divers see in the open ocean?",
+    "options": {
+      "a": "Sharks, dolphins, and whales",
+      "b": "Crabs, starfish, and corals",
+      "c": "Snails, barnacles, and oysters",
+      "d": "Sea turtles, walruses, and penguins"
+    },
+    "correct": "a",
+    "explanation": "PELAGIC = open-ocean water-column dwellers (Greek 'pelagos' = open sea). Opposed to BENTHIC = seafloor dwellers. Classic pelagic fauna: SHARKS (oceanic species — blue, silky, oceanic whitetip, mako, threshers, whale sharks); DOLPHINS (spinner, common, bottlenose offshore form, Risso's, false killer); WHALES — cetaceans, all marine mammals (humpback, sperm, fin, blue, minke, beaked whales); TUNAS and BILLFISH (yellowfin, bigeye, marlin, sailfish, swordfish — built for open-ocean speed); MANTAS and MOBULAS (large pelagic rays); MOLA MOLA (ocean sunfish, world's largest bony fish); PELAGIC JELLIES + SIPHONOPHORES (Portuguese man-o-war, salps, ctenophores); PELAGIC SQUID (Humboldt, deep-sea species). (b) Crabs, starfish, corals = BENTHIC (bottom-dwellers, attached or crawling on substrate). (c) Snails, barnacles, oysters = BENTHIC / LITTORAL (on rocks / substrate, often in the intertidal zone). (d) Mixed: sea turtles ARE pelagic-capable (cross oceans), but WALRUSES are coastal Arctic / sub-Arctic ice-edge mammals (Pacific walrus stays close to ice), and PENGUINS are coastal birds that come ashore to nest — the trio doesn't fit 'pelagic' cleanly. (a) is the clean classification.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  },
+  {
+    "id": "mssi-sod-167",
+    "area": "science_of_diving",
+    "subarea": "Environment — Dive Sites",
+    "question": "What is a key adaptation of deep-sea organisms?",
+    "options": {
+      "a": "Photosynthesis for energy production",
+      "b": "Thick fur to retain heat",
+      "c": "Large lungs for holding extra oxygen",
+      "d": "Bioluminescence for communication and predation"
+    },
+    "correct": "d",
+    "explanation": "BIOLUMINESCENCE is the defining adaptation of deep-sea life — about 75–90% of deep-sea organisms produce light, by far the highest concentration of bioluminescent species anywhere on Earth. WHY SO PREVALENT: below ~1000 m there's zero sunlight (the 'aphotic zone'); the only light comes from organisms themselves. Most deep-sea bioluminescence is BLUE-GREEN (~470–490 nm) — wavelengths that penetrate seawater best (evolutionary tuning, even where penetration is moot). Generated by the LUCIFERIN–LUCIFERASE chemical reaction (cold light, ~95% efficient — almost no heat waste). FUNCTIONS: (1) PREDATION LURES — anglerfish dangling its glowing esca on the illicium; deep-sea dragonfish 'red-light snipers' (the only deep-sea fish producing red — invisible to most prey). (2) COMMUNICATION / MATING — flash patterns to find conspecifics in vast darkness. (3) COUNTER-ILLUMINATION — bottom of organism produces light matching the dim downwelling light → hides silhouette from predators below (cookiecutter shark, hatchet fish, lanternfish). (4) BURGLAR ALARM — when grabbed, some organisms flash bright to attract a bigger predator that might attack the predator. (5) DECOY / SACRIFICE — some squid release glowing ink 'shadow' to confuse pursuers. (6) PREDATOR STARTLING — sudden bright flash buys escape time. (a) Photosynthesis impossible without sunlight (deep-sea hydrothermal vents host CHEMOSYNTHESIS instead — bacteria using H₂S as energy source, totally separate adaptation). (b) No fur on most deep-sea creatures (fish, invertebrates, cephalopods — no mammals at abyssal depths). (c) Lungs aren't fish anatomy; deep-sea fish often have reduced/absent swim bladders due to extreme pressure.",
+    "source": "mySSI: SoD Lesson 5.1 Review"
+  }
+]

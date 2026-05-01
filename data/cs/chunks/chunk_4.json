@@ -1,0 +1,572 @@
+[
+  {
+    "id": "mssi-sod-189",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "What organisms make up zooplankton?",
+    "options": {
+      "a": "Algae",
+      "b": "Protists like diatoms and dinoflagellates",
+      "c": "Archaea and bacteria",
+      "d": "Protozoa, eggs and larvae, and animals"
+    },
+    "correct": "d",
+    "explanation": "ZOOPLANKTON = animal plankton — heterotrophic drifters in the water column. Composition: (1) PROTOZOA — single-celled 'animals' (technically protists): radiolarians, foraminifera, ciliates, tintinnids. Tiny but staggeringly abundant. (2) EGGS AND LARVAE (called MEROPLANKTON because they're plankton only for part of their life): fish eggs and fry; crab/lobster zoea + megalopa larvae; mollusk veligers (snail/clam larvae); echinoderm bipinnaria/pluteus (sea star, urchin larvae); coral planula (free-swimming coral babies); polychaete trochophores. Most marine animals have planktonic larval stages — dispersal mechanism. (3) ANIMALS (HOLOPLANKTON, plankton for whole life): COPEPODS — most abundant animal on Earth (~10²¹ individuals); base of marine food webs above phytoplankton; KRILL (Euphausiids) — base of polar food chains, fed on by whales, fish, penguins; JELLYFISH, SALPS, CTENOPHORES — gelatinous zooplankton; CHAETOGNATHS (arrow worms) — predatory zooplankton; PTEROPODS ('sea butterflies') — planktonic snails; LARVACEANS that build mucous houses to filter food. (a) Algae = PHYTOPLANKTON (plant plankton), opposite category. (b) Diatoms + dinoflagellates = PHYTOPLANKTON (photosynthetic protists; some dinoflagellates are mixotrophic but classified as phyto). (c) Archaea + bacteria = BACTERIOPLANKTON / PICOPLANKTON, separate category.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-190",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Which of the following are key parts of a nutrient cycle?",
+    "options": {
+      "a": "Waste is consumed by detritivores and converted into usable nutrients",
+      "b": "All answers are correct",
+      "c": "Nutrients are excreted by organisms",
+      "d": "Nutrients are consumed by primary producers"
+    },
+    "correct": "b",
+    "explanation": "All three describe key stages of marine nutrient cycling. (a) DETRITIVORES BREAK DOWN WASTE / DEAD MATTER into reusable nutrients — bacteria, fungi, sea cucumbers, sand-dwelling worms, hagfish, scavenging crabs all decompose organic matter, MINERALIZING it back to inorganic nutrient forms (NH₄⁺ → NO₃⁻, phosphates, silicates) that producers can use again. (c) NUTRIENTS EXCRETED BY ORGANISMS — every animal excretes waste (urea, ammonia, feces, scales). These directly fertilize surrounding water; WHALE POOP for example is a major nutrient pump in surface waters (whales feed deep, surface to defecate, fertilizing phytoplankton blooms — known as the 'whale pump'). Fish gill ammonia excretion does the same on smaller scale. (d) NUTRIENTS CONSUMED BY PRIMARY PRODUCERS — phytoplankton uptake dissolved N, P, Si, Fe to fuel photosynthesis and cell building; this is where inorganic nutrients become organic biomass, restarting the cycle. FULL MARINE NUTRIENT CYCLE: producers fix nutrients (CO₂ + N + P + Fe → biomass) → consumers eat producers (transfer up food chain) → excretion + death + decomposition (nutrients return to dissolved form) → detritivores + bacteria mineralize (organic → inorganic) → available again for producers → cycle complete. CRITICAL LIMITING NUTRIENTS in the ocean: NITROGEN (most coastal waters), PHOSPHORUS (some tropical), IRON (open Pacific high-nutrient-low-chlorophyll regions). Iron limitation is why Saharan dust fertilizes Atlantic phytoplankton blooms.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-191",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Which species plays a critical role in maintaining the population structure of an ecosystem?",
+    "options": {
+      "a": "Keystone species",
+      "b": "Holdfast",
+      "c": "Symbiont",
+      "d": "Top predator"
+    },
+    "correct": "a",
+    "explanation": "A KEYSTONE SPECIES has DISPROPORTIONATELY LARGE impact on its ecosystem relative to its abundance. Term coined by ecologist Robert Paine in 1969 based on his work with the OCHRE SEA STAR (Pisaster ochraceus) on Pacific Northwest rocky shores — when he removed Pisaster, mussel monocultures took over and biodiversity collapsed. The 'keystone' name comes from architecture: the central wedge in a stone arch — remove it and the whole structure collapses. CLASSIC MARINE KEYSTONE EXAMPLES: SEA OTTERS (Pacific NW) eat sea urchins; without otters, urchins explode and overgraze kelp forests → 'urchin barrens'. Otter recovery has restored kelp ecosystems. PARROTFISH (Caribbean reefs) graze algae off coral; without them, algae overgrows coral and reefs degrade. SHARKS (reef ecosystems) provide top-down control on mid-trophic predators; in shark-depleted reefs, herbivore populations crash → algae takeover. SEA STARS (Pisaster, original example) prevent mussel monoculture by predation. Distinct concepts: (b) HOLDFAST = root-like attachment structure of kelp/seaweed to substrate, an anatomical feature, not a species. (c) SYMBIONT = partner in a symbiotic relationship (clownfish ↔ anemone, coral ↔ zooxanthellae); not necessarily ecosystem-critical. (d) TOP PREDATOR = at top of food web; many keystones ARE top predators (otters, sharks) but not all keystones are top predators (parrotfish are herbivores), and not all top predators are keystones — depends on whether their removal cascades through the system. Keystone is a function, top predator is a position.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-192",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "What is a food web?",
+    "options": {
+      "a": "A group of consumers",
+      "b": "A complex system of interconnecting food chains",
+      "c": "A sequence of animals from large to small",
+      "d": "A linear sequence demonstrating the flow and energy of nutrients"
+    },
+    "correct": "b",
+    "explanation": "A FOOD WEB is a complex NETWORK of INTERCONNECTED FOOD CHAINS showing all feeding relationships in an ecosystem. Compare with a FOOD CHAIN, which is a LINEAR sequence: phytoplankton → zooplankton → small fish → larger fish → shark. A food web is the REALITY: most organisms eat multiple species and are eaten by multiple predators, so multiple food chains tangle together into a network. Caribbean reef example: parrotfish eats algae + coral polyps + invertebrates → eaten by groupers + barracuda + sharks; barracuda also eats squid + smaller fish; algae also eaten by surgeonfish + urchins... web of arrows, not a single line. WHY FOOD WEBS MATTER: RESILIENCE — if one species crashes, alternative pathways exist for energy flow; CASCADING EFFECTS — removing one node ripples through the web (the basis of keystone-species concept, mssi-sod-191); TROPHIC LEVELS still apply (producers → herbivores → primary carnivores → top carnivores → decomposers) but most species span multiple levels (omnivores, ontogenetic shifts where juveniles eat differently than adults). (a) 'Group of consumers' is too vague and misses producers + decomposers. (c) Size doesn't define trophic position — mantis shrimp eat fish much larger than themselves; small parasites eat huge whales. (d) LINEAR SEQUENCE = food CHAIN, not web.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-193",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Phytoplankton is mainly comprised of:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Prokaryotes like bacteria and archaea",
+      "c": "Protists like diatoms and dinoflagellates",
+      "d": "Algae"
+    },
+    "correct": "a",
+    "explanation": "PHYTOPLANKTON = autotrophic drifting microorganisms — an UMBRELLA TERM that includes diverse photosynthetic groups, all three listed in (b–d). (b) PROKARYOTES — CYANOBACTERIA: PROCHLOROCOCCUS (smallest and most abundant photosynthetic organism on Earth, ~10²⁷ cells) and SYNECHOCOCCUS together produce a major fraction of marine primary production; TRICHODESMIUM is a nitrogen-fixing cyanobacterium that blooms 'red tide'-like in tropical seas (red color gave the Red Sea its name). (c) PROTISTS — DIATOMS (silica-shelled frustules; cold-water/coastal blooms; backbone of polar food webs; produce ~50% of marine primary production); DINOFLAGELLATES (flagellated, often armored with cellulose plates; some bioluminescent — cause 'sea sparkle'; some toxic blooms — Karenia, Alexandrium causing red tides; includes SYMBIODINIUM, the zooxanthellae living in coral); COCCOLITHOPHORES (CaCO₃ plates; major contributor to chalk deposits — White Cliffs of Dover are coccolith fossils). (d) ALGAE (broad term): in strict usage 'algae' = eukaryotic photosynthetic protists + macroalgae; single-celled algae are part of phytoplankton; multi-cellular seaweed is benthic (not plankton). So phytoplankton is the catch-all that includes prokaryotic cyanobacteria + eukaryotic protist algae + other photosynthetic drifters. (a) all correct.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-194",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Seagrasses are considered the only true marine plants because:",
+    "options": {
+      "a": "They can only survive fully submerged in water",
+      "b": "They do not have seeds or roots",
+      "c": "They are the only marine species with true roots, leaves, stems and flowers",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "SEAGRASSES are the only true flowering plants (ANGIOSPERMS) that complete their entire life cycle FULLY SUBMERGED in seawater. They have all the features of land plants — adapted to marine life: TRUE ROOTS (anchor in sediment, uptake nutrients, stabilize substrate); TRUE STEMS (rhizomes spread horizontally underground; vertical shoots support leaves); TRUE LEAVES (chlorophyll, vascular tissue, photosynthesis); TRUE FLOWERS (yes — seagrasses FLOWER UNDERWATER, small and inconspicuous, and produce SEEDS; pollination via water — hydrophilous — or sometimes invertebrates as recent research has found). MAJOR SEAGRASS GENERA: ZOSTERA (eelgrass — temperate); THALASSIA (turtle grass — Caribbean); POSIDONIA OCEANICA (Mediterranean — one of the longest-lived organisms on Earth, clonal beds up to 100,000 years old); HALODULE, CYMODOCEA, SYRINGODIUM (tropical Indo-Pacific). DISTINCT FROM: SEAWEED / MACROALGAE (kelps, sargassum, ulva) — these are NOT plants, they're protists; no true roots (have HOLDFASTS), no flowers, reproduce via spores. MANGROVES are true flowering plants but only roots in water, trunks/leaves above — partially terrestrial. SALT-MARSH GRASSES (Spartina) are true plants but live in the tidal zone, not fully submerged. WHY THIS MATTERS: seagrasses are critical BLUE CARBON ecosystems (huge carbon sequestration), nursery habitat, food for dugongs / manatees / green sea turtles, oxygen producers, sediment stabilizers. (a) True they're fully submerged but not the DEFINING trait of 'true plant'. (b) Wrong — they DO have seeds and roots, that's the WHOLE POINT. (d) Wrong because (b) is false.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-195",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "The maximum number of individuals of a particular species that an ecosystem can support is called the:",
+    "options": {
+      "a": "Abiotic factor",
+      "b": "Diversity",
+      "c": "Exponential growth",
+      "d": "Carrying capacity"
+    },
+    "correct": "d",
+    "explanation": "CARRYING CAPACITY (K) = the maximum population of a species that an environment can sustain INDEFINITELY given available resources (food, habitat, water, space, mates, light) and biotic constraints (predators, disease, competitors). LOGISTIC GROWTH MODEL describes the dynamics: population grows roughly exponentially when small (plenty of resources); growth rate SLOWS as population approaches K (resources scarce); population STABILIZES at K (births ≈ deaths); if population OVERSHOOTS K, mortality > births → crash back down (population cycles). FACTORS DETERMINING K for marine species: FOOD AVAILABILITY (herbivorous urchins limited by algae; predator populations by prey); HABITAT / SPACE (coral reef fish limited by hidey-hole density; territoriality); PREDATION PRESSURE (top predators limited by competition; prey limited by predation); DISEASE / PARASITES (density-dependent transmission); COMPETITION (for any limited resource — mates, nesting sites, territory); ABIOTIC FACTORS (water temperature, salinity, oxygen, pH set baseline range). K IS DYNAMIC, not fixed: climate change alters temperature regimes → K shifts up for warm-water species, down for cold-water; overfishing reduces K by destroying spawning stock; habitat restoration raises K. (a) ABIOTIC FACTOR = non-living environmental component (temperature, salinity, pH, light, depth, current); influences K but isn't the same concept. (b) DIVERSITY = number of species (richness) + their relative abundance (evenness); different metric. (c) EXPONENTIAL GROWTH = unrestricted growth rate (constant per-capita rate); OPPOSITE of carrying-capacity-limited dynamics. Real populations grow exponentially only briefly when far below K.",
+    "source": "mySSI: SoD Lesson 5.4 Review"
+  },
+  {
+    "id": "mssi-sod-196",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Most annelids defend themselves by:",
+    "options": {
+      "a": "Hiding",
+      "b": "Burrowing into sand",
+      "c": "Excreting toxic chemicals",
+      "d": "Changing color"
+    },
+    "correct": "b",
+    "explanation": "Most marine ANNELIDS (segmented worms) defend themselves by BURROWING INTO SAND / SEDIMENT or retracting into protective tubes. Marine annelid cohort: POLYCHAETES (bristle worms) are the most diverse marine group, ~10,000+ species. Includes Christmas tree worms (Spirobranchus), fan worms (Sabella), feather duster worms, fire worms (Hermodice), bobbit worms (Eunice aphroditois), parchment worms, palolo worms, scale worms. DEFENSE STRATEGIES by annelid type: (1) TUBE-DWELLING POLYCHAETES — Christmas tree worms, fan worms, feather dusters — when threatened, RETRACT INSTANTLY into a hard calcareous or parchment tube. The colorful 'feather' or 'tree' visible is just the feeding/respiratory apparatus; the rest of the worm is hidden inside the tube. Touch one with your finger and it disappears in milliseconds. (2) BURROWING POLYCHAETES — bobbit worms, lugworms, sand mason worms — live in U-shaped or vertical burrows in sand/mud; retract or burrow deeper when disturbed. (3) TUBE-LESS POLYCHAETES — some bristle worms, fire worms — have STINGING CHAETAE (calcified/chitinous bristles) that break off in attacker's skin like glass needles; FIRE WORMS (Hermodice carunculata) deliver painful sting to careless divers, bristles stick like cactus spines. (4) SYMBIOTIC / COMMENSAL polychaetes living with sea urchins, brittle stars, sponges — defended by host's armor. The DOMINANT strategy across annelids: withdrawal into tube or burrow (b). (a) 'Hiding' is too vague; mechanism is specifically burrowing or retracting into tubes. (c) Some bristle worms have toxic chaetae but not the majority of annelids. (d) Color change is a CEPHALOPOD specialty (octopus, cuttlefish, squid) — annelids generally lack chromatophores.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-197",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Some flatworms protect themselves by mimicking:",
+    "options": {
+      "a": "Anemones",
+      "b": "Toxic nudibranchs",
+      "c": "Box jellyfish",
+      "d": "Sea cucumbers"
+    },
+    "correct": "b",
+    "explanation": "Marine FLATWORMS (Polycladida — Pseudoceros, Pseudobiceros, etc.) often MIMIC TOXIC NUDIBRANCHS to deter predators — a textbook example of BATESIAN MIMICRY: a harmless species evolves to resemble a harmful one, gaining protection without paying the metabolic cost of producing real defenses. THE MIMICRY PAIR: NUDIBRANCHS are toxic sea slugs (gastropods) that store stinging cells, sponge toxins, or other defensive chemicals SEQUESTERED from their prey. Their bright APOSEMATIC coloration honestly advertises 'don't eat me, I'm poisonous.' FLATWORMS are mostly NOT toxic but have evolved to look uncannily similar in shape, color pattern, and movement — predators that have learned to avoid bright nudibranchs avoid flatworms too. HOW TO TELL THEM APART (the diver/photographer ID trick): FLATWORMS are extremely thin (a few mm thick at most), flutter and ripple gracefully when swimming like a piece of fabric, have at most two 'ears' (pseudo-tentacles) at the front, no gills. NUDIBRANCHS are thicker-bodied with visible RHINOPHORES (sensory tentacles on head), often a tuft of GILLS on the back, and crawl rather than ripple. Iconic mimics: Pseudobiceros flatworms mimic Phyllidia or Chromodoris nudibranchs; Pseudoceros species mimic various brightly-patterned nudibranchs across the Indo-Pacific. (a) Anemones are sessile cnidarians, completely different body plan. (c) Box jellies are pelagic gelatinous predators, very different morphology. (d) Sea cucumbers are sausage-shaped echinoderms — flatworms don't resemble them.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-198",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Nematocysts are capable of:",
+    "options": {
+      "a": "Capturing prey and creating camouflage",
+      "b": "Absorbing carbon dioxide and capturing prey",
+      "c": "Changing colors and injecting toxins",
+      "d": "Injecting toxins or capturing prey"
+    },
+    "correct": "d",
+    "explanation": "NEMATOCYSTS are the stinging cells of phylum Cnidaria — specialized intracellular structures inside CNIDOCYTES (also called nematocytes) that fire EXPLOSIVELY to inject venom or capture prey. HOW THEY WORK (one of the fastest biological processes known): (1) the cnidocyte contains a coiled hollow tube under high osmotic pressure; (2) a CNIDOCIL hair-trigger sensor on the cell surface detects touch / chemical cue; (3) trigger releases internal pressure → the coiled tube fires out at ~5 m/s with accelerations exceeding 5 MILLION g — one of the fastest cellular movements documented, penetrating prey/attacker tissue; (4) toxin is injected through the hollow tube, paralyzing prey. FUNCTIONS: CAPTURE SMALL PREY (plankton, small fish, shrimp — harpoon-and-paralyze); DEFENSE (sting attackers, including divers); some types ADHESION (sticky rather than penetrating). Different cnidocyte specializations: PENETRANTS (harpoon, deep sting — Cubozoa box jellies, Portuguese man-o-war); GLUTINANTS (sticky, no penetration); VOLVENTS (entangling). Cnidarian sting severity for divers: anemones (mild itch), most reef corals (irritation), FIRE CORAL / HYDROIDS (burning sting that lasts hours), most jellyfish (welts), Portuguese man-o-war (severe pain, sometimes systemic effects), box jellyfish + IRUKANDJI syndrome (potentially lethal). (a) Camouflage isn't a nematocyst function — that's chromatophores or behavior. (b) CO₂ absorption isn't a nematocyst role. (c) Color change is via chromatophores (cephalopods), not nematocysts.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-199",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Anemones, jellyfish, and corals belong to Phylum:",
+    "options": {
+      "a": "Cnidaria",
+      "b": "Echinodermata",
+      "c": "Vertebrata",
+      "d": "Porifera"
+    },
+    "correct": "a",
+    "explanation": "PHYLUM CNIDARIA ('nettle animals' — Greek knide = nettle) unifies anemones, jellyfish, corals, hydroids, fire coral, hydra. DEFINING CHARACTERISTICS: (1) NEMATOCYSTS — the namesake stinging cells (mssi-sod-198); (2) RADIAL SYMMETRY — body organized around a central axis (no left/right, just top and bottom); (3) DIPLOBLASTIC — only two embryonic tissue layers (ectoderm + endoderm; no mesoderm); (4) SINGLE BODY OPENING — the same orifice serves as mouth and anus (gastrovascular cavity); (5) TWO BASIC BODY FORMS that alternate in many life cycles: POLYP (sessile, attached, mouth up — anemones, corals, hydra) and MEDUSA (free-swimming, mouth down — jellyfish). CNIDARIAN CLASSES: ANTHOZOA (sea anemones + hard corals + soft corals; only polyp form, no medusa; the largest class); SCYPHOZOA (true jellyfish, medusa-dominant, large bell, e.g. moon jelly Aurelia); CUBOZOA (box jellyfish, cube-shaped bell, complex eyes, deadly toxins, Chironex fleckeri); HYDROZOA (hydroids, FIRE CORAL Millepora — actually a hydrozoan despite the name, Portuguese man-o-war as colonial siphonophore, hydra); STAUROZOA (rare stalked jellyfish, small, sessile). (b) ECHINODERMATA = sea stars, urchins, sand dollars, sea cucumbers, brittle stars — radially symmetric (5-fold), water vascular system, tube feet — completely different phylum. (c) VERTEBRATA = animals with backbones (fish, amphibians, reptiles, birds, mammals) — much higher up the tree. (d) PORIFERA = sponges — simplest animal phylum, no true tissues, no nervous system, no symmetry, filter feeders.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-200",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Why are marine arthropods important to their food chain?",
+    "options": {
+      "a": "Horseshoe crab eggs are a major food source for many shorebirds",
+      "b": "Larger crustaceans are a food source for many marine animals",
+      "c": "Smaller crustaceans eat algae, allowing sunlight and oxygen to reach plants and corals",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three roles describe real ecological functions of marine arthropods. (a) HORSESHOE CRAB EGGS FEED SHOREBIRDS — most famous example: RED KNOT SANDPIPERS (Calidris canutus rufa) time their epic migration from Tierra del Fuego to the Arctic to coincide with horseshoe crab (Limulus polyphemus) mass spawning in Delaware Bay each spring. They gorge on the lipid-rich eggs to fuel the final 3000+ km flight. Horseshoe crab decline (overharvest for the biomedical industry — their blue blood is used in pharmaceutical endotoxin testing — and bait fishery) has driven red knot population collapse. (b) LARGER CRUSTACEANS FEED MARINE ANIMALS — lobsters, crabs, mantis shrimp, slipper lobsters, large prawns are eaten by groupers, snappers, octopuses, eels, sharks, sea otters, even some seabirds. High-protein food source up the food chain. (c) SMALLER CRUSTACEANS GRAZE ALGAE — amphipods, isopods, copepods, krill, mysids graze algae and detritus; their grazing prevents algal overgrowth that would shade reefs and seagrass beds. Amphipods on reefs are particularly important 'lawn mowers' keeping coral surfaces clean of overgrowing turf algae. Krill grazing structures whole polar food webs. Marine arthropods (crustaceans + horseshoe crabs) are a TROPHIC LINCHPIN — both prey for everything bigger AND grazers/cleaners maintaining ecosystem function.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-201",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "As their body grows, arthropods:",
+    "options": {
+      "a": "Molt their exoskeleton",
+      "b": "Grow additional legs",
+      "c": "Merge body segments",
+      "d": "Change colors"
+    },
+    "correct": "a",
+    "explanation": "Arthropods are encased in a hard chitinous EXOSKELETON (cuticle) that CANNOT STRETCH. To grow, they MOLT — shed the old exoskeleton and grow a new larger one. The molting process (ECDYSIS): (1) PRE-MOLT — a new soft cuticle forms beneath the old hard one; old cuticle is partially digested from the inside; animal stops feeding, often hides. (2) ECDYSIS — split appears along a predictable line (often dorsal); animal pulls itself out (hours-long for big lobsters). (3) POST-MOLT — new cuticle is SOFT AND PALE ('soft-shell' stage, most vulnerable; soft-shell crab is just a recently-molted blue crab); animal hides under cover. (4) HARDENING — new cuticle hardens via mineralization (calcium carbonate from seawater) and tanning (sclerotization), 6–48 hours depending on species/size. (5) INTER-MOLT — hard cuticle, normal feeding until next pre-molt starts. FREQUENCY: juveniles molt frequently (days to weeks); adults slowly (annually for large lobsters; some adult crabs go years between molts). SIZE INCREASE: each molt adds typically 10–25% body size. VULNERABILITY: no defense during soft-shell stage — easy predation, cannibalism in captivity, metabolically expensive. CURIOSITIES: stone crab fishery harvests one claw because the crab regrows it; horseshoe crab molts wash up on beaches looking like dead crabs (but the animal is alive elsewhere); American lobsters living 50+ years molt 25+ times reaching impressive sizes. (b) Leg count is FIXED for the species (crabs always have 10). (c) Body segments are fixed at hatching. (d) Some arthropods change color (mantis shrimp, certain camouflaging crabs) but color change is not growth-driven.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-202",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Simple invertebrates are called so because they have a:",
+    "options": {
+      "a": "Simple body structure without respiratory or circulatory systems",
+      "b": "Complex body structure without respiratory or circulatory systems",
+      "c": "Simple body structure with respiratory or circulatory systems",
+      "d": "No legs"
+    },
+    "correct": "a",
+    "explanation": "'SIMPLE INVERTEBRATES' are so named because they have a BASIC BODY STRUCTURE WITHOUT DEDICATED RESPIRATORY OR CIRCULATORY SYSTEMS — gas exchange and nutrient distribution happen by DIRECT DIFFUSION across the body surface or through a gastrovascular cavity. INCLUDES: (1) PORIFERA (sponges) — simplest of all animals, no organs, no tissues in the strict sense; water flows through pores (ostia) into a central cavity (spongocoel) and out the osculum, with collar cells (choanocytes) filtering food and passively exchanging gases. (2) CNIDARIA (anemones, jellyfish, corals) — nerve net but no centralized brain, no heart, no blood vessels; gas exchange across thin body wall via diffusion. (3) PLATYHELMINTHES (flatworms) — flat shape maximizes surface area for diffusion; no respiratory or circulatory system; the gut is branched to deliver nutrients without a vascular system. (4) Some annelids and other early-branching groups vary. WHY NO RESPIRATORY/CIRCULATORY SYSTEM WORKS: thin body walls + small body size + flat or branched shapes = every cell is close enough to the surface for direct diffusion to handle O₂/CO₂ and nutrient transfer. Once animals get larger and more compact (mollusks, arthropods, vertebrates), this stops working — they require dedicated gills/lungs + heart + circulatory vessels. (b) 'Complex without systems' is a contradiction — complex bodies need systems. (c) Simple bodies WITH systems contradicts itself. (d) Many vertebrates have no legs (snakes, fish, eels), so legs aren't the defining trait of body complexity.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-203",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Many echinoderms protect themselves by:",
+    "options": {
+      "a": "Changing colors",
+      "b": "Secreting toxins",
+      "c": "Using pincers",
+      "d": "Burrowing into sand"
+    },
+    "correct": "b",
+    "explanation": "Many echinoderms protect themselves CHEMICALLY — through toxin secretion or defensive compounds. (1) SEA CUCUMBERS are the masters: CUVIERIAN TUBULES — internal sticky (sometimes toxic) threads ejected from the anus when stressed, entangle attackers; HOLOTHURIN / saponins — toxic compounds in body wall, concentrated enough to kill fish in a small aquarium if a stressed sea cucumber releases them (this is why some Indo-Pacific aquarists never put sea cucumbers in tanks with valuable fish). (2) SEA STARS — crown-of-thorns (Acanthaster planci) has venomous spines causing severe pain + tissue damage; many other sea stars are toxic to taste (deters predators chemically). (3) SEA URCHINS — combined defense: spines (mechanical) + some species have VENOMOUS SPINES (flower urchin Toxopneustes pileolus has flower-like pedicellariae carrying toxin, fire urchin); pedicellariae (tiny pincers between spines) are also venomous in some. (4) BRITTLE STARS — some species autotomize (drop) arms when grabbed (regrow later); chemical secretions in some species. While spines (urchins) and rigid skin (sea stars) provide mechanical defense, the unifying chemical strategy across the phylum is TOXIN SECRETION — that's the answer. (a) Color change isn't a notable echinoderm strategy (no chromatophores). (c) PEDICELLARIAE are tiny pincer-like organs on some echinoderms but secondary to toxins + spines. (d) Some sand dollars and heart urchins burrow, but burrowing isn't the dominant echinoderm defense.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-204",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Which of the following roles do marine invertebrates fulfill in an underwater ecosystem?",
+    "options": {
+      "a": "Filtering particles from water",
+      "b": "Cleaning algae from coral reefs and remove parasites from fish",
+      "c": "All answers are correct",
+      "d": "Nutrient cycling"
+    },
+    "correct": "c",
+    "explanation": "Marine invertebrates fulfill all three roles — they are the unsung backbone of every marine ecosystem. (a) FILTERING PARTICLES FROM WATER — countless invertebrate species are filter feeders, dramatically improving water quality: SPONGES pump water through their bodies (a single sponge can filter hundreds of liters per day); BIVALVES (oysters, mussels, clams) — oyster reefs historically filtered Chesapeake Bay's entire volume in 3–4 days, now (post-collapse) it takes a year; mussels, scallops, clams all major filterers; BARNACLES sweep plankton with cirri; SEA SQUIRTS pump water through siphons; TUBE-DWELLING POLYCHAETES use feathery feeding fans (Christmas tree worms, fan worms); SEA CUCUMBERS filter sediment. (b) CLEANING + PARASITE REMOVAL — keystone services: SEA URCHINS graze algae off rocks and reefs (over-grazing produces 'urchin barrens'; under-grazing lets algae overgrow coral); CLEANER SHRIMP (Lysmata, Stenopus) set up CLEANING STATIONS where fish queue up to have parasites, dead tissue, and ectoparasites picked off — symbiotic mutualism; CRABS clean algae and detritus from coral; bristle worms scavenge dead matter. (d) NUTRIENT CYCLING — decomposers and detritivores recycle nutrients back into the food web: sea cucumbers process huge amounts of sediment redistributing nutrients; polychaetes, isopods, amphipods decompose detritus; bacteria + invertebrate scavengers complete nutrient mineralization. Without invertebrates, marine ecosystems collapse — fish are the visible top, but invertebrates do most of the actual work below.",
+    "source": "mySSI: SoD Lesson 5.5 Review"
+  },
+  {
+    "id": "mssi-sod-205",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Bony fish species may use which of the following feeding strategies?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Omnivorous",
+      "c": "Carnivorous",
+      "d": "Herbivorous"
+    },
+    "correct": "a",
+    "explanation": "Bony fish (class OSTEICHTHYES, ~30,000+ species — the largest vertebrate group on Earth) display every feeding strategy known. (b) OMNIVOROUS — most reef fish (damselfish, wrasses, butterflyfish), opportunistic eaters of algae + small invertebrates + plankton; the flexible majority. (c) CARNIVOROUS — animal predators in subclasses: PISCIVOROUS / fish-eaters (groupers, barracuda, tuna, billfish, jacks, snappers); INVERTIVOROUS (triggerfish that crush mollusks, wrasses picking small crustaceans, goatfish probing sand for invertebrates); PLANKTIVOROUS (anchovies, sardines, herring filter zooplankton). (d) HERBIVOROUS — plant/algae eaters: PARROTFISH (graze coral surface algae, produce huge amounts of sand from grinding coral); SURGEONFISH / TANGS (algae grazers, key reef cleaners — without them reefs get algae overgrowth); rabbitfish, blennies, gobies. BEYOND THESE THREE, bony fish also include DETRITIVORES (catfish, mullets cleaning organic debris on bottom); PARASITE-EATERS (cleaner wrasses set up stations where larger fish queue for cleaning); SABER-TOOTHED BLENNIES that MIMIC cleaner wrasses then bite chunks off the suckered larger fish (aggressive mimicry, opposite of Batesian); FILTER FEEDERS (paddlefish, some herring) though rarer among bony fish; SYMBIOTIC FEEDERS (anemonefish/clownfish eating parasites + scraps from their anemone home); SPECIALIZED PREDATORS (anglerfish with bioluminescent lures, gulper eels with expandable mouths). The diversity of bony fish feeding strategies is a major reason they're the most ecologically successful vertebrate group on Earth.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-206",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Which venomous fish are well-camouflaged and could cause serious injury?",
+    "options": {
+      "a": "Barracudas and groupers",
+      "b": "Sharks and rays",
+      "c": "Blue tang and eels",
+      "d": "Scorpionfish and stonefish"
+    },
+    "correct": "d",
+    "explanation": "Family SCORPAENIDAE — masters of marine camouflage AND venom. STONEFISH (Synanceia, including reef stonefish S. verrucosa and estuarine S. horrida) are the MOST VENOMOUS FISH IN THE WORLD. Skin texture mimics encrusted rock or coral rubble so perfectly that divers and waders step on them without seeing. 13 dorsal spines deliver venom causing excruciating pain (often described as 'the worst pain imaginable'), tissue necrosis, cardiovascular collapse, occasional fatalities. Treatment: HOT-WATER IMMERSION at 45 °C for 30–90 min (denatures heat-labile venom proteins) + stonefish antivenom for severe envenomations. SCORPIONFISH (Scorpaena and related genera): SCORPIONFISH PROPER — incredible camouflage on reef rubble, weed, and algae-covered rocks, venomous spines (less potent than stonefish but still very painful); LIONFISH (Pterois volitans, P. miles) use the OPPOSITE strategy — bright APOSEMATIC warning colors (red-white striped fan-like fins), not camouflaged but venomous; invasive in Caribbean / Atlantic from accidental Florida releases in the 1980s; DEVIL SCORPIONFISH (Inimicus) — camouflaged ambush predator. DIVER SAFETY: never put hands where you can't see (don't grip rocks/ledges), wear booties on reef walks, scan the bottom carefully before settling, watch for 'the rock that breathes'. (a) Barracudas + groupers are predators, not venomous. (b) Sharks bite (not venomous); some rays have venomous tail barbs but aren't 'well-camouflaged' in the sit-still scorpionfish sense. (c) Blue tang has a sharp caudal spine but no venom; moray eels have nasty bites but are not venomous — the lacerations get infected from oral bacteria.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-207",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "How can divers minimize negative interactions with marine life?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Observe, but do not touch or bait animals",
+      "c": "Wear appropriate exposure suits and follow local regulations",
+      "d": "Move cautiously, avoid sudden movements, maintain buoyancy, and avoid covered areas"
+    },
+    "correct": "a",
+    "explanation": "All three principles cover the responsible marine-life interaction code. (b) OBSERVE but DON'T TOUCH or BAIT: don't touch — your skin oils harm coral and fish slime layers, touching stresses animals, many species are venomous (cone snails, fire coral, scorpionfish — see mssi-sod-206), some species are legally protected; don't bait/feed — alters natural behavior, creates dependency, conditions sharks/rays to associate divers with food (dangerous), introduces pollutants, harms species (bread to fish causes digestive issues). (c) APPROPRIATE EXPOSURE SUIT + LOCAL REGULATIONS: suit protects you from stings, scrapes, abrasions, and protects animals from your skin chemistry contacting their slime layer; local regs vary widely — many areas prohibit gloves to discourage touching coral, restrict night diving, ban shark feeding, require permits for protected sites; ignorance is not an excuse — research before diving. (d) CAUTIOUS MOVEMENT + GOOD BUOYANCY + AVOIDING HIDDEN AREAS: slow deliberate movement (sudden moves trigger fight/flight responses); good buoyancy keeps you off the bottom (preventing reef damage from fin kicks, knees, gear drag — bad buoyancy is the leading cause of diver-induced reef damage); avoid covered areas (don't reach blindly into holes/crevices, don't stick fingers in shells, don't grab kelp/seagrass for purchase). Other principles worth knowing: MAINTAIN RESPECTFUL DISTANCE (varies — sharks 2–3 m, mantas 3–5 m, dolphins follow their lead, never chase); NO FLASH PHOTOGRAPHY at close range with delicate species; DON'T BLOCK ESCAPE ROUTES; remove trash, don't introduce gear that could be lost on the reef.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-208",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "What are the three main groups of fishes?",
+    "options": {
+      "a": "Bony fishes, cartilaginous fishes, and orca",
+      "b": "Bony fishes, cartilaginous fishes, and jawless fishes",
+      "c": "Cartilaginous fishes, bony fishes, and carnivorous fishes",
+      "d": "All answers are correct"
+    },
+    "correct": "b",
+    "explanation": "Three classes of fish in modern taxonomy: (1) AGNATHA / CYCLOSTOMATA — JAWLESS fish: lampreys (parasitic, attach to host via sucker mouth, rasp blood/tissue) and hagfish (deep-sea scavengers; produce massive amounts of slime as defense). Most ancient fish lineage; ~120 surviving species; no paired fins, no jaws, cartilaginous skeleton, no true scales. (2) CHONDRICHTHYES — CARTILAGINOUS fish: sharks (~500 species), rays (manta, stingray, eagle, electric), skates, chimaeras (ratfish, ghost sharks). ~1200 species; cartilage skeleton (no bones), placoid scales (skin like sandpaper), 5–7 gill slits visible externally, internal fertilization. (3) OSTEICHTHYES — BONY fish: ~30,000 species, the largest vertebrate class. Bone skeleton, single gill cover (operculum), swim bladder for buoyancy. Two subclasses: RAY-FINNED (most living fish) + LOBE-FINNED (coelacanths, lungfish — ancestors of tetrapods). Includes everything from goldfish to tuna, all reef fish, all teleosts. (a) ORCA is a MAMMAL (cetacean) — common confusion because of 'killer WHALE' name; not a fish. (c) 'CARNIVOROUS FISH' is a FEEDING strategy (mssi-sod-205), not a taxonomic class — categories must be parallel (all feeding categories or all taxonomic categories, not mixed). (d) Wrong because (a) and (c) are wrong.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-209",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "What have marine birds developed for life in a marine environment?",
+    "options": {
+      "a": "Webbed feet, waterproofed feathers, adapted beaks, and salt glands",
+      "b": "Waterproofed feathers, salt glands, and fins",
+      "c": "Webbed feet, waterproofed feathers, and gills",
+      "d": "No answer is correct"
+    },
+    "correct": "a",
+    "explanation": "Marine birds evolved four key adaptations for saltwater life. (1) WEBBED FEET — skin between toes acts as a paddle for surface paddling (gulls, ducks) or underwater propulsion (penguins, cormorants). (2) WATERPROOFED FEATHERS — preening with oil from the UROPYGIAL / PREEN GLAND (at base of tail) coats feathers, sealing out water. Notable exception: CORMORANTS lack waterproofed feathers (you see them sun-drying with wings spread after fishing) — this lets them be less buoyant for deeper dives. (3) ADAPTED BEAKS — diet specialists: plunge-divers (gannets, terns) have sharp pointed beaks for spearing fish; filter feeders (flamingos, some petrels) have lamellae-filled beaks; crushers (oystercatchers) have strong beaks for shellfish; hook-tipped (gulls, albatrosses) have multi-purpose. (4) SALT GLANDS — supraorbital (above-eye) glands that secrete concentrated salt solution from drinking seawater + salty prey. Salt droplets visible at the bill tip in many seabirds (albatross, petrels, gulls). Penguins, marine iguanas, sea turtles all have analogous salt glands. Without these, marine birds would dehydrate from osmotic imbalance. Other adaptations: air-filled bones for flight (most species); counter-shading camouflage (dark above + light below); ability to drink seawater directly thanks to those salt glands. (b) Marine birds don't have FINS — penguins have FLIPPERS, which evolved from wings, not fins. (c) Birds breathe AIR with LUNGS, not gills. (d) Wrong because (a) is correct.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-210",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "What are the major groups of marine mammals?",
+    "options": {
+      "a": "Mustelids (sea otters) and ursidae (polar bears)",
+      "b": "Pinnipeds (seals, sea lions, and walruses) and sirenians (dugongs and manatees)",
+      "c": "All answers are correct",
+      "d": "Cetaceans (whales, dolphins, and porpoises)"
+    },
+    "correct": "c",
+    "explanation": "All three groupings include real marine mammal lineages. ~130+ marine mammal species worldwide, all SECONDARILY AQUATIC (descended from terrestrial ancestors that returned to the sea at different times). (d) CETACEANS — whales, dolphins, porpoises: MYSTICETES (baleen whales — blue, humpback, fin, minke, gray, right; filter feeders, the largest); ODONTOCETES (toothed whales — orcas, sperm whales, dolphins, porpoises, beaked whales, belugas, narwhals; predators). Fully aquatic, never come ashore; descended from artiodactyl ancestors (closest living relatives are hippos). (b) PINNIPEDS ('fin-feet') + SIRENIANS: PINNIPEDS — true seals (Phocidae), eared seals + sea lions (Otariidae), walruses (Odobenidae); hauled-out breeders, fully aquatic foragers; descended from caniform carnivores (related to bears). SIRENIANS — manatees (3 species, Atlantic basin) + dugongs (1 species, Indo-Pacific); fully aquatic HERBIVORES grazing seagrass; descended from afrotherian ancestors (closest living relatives are elephants). (a) MUSTELIDS + URSIDAE — SEMI-AQUATIC groups: SEA OTTER (Enhydra lutris) is fully marine, marine otter (Lontra felina) coastal South America; densest fur of any mammal (substitutes for blubber); POLAR BEAR (Ursus maritimus) recognized as marine mammal because of dependence on sea ice for hunting seals — ecologically marine but not fully aquatic. So (c) all answers correct.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-211",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "Which of the following statements about vertebrates is true?",
+    "options": {
+      "a": "They have a protective skull",
+      "b": "All answers are correct",
+      "c": "They have a complex nervous system",
+      "d": "They have a backbone"
+    },
+    "correct": "b",
+    "explanation": "All three describe defining vertebrate features. (d) BACKBONE — the namesake feature: a series of articulated VERTEBRAE forming the spinal column that protects the spinal cord. This is the single defining synapomorphy of subphylum VERTEBRATA. From hagfish (rudimentary vertebral elements) to blue whales (largest), all vertebrates share this body plan. (a) PROTECTIVE SKULL (cranium) — bony or cartilaginous structure encasing the brain. Allows large, complex brains to evolve safely. Distinguishes vertebrates from other chordates (lancelets, tunicates) which have notochord but no skull. (c) COMPLEX NERVOUS SYSTEM — centralized BRAIN + SPINAL CORD + peripheral nerves; bilaterally symmetric body plan; CEPHALIZATION (concentration of sensory organs and nervous tissue at the front end). Enables sophisticated behavior, learning, sensory processing — what makes vertebrates the dominant predators in most ecosystems. Other vertebrate features beyond this question: CLOSED CIRCULATORY SYSTEM with a chambered heart (2 chambers in fish, 3 in amphibians, 4 in birds/mammals); ENDOSKELETON of bone or cartilage (allows growth without molting); PHARYNGEAL SLITS / POUCHES (gills in aquatic; develop into ear/throat structures in terrestrial); NOTOCHORD during development (replaced by vertebral column in adults); POST-ANAL TAIL (varies in adult expression). Marine vertebrates: fish (jawless, cartilaginous, bony), reptiles (sea turtles, sea snakes, marine iguanas, saltwater crocodile), birds (penguins, seabirds), mammals (cetaceans, pinnipeds, sirenians, sea otters).",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-212",
+    "area": "science_of_diving",
+    "subarea": "Environment — Marine Life",
+    "question": "What are the \"ampullae of Lorenzini\"?",
+    "options": {
+      "a": "Filter-feeding plates",
+      "b": "Stinging tentacles",
+      "c": "Sensory organs that help Chondrichthyan fishes to hunt",
+      "d": "Complex nerve nets"
+    },
+    "correct": "c",
+    "explanation": "AMPULLAE OF LORENZINI are ELECTROSENSORY ORGANS — a network of jelly-filled pores around the heads of cartilaginous fish (sharks, rays, skates, chimaeras) — that detect BIOELECTRIC FIELDS generated by living organisms. ANATOMY + FUNCTION: visible as small black dots (pores) around shark snouts and ray heads; each pore connects via a jelly-filled canal to a sensory bulb (the AMPULLA proper) lined with electroreceptor cells; the jelly conducts electric fields from surrounding water to receptors. SENSITIVITY IS EXTRAORDINARY — sharks can detect electric fields as weak as 5 NANOVOLTS PER CENTIMETER (5×10⁻⁹ V/cm) — like feeling the heartbeat of a fish from a meter away. DETECT: BIOELECTRIC SIGNALS from prey muscle contractions, heartbeats, gill movements (allows hunting prey BURIED IN SAND, rays do this routinely); EARTH'S MAGNETIC FIELD for long-distance navigation in some species; TEMPERATURE gradients (1 millikelvin sensitivity). DISCOVERY: described by Stefano LORENZINI in 1678 but their function (electroreception) wasn't understood until the 1960s. WHY THIS MATTERS FOR DIVERS: sharks can detect you in zero visibility — your heart beats, your gills move, slight muscle tremors create detectable fields. Diver gear with metal/batteries (cameras with strobes, dive computers, regulator metals in seawater) can occasionally trigger curious investigation. Shark deterrents (Sharkbanz, Shark Shield) work by overwhelming ampullae with strong electric pulses, causing the shark to turn away. (a) Filter-feeding plates = baleen in whales or gill rakers in fish, totally different. (b) Stinging tentacles = cnidarian nematocysts (mssi-sod-198/199). (d) Nerve nets = simple decentralized nervous systems in cnidarians and a few other invertebrates; ampullae are highly specialized organs, not a nerve net.",
+    "source": "mySSI: SoD Lesson 5.6 Review"
+  },
+  {
+    "id": "mssi-sod-213",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Gas Mixtures",
+    "question": "Gases with a fraction of oxygen greater than 0.21 are:",
+    "options": {
+      "a": "Hyperoxic",
+      "b": "Normoxic",
+      "c": "HighOx",
+      "d": "Hypoxic"
+    },
+    "correct": "a",
+    "explanation": "Gas classifications by oxygen fraction (FO₂), benchmarked against atmospheric air (21% O₂). HYPOXIC: FO₂ < 0.21 — examples include trimix for deep dives (e.g. 10/70 = 10% O₂ + 70% He + 20% N₂); CANNOT be breathed safely on the surface (PpO₂ too low: 0.10 bar at 1 ATA causes blackout); travel gas / bottom gas only at depths where pressure raises PpO₂ above ~0.18 bar minimum. NORMOXIC: FO₂ ≈ 0.21 — air itself; 'normoxic trimix' (e.g. 21/35 = 21% O₂ + 35% He + 44% N₂, breathable at the surface). HYPEROXIC: FO₂ > 0.21 — NITROX blends (EAN32, EAN36, EAN40, EAN50, EAN80) and pure O₂ (100%). Etymology: HYPO- (Greek 'under') / NORMO- (normal) / HYPER- ('over') + -OXIC. WHY DISTINCTIONS MATTER: HYPOXIC mixes are unbreathable near surface, must be switched to deeper. HYPEROXIC mixes extend NDL by reducing inert-gas loading, but have a MAXIMUM OPERATING DEPTH (MOD) dictated by PpO₂ limit (1.4 bar working / 1.6 bar contingency only): EAN32 MOD ~33 m at 1.4; EAN36 ~28 m; EAN40 ~22 m; pure O₂ ~6 m. EXCEEDING MOD risks CNS OXYGEN TOXICITY — convulsions underwater = drowning, the ultimate non-recoverable error. Lesson 3.5 context: gas-mix nomenclature anchors the nitrox theory (mssi-sod-127..133), MOD calculations, and partial-pressure physics that govern technical and recreational nitrox diving. (b) NORMOXIC = 21%, same as air. (c) 'HighOx' isn't a recognized term. (d) HYPOXIC = LESS oxygen than air, opposite direction.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-214",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Gas Mixtures",
+    "question": "Signs and symptoms of central nervous system oxygen toxicity include:",
+    "options": {
+      "a": "Convulsions and twitching",
+      "b": "Cherry red lips and coughing",
+      "c": "Numbness and tingling",
+      "d": "Coughing and a burning sensation in the lungs"
+    },
+    "correct": "a",
+    "explanation": "CNS OXYGEN TOXICITY (the Paul Bert effect) is triggered when PpO₂ exceeds ~1.4–1.6 bar (working / contingency limits) for too long → CNS hyperexcitability → seizure. Classic mnemonic VENTID-C: V Vision changes (tunnel vision); E Ear changes (tinnitus); N Nausea; T TWITCHING (often facial / lips first — 'lip twitches'); I Irritability; D Dizziness; C CONVULSIONS (grand mal seizure — most dangerous, often hits without warning prodrome). The CONVULSION phase is the catastrophic stage: diver loses regulator → drowns. Recovery from convulsion at depth is rarely survivable without a buddy who can hold the regulator in place until the postictal phase passes (then ascend slowly). PREVENTION: respect MOD limits, log CNS clock % (cumulative percentage of CNS exposure based on PpO₂ × time), keep PpO₂ ≤ 1.4 bar working / ≤ 1.6 bar contingency only. Never breathe rich nitrox below its MOD even briefly. INDIVIDUAL VARIABILITY is huge — the same person can convulse one day at 1.3 bar and tolerate 1.6 bar another day; CO₂ retention, exertion, immersion, cold all lower threshold. (b) CHERRY-RED LIPS = sign of CO POISONING (carboxyhemoglobin's bright red color). (c) Numbness / tingling has many causes (DCS, hyperventilation, neuropraxia, hypoglycemia) — not specific to O₂ tox. (d) Coughing + burning lungs = PULMONARY O₂ TOXICITY (Lorrain Smith effect), different system, slow-onset over days of sustained high PpO₂; tracked by OTU (Oxygen Tolerance Units), affects technical / saturation divers more than recreational.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-215",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Gas Mixtures",
+    "question": "Histotoxic hypoxia occurs when:",
+    "options": {
+      "a": "Toxic substances cause problems with red blood cell function",
+      "b": "Oxygenated blood cannot reach tissues and organs",
+      "c": "The body cannot absorb enough oxygen from the air",
+      "d": "Low hemoglobin levels stop oxygen from binding to red blood cells"
+    },
+    "correct": "a",
+    "explanation": "⚠️ NEEDS VERIFICATION — mySSI grades (a) correct, but the strict medical/physiology definition of histotoxic hypoxia describes a different mechanism. The four classical hypoxia types: (1) HYPOXIC HYPOXIA — insufficient O₂ in inspired gas (altitude, drowning, hypoxic mix near surface). (2) ANEMIC HYPOXIA — insufficient or dysfunctional HEMOGLOBIN to carry O₂ (anemia, blood loss, CO POISONING where carbon monoxide binds Hb 250× more avidly than O₂). (3) STAGNANT / CIRCULATORY HYPOXIA — inadequate blood FLOW to tissues (shock, heart failure, ischemia). (4) HISTOTOXIC HYPOXIA — TISSUES / CELLS CAN'T USE the oxygen even though it's being delivered. Caused by cellular toxins like CYANIDE, hydrogen sulfide, sodium azide that block MITOCHONDRIAL ELECTRON TRANSPORT (specifically cytochrome c oxidase / Complex IV). Cell respiration halts despite normal PaO₂ and normal Hb. Etymology: HISTO- (tissue) + TOXIC = 'tissue-poisoning' — the toxin acts at the tissue/cellular level, NOT at the RBC level. mySSI's wording in option (a) — 'toxic substances cause problems with red blood cell function' — actually describes ANEMIC HYPOXIA more accurately (CO poisoning is the classic dive-relevant case affecting RBC function). The textbook histotoxic answer would be closer to 'tissues can't utilize delivered oxygen due to cellular poisoning (cyanide etc.)'. Going with mySSI's grading since that's what the exam tests, but be aware the medically precise definition differs. If you see this question in DAN or dive-medicine textbook context, expect the cellular-utilization-block answer instead. (b) STAGNANT hypoxia. (c) HYPOXIC hypoxia. (d) ANEMIC hypoxia.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-216",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Gas Mixtures",
+    "question": "What condition is caused by increased exposures to elevated partial pressure of oxygen levels?",
+    "options": {
+      "a": "Oxygen toxicity",
+      "b": "Nitrogen narcosis",
+      "c": "Decompression illness",
+      "d": "Hypercapnia"
+    },
+    "correct": "a",
+    "explanation": "OXYGEN TOXICITY — see mssi-sod-214 for full breakdown. Two forms: (1) CNS / CENTRAL OXYGEN TOXICITY (Paul Bert effect) — acute, triggered by PpO₂ exceeding ~1.4–1.6 bar; symptoms VENTID-C (vision, ear, nausea, twitching, irritability, dizziness, convulsions); convulsion underwater = drowning; this is the limiting factor that sets MOD for nitrox/trimix dives. (2) PULMONARY / WHOLE-BODY OXYGEN TOXICITY (Lorrain Smith effect) — slow-onset over days of sustained moderate-high PpO₂; symptoms cough, burning chest, reduced vital capacity; tracked by OTU (Oxygen Tolerance Units), affects technical / saturation / hyperbaric-medicine patients more than recreational. PREVENTION: respect MOD (max 1.4 bar working / 1.6 contingency), track CNS clock and OTU on multi-day dives, never breathe rich nitrox below its MOD. (b) NITROGEN NARCOSIS comes from elevated PpN₂, not O₂. (c) DECOMPRESSION ILLNESS is from off-gassing dissolved inert gas too fast on ascent (mostly N₂ bubbles), not from high PpO₂. (d) HYPERCAPNIA is CO₂ retention — separate gas-toxicity issue (mssi-sod-078).",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-217",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Gas Mixtures",
+    "question": "How does skip breathing possibly cause hypoxia?",
+    "options": {
+      "a": "It allows oxygen levels to drop and carbon dioxide levels to rise",
+      "b": "It reduces blood volume",
+      "c": "It allows carbon dioxide levels to drop and oxygen levels to rise",
+      "d": "It increases central nervous system oxygen toxicity"
+    },
+    "correct": "a",
+    "explanation": "SKIP BREATHING is a bad habit some divers develop to 'save gas' by inserting pauses between breaths or briefly holding breath between inhale and exhale. It DOESN'T save gas, and it's dangerous. PHYSIOLOGY DURING THE PAUSE: metabolism continues — cells consume O₂ and produce CO₂ at the normal rate; CO₂ ACCUMULATES in blood → hypercapnia → respiratory acidosis → HEADACHE, breathlessness, narcosis-like effects, eventual PANIC; O₂ LEVELS DROP in lungs and blood → mild hypoxia (worse at altitude or in deeper dives). The diver feels increasingly bad, then breathes HARDER when finally inhaling → SAC rate eventually goes UP, not down. THE RIGHT PATTERN: slow, deep, rhythmic breathing — long exhales (longer than inhales, e.g. 3 sec inhale, 5 sec exhale), full lung-volume use to recruit dead-space air, continuous flow, NEVER hold breath. Result: lower SAC AND no CO₂ buildup AND no panic. WHY THIS IS DANGEROUS BEYOND DISCOMFORT: (1) Hypercapnia POTENTIATES nitrogen narcosis at depth (can turn a tolerable 30 m dive into severe narcosis); (2) Elevated CO₂ predisposes to CNS oxygen toxicity (lowers seizure threshold); (3) Eventually leads to dyspnea / panic which can cascade into uncontrolled ascent. (b) Skip breathing doesn't reduce blood volume. (c) OPPOSITE — skip breathing RAISES CO₂ and DROPS O₂. (d) Skip breathing actually increases narcosis risk via hypercapnia, but doesn't directly cause CNS O₂ toxicity (though hypercapnia lowers tox threshold).",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-218",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Gas Mixtures",
+    "question": "Signs and symptoms of hypoxia include:",
+    "options": {
+      "a": "A crawling sensation",
+      "b": "Cyanosis",
+      "c": "Numbness",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three are real signs of HYPOXIA (low blood/tissue O₂). (a) CRAWLING SENSATION / PARESTHESIAS — 'pins and needles,' tingling on skin, especially extremities; from peripheral nerve dysfunction as O₂ availability drops. (b) CYANOSIS — bluish-purple discoloration of lips, fingertips, mucous membranes. Classic LATE sign — happens when deoxygenated hemoglobin >5 g/dL in capillaries. Visible cyanosis = significant hypoxia (SpO₂ typically <85% before noticeable). (c) NUMBNESS — loss of sensation in extremities; brain doesn't get enough O₂ to maintain normal nerve function. OTHER HYPOXIA SIGNS not in the question: HEADACHE (early); CONFUSION / IMPAIRED JUDGMENT (insidious — diver doesn't realize they're impaired); VISUAL DISTURBANCES (tunnel vision, dimming); EUPHORIA ('happy hypoxia') — particularly dangerous because diver feels FINE; TACHYPNEA + TACHYCARDIA (compensatory); LOSS OF CONSCIOUSNESS at severe stage; CARDIAC ARREST at extreme. DIVING RELEVANCE: SHALLOW-WATER BLACKOUT in freediving = hypoxia at end of long breath-hold ascent (PpO₂ falling as ambient pressure drops) = unconscious diver who looks calm. Why solo freediving = solo dying. CO POISONING from contaminated fill produces hypoxia by binding Hb. HYPOXIC MIX at surface (technical diving error) hits within seconds. The insidious 'happy hypoxia' makes hypoxia uniquely dangerous — by the time you notice something's wrong, judgment is already impaired and decisions become bad.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-219",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Gas Mixtures",
+    "question": "A lack of oxygen in the body can cause:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Asphyxia and death",
+      "c": "Impairment of metabolic function",
+      "d": "Unconsciousness"
+    },
+    "correct": "a",
+    "explanation": "Severe hypoxia produces a cascade of failures, all listed. (b) ASPHYXIA AND DEATH — at the extreme. Brain irreversible damage at ~4–6 minutes of zero O₂. Cardiac muscle next. Drowning, severe CO poisoning, suffocation, hypoxic-mix surface incidents are diving-relevant pathways. (c) IMPAIRMENT OF METABOLIC FUNCTION — cells need O₂ for AEROBIC RESPIRATION (electron transport chain in mitochondria → ATP production, ~36 ATP per glucose). Without enough O₂, cells switch to ANAEROBIC GLYCOLYSIS → only ~2 ATP per glucose + lactic acid waste → metabolic acidosis → tissue dysfunction. Sustainable for minutes at most before cellular damage. (d) UNCONSCIOUSNESS — the BRAIN consumes ~20% of body's O₂ despite being only 2% of body mass; the most O₂-sensitive organ by far. Drops in PaO₂ produce loss of consciousness within seconds — 10–20 sec for sudden cessation, longer for gradual hypoxia. ORDER OF ORGAN FAILURE as O₂ deprivation worsens: (1) BRAIN first (consciousness loss in 10–20 sec of complete cessation; cellular damage at 4–6 min; permanent damage at 6–10 min — basis of CPR's '5 minute window'). (2) HEART — myocardial ischemia, arrhythmia, eventual asystole. (3) OTHER ORGANS (kidneys, liver) more tolerant, fail at longer durations. DIVING RELEVANCE: shallow-water blackout (freediving hypoxia on ascent), CO poisoning from contaminated fill, hypoxic mix at surface (technical diving error), drowning (water in lungs = no O₂ uptake) — all can produce this lethal cascade.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-220",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Gas Mixtures",
+    "question": "How does hyperventilation possibly cause hypoxia?",
+    "options": {
+      "a": "It decreases hemoglobin levels",
+      "b": "It decreases blood carbon monoxide levels",
+      "c": "It massively increases the amount of oxygen a diver inhales",
+      "d": "It causes an imbalance between oxygen intake and carbon dioxide levels"
+    },
+    "correct": "d",
+    "explanation": "This is the classic FREEDIVING SHALLOW-WATER BLACKOUT mechanism. SEQUENCE: (1) Pre-dive HYPERVENTILATION — diver breathes deeply and rapidly hoping to 'load up oxygen' (a myth — blood Hb is already saturated at sea level, you can't pre-stuff extra). (2) EFFECT: CO₂ blown off → HYPOCAPNIA (low CO₂); O₂ levels barely change. (3) Diver descends, holds breath; metabolism continues. (4) As metabolism progresses, CO₂ builds back up AND O₂ drops. (5) Normally rising CO₂ triggers urgent need to breathe — but starting from artificially LOW CO₂, the breathing-urge trigger is DELAYED far past safe O₂ levels. (6) On ASCENT, ambient pressure drops, PpO₂ in lungs drops further → O₂ FALLS BELOW THE CONSCIOUSNESS THRESHOLD BEFORE THE BREATHING URGE HITS → SHALLOW-WATER BLACKOUT (often within meters of the surface). (7) Unconscious diver underwater drowns unless rescued by a trained buddy. The 'IMBALANCE BETWEEN O₂ INTAKE AND CO₂ LEVELS' (d) describes exactly this: the body's natural alarm system (CO₂-driven urge to breathe) is MUTED while O₂ actually drops dangerously. Why NEVER hyperventilate before freediving, ALWAYS dive with a trained buddy who can rescue. Modern freediving training explicitly forbids hyperventilation. (a) Hyperventilation doesn't reduce Hb levels. (b) Hyperventilation doesn't significantly affect CO levels. (c) You can't massively increase inspired O₂ by breathing harder — already saturated.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-221",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Gas Mixtures",
+    "question": "The minimum partial pressure of oxygen required to sustain life is:",
+    "options": {
+      "a": "1.40",
+      "b": "0.10",
+      "c": "0.21",
+      "d": "0.18"
+    },
+    "correct": "b",
+    "explanation": "The absolute physiological floor for sustaining consciousness / life is around 0.10 bar PpO₂ — below this, arterial O₂ saturation collapses rapidly and unconsciousness/death follow within seconds to minutes. PpO₂ BENCHMARKS FOR DIVERS: <0.10 bar = LETHAL HYPOXIA (immediate unconsciousness, this is the question's answer); 0.16 bar = minimum sustainable (significant impairment, tunnel vision, judgment compromised); 0.18 bar = PRACTICAL SAFE MINIMUM (technical diving standard for travel/bottom gas; below this you wouldn't deliberately design a breathable mix); 0.21 bar = sea-level air (normoxic baseline); 1.4 bar = recommended WORKING MAXIMUM (CNS-tox safety standard for nitrox/trimix); 1.6 bar = CONTINGENCY MAXIMUM (deco / emergency use only); >1.6 bar = escalating CNS oxygen-toxicity risk. TECH-DIVING DESIGN RULE: hypoxic mixes must be designed so PpO₂ ≥ 0.18 bar at the SHALLOWEST depth they'll be breathed — otherwise you have a 'blackout depth zone' you can't transit safely. The difference between 0.10 (the absolute survival floor) and 0.18 (the safe operational minimum) gives a margin so a brief regulator failure or accidental ascent doesn't drop you into unconsciousness territory immediately. (a) 1.40 bar is the working MAXIMUM for nitrox CNS safety, not a minimum. (c) 0.21 bar is normal sea-level air, not the minimum to survive. (d) 0.18 bar is the OPERATIONAL safe minimum (DIR / tech standard) but technically life can persist briefly down to ~0.10 bar.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-222",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Gas Mixtures",
+    "question": "Gases with a fraction of oxygen less than 0.18 are:",
+    "options": {
+      "a": "Hyperoxic",
+      "b": "Hypoxic",
+      "c": "Normoxic",
+      "d": "Anoxic"
+    },
+    "correct": "b",
+    "explanation": "HYPOXIC mixes have FO₂ < 0.18 by the strict tech-diving cutoff used in this Lesson 3.5. Note: SSI uses two different cutoffs in different contexts — mssi-sod-213 uses the looser '< 0.21' definition (anything below normal air), while this question uses the stricter '< 0.18' definition (the surface-unbreathable threshold). Both definitions appear in SSI texts. The 0.18 cutoff is the OPERATIONALLY meaningful one because that's where surface breathability fails: at 1 ATA, FO₂ < 0.18 means PpO₂ < 0.18 bar, below the practical safe minimum (mssi-sod-221). HYPOXIC MIX EXAMPLES: trimix 10/70 = 10% O₂ + 70% He + 20% N₂ (used for very deep dives, breathable only at depth where pressure raises PpO₂); trimix 12/65 = 12% O₂ used for extreme depths. THESE MIXES MUST BE SWITCHED ABOVE THEIR MINIMUM DEPTH (where PpO₂ ≥ 0.18 bar minimum) — typically with a TRAVEL GAS (often EAN32 or air) for the upper portion of the dive. Procedure error in switching back to hypoxic mix above its safe depth = unconsciousness within seconds. (a) HYPEROXIC = above 0.21 (nitrox, pure O₂). (c) NORMOXIC = ~0.21 (air, normoxic trimix). (d) ANOXIC = literally ZERO oxygen, more extreme than hypoxic; practically not used as a category in diving (you'd never breathe an anoxic mix).",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-223",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Gas Mixtures",
+    "question": "Hypoxemic hypoxia occurs when:",
+    "options": {
+      "a": "The partial pressure of oxygen in arterial blood is too low",
+      "b": "Low hemoglobin levels stop oxygen from binding to red blood cells",
+      "c": "Oxygenated blood cannot reach tissues and organs",
+      "d": "Toxic substances cause problems with red blood cell function"
+    },
+    "correct": "a",
+    "explanation": "⚠️ NEEDS VERIFICATION — recording the medically correct answer (a). HYPOXEMIC HYPOXIA literally means 'low blood oxygen' (hypo + oxy + -emia = blood) and refers to LOW PaO₂ (partial pressure of O₂ in ARTERIAL BLOOD). This is option (a). CAUSES OF HYPOXEMIC HYPOXIA: low FO₂ in inspired gas (hypoxic mix breathed at surface, high altitude); V/Q mismatch in lungs (pulmonary disease); diffusion defects (pulmonary edema, fibrosis); hypoventilation (drug-induced, mechanical chest wall issue). Diving-relevant scenarios: hypoxic mix at surface, drowning (water in lungs blocks O₂ uptake), severe IPE. THE FOUR CLASSIC HYPOXIA TYPES MAP CLEANLY TO THE OPTIONS: HYPOXEMIC / HYPOXIC = (a) low PaO₂; ANEMIC = (b) Hb dysfunction (CO poisoning, anemia); STAGNANT / CIRCULATORY = (c) inadequate blood flow; HISTOTOXIC = (d) cellular toxin (cyanide blocks cytochrome oxidase) — though SSI's mssi-sod-215 mapped histotoxic to 'RBC function' which is actually anemic territory. CONSISTENT MEDICAL TAXONOMY: (a)=Hypoxemic, (b)=Anemic, (c)=Stagnant, (d)=Histotoxic. The user noted uncertainty about answering (b) — the textbook answer is clearly (a). If mySSI actually grades (b), this is mySSI's wording inconsistency between Q215 (histotoxic mapped to RBC) and the correct hypoxemic definition; flag as exam-quirk to memorize per mySSI versus dive-medicine standard.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-224",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Gas Mixtures",
+    "question": "Recreational divers conducting no-decompression dives must use breathing gases with a partial pressure of oxygen:",
+    "options": {
+      "a": "Between 0.18 and 0.21",
+      "b": "Between 1.4 and 1.6",
+      "c": "Between 0.21 and 1.4",
+      "d": "Of anything up to 1.6"
+    },
+    "correct": "c",
+    "explanation": "Recreational no-decompression diving requires PpO₂ to stay in the safe operational window: 0.21 bar (atmospheric air, lower bound — recreational divers don't use hypoxic mixes) up to 1.4 bar (working CNS-tox safety limit, upper bound). Above 1.4 bar is CONTINGENCY-only territory (1.6 bar maximum reserved for emergency/decompression scenarios in technical diving) — never planned for recreational profiles. This range governs MOD CALCULATIONS for nitrox dives: MOD (m) = (PpO₂_max / FO₂ − 1) × 10. EAN32: MOD = (1.4 / 0.32 − 1) × 10 = 33.75 m; EAN36: MOD = 28.9 m; EAN40: MOD = 25 m; EAN50 (deco gas): MOD = 18 m; pure O₂: MOD = 4 m. Recreational divers diving on air stay safely under PpO₂ 1.4 because air's PpO₂ at 60 m would still only be 1.47 bar — but recreational depth limit is 40 m anyway, so air = max ~1.05 PpO₂. The 0.21–1.4 range is the practical envelope every recreational nitrox certified diver must stay within. (a) 0.18–0.21 is the hypoxic-to-air narrow zone, far too restrictive (this would forbid all nitrox). (b) 1.4–1.6 is contingency only, no time spent there electively. (d) 'Up to 1.6' allows contingency depth, not the recreational standard.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-225",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Gas Mixtures",
+    "question": "At what partial pressure of oxygen can hypoxia occur?",
+    "options": {
+      "a": "0.21",
+      "b": "0.16",
+      "c": "1.60",
+      "d": "0.18"
+    },
+    "correct": "b",
+    "explanation": "HYPOXIA symptoms typically begin at PpO₂ ≤ 0.16 bar — first signs are impaired judgment, tunnel vision, mild euphoria/confusion (the dangerous 'happy hypoxia' where the diver feels fine but cognition has degraded). Below this threshold, brain cells start running out of usable O₂ for normal metabolism. PpO₂ HYPOXIA SCALE: 0.21 bar = normal sea-level air (fully oxygenated, no hypoxia); 0.18 bar = OPERATIONAL SAFE MINIMUM (just above hypoxia threshold, used as design floor in tech diving); 0.16 bar = HYPOXIA ONSET — symptomatic; 0.10 bar = LETHAL floor (immediate unconsciousness, mssi-sod-221). The gap between 0.18 (safe minimum) and 0.16 (hypoxia onset) is the safety margin built into tech-diving gas planning. WHY 0.16 MATTERS in practice: hypoxic-mix surface incidents (technical diver accidentally breathes 10/70 at 1 ATA → PpO₂ = 0.10, immediate unconsciousness — but warning starts already at 0.16); altitude diving (effective FO₂ at altitude is reduced; high-altitude airfields can put divers at risk); freediving shallow-water blackout (ascent reduces PpO₂ as ambient pressure drops, can hit 0.16 just before surface). (a) 0.21 = normal air, no hypoxia. (c) 1.6 = HYPEROXIC range (CNS-tox risk), opposite direction entirely. (d) 0.18 = right at the safe-minimum threshold, just above hypoxia onset; SSI text uses 0.16 as the explicit hypoxia threshold.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-226",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Gas Mixtures",
+    "question": "At what partial pressure of oxygen does central nervous system toxicity typically occur at?",
+    "options": {
+      "a": "Lower than 0.18",
+      "b": "Greater than 1.60",
+      "c": "Lower than 1.20",
+      "d": "Greater than 0.21"
+    },
+    "correct": "b",
+    "explanation": "CNS OXYGEN TOXICITY (Paul Bert effect) typically manifests at PpO₂ EXCEEDING 1.6 bar — the contingency maximum that recreational and technical divers should never electively cross. RISK ZONES: 0.21–1.4 bar = recreational safe range; 1.4 bar = WORKING MAXIMUM (planned exposure stays at or below this for normal nitrox/trimix profiles); 1.4–1.6 bar = CONTINGENCY zone (emergency / decompression / brief deviation from plan, never planned bottom time); >1.6 bar = HIGH RISK, where CNS tox typically manifests acutely with VENTID-C symptoms (vision, ear, nausea, twitching, irritability, dizziness, CONVULSIONS — see mssi-sod-214). The 1.4-bar conservative working limit is set well below 1.6 because CNS-tox risk rises NON-LINEARLY with PpO₂ × time exposure, tracked as CNS CLOCK percentage (e.g., 1.6 bar = 100% CNS clock at 45 min exposure; 1.5 bar = 100% at 120 min; 1.4 bar = 100% at 150 min). INDIVIDUAL VARIABILITY is huge — the same diver may convulse at 1.3 bar one day and tolerate 1.6 bar another (CO₂ retention, exertion, immersion, cold all lower seizure threshold). RECREATIONAL PROFILES: rarely approach 1.4 (most recreational diving on air at 30 m gives PpO₂ ~0.84; even EAN40 at 25 m gives 1.4 — the planned MOD). TECHNICAL PROFILES: deco stops on 50% nitrox at 21 m = PpO₂ 1.55 bar (within 1.6 contingency); 100% O₂ at 6 m = 1.6 bar (decompression standard). (a) <0.18 = HYPOXIC range, opposite mechanism. (c) <1.20 = within safe operational range. (d) >0.21 = anything above air would include the entire safe range, far too inclusive.",
+    "source": "mySSI: SoD Lesson 3.5 Review"
+  }
+]

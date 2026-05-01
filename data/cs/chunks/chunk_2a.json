@@ -1,0 +1,317 @@
+[
+  {
+    "id": "mssi-sod-105",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Maintenance",
+    "question": "Which of the following statements about repairs is true?",
+    "options": {
+      "a": "Divers can repair any component themselves",
+      "b": "Divers can take components apart if they have a buddy to help them",
+      "c": "Repairs can be left until just before the dive",
+      "d": "Some components may require a specialist technician"
+    },
+    "correct": "d",
+    "explanation": "Equipment repair has tiers — and choosing the wrong tier voids warranty, can fail at depth, and is professionally catastrophic for an instructor. (1) USER-LEVEL (DIY OK): rinsing, drying, mouthpiece zip-tie change, fin/mask strap replacement, user-replaceable battery on some computers, basic LP hose o-ring swap, BCD inflator lubrication. (2) TECHNICIAN-LEVEL (factory-trained, manufacturer-certified): regulator 1st/2nd-stage rebuilds, BCD inflator overhaul, tank valve service, annual VIP (Visual Inspection of cylinder interior), 5-year HYDROSTATIC TEST of cylinders (pressure-test to 5/3 of working pressure). (3) SPECIALIST-LEVEL: rebreather electronics, OXYGEN-CLEAN service (anything ≥40% O₂), mixed-gas regulators, dive computer mainboard work. (a) Wrong — pressurized components require trained techs. (b) A buddy doesn't grant tech credentials. (c) NEVER dive with known unrepaired gear; 'fix it just before the dive' is the worst possible timing — no test cycle, no leak-down monitoring of the rebuilt regulator. If a student is injured on gear you serviced without authorization, your liability insurance will likely not cover you.",
+    "source": "mySSI: SoD Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-sod-106",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Selection",
+    "question": "Things that divers should consider when choosing equipment include whether it will be:",
+    "options": {
+      "a": "Suitable and reliable for their planned dive",
+      "b": "Overcomplicated",
+      "c": "All answers are correct",
+      "d": "Used consistently"
+    },
+    "correct": "c",
+    "explanation": "Three valid considerations all listed: (a) SUITABLE AND RELIABLE FOR THE PLANNED DIVE — biggest single factor. Match the rig to the conditions: cold water demands environmentally-sealed regulators, drysuit, hooded undersuit; tropical lets you go lighter; depth/decompression dives need redundancy (pony bottle or sidemount, dual computers, redundant masks/lights/cutters); cave/wreck diving demands long-hose primary + bungeed backup, etc. A rec-rated regulator fine for 30 m doesn't belong on 60 m trimix. (b) OVERCOMPLICATED — phrased awkwardly but real: match equipment complexity to your skill level and dive type. A new OWD diver doesn't need a 7-button air-integrated trimix computer with five gas slots — too many menus, too many ways to misconfigure mid-dive, and the diver loses confidence using kit they don't fully understand. (d) USED CONSISTENTLY — gear sitting unused 10 months a year develops more problems than gear in regular service: o-rings dry out, batteries corrode, neoprene cracks, springs lose calibration. Buy what you'll actually use; if you only dive twice a year on holidays, rental kit may beat ownership for both reliability AND budget.",
+    "source": "mySSI: SoD Lesson 4.1 Review"
+  },
+  {
+    "id": "mssi-sod-107",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Mask & Snorkel",
+    "question": "What additional features might a diver look for in a snorkel?",
+    "options": {
+      "a": "A really complex design",
+      "b": "A semi-dry or dry top to keep water out",
+      "c": "An integrated cylinder",
+      "d": "A mouth strap to keep it in the mouth"
+    },
+    "correct": "b",
+    "explanation": "Three snorkel-design tiers with the higher-tier features being the upgrade many divers buy: (1) WET — basic open tube, old-school simple, no failure points; user must purge water after every duck-dive or wave splash. Preferred by spearos / freedivers for low drag. (2) SEMI-DRY — a SPLASH GUARD / BAFFLE at the top deflects waves and surface chop without fully sealing — reduces water entry but airflow is unrestricted. (3) DRY — a FLOAT-ACTUATED VALVE at the top: when submerged the float lifts and closes the airway → zero water entry; on surfacing the float drops and the valve re-opens. Ideal for new divers, surface swims in chop, conditions where water entry would startle a diver. Most snorkels also have a PURGE VALVE at the lower bend (one-way exhaust to clear water with a sharp puff) and a FLEX section so the mouthpiece hangs naturally when not in the mouth. Snorkels attach to the LEFT side of the mask strap via a snorkel keeper / clip. (a) 'Really complex design' is not a specific feature, just an adjective. (c) An integrated cylinder defeats the very purpose of a snorkel (breathe at the surface WITHOUT scuba). (d) Snorkels are retained by the mouthpiece + the mask-strap clip — there's no 'mouth strap.'",
+    "source": "mySSI: SoD Lesson 4.2 Review"
+  },
+  {
+    "id": "mssi-sod-108",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Fins",
+    "question": "What factors should be considered when selecting fins?",
+    "options": {
+      "a": "Suitability",
+      "b": "Buoyancy",
+      "c": "Visibility",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three are real selection criteria: (a) SUITABILITY — match fin to dive type. OPEN-HEEL + BOOTIES for cold/temperate water, boat diving, and rocky entries (better foot protection, more kick power). FULL-FOOT for warm-water shore/snorkel use (less bulk, lighter for travel). STIFF BLADE for tech, sidemount, current diving (max thrust per kick, e.g. Hollis F1, OMS Slipstream); FLEXIBLE BLADE for new divers and photographers (less leg-fatigue, finer fine-tuning). SPLIT FINS for easy flutter kicks, low effort; PADDLE FINS for frog kick, helicopter turns, technical trim work. LONG FREEDIVING fins for breath-hold efficiency (impractical for scuba). (b) BUOYANCY — fins span very negative (tech rubber Jet/F1 sink fast) to neutral/positive (travel splits). Negative fins help bring sinking-leg trim back to horizontal in divers whose lung volume / drysuit air sends feet down. Positive fins keep legs floating for those with naturally heavy lower body. Affects whether ankle weights are needed. (c) VISIBILITY — bright contrasting colours (neon yellow, orange) help a buddy track you in murky water or on night dives, especially at distance — more important than divers usually credit, particularly during instructor work where you're tracking 4–6 students at once.",
+    "source": "mySSI: SoD Lesson 4.2 Review"
+  },
+  {
+    "id": "mssi-sod-109",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Mask & Snorkel",
+    "question": "When choosing a mask, divers should consider whether the mask has:",
+    "options": {
+      "a": "Equalization nose pockets and/or a purge valve",
+      "b": "All answers are correct",
+      "c": "Strap locking devices and/or adaptability for vision correction",
+      "d": "A silicone mask skirt"
+    },
+    "correct": "b",
+    "explanation": "All three feature groups are real selection criteria. (a) EQUALIZATION NOSE POCKET — must be SOFT enough to pinch the nostrils for Frenzel / Valsalva (a too-rigid or too-wide nose pocket makes equalizing difficult, especially head-down). PURGE VALVE — a one-way valve in the bottom of the mask skirt that lets you clear water by exhaling through the nose with the head upright (helpful for new divers; tech/wreck divers tend to skip it — fewer leak points, cleared by 'tilt and blow'). (c) STRAP LOCKING DEVICES — ratchet buckles, push-button quick-releases, BUNGEE STRAPS (faster donning, no hair-pulling, especially with a hood). VISION CORRECTION — many manufacturers (Cressi, Tusa, Atomic, Mares) sell drop-in PRESCRIPTION LENS INSERTS, mostly negative diopters but bifocals and stick-on log/computer readers also exist; critical for any diver who normally wears glasses. (d) SILICONE MASK SKIRT — the modern industry standard: soft, hypoallergenic, durable, doesn't yellow with age (unlike old neoprene-rubber). Two skirt colors: CLEAR silicone (more peripheral light, better for photo, occasionally claustrophobic) and BLACK silicone (kills glare, sharpens screen viewing on computers/cameras, popular with spearos and underwater photographers).",
+    "source": "mySSI: SoD Lesson 4.2 Review"
+  },
+  {
+    "id": "mssi-sod-110",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Fins",
+    "question": "What are the two main types of fin?",
+    "options": {
+      "a": "No answers are correct",
+      "b": "Full-foot fins and monofins",
+      "c": "Full-foot fins and open-heel fins",
+      "d": "Open-heel fins and paddle fins"
+    },
+    "correct": "c",
+    "explanation": "Two basic FOOT-MOUNT styles of dive fin: (1) FULL-FOOT FINS — closed-back foot pocket like a shoe; slip on barefoot or with a thin neoprene sock. Lightweight, low drag, popular for warm-water snorkel/free/scuba and travel kit. (2) OPEN-HEEL FINS — open back with an adjustable heel strap (rubber, bungee, or spring); worn with dive BOOTIES. Adjustable fit, protective, the standard for cold/temperate water, boat diving, and technical configurations. (a) Wrong — (c) covers it. (b) MONOFIN = single big blade for both feet, used in competitive finswimming and some freediving — not one of the two basic SCUBA fin foot-mount types. (d) 'Paddle' is a blade STYLE (versus split / vented / hinge), not a foot-mount class — both full-foot and open-heel fins can be paddle blades, so this option mixes categories.",
+    "source": "mySSI: SoD Lesson 4.2 Review"
+  },
+  {
+    "id": "mssi-sod-111",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Fins",
+    "question": "How do open-heel fins differ from full-foot fins?",
+    "options": {
+      "a": "Divers can use boots with them",
+      "b": "They are adjustable",
+      "c": "They allow more protection when used with boots",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "Three real differences, all listed. (a) BOOTS — open-heel fins are designed around bootie use; you cannot get a bootie into a full-foot pocket (which is sized to a bare foot). (b) ADJUSTABLE — the heel strap (rubber, bungee, or stainless-steel spring) lets you fine-tune fit, share fins between divers in a class, accommodate thin tropical booties one trip and 7 mm cold-water booties the next. (c) PROTECTION — booties shield the foot from rocks, sea urchins, hot/cold deck surfaces, and abrasion at the heel; with full-foot fins the foot is exposed apart from a thin sock. Side benefits not in the question: spring or bungee straps don't perish or snap the way old rubber straps do (and won't dump a fin off the foot in a current); a single open-heel fin model fits a wider range of foot sizes than its full-foot equivalent because of the adjustable strap.",
+    "source": "mySSI: SoD Lesson 4.2 Review"
+  },
+  {
+    "id": "mssi-sod-112",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Fins",
+    "question": "Using fins helps reduce a diver's effort because they:",
+    "options": {
+      "a": "Increase the surface area of the feet and displace more water with each kick",
+      "b": "Turn forward thrust into leg motion",
+      "c": "Propel divers through the water with faster kicks",
+      "d": "Decrease the surface area of the feet and displace less water with each kick"
+    },
+    "correct": "a",
+    "explanation": "Fin propulsion is Newton's third law in action. A fin INCREASES the effective foot surface area by roughly 4–10× depending on blade size and style → each kick DISPLACES a much larger mass of water backward → proportionally larger forward reaction force on the diver. Practical result: same speed with FEWER, SLOWER, more powerful kicks (well-trained scuba flutter cadence is around 1 cycle per second or even slower with stiff blades) instead of frantic bare-foot paddling. Why this matters for gas consumption: legs are large muscle groups; high-cadence kicking burns O₂ disproportionately and spikes SAC rate. Slower, bigger, more efficient kicks lower CO₂ production, lower SAC, and reduce DCS-relevant exertion at depth. (b) Wrong causal direction — leg motion creates thrust, not vice versa. (c) FASTER kicks would mean MORE effort; fins enable SLOWER kicks for the same result. (d) Opposite of the truth.",
+    "source": "mySSI: SoD Lesson 4.2 Review"
+  },
+  {
+    "id": "mssi-sod-113",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Cylinders",
+    "question": "When should a diver discard a cylinder and swap it for an alternative?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "When is displays an expired hydrostatic test date",
+      "c": "When the cylinder shows signs of damage, deterioration, or corrosion",
+      "d": "When the valve is difficult to operate"
+    },
+    "correct": "a",
+    "explanation": "All three are real condemnation triggers — never dive a cylinder you wouldn't fill, never fill a cylinder you wouldn't dive. (b) EXPIRED HYDROSTATIC TEST — legally required pressure test (typically 5/3 of working pressure) at scheduled intervals to certify the cylinder won't burst: EU / PED commonly 2.5-yearly VIP + 5-yearly hydro; US / DOT every 5 years hydro; UK 2.5-yearly visual + 5-yearly hydro. Expired hydro = no legal fill. (c) DAMAGE, DETERIORATION, CORROSION — caught at annual Visual Inspection (VIP): steel cylinders condemned for rust pitting (typically >1.5 mm depth), neck-thread damage, weld failures, severe dents; aluminum cylinders — especially older 6351-T6 alloy Luxfers — checked for SUSTAINED-LOAD CRACKING in the neck threads via eddy-current test (several catastrophic real-world failures). Fire / heat damage anneals the metal and weakens it permanently → condemn immediately. (d) STIFF VALVE — corrosion or wear in the valve mechanism, leaking burst disc, damaged seat. Often the VALVE alone needs service or replacement, but a forced removal can damage the cylinder neck threads and condemn the whole tank. Never force a stuck valve. When in doubt, VIP / eddy / hydro before risking a fill — cylinder failures at 200 bar are violent.",
+    "source": "mySSI: SoD Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-sod-114",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Cylinders",
+    "question": "Single cylinders can be used:",
+    "options": {
+      "a": "By connecting them together with a manifold for extended range dives.",
+      "b": "In sidemount diving",
+      "c": "All answers are correct",
+      "d": "By recreational divers for no-decompression dives."
+    },
+    "correct": "c",
+    "explanation": "All three are real configurations using SINGLE cylinders as the building block: (a) MANIFOLDED TWINS / BANDED DOUBLES — two matched single cylinders are bolted together side-by-side and joined at the top by an ISOLATION MANIFOLD: a center valve with a knob in the middle that, when closed, isolates left from right. Tech / extended-range / cave / wreck divers run this for huge gas volume + redundancy. The isolation knob is the safety feature: a leaking valve, burst disc, or hose failure on one side can be isolated, preserving the other half. (b) SIDEMOUNT — two INDEPENDENT single cylinders worn on the diver's hips, each with its own complete regulator (1st stage + 2nd stage + LP inflator hose for the wing). Originated in UK / Florida cave diving; now mainstream for tech and recreational redundancy. Two truly independent gas sources, easy transport, fits through narrow cave restrictions. (d) RECREATIONAL SINGLE BACK-MOUNT — the standard rec setup: one cylinder on the back, one regulator (1st stage + primary 2nd + alternate/octo + LP inflator + SPG), dives within NDL. ~99% of recreational dives.",
+    "source": "mySSI: SoD Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-sod-115",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Cylinders",
+    "question": "How does a diver use a manifold to isolate the gas flow from one cylinder when using a twinset?",
+    "options": {
+      "a": "They close the isolation manifold to turn off the gas flow between cylinders",
+      "b": "They turn off the right cylinder valve",
+      "c": "They turn off the cylinder valve that is not working",
+      "d": "They turn off the left cylinder valve"
+    },
+    "correct": "a",
+    "explanation": "Twinset valve geometry has THREE valves: LEFT POST (feeds the left regulator), RIGHT POST (feeds the right regulator), and the ISOLATION VALVE in the center of the manifold crossover bar (controls flow BETWEEN the two cylinders). Normal diving state: all three valves OPEN — gas equalizes across both cylinders, both regulators feed from the combined volume. ISOLATION DRILL when a leak is detected: (1) CLOSE THE CENTER ISOLATION VALVE FIRST — this cuts the connection between cylinders, so a leak on one side now only drains its own cylinder, not the other. (2) Identify and shut down the leaking side's post valve (left or right) — stops the leak completely. (3) Switch to the working regulator on the non-leaking side, signal buddy, and abort the dive — half your gas is preserved (the non-leaking cylinder's full content). Critical sequence: if you close a post valve FIRST without isolating the manifold, gas continues to flow across the manifold from the other cylinder OUT through the leak — you lose everything. (b, c, d) closing only a post valve shuts off one regulator but does NOT isolate flow BETWEEN cylinders, which is exactly what this question asks about.",
+    "source": "mySSI: SoD Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-sod-116",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Cylinders",
+    "question": "A pony cylinder is:",
+    "options": {
+      "a": "A small cylinder used for staged decompression",
+      "b": "A small cylinder with a valve shaped like a pony",
+      "c": "A small cylinder that can be connected to a single cylinder with a manifold",
+      "d": "A small cylinder that contains an additional supply of gas for emergencies"
+    },
+    "correct": "d",
+    "explanation": "PONY BOTTLE = small auxiliary cylinder with its OWN COMPLETE INDEPENDENT REGULATOR (1st stage + 2nd stage), carried alongside the main cylinder as an emergency gas source. Common sizes: 2 L / 3 L / 4 L / 6 L (= roughly 13 / 19 / 30 / 40 cu ft US). Mounted via sling, bungee on the side, or back-mount accessory bracket. The whole point is INDEPENDENCE — any failure of the main system (free-flow, burst hose, isolated leak you didn't catch in time, broken SPG) doesn't touch the pony. Switch to the pony's regulator and ascend safely. When divers use them: solo diving (pony replaces the buddy as redundant gas source), deep dives near NDL (extra margin where the swim up takes time), photographers / videographers (often physically separated from buddy and deeply absorbed in the subject), light overhead / wreck swim-throughs where CESA isn't a clean option. Important distinction: a STAGE / DECO bottle is a cylinder you plan to USE during the dive (extra range gas, or pure O₂ / rich nitrox for decompression); a PONY is strictly EMERGENCY gas, ideally never breathed. (a) Wrong — staged-decompression cylinder = stage/deco bottle, different role. (b) Joke distractor. (c) Manifolding the pony to the main defeats the point — gas would equalize across both, and a leak in either drains everything; INDEPENDENCE is the design goal.",
+    "source": "mySSI: SoD Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-sod-117",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Cylinders",
+    "question": "Which of the following statements about yoke connections is true?",
+    "options": {
+      "a": "The first stage fits like a clamp and tightens over the cylinder valve",
+      "b": "It is the standard connection on most U.S.-made cylinders.",
+      "c": "It operates at lower working pressures compared to DIN connections.",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three statements about YOKE (also called A-CLAMP or INT) connections are correct. (a) MECHANICAL DESIGN — the regulator 1st stage has a horseshoe-shaped clamp that hooks over the cylinder valve face; a screw at the back of the regulator tightens the clamp against the valve, compressing an O-RING ON THE VALVE FACE to seal. Visual ID: external clamp, large knob protruding behind the regulator. (b) U.S. STANDARD — yoke (CGA-850 / INT 232) dominates North America, especially recreational scuba. Most US aluminum-80 cylinders ship with yoke valves; rental fleets in the Caribbean / Cozumel / Florida are overwhelmingly yoke. (c) LOWER WORKING PRESSURE — yoke is rated to ~232 bar (3300 psi) maximum. DIN connections come in two ranges: 5-thread DIN (G5/8\") to 232 bar, and 7-thread DIN (M26x2) to 300 bar. DIN is also considered more secure because the O-RING IS CAPTURED inside the threaded connection (can't blow out under shock load), and there's no protruding clamp to snag on overhangs. European, tech, and cold-water divers strongly prefer DIN; most premium regulators ship DIN with a screw-in DIN-to-YOKE ADAPTER for backward compatibility.",
+    "source": "mySSI: SoD Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-sod-118",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Cylinders",
+    "question": "What is the role of filter systems in breathing compressors?",
+    "options": {
+      "a": "Removing water from the air",
+      "b": "Monitoring compressor temperature",
+      "c": "Removing contaminants from the air",
+      "d": "Regulating gas flow"
+    },
+    "correct": "c",
+    "explanation": "A breathing-air compressor has a STACK OF FILTERS in series, all aimed at removing CONTAMINANTS — water is just one of many. Typical stages: (1) INTAKE FILTER — debris, dust, large particles; (2) INTER-STAGE COOLERS — drop air temp between compression stages so water vapor condenses out; (3) COALESCING / WATER-SEPARATOR — bulk water droplets and oil aerosols; (4) ACTIVATED CARBON — odors, hydrocarbons, taste; (5) MOLECULAR SIEVE — residual moisture (dewpoint < −50 °C); (6) HOPCALITE CATALYST — manganese dioxide + copper oxide, converts deadly CO → CO₂ (critical: compressor intake near a running vehicle pulls in carbon monoxide). Together they keep gas within breathing-air STANDARDS — EU EN 12021 / US CGA Grade E: O₂ 19.5–23.5%, CO ≤ 5–10 ppm, CO₂ ≤ 500 ppm, oil ≤ 0.5 mg/m³, low water content. Why it matters: at depth, partial pressure of any contaminant scales with ambient (4 bar at 30 m = 5× surface). CO that's tolerable at 1 bar becomes incapacitating at depth (binds hemoglobin ~250× more avidly than O₂). Bad fills kill divers. (a) Water removal is a SUBSET of (c) — partial answer. (b) Temperature is monitored by sensors / thermocouples, not filters. (d) Gas-flow regulation is the regulator's job, downstream of the cylinder.",
+    "source": "mySSI: SoD Lesson 4.3 Review"
+  },
+  {
+    "id": "mssi-sod-119",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Regulators",
+    "question": "What is the basic purpose of the first and second stages?",
+    "options": {
+      "a": "First- and second-stage valves open and close according to demand",
+      "b": "The first stage reduces high-pressure cylinder gas to intermediate pressure",
+      "c": "The second stage reduces intermediate-pressure gas to ambient pressure",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three statements describe a modern two-stage DEMAND regulator. (a) DEMAND-ACTUATED — both stages cycle open/closed in response to gas flow. The 2nd stage: inhale → diaphragm flexes inward → lever tilts → poppet opens → gas flows; stop inhaling → diaphragm relaxes → poppet closes. The 1st stage: maintains a set INTERMEDIATE PRESSURE (IP) in the LP hose; when IP drops because gas just exited via the 2nd stage on inhalation, the 1st stage opens, refills the hose, then closes — also a demand-driven cycle. (b) HP → IP — cylinder pressure (200–300 bar / 3000–4500 psi) is reduced to AMBIENT + ~9–10 bar (130–145 psi). Note 'ambient +': diaphragm/piston 1st stages COMPENSATE for depth — at 30 m (4 bar ambient), IP rises to ~13–14 bar absolute so the 2nd stage stays at the same Δ-pressure for breathing effort regardless of depth. (c) IP → AMBIENT — the mouthpiece-end stage drops IP to whatever the surrounding water pressure is, so you breathe at the same pressure as the water around your chest. Zero pressure differential across your lungs is exactly why scuba breathing feels close to surface breathing instead of like sucking through a 30-m straw. The genius of the two-stage system: doing the pressure drop in two graduated steps keeps the regulator stable and breathing effort low, and lets each stage be optimized for its own pressure range.",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-sod-120",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Regulators",
+    "question": "Internal icing may be caused by:",
+    "options": {
+      "a": "Too little humidity in the cylinder",
+      "b": "Diving in extremely cold water",
+      "c": "Rapidly inflating a dry suit while breathing heavily",
+      "d": "Too much humidity in the cylinder"
+    },
+    "correct": "d",
+    "explanation": "INTERNAL ICING of a regulator is caused by MOISTURE INSIDE THE GAS itself. Mechanism: (1) gas in the cylinder contains water vapor (a function of fill-air quality — never perfectly dry); (2) as HP gas expands through the 1st-stage orifice, JOULE-THOMSON COOLING (adiabatic expansion) drops gas temperature by tens of degrees; (3) if the drop pushes gas below 0 °C, water vapor in the gas CONDENSES AND FREEZES on internal surfaces (poppet, lever, seat); (4) ice mechanically holds the valve OPEN → uncontrollable FREE-FLOW. The chain: water vapor + extreme cooling + high flow = internal ice. (a) TOO LITTLE humidity actually PREVENTS icing — dry gas can't make ice. That's why fill quality matters: Grade E / EN 12021 specs limit water content, and tech divers fill to dewpoint < −50 °C specifically to dive cold water without icing risk. (b) Cold water is a CONTRIBUTING factor but not the root cause: cold ambient brings the gas closer to freezing before it even expands, so JT cooling now pushes well below 0 °C — but bone-dry gas in cold water still won't form ice. Cold water primarily drives EXTERNAL icing (water in the regulator body freezing on metal surfaces). (c) Rapid drysuit inflation + heavy breathing is a PRECIPITATING event (flash ice during a high-demand moment) but again only an issue if moisture is present. The question asks what fundamentally CAUSES internal icing — that's the humidity in (d).",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-sod-121",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Regulators",
+    "question": "Common types of piston first stage include the:",
+    "options": {
+      "a": "Demand valve piston",
+      "b": "Balanced diaphragm",
+      "c": "Venturi assist",
+      "d": "Classic piston and air-balanced flow-through piston"
+    },
+    "correct": "d",
+    "explanation": "Two main piston 1st-stage architectures: (1) CLASSIC / UNBALANCED PISTON (e.g. older Scubapro Mk2) — simple, cheap, durable, very few moving parts. Drawback: intermediate pressure (IP) drifts slightly with cylinder pressure (a few psi higher when tank is full, lower when nearly empty), so breathing effort is not perfectly constant through the dive. (2) AIR-BALANCED FLOW-THROUGH PISTON (e.g. Scubapro Mk-25, Atomic Z3) — same flow-through layout but with a BALANCE CHAMBER above the piston so IP stays CONSTANT regardless of cylinder pressure. Very high gas-flow rates → excellent breathing performance even when shared with a buddy, at depth, or under heavy workload. Industry workhorse for tech and high-end recreational diving. (a) 'Demand-valve piston' — non-standard term; 'demand valve' is a 2nd-stage concept. (b) BALANCED DIAPHRAGM is a 1st-stage TYPE but uses a DIAPHRAGM (a flexible membrane) rather than a piston as the moving element — different category. Diaphragm 1st stages are often environmentally sealed for cold-water and silty diving (Apeks DST, ScubaPro Mk-17). (c) VENTURI ASSIST is a 2nd-STAGE feature (the dive/pre-dive lever on Apeks, the VAD system in Mares) that channels gas flow to pull the diaphragm further open once breathing starts — not a 1st-stage type at all.",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-sod-122",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Regulators",
+    "question": "A first stage with complex moving parts may:",
+    "options": {
+      "a": "Be more expensive to service",
+      "b": "Require less frequent servicing",
+      "c": "Be less expensive to service",
+      "d": "Have fewer points of potential failure"
+    },
+    "correct": "a",
+    "explanation": "More complexity = more moving parts (extra balance chambers, additional o-rings, sensitive springs, swivel turrets) = more components to inspect, lubricate, and replace at each service. Larger service kits cost more in parts alone, and the labor time per overhaul is longer → HIGHER service cost. This is the eternal regulator trade-off: a CLASSIC UNBALANCED PISTON (Mk2-style) is the cheapest to maintain — fewer parts, decades of trouble-free service, simple — but it breathes harder at depth and when shared. A BALANCED / AIR-BALANCED PISTON OR DIAPHRAGM regulator breathes smoothly at any depth, holds IP constant, and donates well — but every annual costs more, and a poorly-trained technician has more places to mess up. (b) LESS FREQUENT? Opposite — complex regulators typically have the same or SHORTER service intervals because more parts are under wear. (c) Cheaper? Opposite. (d) FEWER failure points? Opposite — more parts means more potential failure modes (every spring, o-ring, swivel, balance chamber adds another way it can leak, freeze, or drift out of spec).",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-sod-123",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Regulators",
+    "question": "The force of inhalation a diver must use to open the demand valve is sometimes called the:",
+    "options": {
+      "a": "Deco effort",
+      "b": "Splitting effort",
+      "c": "Blackout",
+      "d": "Cracking effort"
+    },
+    "correct": "d",
+    "explanation": "CRACKING EFFORT (also called CRACKING PRESSURE or OPENING EFFORT) is the negative pressure (suction) a diver must generate to first lift the 2nd-stage poppet off its seat and start gas flow. Measured in INCHES OF WATER COLUMN (in. H₂O) or millibars. ANSTI breathing-simulator specs: high-end balanced regulator ~1.0–1.2 in. H₂O cracking effort; mid-range ~1.5–2.0 in. H₂O. ADJUSTABLE 2nd stages (Apeks XTX, Atomic, Scubapro G-series) have a user knob to tune cracking effort against free-flow risk — open it up at depth for easier breathing, snug it down for surface swims and boat handling to prevent free-flow when the regulator dangles mouthpiece-up in the water. Lower cracking effort = easier breathing but more free-flow risk; higher cracking effort = stable but more work-of-breathing. Total breathing performance also includes WORK OF BREATHING (WOB, the integrated effort over a full breath cycle) and EXHALATION EFFORT (resistance going the other way — usually low because of mushroom-style exhaust valves). (a, b) Not real terms. (c) Blackout = loss of consciousness, e.g. shallow-water blackout in freediving from hypoxia — entirely different concept.",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-sod-124",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Regulators",
+    "question": "Regulators with built-in environmental protection:",
+    "options": {
+      "a": "Have environmental sealing",
+      "b": "Are designed for use in cold water",
+      "c": "May have coated piston surfaces for thermal protection",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three describe environmentally-sealed (cold-water) 1st stages. (a) ENVIRONMENTAL SEALING — a sealed secondary chamber surrounds the spring / piston / diaphragm, isolating it from ambient water. The chamber is filled with silicone oil, alcohol/glycol mix, or sealed by a SECOND DIAPHRAGM that transmits ambient pressure without letting water in. Stops salt, silt, and freezing water from contacting the moving parts. (b) COLD WATER — sealed regulators handle 4 °C / 39 °F and below far better than open-spring designs because there's no water inside the regulator to freeze. SSI / EN-250 cold-water (≤10 °C) rating typically requires this design. DIAPHRAGM 1st stages are easier to seal (the diaphragm itself acts as the water-block — Apeks DST, Scubapro Mk-17); piston designs (Mk-25 EVO) seal the spring chamber with an environmental kit. (c) COATED PISTON SURFACES — DLC (diamond-like carbon), titanium nitride, or thick-chrome surface treatments on piston shaft and seat reduce thermal conductivity, friction, and ice-nucleation tendency. Atomic, Scubapro, Apeks all use these on cold-water lines. Combined: the regulator can survive ice-water dives where a basic unsealed piston would lock open in free-flow within 30 seconds.",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  },
+  {
+    "id": "mssi-sod-125",
+    "area": "science_of_diving",
+    "subarea": "Equipment — Regulators",
+    "question": "The basic operating principle of a regulator is that diver inhalation causes pressure inside the regulator to:",
+    "options": {
+      "a": "Rise and open valves to allow gas flow",
+      "b": "Drop and open valves to allow gas flow",
+      "c": "Drop and close valves to allow gas flow",
+      "d": "Rise and close valves to allow gas flow"
+    },
+    "correct": "b",
+    "explanation": "Demand-valve sequence in slow motion: (1) Diver INHALES — chest expands, creates suction at the mouthpiece. (2) Pressure DROPS inside the 2nd-stage air chamber (the space between diaphragm and mouthpiece) below ambient water pressure. (3) Pressure differential now exists across the diaphragm: ambient water on the outside > regulator interior. (4) Diaphragm FLEXES INWARD pushed by water. (5) Diaphragm contacts the lever and tilts it. (6) Lever lifts the poppet OFF its seat → valve OPENS. (7) Gas flows from the LP hose through the open valve into the 2nd-stage chamber and out the mouthpiece. (8) Diver stops inhaling → pressure equalizes → diaphragm relaxes → small spring closes the poppet. The genius: the diaphragm is the diver's interface with AMBIENT WATER pressure. Whatever pressure the water is at, the regulator delivers gas at that exact pressure (ambient compensation built into the design). At 30 m gas comes out at 4 bar absolute; at the surface, 1 bar — always matched to the diver's chest pressure, so breathing effort stays low. (a) Rise + open — wrong direction; inhalation creates vacuum, not pressure rise. (c) Drop + close — pressure does drop but the valve OPENS, not closes. (d) Rise + close — wrong on both counts.",
+    "source": "mySSI: SoD Lesson 4.4 Review"
+  }
+]
