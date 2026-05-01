@@ -181,6 +181,7 @@ const I18N = {
     "dash.collapse_all": "Collapse all",
     "dash.subarea_indent": "↳",
     "dash.no_subareas": "(no subareas)",
+    "dash.empty_pool_hint": "No drillable questions in this scope (Personal questions may be locked — use the Personal lock toggle in Settings to unlock them).",
 
     // Browse
     "browse.title": "Browse questions",
@@ -523,6 +524,7 @@ const I18N = {
     "dash.collapse_all": "Sbalit vše",
     "dash.subarea_indent": "↳",
     "dash.no_subareas": "(bez podoblastí)",
+    "dash.empty_pool_hint": "Žádné otázky k drillování v této oblasti (Personal otázky mohou být uzamčené — odemkneš je v Nastavení).",
 
     // Browse
     "browse.title": "Procházet otázky",
@@ -2079,8 +2081,14 @@ function computeAreaStats(viewState) {
   for (const key of Object.keys(AREA_LABELS)) {
     stats[key] = { total: 0, mssi: 0, web: 0, seen: new Set(), attempts: 0, correct: 0, m100: 0, m50: 0, study: 0, disputed: 0 };
   }
+  // Lock-aware: hide personal questions from totals when locked. This matches
+  // buildSubareaIndex / computeSubareaStats behaviour and ensures dashboard
+  // shows the *actually drillable* counts. Without this, a guest user sees
+  // 100 questions in OWD but Set-to-drill produces an empty pool.
+  const unlocked = isPersonalUnlocked();
   for (const q of state.questions) {
     if (!stats[q.area]) continue;
+    if (!unlocked && sourceTypeKey(q) === "personal") continue;
     stats[q.area].total++;
     const stype = sourceTypeKey(q);
     if (stype === "mssi") stats[q.area].mssi++;
@@ -2237,8 +2245,12 @@ function _dashAreaRowHtml(areaKey, label, s, hasSubareas, expanded) {
   const caret = hasSubareas
     ? `<button type="button" class="dash-toggle ${expanded ? "open" : ""}" data-area="${escapeHtml(areaKey)}" title="${escapeHtml(t(expanded ? "dash.collapse_area" : "dash.expand_area"))}" aria-expanded="${expanded}">${expanded ? "▾" : "▸"}</button>`
     : `<span class="dash-toggle dash-toggle-empty" aria-hidden="true">·</span>`;
+  // Hide actions on empty rows (e.g., area is 100% Personal-locked for a guest user).
+  const actions = s.total > 0
+    ? `<button type="button" class="ghost dash-drill-btn" data-area="${escapeHtml(areaKey)}" title="${escapeHtml(t("dash.set_to_drill_title"))}">▸ ${escapeHtml(t("dash.set_to_drill"))}</button><button type="button" class="ghost dash-reset-btn" data-area="${escapeHtml(areaKey)}" title="${escapeHtml(t("dash.reset_area_title"))}">↻ ${escapeHtml(t("dash.reset_area"))}</button>`
+    : `<span class="muted dash-empty-hint" title="${escapeHtml(t("dash.empty_pool_hint"))}">—</span>`;
   return `
-    <tr class="dash-row-area ${expanded ? "expanded" : ""}" data-area="${escapeHtml(areaKey)}">
+    <tr class="dash-row-area ${expanded ? "expanded" : ""} ${s.total === 0 ? "dash-empty" : ""}" data-area="${escapeHtml(areaKey)}">
       <td class="area-name">${caret}<span class="dash-area-label">${escapeHtml(label)}</span></td>
       <td class="num">${s.total}</td>
       <td class="num good">${s.mssi}</td>
@@ -2251,7 +2263,7 @@ function _dashAreaRowHtml(areaKey, label, s, hasSubareas, expanded) {
       <td class="num">${s.m50}</td>
       <td class="num">${s.study}</td>
       <td class="num">${s.disputed}</td>
-      <td class="action-cell"><button type="button" class="ghost dash-drill-btn" data-area="${escapeHtml(areaKey)}" title="${escapeHtml(t("dash.set_to_drill_title"))}">▸ ${escapeHtml(t("dash.set_to_drill"))}</button><button type="button" class="ghost dash-reset-btn" data-area="${escapeHtml(areaKey)}" title="${escapeHtml(t("dash.reset_area_title"))}">↻ ${escapeHtml(t("dash.reset_area"))}</button></td>
+      <td class="action-cell">${actions}</td>
     </tr>`;
 }
 

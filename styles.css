@@ -346,6 +346,12 @@ button.hidden { display: none; }
 .dash-table tr.dash-row-sub .sub-name { padding-left: 1.4rem; }
 .dash-table tr.dash-row-sub .dash-sub-indent { color: var(--accent); margin-right: 0.3rem; opacity: 0.6; }
 
+/* Visually de-emphasize empty rows (no drillable questions, e.g. Personal locked) */
+.dash-table tr.dash-empty .area-name,
+.dash-table tr.dash-empty .num { opacity: 0.5; }
+.dash-table tr.dash-empty:hover { background: transparent; cursor: default; }
+.dash-table .dash-empty-hint { font-size: 1.1rem; padding: 0 0.6rem; }
+
 /* Action column ("Set to drill" + "Reset this area" buttons) */
 .dash-table th.action-col { width: 14.5rem; }
 .dash-table td.action-cell { text-align: right; padding: 0.4rem 0.6rem; white-space: nowrap; }
