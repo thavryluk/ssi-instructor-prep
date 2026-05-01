@@ -2190,18 +2190,24 @@ function dashEnsureDefaultExpansion() {
   _dashDefaultsApplied = true;
 }
 
-// "Set to drill" actions: configure filters + jump to drill screen
+// "Set to drill" actions: configure filters + jump to drill screen.
+// Also resets source filter to "all" so the area/subarea selection isn't
+// silently undermined by a stale 'mssi' / 'web' / 'compiled' source filter
+// (e.g. clicking OWD with sourceFilter='mssi' would yield an empty pool
+// because OWD has no mySSI questions, only Personal exam PDFs).
 function setAreaToDrill(areaKey) {
   state.selectedAreas = new Set([areaKey]);
   state.selectedSubareas = new Set(); // clear subarea narrowing
-  saveAreas(); saveSubareas();
+  state.sourceFilter = "all";
+  saveAreas(); saveSubareas(); saveSourceFilter();
   next(); // pickRandom() respects the new filters and shows quiz-screen
 }
 
 function setSubareaToDrill(areaKey, group) {
   state.selectedAreas = new Set([areaKey]);
   state.selectedSubareas = new Set([subareaKey(areaKey, group)]);
-  saveAreas(); saveSubareas();
+  state.sourceFilter = "all";
+  saveAreas(); saveSubareas(); saveSourceFilter();
   next();
 }
 
