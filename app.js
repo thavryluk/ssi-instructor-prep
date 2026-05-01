@@ -172,6 +172,9 @@ const I18N = {
     "dash.set_to_drill": "Set to drill",
     "dash.set_to_drill_title": "Set this area filter and start drilling",
     "dash.set_to_drill_sub_title": "Set this area + subarea filter and start drilling",
+    "dash.reset_area": "Reset",
+    "dash.reset_area_title": "Reset pool stats for this area (answers move to TOTAL only)",
+    "dash.reset_subarea_title": "Reset pool stats for this subarea (answers move to TOTAL only)",
     "dash.expand_area": "Show subareas",
     "dash.collapse_area": "Hide subareas",
     "dash.expand_all": "Expand all",
@@ -333,6 +336,7 @@ const I18N = {
     "confirm.clear_log": "Clear all {n} log entries? This can't be undone.",
     "confirm.reset_pool_no_data": "No answered questions in current pool to reset.",
     "confirm.reset_pool": "Reset stats for {n} answered questions in current pool? Existing answers will move to TOTAL only — Pool/Dashboard/picking will treat them as unseen.",
+    "confirm.reset_area": "Reset stats for {n} answered questions in {scope}? Existing answers will move to TOTAL only — Pool/Dashboard/picking will treat them as unseen.",
     "confirm.reset_pool_done": "Marked {n} questions as reset.",
     "confirm.no_resets": "No reset marks to clear.",
     "confirm.clear_resets": "Clear {n} reset marks? Old answers will be re-counted toward Pool stats.",
@@ -510,6 +514,9 @@ const I18N = {
     "dash.set_to_drill": "Začít drillovat",
     "dash.set_to_drill_title": "Nastavit filtr na tuto oblast a začít drillovat",
     "dash.set_to_drill_sub_title": "Nastavit filtr na oblast + podoblast a začít drillovat",
+    "dash.reset_area": "Reset",
+    "dash.reset_area_title": "Resetovat statistiky výběru pro tuto oblast (odpovědi zůstanou jen v Celkové)",
+    "dash.reset_subarea_title": "Resetovat statistiky výběru pro tuto podoblast (odpovědi zůstanou jen v Celkové)",
     "dash.expand_area": "Zobrazit podoblasti",
     "dash.collapse_area": "Skrýt podoblasti",
     "dash.expand_all": "Rozbalit vše",
@@ -671,6 +678,7 @@ const I18N = {
     "confirm.clear_log": "Smazat všech {n} záznamů? Nelze vrátit zpět.",
     "confirm.reset_pool_no_data": "Žádné zodpovězené otázky ve výběru k resetu.",
     "confirm.reset_pool": "Resetovat statistiku {n} zodpovězených otázek v aktuálním výběru? Stávající odpovědi se přesunou jen do Celkové statistiky — Výběr/Přehled/výběr otázek je budou ignorovat.",
+    "confirm.reset_area": "Resetovat statistiku {n} zodpovězených otázek v {scope}? Stávající odpovědi se přesunou jen do Celkové statistiky — Výběr/Přehled/výběr otázek je budou ignorovat.",
     "confirm.reset_pool_done": "Označeno {n} otázek jako resetovaných.",
     "confirm.no_resets": "Žádné reset značky k smazání.",
     "confirm.clear_resets": "Smazat {n} reset značek? Staré odpovědi se znovu započítají do statistiky výběru.",
@@ -2164,8 +2172,15 @@ function computeSubareaStats(viewState) {
 function stats__exists(area) { return AREA_LABELS_EN.hasOwnProperty(area); }
 
 // Set of area keys whose subarea breakdown is currently expanded in dashboard.
-// Not persisted — fresh on every dashboard open.
+// Not persisted — fresh on every dashboard open. Default = ALL areas expanded
+// so the user immediately sees the full drill-down. Toggle clears/sets per area.
 const _dashExpandedAreas = new Set();
+let _dashDefaultsApplied = false;
+function dashEnsureDefaultExpansion() {
+  if (_dashDefaultsApplied) return;
+  for (const k of Object.keys(AREA_LABELS)) _dashExpandedAreas.add(k);
+  _dashDefaultsApplied = true;
+}
 
 // "Set to drill" actions: configure filters + jump to drill screen
 function setAreaToDrill(areaKey) {
@@ -2180,6 +2195,39 @@ function setSubareaToDrill(areaKey, group) {
   state.selectedSubareas = new Set([subareaKey(areaKey, group)]);
   saveAreas(); saveSubareas();
   next();
+}
+
+// "Reset this area" — mark all answered questions in the given scope as reset
+// so they no longer count toward Pool stats / Dashboard / weighted picking.
+// Total stats remain (historical record). Returns count of marked qids.
+function resetArea(areaKey) {
+  const qids = state.questions.filter((q) => q.area === areaKey).map((q) => q.id);
+  return _resetQids(qids, AREA_LABELS[areaKey] || areaKey);
+}
+
+function resetSubarea(areaKey, group) {
+  const qids = state.questions
+    .filter((q) => q.area === areaKey && subareaGroup(q) === group)
+    .map((q) => q.id);
+  return _resetQids(qids, `${AREA_LABELS[areaKey] || areaKey} — ${subareaGroupDisplay(group)}`);
+}
+
+function _resetQids(qids, scopeLabel) {
+  const idSet = new Set(qids);
+  const ATTEMPT = new Set(["correct", "wrong", "unknown"]);
+  const seenIds = new Set(
+    state.log.filter((e) => ATTEMPT.has(e.result) && idSet.has(e.qid)).map((e) => e.qid)
+  );
+  if (!seenIds.size) {
+    alert(t("confirm.reset_pool_no_data"));
+    return 0;
+  }
+  if (!confirm(tFmt("confirm.reset_area", { n: seenIds.size, scope: scopeLabel }))) return 0;
+  const now = new Date().toISOString();
+  seenIds.forEach((qid) => { state.resetMarks[qid] = now; });
+  saveResetMarks();
+  refreshStats();
+  return seenIds.size;
 }
 
 function _dashAreaRowHtml(areaKey, label, s, hasSubareas, expanded) {
@@ -2203,7 +2251,7 @@ function _dashAreaRowHtml(areaKey, label, s, hasSubareas, expanded) {
       <td class="num">${s.m50}</td>
       <td class="num">${s.study}</td>
       <td class="num">${s.disputed}</td>
-      <td class="action-cell"><button type="button" class="ghost dash-drill-btn" data-area="${escapeHtml(areaKey)}" title="${escapeHtml(t("dash.set_to_drill_title"))}">▸ ${escapeHtml(t("dash.set_to_drill"))}</button></td>
+      <td class="action-cell"><button type="button" class="ghost dash-drill-btn" data-area="${escapeHtml(areaKey)}" title="${escapeHtml(t("dash.set_to_drill_title"))}">▸ ${escapeHtml(t("dash.set_to_drill"))}</button><button type="button" class="ghost dash-reset-btn" data-area="${escapeHtml(areaKey)}" title="${escapeHtml(t("dash.reset_area_title"))}">↻ ${escapeHtml(t("dash.reset_area"))}</button></td>
     </tr>`;
 }
 
@@ -2226,11 +2274,12 @@ function _dashSubRowHtml(areaKey, sub) {
       <td class="num">${sub.m50}</td>
       <td class="num">${sub.study}</td>
       <td class="num">${sub.disputed}</td>
-      <td class="action-cell"><button type="button" class="ghost dash-drill-sub-btn" data-area="${escapeHtml(areaKey)}" data-group="${escapeHtml(sub.group)}" title="${escapeHtml(t("dash.set_to_drill_sub_title"))}">▸ ${escapeHtml(t("dash.set_to_drill"))}</button></td>
+      <td class="action-cell"><button type="button" class="ghost dash-drill-sub-btn" data-area="${escapeHtml(areaKey)}" data-group="${escapeHtml(sub.group)}" title="${escapeHtml(t("dash.set_to_drill_sub_title"))}">▸ ${escapeHtml(t("dash.set_to_drill"))}</button><button type="button" class="ghost dash-reset-sub-btn" data-area="${escapeHtml(areaKey)}" data-group="${escapeHtml(sub.group)}" title="${escapeHtml(t("dash.reset_subarea_title"))}">↻ ${escapeHtml(t("dash.reset_area"))}</button></td>
     </tr>`;
 }
 
 function renderDashboard(viewState) {
+  dashEnsureDefaultExpansion(); // first render in this session → expand all by default
   const stats = computeAreaStats(viewState);
   const subStats = computeSubareaStats(viewState);
   const v = viewState || {
@@ -2282,6 +2331,20 @@ function renderDashboard(viewState) {
     btn.addEventListener("click", (ev) => {
       ev.stopPropagation();
       setSubareaToDrill(btn.dataset.area, btn.dataset.group);
+    });
+  });
+  tbody.querySelectorAll(".dash-reset-btn").forEach((btn) => {
+    btn.addEventListener("click", (ev) => {
+      ev.stopPropagation();
+      const n = resetArea(btn.dataset.area);
+      if (n > 0) loadDashboardForSelectedUser();
+    });
+  });
+  tbody.querySelectorAll(".dash-reset-sub-btn").forEach((btn) => {
+    btn.addEventListener("click", (ev) => {
+      ev.stopPropagation();
+      const n = resetSubarea(btn.dataset.area, btn.dataset.group);
+      if (n > 0) loadDashboardForSelectedUser();
     });
   });
   // Allow clicking the area row itself (outside the buttons) to toggle expansion

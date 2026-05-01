@@ -155,6 +155,12 @@ main {
   padding: 2rem 1.5rem;
 }
 
+/* Dashboard: needs more horizontal room for all 13 columns. Modern browsers
+   support :has(); falls back to mobile-style horizontal scroll if not. */
+body:has(#dashboard-screen:not(.hidden)) main {
+  max-width: 1400px;
+}
+
 .screen { animation: fade 0.15s ease; }
 .screen.hidden { display: none; }
 
@@ -325,7 +331,6 @@ button.hidden { display: none; }
 /* Expandable area rows + per-subarea breakdown */
 .dash-table tr.dash-row-area { cursor: pointer; transition: background 0.1s; }
 .dash-table tr.dash-row-area:hover { background: rgba(74,163,255,0.06); }
-.dash-table tr.dash-row-area.expanded { background: rgba(74,163,255,0.04); }
 .dash-table tr.dash-row-area.expanded .area-name { color: var(--accent); }
 .dash-table .dash-toggle {
   background: none; border: none; color: var(--muted);
@@ -336,26 +341,30 @@ button.hidden { display: none; }
 .dash-table .dash-toggle.dash-toggle-empty { cursor: default; opacity: 0.3; }
 .dash-table .dash-area-label { display: inline-block; }
 
-.dash-table tr.dash-row-sub { background: var(--bg-elev); font-size: 0.85rem; }
-.dash-table tr.dash-row-sub td { padding: 0.35rem 0.6rem; border-bottom: 1px dashed var(--border); }
-.dash-table tr.dash-row-sub:last-of-type td { border-bottom: 1px solid var(--border); }
-.dash-table tr.dash-row-sub .sub-name { color: var(--muted); padding-left: 1.6rem; }
+/* Sub-rows match area row visual weight (no different bg) — only indented label */
+.dash-table tr.dash-row-sub td { padding: 0.4rem 0.6rem; }
+.dash-table tr.dash-row-sub .sub-name { padding-left: 1.4rem; }
 .dash-table tr.dash-row-sub .dash-sub-indent { color: var(--accent); margin-right: 0.3rem; opacity: 0.6; }
-.dash-table tr.dash-row-sub .num { color: var(--text); }
 
-/* Action column ("Set to drill" buttons) */
-.dash-table th.action-col { width: 9rem; }
-.dash-table td.action-cell { text-align: right; padding: 0.4rem 0.6rem; }
+/* Action column ("Set to drill" + "Reset this area" buttons) */
+.dash-table th.action-col { width: 14.5rem; }
+.dash-table td.action-cell { text-align: right; padding: 0.4rem 0.6rem; white-space: nowrap; }
 .dash-table .dash-drill-btn,
-.dash-table .dash-drill-sub-btn {
+.dash-table .dash-drill-sub-btn,
+.dash-table .dash-reset-btn,
+.dash-table .dash-reset-sub-btn {
   font-size: 0.78rem;
-  padding: 0.25rem 0.6rem;
+  padding: 0.25rem 0.55rem;
   white-space: nowrap;
   border-radius: 4px;
+  margin-left: 0.25rem;
 }
-.dash-table .dash-drill-btn { font-weight: 600; }
-.dash-table .dash-drill-sub-btn { opacity: 0.85; }
-.dash-table .dash-drill-sub-btn:hover { opacity: 1; }
+.dash-table .dash-drill-btn,
+.dash-table .dash-drill-sub-btn { font-weight: 600; }
+.dash-table .dash-reset-btn,
+.dash-table .dash-reset-sub-btn { color: var(--warning); }
+.dash-table .dash-reset-btn:hover,
+.dash-table .dash-reset-sub-btn:hover { background: rgba(241,196,15,0.08); }
 
 .dash-table-wrap, .log-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
 
@@ -526,9 +535,13 @@ input[type="text"] { flex: 1; min-width: 200px; }
 
   /* Dashboard table needs horizontal scroll on mobile */
   .dash-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 -1rem; padding: 0 1rem; }
-  .dash-table { font-size: 0.82rem; min-width: 820px; }
+  .dash-table { font-size: 0.82rem; min-width: 980px; }
   .dash-table th, .dash-table td { padding: 0.4rem 0.5rem; }
-  .dash-table .dash-drill-btn, .dash-table .dash-drill-sub-btn { font-size: 0.72rem; padding: 0.2rem 0.45rem; }
+  .dash-table .dash-drill-btn, .dash-table .dash-drill-sub-btn,
+  .dash-table .dash-reset-btn, .dash-table .dash-reset-sub-btn {
+    font-size: 0.72rem; padding: 0.2rem 0.4rem; margin-left: 0.15rem;
+  }
+  .dash-table th.action-col { width: 11rem; }
 
   /* Log table — same scroll wrapping */
   .log-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 0 -1rem; padding: 0 1rem; }
