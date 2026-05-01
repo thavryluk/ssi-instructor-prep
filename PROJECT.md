@@ -83,7 +83,7 @@ Dark (default) ↔ Light toggle 🌙/☀️ v topbaru. Persistence v `ssi.theme`
 - Divemaster: **150** (50 compiled + 100 Personal Dive Guide exam Form A+B)
 - Assistant Instructor: **50**
 - Instructor: **753** (z toho 200 Personal ITC/AIT exam questions, 403 mssi-inst Reviews + Pretest)
-- **Total EN: 1749** | CS parity: 1749 (po dokončení překladu)
+- **Total EN: 1749 | CS: 1749 — full parity ✓** (CS překlad mssi-sod-063..226 dokončen 2026-05-01 přes 7 paralelních překladových agentů)
 
 ### SoD Lesson Reviews progress (mssi-sod-NNN)
 | Section | Range | Lessons covered |
@@ -246,7 +246,7 @@ Netlify Functions (`netlify/functions/`):
   - `Anatomy & Physiology — Cardiovascular / Respiratory / Tissues / Diving Disorders / Barotrauma / Decompression Illness / Gas Mixtures`
   - `Equipment — History / Maintenance / Mask & Snorkel / Fins / Cylinders / Regulators / Nitrox / BCD / Exposure Suits / Instruments / Accessories`
   - `Environment — Dive Sites / Water Movement / Water Properties / Conservation / Marine Life`
-- **CS překlad mssi-sod-063..226 (164 otázek) — bulk batch translation v 4 paralelních agentech**
+- **CS překlad mssi-sod-063..226 (164 otázek) — bulk batch translation HOTOVO ✓** (přes 7 paralelních agentů v 2 vlnách, full parity 1749 EN = 1749 CS)
 - ⚠️ Známé NEEDS VERIFICATION otázky:
   - `mssi-sod-215` (histotoxic hypoxia) — mySSI's wording mapped to RBC dysfunction; medical textbook says cellular utilization (cyanide-style block). Recorded mySSI's answer (a) but flag remains.
   - `mssi-sod-223` (hypoxemic hypoxia) — recorded medically correct (a) PaO₂ low, but user noted uncertainty if mySSI grades differently.
