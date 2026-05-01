@@ -2200,6 +2200,7 @@ function setAreaToDrill(areaKey) {
   state.selectedSubareas = new Set(); // clear subarea narrowing
   state.sourceFilter = "all";
   saveAreas(); saveSubareas(); saveSourceFilter();
+  refreshStats(); // update topbar POOL stats for the new filter scope
   next(); // pickRandom() respects the new filters and shows quiz-screen
 }
 
@@ -2208,6 +2209,7 @@ function setSubareaToDrill(areaKey, group) {
   state.selectedSubareas = new Set([subareaKey(areaKey, group)]);
   state.sourceFilter = "all";
   saveAreas(); saveSubareas(); saveSourceFilter();
+  refreshStats();
   next();
 }
 

@@ -237,7 +237,17 @@ Netlify Functions (`netlify/functions/`):
 - Every state change → debounce push to `/api/state?user=<currentUser>`.
 - Dashboard has user dropdown — fetches any user's state via `/api/state?user=X` (read-only view).
 
-## STAV K 2026-05-01 (pozdě večer) — Section 5 hotová + Lesson 3.5 dodána + CS překlad bulk
+## STAV K 2026-05-01 (noc) — Dashboard 2.0 + cross-machine handoff
+
+- **Dashboard má teď expandable subarea breakdown + "Set to drill" + "Reset" tlačítka**
+  - Každá oblast má caret (▾/▸), klik rozbalí pod-řádky s podoblastmi (defaultně všechny rozbalené)
+  - Každý řádek (area i subarea) má modré **▸ Set to drill** = nastaví filtry (`selectedAreas` + `selectedSubareas` + `sourceFilter='all'`) + skok do quizu + refresh topbaru
+  - Každý řádek má žluté **↻ Reset** = označí všechny zodpovězené otázky v scopu jako resetované (přesune je z Pool stats jen do TOTAL)
+  - Lock-aware: když je Personal locked, areas s 100% personal questions (OWD/Stress&Rescue/React Right) ukážou 0/0, ztlumené, bez tlačítek (s tooltip o odemčení)
+- **Layout**: dashboard rozšířen na 1400px (přes `body:has(#dashboard-screen:not(.hidden)) main { max-width: 1400px }`); mobil zachovává horizontal-scroll s min-width 980px
+- **Bug fixes v session 2026-05-01:**
+  - `5e6b330` — Set to drill nyní resetuje `sourceFilter='all'` (jinak prázdný pool když user měl `sourceFilter='mssi'` a klikl na area s jen Personal questions)
+  - `(latest)` — Set to drill teď volá `refreshStats()` před `next()`, aby topbar POOL counter okamžitě odrážel nový scope
 
 - **Bank: 1749 EN otázek** (1585 → 1749, +164 v posledních dvou dnech)
 - **mssi-sod-001..226** — pokrývá SoD Lesson 1.1–5.6 + 3.5 (gas mixtures dodaná dodatečně) verbatim z mySSI
