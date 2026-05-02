@@ -3388,5 +3388,245 @@
     "correct": "b",
     "explanation": "CNS OXYGEN TOXICITY (Paul Bert effect) typically manifests at PpO₂ EXCEEDING 1.6 bar — the contingency maximum that recreational and technical divers should never electively cross. RISK ZONES: 0.21–1.4 bar = recreational safe range; 1.4 bar = WORKING MAXIMUM (planned exposure stays at or below this for normal nitrox/trimix profiles); 1.4–1.6 bar = CONTINGENCY zone (emergency / decompression / brief deviation from plan, never planned bottom time); >1.6 bar = HIGH RISK, where CNS tox typically manifests acutely with VENTID-C symptoms (vision, ear, nausea, twitching, irritability, dizziness, CONVULSIONS — see mssi-sod-214). The 1.4-bar conservative working limit is set well below 1.6 because CNS-tox risk rises NON-LINEARLY with PpO₂ × time exposure, tracked as CNS CLOCK percentage (e.g., 1.6 bar = 100% CNS clock at 45 min exposure; 1.5 bar = 100% at 120 min; 1.4 bar = 100% at 150 min). INDIVIDUAL VARIABILITY is huge — the same diver may convulse at 1.3 bar one day and tolerate 1.6 bar another (CO₂ retention, exertion, immersion, cold all lower seizure threshold). RECREATIONAL PROFILES: rarely approach 1.4 (most recreational diving on air at 30 m gives PpO₂ ~0.84; even EAN40 at 25 m gives 1.4 — the planned MOD). TECHNICAL PROFILES: deco stops on 50% nitrox at 21 m = PpO₂ 1.55 bar (within 1.6 contingency); 100% O₂ at 6 m = 1.6 bar (decompression standard). (a) <0.18 = HYPOXIC range, opposite mechanism. (c) <1.20 = within safe operational range. (d) >0.21 = anything above air would include the entire safe range, far too inclusive.",
     "source": "mySSI: SoD Lesson 3.5 Review"
+  },
+  {
+    "id": "mssi-sod-227",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Hypercapnia",
+    "question": "Hypercapnia may occur due to:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Hypoventilation",
+      "c": "Skip-breathing",
+      "d": "Poor equipment maintenance"
+    },
+    "correct": "a",
+    "explanation": "HYPERCAPNIA = elevated CO₂ in arterial blood (PaCO₂ > 45 mmHg / 6 kPa). All three listed mechanisms are real causes. (b) HYPOVENTILATION — inadequate ventilation can't clear CO₂ as fast as cells produce it; happens consciously (slow breathing to 'save gas') or unconsciously when narcotized, cold, sedated, or fatigued. (c) SKIP-BREATHING — inserting breath-pauses between cycles lets CO₂ accumulate (the same misguided 'save gas' technique covered in mssi-sod-217 — backfires badly). (d) POOR EQUIPMENT MAINTENANCE — multiple pathways: INCREASED WORK OF BREATHING (WoB) in a poorly-serviced regulator → diver subconsciously hypoventilates to reduce effort → CO₂ builds up; WORN 2nd-STAGE EXHAUST CHECK VALVE → exhaled CO₂ leaks back during inhalation → re-breathing your own CO₂; DEAD-SPACE INCREASE from poorly fitting or oversized mouthpiece; on REBREATHERS the FAILED CO₂ SCRUBBER (sofnolime exhausted, channeling, water flooding) is the SILENT KILLER — caustic cocktail or runaway hypercapnia happens with no warning except subtle headache that the diver may dismiss until convulsion. Combined effects: all three pathways stack — a poorly maintained regulator + skip-breathing + heavy workload at depth produces severe hypercapnia very quickly.",
+    "source": "mySSI: SoD Lesson 3.6 Review"
+  },
+  {
+    "id": "mssi-sod-228",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Hypercapnia",
+    "question": "Hypercapnia can be prevented:",
+    "options": {
+      "a": "With proper equipment maintenance",
+      "b": "By minimizing workload at depth",
+      "c": "By breathing in a controlled manner",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three are textbook preventive measures for hypercapnia. (a) PROPER EQUIPMENT MAINTENANCE — annual service of regulators (especially exhaust valves and 2nd-stage cracking effort calibration), clean filters; for rebreathers: scrubber pre-pack quality, sensor calibration, plumbing integrity, leak checks. A poorly-maintained regulator forces hypoventilation and traps CO₂. (b) MINIMIZE WORKLOAD AT DEPTH — exertion produces CO₂ proportional to metabolic rate; coupled with DENSER GAS at depth (higher gas density = higher mechanical work to move air through the regulator and into lungs), CO₂ can spike fast. Practical: rest after entry before descending fast, swim slowly, avoid fighting current (drift with it instead), avoid finning hard against surge, plan profiles so you're not exhausted at depth. (c) CONTROLLED BREATHING — slow, deep, rhythmic. Long exhales (longer than inhales — 3 sec in, 5 sec out) flush CO₂ effectively. NO skip-breathing, NO breath-holds, NO frantic shallow breaths during stress. The 'STOP — BREATHE — THINK — ACT' protocol explicitly emphasizes breathing because controlled breathing breaks both panic and CO₂-buildup cascades. WHY HYPERCAPNIA IS DANGEROUS BEYOND DISCOMFORT: (1) potentiates nitrogen narcosis (you get narced harder at any given depth); (2) lowers CNS oxygen-toxicity seizure threshold (so a normally safe PpO₂ becomes dangerous); (3) headache → confusion → impaired judgment → bad decisions cascade; (4) at extreme, convulsions and unconsciousness underwater = drowning.",
+    "source": "mySSI: SoD Lesson 3.6 Review"
+  },
+  {
+    "id": "mssi-sod-229",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Narcosis",
+    "question": "Scientists think nitrogen narcosis is caused by:",
+    "options": {
+      "a": "Oxygen toxicity",
+      "b": "Decreased carbon dioxide levels",
+      "c": "Dissolved nitrogen disrupting nerve membranes",
+      "d": "All answers are correct"
+    },
+    "correct": "c",
+    "explanation": "The MEYER-OVERTON HYPOTHESIS (1900s) and modern refinements: DISSOLVED INERT GAS (mostly N₂) under pressure disrupts nerve-membrane function — likely by dissolving into the LIPID BILAYER of neurons and altering ion-channel kinetics, plus possibly binding to specific neuronal protein receptors (similar to general anesthetics like xenon, isoflurane, halothane). The NARCOTIC POTENCY of a gas correlates with its LIPID SOLUBILITY (the Meyer-Overton rule). Narcotic ranking from least to most: He < H₂ < Ne < N₂ < Ar < Kr < Xe (xenon is so narcotic it's used as a clinical anesthetic at 1 ATA). HELIUM is essentially non-narcotic at recreational depths — that's why HELIOX and TRIMIX exist for deep technical diving. DIVING RELEVANCE: onset around 30 m / 4 ATA for most divers (the 'MARTINI LAW' rule of thumb — each 10 m of depth on air ≈ one martini's worth of impairment). CO₂ RETENTION POTENTIATES narcosis (the multiplier effect — a hypercapnic diver gets narced harder at any given depth). Narcosis reverses immediately on ascent (no residual after the dive). Builds some tolerance with frequent deep diving (the 'deep adaptation' effect). (a) Oxygen toxicity is a SEPARATE gas-toxicity issue (Paul Bert effect at high PpO₂). (b) INCREASED CO₂ potentiates narcosis, not decreased — the option is exactly backwards. (d) Wrong because (a) and (b) are wrong.",
+    "source": "mySSI: SoD Lesson 3.6 Review"
+  },
+  {
+    "id": "mssi-sod-230",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Narcosis",
+    "question": "How can divers potentially reduce the risk of narcosis?",
+    "options": {
+      "a": "Controlled descents",
+      "b": "All answers are correct",
+      "c": "Increasing physical and mental fitness",
+      "d": "Reducing exertion and stress"
+    },
+    "correct": "b",
+    "explanation": "All three help mitigate nitrogen narcosis risk. (a) CONTROLLED DESCENTS — slow descent allows time for inert gas to load gradually rather than dumping a sudden bolus into nerves; many divers report less acute narcosis impact with deliberately paced descents (especially below 30 m). Some agencies recommend stopping every 10 m on deeper rec descents to assess yourself. (c) PHYSICAL AND MENTAL FITNESS — fit divers retain less CO₂ during exertion (better cardiovascular efficiency, more efficient gas exchange), and CO₂ potentiates narcosis; mental fitness means task focus, calm response, recognizing impairment early, not letting narcosis cascade into poor judgment. (d) REDUCING EXERTION AND STRESS — both elevate CO₂ → CO₂ potentiates narcosis. Cold water ALSO worsens narcosis (hypothermia + N₂ loading interact). OTHER MITIGATION STRATEGIES not in this question: SWITCH TO TRIMIX below ~30 m (replace some N₂ with He → less narcotic load — standard tech procedure); AVOID ALCOHOL / SEDATIVES 24h pre-dive (additive CNS effects); HYDRATE WELL (dehydration thickens blood, slows perfusion, worsens gas dynamics); plan DEEP DIVES EARLY in the day (less fatigue); DEEP ADAPTATION via frequent deep diving within a training period reportedly raises tolerance.",
+    "source": "mySSI: SoD Lesson 3.6 Review"
+  },
+  {
+    "id": "mssi-sod-231",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Narcosis",
+    "question": "What is high-pressure nervous syndrome?",
+    "options": {
+      "a": "A psychotic disorder associated with carbon monoxide",
+      "b": "Decompression sickness",
+      "c": "A central nervous system disorder associated with deep heliox dives",
+      "d": "A disorder that recreational divers get when they are stressed"
+    },
+    "correct": "c",
+    "explanation": "HIGH-PRESSURE NERVOUS SYNDROME (HPNS) is a CNS disorder occurring at EXTREME depths breathing HELIUM-BASED MIXES (heliox / heliox-rich trimix), typically below ~150 m / 16 ATA. SYMPTOMS develop progressively with depth and compression rate: TREMORS (hands, lips, eyelids — most characteristic, distinguishes HPNS from narcosis); DIZZINESS, NAUSEA; COGNITIVE SLOWING, MICRO-SLEEP EPISODES; PSYCHOMOTOR COORDINATION LOSS; EEG changes (theta waves, increased slow-wave activity); at extreme depths, CONVULSIONS. MECHANISM: poorly understood but theorized as a direct PRESSURE EFFECT on neuronal membrane proteins — compression physically deforms ion channels — distinct from gas-narcosis mechanism. Importantly, COMPRESSION RATE matters more than absolute depth — slow descents (taking days, 'saturation' profiles) reduce HPNS markedly. MITIGATION in commercial / saturation diving: SLOW COMPRESSION (saturation profiles take 24+ hours to reach 300+ m); ADD NITROGEN BACK ('trimix' with small N₂ %) — N₂'s narcotic effect counterbalances HPNS, the 'NARCOTIC COUNTERBALANCE' principle; HYDROGEN-HELIUM mixes (HYDRELIOX) for very deep — H₂ has narcotic effect too. FOR RECREATIONAL DIVERS: HPNS isn't a real concern — you'd need ~150 m+ on heliox to see it, far beyond rec/tec recreational limits (rec stops at 40 m, tec rec at 60 m, full tec trimix at 100 m, where HPNS hasn't fully manifested). Mentioned in SoD curriculum for completeness on inert-gas physiology. (a) CO psychosis is unrelated (CO causes hypoxia + tissue damage, not 'psychosis'). (b) DCS is bubble formation from off-gassing inert gas, totally separate mechanism. (d) HPNS is a real physical/CNS phenomenon at extreme depth, not stress-induced psychogenic.",
+    "source": "mySSI: SoD Lesson 3.6 Review"
+  },
+  {
+    "id": "mssi-sod-232",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Hypercapnia",
+    "question": "Severe hypercapnia can increase surface air consumption rates to around:",
+    "options": {
+      "a": "20 liters/minute",
+      "b": "200 liters/minute",
+      "c": "50 liters/minute",
+      "d": "150 liters/minute"
+    },
+    "correct": "d",
+    "explanation": "Normal SAC (Surface Air Consumption) scales with workload and stress: RESTING (calm, neutral, slow swim) ≈ 10–15 L/min; LIGHT WORK (gentle current, photography) ≈ 15–25 L/min; MODERATE WORK (current, camera, navigation) ≈ 25–40 L/min; HEAVY EXERTION (fighting current, swim sprints) ≈ 40–60 L/min; SEVERE STRESS / PANIC / HYPERCAPNIA ≈ 100–150+ L/min. A panicked or hypercapnic diver can hit 150 L/min — that's 10–15× resting consumption. At 30 m (4 bar absolute), that's 600 L/min from the cylinder → an AL80 (~2,400 L) drained in 4 minutes. THE VICIOUS CYCLE: hypercapnia → dyspnea (air hunger) → panic-breathing → MORE CO₂ retained per breath (shallow rapid breathing has high dead-space ratio so most of the volume just shuttles in and out without alveolar exchange) → worse hypercapnia → faster gas burn → low-on-gas emergency → more panic. WHY THIS MATTERS for gas planning: gas plans MUST account for STRESS SAC, not just calm SAC. Rule of thirds, rock-bottom gas, minimum-gas calculations all factor an elevated 'emergency SAC' (typically 25–30 L/min, sometimes higher for tech divers in extreme scenarios). A diver running 15 L/min calmly can be in serious trouble if their SAC suddenly jumps to 150 L/min on a deep dive — without rock-bottom margin you simply can't make the surface. (a) 20 = light work, normal calm rate. (b) 200 = unrealistic, exceeds normal physiological respiratory minute volume even at maximum exertion. (c) 50 = heavy work, not severe hypercapnia.",
+    "source": "mySSI: SoD Lesson 3.6 Review"
+  },
+  {
+    "id": "mssi-sod-233",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Hypercapnia",
+    "question": "Carbon dioxide narcosis is:",
+    "options": {
+      "a": "Physical and mental disturbance caused by nitrogen narcosis",
+      "b": "Physical and mental disturbance caused by hyperventilation",
+      "c": "Physical and mental disturbance caused by hypercapnia",
+      "d": "Caused by breathing in too much carbon dioxide"
+    },
+    "correct": "c",
+    "explanation": "CARBON DIOXIDE NARCOSIS = physical and mental disturbance caused by HYPERCAPNIA (elevated PaCO₂). Onset around PaCO₂ > 60 mmHg / 8 kPa (vs. normal ~40 mmHg). Symptoms parallel nitrogen narcosis: confusion, disorientation, impaired judgment, headache, lethargy → eventually loss of consciousness. Distinct from N₂ narcosis in mechanism (acidosis + direct CO₂ effects on neurons) but with similar end-state appearance — and the two COMPOUND: a hypercapnic diver gets N₂-narced harder than the depth alone would predict (the multiplier effect). DIVING SCENARIOS: skip-breathing, poor regulator maintenance with high WoB, dense gas at extreme depth (gas density above ~6 g/L makes adequate ventilation nearly impossible — narcosis-like impairment kicks in around 50–60 m on air just from gas density), rebreather scrubber failure (the silent killer in CCR diving — diver feels increasingly fuzzy without realizing why). Recovery: ascend to lower pressure / better gas exchange, controlled breathing, surface and recover. (a) Nitrogen narcosis is a SEPARATE gas-mechanism (Meyer-Overton, lipid solubility — see mssi-sod-229). (b) HYPERVENTILATION produces HYPOCAPNIA (LOW CO₂), the opposite — and that causes its own problems (respiratory alkalosis, tetany, shallow-water blackout in freediving) but isn't called 'narcosis'. (d) Loose phrasing — divers don't usually 'breathe in too much CO₂' (compressor air is filtered, scrubbed); the issue is the BODY RETAINING too much CO₂ from inadequate clearance.",
+    "source": "mySSI: SoD Lesson 3.6 Review"
+  },
+  {
+    "id": "mssi-sod-234",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Hypercapnia",
+    "question": "Increased blood carbon dioxide levels is known as:",
+    "options": {
+      "a": "Hypothermia",
+      "b": "Hypovolemia",
+      "c": "Hypercapnia",
+      "d": "Hyperthermia"
+    },
+    "correct": "c",
+    "explanation": "HYPERCAPNIA (also 'hypercarbia') = elevated CO₂ in blood (PaCO₂ > 45 mmHg / 6 kPa, normal ~40). ETYMOLOGY CHEAT SHEET for the distractors: prefixes — HYPER- (above normal) / HYPO- (below normal); roots — CAPN- (smoke / CO₂) / THERM- (heat) / VOL- (volume) / OXY- (oxygen) / GLYC- (sugar). So: HYPO-THERMIA = low body temp; HYPER-THERMIA = high body temp (overheating); HYPO-VOLEMIA = low blood volume (dehydration, hemorrhage); HYPER-VOLEMIA = excess blood volume; HYPER-CAPNIA = high CO₂ (this question); HYPO-CAPNIA = low CO₂ (from hyperventilation — the freediving danger that causes shallow-water blackout); HYPOXIA = low O₂; HYPEROXIA = high O₂; HYPOGLYCEMIA = low blood sugar. The pattern is consistent — once you learn the prefix/root system, every term is decodable. Diving-relevant set to know cold: hypoxia, hyperoxia, hypercapnia, hypocapnia, hypothermia, hyperthermia, hypovolemia.",
+    "source": "mySSI: SoD Lesson 3.6 Review"
+  },
+  {
+    "id": "mssi-sod-235",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Hypercapnia",
+    "question": "Excessive blood carbon dioxide levels:",
+    "options": {
+      "a": "Make the blood acidic and increase breathing rates",
+      "b": "Make the blood acidic and decrease breathing rates",
+      "c": "Have no effect on blood pH",
+      "d": "Make the blood alkaline and increase breathing rates"
+    },
+    "correct": "a",
+    "explanation": "Two effects, both captured in option (a). (1) ACIDIC BLOOD (RESPIRATORY ACIDOSIS) — chemistry: CO₂ + H₂O ⇌ H₂CO₃ (carbonic acid) ⇌ H⁺ + HCO₃⁻ (bicarbonate + hydrogen ion). More CO₂ → equilibrium shifts right → more H⁺ → lower pH → acidic. Normal arterial pH = 7.35–7.45; respiratory acidosis pulls it below 7.35. (2) INCREASED BREATHING RATE — body's response: CENTRAL CHEMORECEPTORS in the brainstem medulla detect rising H⁺ in cerebrospinal fluid (proxied via CO₂); PERIPHERAL CHEMORECEPTORS in carotid + aortic bodies detect rising arterial PaCO₂; both signal the medulla's respiratory center → INCREASE respiratory rate AND tidal volume → more alveolar ventilation → blow off CO₂ → restore pH. This is why hypercapnia gives the AIR-HUNGER / DYSPNEA sensation — the body is screaming at you to breathe harder. KEY PHYSIOLOGICAL FACT: respiratory drive is primarily CO₂-DRIVEN, not O₂-driven, in normal physiology. The body protects pH first, oxygenation second. This is why HYPERVENTILATING BEFORE FREEDIVING is dangerous (mssi-sod-220) — flushing out CO₂ removes the primary breathing trigger, letting O₂ drop dangerously before the diver feels the need to surface. WHEN THIS COMPENSATION FAILS (mechanical limit on ventilation, dense gas at depth, drug-suppressed breathing, deep narcosis): CO₂ keeps rising → CO₂ narcosis → unconsciousness. (b) Wrong — high CO₂ INCREASES breathing, not decreases. (c) Wrong — pH definitively changes. (d) Wrong — high CO₂ → ACIDIC, not alkaline (alkaline = hypocapnia from hyperventilation).",
+    "source": "mySSI: SoD Lesson 3.6 Review"
+  },
+  {
+    "id": "mssi-sod-236",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Narcosis",
+    "question": "As a diver descends, the narcotic effect of nitrogen becomes:",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Less",
+      "c": "Greater",
+      "d": "It does not change"
+    },
+    "correct": "c",
+    "explanation": "HENRY'S LAW: at higher pressure, more gas dissolves into a liquid (proportional to partial pressure). Deeper diving = higher ambient pressure = higher PpN₂ = more dissolved N₂ in blood and tissues = stronger narcotic effect. QUANTITATIVE: at the surface, PpN₂ = 0.79 × 1 = 0.79 bar; at 30 m / 4 bar, PpN₂ = 0.79 × 4 = 3.16 bar (4× surface); at 60 m / 7 bar, PpN₂ = 5.53 bar (7× surface). So narcosis intensifies linearly-to-non-linearly with depth (perceived effect ramps up faster than the linear PpN₂ rise as cognitive thresholds get crossed). CLASSICAL 'MARTINI LAW' rule of thumb: 10 m ≈ 1 martini's worth of impairment, 20 m ≈ 2 martinis, 30 m ≈ 3 (noticeable for many), 40 m = max recreational ≈ 4 (significant for some), 50–60 m ≈ severely narced on air for most divers, 70 m+ = unsafe on air for ANYONE. WHY TECH DIVERS SWITCH TO TRIMIX: helium replaces some N₂. At 60 m on trimix 18/45 (18% O₂ + 45% He + 37% N₂), PpN₂ = 0.37 × 7 = 2.6 bar (≈ equivalent narcotic depth of 23 m on air). The 'EQUIVALENT NARCOTIC DEPTH (END)' calculation tells you what depth your trimix feels like — keeping END below 30 m is standard tech practice for cognitive function. (a) Wrong — only (c) is correct. (b) Less — opposite of physics, narcosis intensifies with depth. (d) No change — physically impossible per Henry's Law.",
+    "source": "mySSI: SoD Lesson 3.6 Review"
+  },
+  {
+    "id": "mssi-sod-237",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Thermoregulation",
+    "question": "What are physiological responses to increased body temperature?",
+    "options": {
+      "a": "Perspiration",
+      "b": "Metabolic heat reduction",
+      "c": "Behavioral changes",
+      "d": "All answers are correct"
+    },
+    "correct": "d",
+    "explanation": "All three are textbook thermoregulation responses to HYPERTHERMIA (body too hot). (a) PERSPIRATION (sweating) — sweat glands secrete water onto skin → EVAPORATIVE COOLING (each gram of sweat that evaporates removes ~580 calories of heat). Most powerful body-cooling mechanism. Limited underwater because sweat doesn't evaporate efficiently in water (hence pre-dive overheating risk in wetsuit on hot deck — you produce sweat but it can't cool you, you just dehydrate). (b) METABOLIC HEAT REDUCTION — body downregulates metabolic rate slightly to reduce internal heat production (slows non-essential processes). Less prominent than active cooling responses but real. (c) BEHAVIORAL CHANGES — seek shade, remove layers (unzip wetsuit between dives, get out of direct sun, dive deeper to cooler thermocline water), drink water (hydration), reduce activity, change posture. Often the most EFFECTIVE thermoregulation because it changes the environment, not just the body. OTHER PHYSIOLOGICAL RESPONSES not listed: PERIPHERAL VASODILATION (blood routed to skin surface → radiative heat loss → flushed appearance); INCREASED HEART RATE (supports skin perfusion); TACHYPNEA (faster breathing loses heat via warm exhaled air). DIVING RELEVANCE: pre-dive hyperthermia in wetsuit on tropical boats causes dehydration before entering water → DCS risk increase. Cool down + hydrate between dives. Topside thermal management is part of dive planning in hot climates.",
+    "source": "mySSI: SoD Lesson 3.7 Review"
+  },
+  {
+    "id": "mssi-sod-238",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Thermoregulation",
+    "question": "Which of the following statements about adipose (fatty) tissue is true?",
+    "options": {
+      "a": "It makes a diver more resistant to heat loss",
+      "b": "It acts as a natural layer of insulation",
+      "c": "All answers are correct",
+      "d": "It has detrimental effects on a diver's health"
+    },
+    "correct": "c",
+    "explanation": "All three describe real properties of body fat — adipose is a DOUBLE-EDGED trait for divers. (a) MORE RESISTANT TO HEAT LOSS — fat has lower thermal conductivity (~0.2 W/m·K) than muscle (~0.5 W/m·K), water (~0.6 W/m·K), or skin. A 1 cm subcutaneous fat layer insulates roughly 3× better than the same thickness of muscle. (b) NATURAL INSULATION LAYER — subcutaneous adipose acts as the body's own neoprene wetsuit. Larger/heavier divers with more subQ fat often tolerate cold water better in equivalent exposure suits than lean divers; free-divers, channel swimmers, and Antarctic explorers historically benefit from extra body fat for cold tolerance. (d) DETRIMENTAL HEALTH EFFECTS — the flip side: excess adipose carries real risks: DCS RISK FACTOR (mssi-sod-096) — adipose has ~5× the nitrogen solubility of lean tissue (N₂ is lipid-soluble) and is poorly perfused → loads slowly, unloads even slower → silent reservoir of dissolved gas through ascent; CARDIOVASCULAR RISK — obesity correlates with hypertension, atherosclerosis, increased cardiac work, all bad for diving stress; REDUCED FITNESS — lower aerobic capacity, faster CO₂ buildup at exertion, higher SAC, harder to manage current; BUOYANCY/WEIGHTING — positively-buoyant fat needs more lead to descend, increasing drag and gas consumption; PARADOXICAL HEAT RETENTION in warm water — fat that helps in cold can cause overheating in tropical conditions. So fat is a real insulator BUT also a metabolic and DCS liability — both sides true.",
+    "source": "mySSI: SoD Lesson 3.7 Review"
+  },
+  {
+    "id": "mssi-sod-239",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Thermoregulation",
+    "question": "Why does hypothermia increase the risk of decompression sickness?",
+    "options": {
+      "a": "The dilation of blood vessels reduces circulation",
+      "b": "The constriction of blood vessels increases blood flow",
+      "c": "The dilation of blood vessels increases heat absorption",
+      "d": "The constriction of blood vessels reduces circulation"
+    },
+    "correct": "d",
+    "explanation": "Cold causes PERIPHERAL VASOCONSTRICTION → reduced blood flow to extremities and skin → slower NITROGEN OFF-GASSING during ascent and surface interval → increased DCS risk. THE MECHANISM IN DETAIL: (1) DURING THE DIVE (cold) — peripheral vasoconstriction means less blood flow to fat-rich tissues (limbs, skin); those tissues load N₂ more slowly than they normally would (sounds protective). (2) DURING ASCENT AND SURFACE INTERVAL — still cold, still vasoconstricted → those same tissues now OFF-GAS slowly too → at the moment supersaturation peaks (right after surfacing), the dissolved N₂ in cold/poorly-perfused tissues isn't getting cleared. (3) POST-DIVE RE-WARMING (taking off wetsuit, hot shower, hot tub, hot deck) — peripheral VASODILATION suddenly opens up perfusion to those gas-loaded tissues → released N₂ floods into the blood when ambient pressure is already at minimum → BUBBLE NUCLEATION CASCADE. (4) CLASSIC CLINICAL PATTERN: DCS strikes 30 min – several hours post-surfacing during re-warming. THIS IS WHY post-dive hot showers, hot tubs, sauna are strongly discouraged within ~12–24 h after diving (especially deep/long profiles). Cold during the dive isn't always bad if you stay cold — but the warming TRANSITION is dangerous. Heated drysuits, hot-water suits in commercial diving avoid this by keeping perfusion stable throughout. (a) DILATION INCREASES local blood flow, doesn't reduce. (b) CONSTRICTION DECREASES flow, not increases. (c) Dilation increases heat LOSS to environment, not absorption.",
+    "source": "mySSI: SoD Lesson 3.7 Review"
+  },
+  {
+    "id": "mssi-sod-240",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Thermoregulation",
+    "question": "What actions can divers take to reduce the risks of hypothermia?",
+    "options": {
+      "a": "All answers are correct",
+      "b": "Plan their dive according to the conditions",
+      "c": "Make sure they have appropriate training and experience",
+      "d": "Use the right equipment and have appropriate surface supplies"
+    },
+    "correct": "a",
+    "explanation": "All three are SSI standard practices for cold-water dive safety. (b) PLAN DIVE ACCORDING TO CONDITIONS — match profile to thermal limits: cold water (<15 °C) → drysuit + thick undergarment; limit bottom time as water gets colder (cold + long dive = compounding risk); don't push depth where thermocline drops temperature 5+ °C without thermal contingency; plan surface-interval thermal recovery (warm drinks, dry layer between dives). (c) TRAINING AND EXPERIENCE — drysuit certification, ice diving specialty, cold-water specialty courses; experience with cold-water gear management (frozen regulator handling, gloved-hand drills, drysuit valve operation); recognizing early hypothermia signs in self AND buddy (early signs: shivering, slowed thinking, clumsy hands; later signs paradoxically include shivering STOPPING, which is the dangerous transition to severe hypothermia). (d) RIGHT EQUIPMENT + SURFACE SUPPLIES — IN-WATER: appropriate exposure suit (drysuit + thick undergarment for cold; hood + gloves + booties always for cold), heated vest (Santi BZ-400, Thermalution) for extreme cold, ARGON for drysuit insulation (~30% better than air); TOPSIDE: dry change of clothes, towel, hot drinks (tea, soup), wind shelter, warming blankets, dry bag for wet gear. OTHER PRACTICES: dive in EARLY SHIFT before fatigue, eat carb-rich food before diving (fuel for shivering metabolism), avoid alcohol pre-dive (impairs thermoregulation).",
+    "source": "mySSI: SoD Lesson 3.7 Review"
+  },
+  {
+    "id": "mssi-sod-241",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Thermoregulation",
+    "question": "What actions can divers take to reduce the risks of hyperthermia?",
+    "options": {
+      "a": "Drink plenty of fluids",
+      "b": "Don wetsuits just before the dive",
+      "c": "All answers are correct",
+      "d": "Minimize effort and exertion"
+    },
+    "correct": "c",
+    "explanation": "All three address overheating, particularly in tropical / sun-exposed dive operations. (a) DRINK PLENTY OF FLUIDS — hyperthermia + sweating without evaporation (you're in a wetsuit, sweat can't cool you) = rapid dehydration; dehydration also separately raises DCS risk. Hydrate continuously: water + electrolyte drinks; avoid heavy caffeine and alcohol (diuretics). Practical target: pale yellow urine pre-dive. (b) DON WETSUITS JUST BEFORE THE DIVE — don't suit up 30 min in advance on a hot deck. Wetsuits TRAP heat outside water (especially black neoprene in direct sun → can hit 50 °C+ surface temp). Carry the suit to the entry point and put it on at the last moment, or sit in shade with suit half-on. (d) MINIMIZE EFFORT AND EXERTION topside in heat — let crew load gear, avoid long walks in full kit on tropical sand, avoid carrying heavy doubles to entry, on liveaboards stay in shaded areas between dives. OTHER MEASURES not in this question: GET IN THE WATER for cooling between dives (skin sheds heat to surrounding cooler water); WET DOWN THE WETSUIT with cool water before the dive (pre-cool the diver); SHADE STRUCTURES on dive boats (canopies, umbrellas, awnings); LIGHT-COLORED exposure suit if available (less solar absorption); COOL drinks (hydration + body cooling combined). The cumulative effect: pre-dive hyperthermia → dehydration + elevated metabolic state → significantly higher post-dive DCS risk in tropical waters, sometimes counter-intuitive to the warm-water 'easy diving' assumption.",
+    "source": "mySSI: SoD Lesson 3.7 Review"
+  },
+  {
+    "id": "mssi-sod-242",
+    "area": "science_of_diving",
+    "subarea": "Anatomy & Physiology — Thermoregulation",
+    "question": "Signs and symptoms of mild hypothermia can include:",
+    "options": {
+      "a": "Uncontrollable shivering, slurred speech, and unconsciousness",
+      "b": "Shivering, decreased heart rate, and hallucinations",
+      "c": "Shivering, increased heart rate, and a core temperature of less than 28°C",
+      "d": "Shivering, increased heart rate, and loss of dexterity"
+    },
+    "correct": "d",
+    "explanation": "Hypothermia is staged by CORE BODY TEMPERATURE with distinct symptom patterns. MILD (32–35 °C / 90–95 °F): SHIVERING, INCREASED HR, increased breathing, LOSS OF DEXTERITY, mild confusion, the 'UMBLES' (mumbles, fumbles, stumbles) — body is actively defending core temperature. MODERATE (28–32 °C / 82–90 °F): violent shivering → then SHIVERING STOPS (paradoxical, dangerous transition), slurred speech, slowed reflexes, confusion, uncoordinated movement, possible hallucinations. SEVERE (<28 °C / <82 °F): UNCONSCIOUSNESS, weak/slow pulse, low BP, severe cardiac arrhythmia risk, eventual cardiac arrest — looks dead but can sometimes be revived ('not dead until warm and dead' — cold preserves brain function during arrest). MILD HYPOTHERMIA underwater: increased HR + cardiac output to maintain perfusion against vasoconstriction; shivering generates ~5× resting metabolic rate of heat; LOSS OF FINE MOTOR CONTROL — extremities cool fastest, hands fumble first (hard to fasten BCD straps, struggle with masks, fumble drysuit dump valve). UNDERWATER WARNING SIGNS: buddy hands moving stiffly / dropping things, slow response to signals, misreading dive computer/SPG, shortened attention span, skin cyanosis (blue lips, white extremities). RESPONSE TO ONSET: end dive immediately, surface controlled, dry off + REWARM PASSIVELY (insulating layers, warm shelter, hot drinks if alert). NEVER hot-shower or vigorous-activity rewarming — peripheral vasodilation pulls cold blood from extremities to core, can drop core temp further (AFTERDROP) and trigger arrhythmia. (a) Slurred speech + unconsciousness = MODERATE-TO-SEVERE, not mild. (b) DECREASED HR is wrong direction for mild — HR rises in mild then falls in severe. (c) Core temp <28 °C is SEVERE, not mild — at that temp the diver is unconscious, not just losing dexterity.",
+    "source": "mySSI: SoD Lesson 3.7 Review"
   }
 ]

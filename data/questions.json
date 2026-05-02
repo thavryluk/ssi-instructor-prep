@@ -2,15 +2,15 @@
   "version": "1.0",
   "generated_at": "2026-04-25",
   "note": "SSI study bank for Tomas's Instructor prep app. Each question carries a 'source' URL (Quizlet/dive-shop PDF/SSI training pages) where verbatim wording was found, OR 'compiled_from_dive_theory' for items grounded in public SSI standards and dive physics/physiology that I've authored from established theory rather than copied. Always reconcile with the current SSI Training Standards before using as definitive answers.",
-  "total": 1749,
+  "total": 1854,
   "counts_by_area": {
     "assistant_instructor": 50,
     "divemaster": 150,
     "instructor": 753,
-    "science_of_diving": 546,
+    "science_of_diving": 562,
     "open_water_diver": 100,
     "react_right": 100,
-    "diver_stress_rescue": 50
+    "diver_stress_rescue": 139
   },
   "questions": [
     {
@@ -13199,6 +13199,246 @@
       "source": "mySSI: SoD Lesson 3.5 Review"
     },
     {
+      "id": "mssi-sod-227",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Hypercapnia",
+      "question": "Hypercapnia may occur due to:",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Hypoventilation",
+        "c": "Skip-breathing",
+        "d": "Poor equipment maintenance"
+      },
+      "correct": "a",
+      "explanation": "HYPERCAPNIA = elevated CO₂ in arterial blood (PaCO₂ > 45 mmHg / 6 kPa). All three listed mechanisms are real causes. (b) HYPOVENTILATION — inadequate ventilation can't clear CO₂ as fast as cells produce it; happens consciously (slow breathing to 'save gas') or unconsciously when narcotized, cold, sedated, or fatigued. (c) SKIP-BREATHING — inserting breath-pauses between cycles lets CO₂ accumulate (the same misguided 'save gas' technique covered in mssi-sod-217 — backfires badly). (d) POOR EQUIPMENT MAINTENANCE — multiple pathways: INCREASED WORK OF BREATHING (WoB) in a poorly-serviced regulator → diver subconsciously hypoventilates to reduce effort → CO₂ builds up; WORN 2nd-STAGE EXHAUST CHECK VALVE → exhaled CO₂ leaks back during inhalation → re-breathing your own CO₂; DEAD-SPACE INCREASE from poorly fitting or oversized mouthpiece; on REBREATHERS the FAILED CO₂ SCRUBBER (sofnolime exhausted, channeling, water flooding) is the SILENT KILLER — caustic cocktail or runaway hypercapnia happens with no warning except subtle headache that the diver may dismiss until convulsion. Combined effects: all three pathways stack — a poorly maintained regulator + skip-breathing + heavy workload at depth produces severe hypercapnia very quickly.",
+      "source": "mySSI: SoD Lesson 3.6 Review"
+    },
+    {
+      "id": "mssi-sod-228",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Hypercapnia",
+      "question": "Hypercapnia can be prevented:",
+      "options": {
+        "a": "With proper equipment maintenance",
+        "b": "By minimizing workload at depth",
+        "c": "By breathing in a controlled manner",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "All three are textbook preventive measures for hypercapnia. (a) PROPER EQUIPMENT MAINTENANCE — annual service of regulators (especially exhaust valves and 2nd-stage cracking effort calibration), clean filters; for rebreathers: scrubber pre-pack quality, sensor calibration, plumbing integrity, leak checks. A poorly-maintained regulator forces hypoventilation and traps CO₂. (b) MINIMIZE WORKLOAD AT DEPTH — exertion produces CO₂ proportional to metabolic rate; coupled with DENSER GAS at depth (higher gas density = higher mechanical work to move air through the regulator and into lungs), CO₂ can spike fast. Practical: rest after entry before descending fast, swim slowly, avoid fighting current (drift with it instead), avoid finning hard against surge, plan profiles so you're not exhausted at depth. (c) CONTROLLED BREATHING — slow, deep, rhythmic. Long exhales (longer than inhales — 3 sec in, 5 sec out) flush CO₂ effectively. NO skip-breathing, NO breath-holds, NO frantic shallow breaths during stress. The 'STOP — BREATHE — THINK — ACT' protocol explicitly emphasizes breathing because controlled breathing breaks both panic and CO₂-buildup cascades. WHY HYPERCAPNIA IS DANGEROUS BEYOND DISCOMFORT: (1) potentiates nitrogen narcosis (you get narced harder at any given depth); (2) lowers CNS oxygen-toxicity seizure threshold (so a normally safe PpO₂ becomes dangerous); (3) headache → confusion → impaired judgment → bad decisions cascade; (4) at extreme, convulsions and unconsciousness underwater = drowning.",
+      "source": "mySSI: SoD Lesson 3.6 Review"
+    },
+    {
+      "id": "mssi-sod-229",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Narcosis",
+      "question": "Scientists think nitrogen narcosis is caused by:",
+      "options": {
+        "a": "Oxygen toxicity",
+        "b": "Decreased carbon dioxide levels",
+        "c": "Dissolved nitrogen disrupting nerve membranes",
+        "d": "All answers are correct"
+      },
+      "correct": "c",
+      "explanation": "The MEYER-OVERTON HYPOTHESIS (1900s) and modern refinements: DISSOLVED INERT GAS (mostly N₂) under pressure disrupts nerve-membrane function — likely by dissolving into the LIPID BILAYER of neurons and altering ion-channel kinetics, plus possibly binding to specific neuronal protein receptors (similar to general anesthetics like xenon, isoflurane, halothane). The NARCOTIC POTENCY of a gas correlates with its LIPID SOLUBILITY (the Meyer-Overton rule). Narcotic ranking from least to most: He < H₂ < Ne < N₂ < Ar < Kr < Xe (xenon is so narcotic it's used as a clinical anesthetic at 1 ATA). HELIUM is essentially non-narcotic at recreational depths — that's why HELIOX and TRIMIX exist for deep technical diving. DIVING RELEVANCE: onset around 30 m / 4 ATA for most divers (the 'MARTINI LAW' rule of thumb — each 10 m of depth on air ≈ one martini's worth of impairment). CO₂ RETENTION POTENTIATES narcosis (the multiplier effect — a hypercapnic diver gets narced harder at any given depth). Narcosis reverses immediately on ascent (no residual after the dive). Builds some tolerance with frequent deep diving (the 'deep adaptation' effect). (a) Oxygen toxicity is a SEPARATE gas-toxicity issue (Paul Bert effect at high PpO₂). (b) INCREASED CO₂ potentiates narcosis, not decreased — the option is exactly backwards. (d) Wrong because (a) and (b) are wrong.",
+      "source": "mySSI: SoD Lesson 3.6 Review"
+    },
+    {
+      "id": "mssi-sod-230",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Narcosis",
+      "question": "How can divers potentially reduce the risk of narcosis?",
+      "options": {
+        "a": "Controlled descents",
+        "b": "All answers are correct",
+        "c": "Increasing physical and mental fitness",
+        "d": "Reducing exertion and stress"
+      },
+      "correct": "b",
+      "explanation": "All three help mitigate nitrogen narcosis risk. (a) CONTROLLED DESCENTS — slow descent allows time for inert gas to load gradually rather than dumping a sudden bolus into nerves; many divers report less acute narcosis impact with deliberately paced descents (especially below 30 m). Some agencies recommend stopping every 10 m on deeper rec descents to assess yourself. (c) PHYSICAL AND MENTAL FITNESS — fit divers retain less CO₂ during exertion (better cardiovascular efficiency, more efficient gas exchange), and CO₂ potentiates narcosis; mental fitness means task focus, calm response, recognizing impairment early, not letting narcosis cascade into poor judgment. (d) REDUCING EXERTION AND STRESS — both elevate CO₂ → CO₂ potentiates narcosis. Cold water ALSO worsens narcosis (hypothermia + N₂ loading interact). OTHER MITIGATION STRATEGIES not in this question: SWITCH TO TRIMIX below ~30 m (replace some N₂ with He → less narcotic load — standard tech procedure); AVOID ALCOHOL / SEDATIVES 24h pre-dive (additive CNS effects); HYDRATE WELL (dehydration thickens blood, slows perfusion, worsens gas dynamics); plan DEEP DIVES EARLY in the day (less fatigue); DEEP ADAPTATION via frequent deep diving within a training period reportedly raises tolerance.",
+      "source": "mySSI: SoD Lesson 3.6 Review"
+    },
+    {
+      "id": "mssi-sod-231",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Narcosis",
+      "question": "What is high-pressure nervous syndrome?",
+      "options": {
+        "a": "A psychotic disorder associated with carbon monoxide",
+        "b": "Decompression sickness",
+        "c": "A central nervous system disorder associated with deep heliox dives",
+        "d": "A disorder that recreational divers get when they are stressed"
+      },
+      "correct": "c",
+      "explanation": "HIGH-PRESSURE NERVOUS SYNDROME (HPNS) is a CNS disorder occurring at EXTREME depths breathing HELIUM-BASED MIXES (heliox / heliox-rich trimix), typically below ~150 m / 16 ATA. SYMPTOMS develop progressively with depth and compression rate: TREMORS (hands, lips, eyelids — most characteristic, distinguishes HPNS from narcosis); DIZZINESS, NAUSEA; COGNITIVE SLOWING, MICRO-SLEEP EPISODES; PSYCHOMOTOR COORDINATION LOSS; EEG changes (theta waves, increased slow-wave activity); at extreme depths, CONVULSIONS. MECHANISM: poorly understood but theorized as a direct PRESSURE EFFECT on neuronal membrane proteins — compression physically deforms ion channels — distinct from gas-narcosis mechanism. Importantly, COMPRESSION RATE matters more than absolute depth — slow descents (taking days, 'saturation' profiles) reduce HPNS markedly. MITIGATION in commercial / saturation diving: SLOW COMPRESSION (saturation profiles take 24+ hours to reach 300+ m); ADD NITROGEN BACK ('trimix' with small N₂ %) — N₂'s narcotic effect counterbalances HPNS, the 'NARCOTIC COUNTERBALANCE' principle; HYDROGEN-HELIUM mixes (HYDRELIOX) for very deep — H₂ has narcotic effect too. FOR RECREATIONAL DIVERS: HPNS isn't a real concern — you'd need ~150 m+ on heliox to see it, far beyond rec/tec recreational limits (rec stops at 40 m, tec rec at 60 m, full tec trimix at 100 m, where HPNS hasn't fully manifested). Mentioned in SoD curriculum for completeness on inert-gas physiology. (a) CO psychosis is unrelated (CO causes hypoxia + tissue damage, not 'psychosis'). (b) DCS is bubble formation from off-gassing inert gas, totally separate mechanism. (d) HPNS is a real physical/CNS phenomenon at extreme depth, not stress-induced psychogenic.",
+      "source": "mySSI: SoD Lesson 3.6 Review"
+    },
+    {
+      "id": "mssi-sod-232",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Hypercapnia",
+      "question": "Severe hypercapnia can increase surface air consumption rates to around:",
+      "options": {
+        "a": "20 liters/minute",
+        "b": "200 liters/minute",
+        "c": "50 liters/minute",
+        "d": "150 liters/minute"
+      },
+      "correct": "d",
+      "explanation": "Normal SAC (Surface Air Consumption) scales with workload and stress: RESTING (calm, neutral, slow swim) ≈ 10–15 L/min; LIGHT WORK (gentle current, photography) ≈ 15–25 L/min; MODERATE WORK (current, camera, navigation) ≈ 25–40 L/min; HEAVY EXERTION (fighting current, swim sprints) ≈ 40–60 L/min; SEVERE STRESS / PANIC / HYPERCAPNIA ≈ 100–150+ L/min. A panicked or hypercapnic diver can hit 150 L/min — that's 10–15× resting consumption. At 30 m (4 bar absolute), that's 600 L/min from the cylinder → an AL80 (~2,400 L) drained in 4 minutes. THE VICIOUS CYCLE: hypercapnia → dyspnea (air hunger) → panic-breathing → MORE CO₂ retained per breath (shallow rapid breathing has high dead-space ratio so most of the volume just shuttles in and out without alveolar exchange) → worse hypercapnia → faster gas burn → low-on-gas emergency → more panic. WHY THIS MATTERS for gas planning: gas plans MUST account for STRESS SAC, not just calm SAC. Rule of thirds, rock-bottom gas, minimum-gas calculations all factor an elevated 'emergency SAC' (typically 25–30 L/min, sometimes higher for tech divers in extreme scenarios). A diver running 15 L/min calmly can be in serious trouble if their SAC suddenly jumps to 150 L/min on a deep dive — without rock-bottom margin you simply can't make the surface. (a) 20 = light work, normal calm rate. (b) 200 = unrealistic, exceeds normal physiological respiratory minute volume even at maximum exertion. (c) 50 = heavy work, not severe hypercapnia.",
+      "source": "mySSI: SoD Lesson 3.6 Review"
+    },
+    {
+      "id": "mssi-sod-233",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Hypercapnia",
+      "question": "Carbon dioxide narcosis is:",
+      "options": {
+        "a": "Physical and mental disturbance caused by nitrogen narcosis",
+        "b": "Physical and mental disturbance caused by hyperventilation",
+        "c": "Physical and mental disturbance caused by hypercapnia",
+        "d": "Caused by breathing in too much carbon dioxide"
+      },
+      "correct": "c",
+      "explanation": "CARBON DIOXIDE NARCOSIS = physical and mental disturbance caused by HYPERCAPNIA (elevated PaCO₂). Onset around PaCO₂ > 60 mmHg / 8 kPa (vs. normal ~40 mmHg). Symptoms parallel nitrogen narcosis: confusion, disorientation, impaired judgment, headache, lethargy → eventually loss of consciousness. Distinct from N₂ narcosis in mechanism (acidosis + direct CO₂ effects on neurons) but with similar end-state appearance — and the two COMPOUND: a hypercapnic diver gets N₂-narced harder than the depth alone would predict (the multiplier effect). DIVING SCENARIOS: skip-breathing, poor regulator maintenance with high WoB, dense gas at extreme depth (gas density above ~6 g/L makes adequate ventilation nearly impossible — narcosis-like impairment kicks in around 50–60 m on air just from gas density), rebreather scrubber failure (the silent killer in CCR diving — diver feels increasingly fuzzy without realizing why). Recovery: ascend to lower pressure / better gas exchange, controlled breathing, surface and recover. (a) Nitrogen narcosis is a SEPARATE gas-mechanism (Meyer-Overton, lipid solubility — see mssi-sod-229). (b) HYPERVENTILATION produces HYPOCAPNIA (LOW CO₂), the opposite — and that causes its own problems (respiratory alkalosis, tetany, shallow-water blackout in freediving) but isn't called 'narcosis'. (d) Loose phrasing — divers don't usually 'breathe in too much CO₂' (compressor air is filtered, scrubbed); the issue is the BODY RETAINING too much CO₂ from inadequate clearance.",
+      "source": "mySSI: SoD Lesson 3.6 Review"
+    },
+    {
+      "id": "mssi-sod-234",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Hypercapnia",
+      "question": "Increased blood carbon dioxide levels is known as:",
+      "options": {
+        "a": "Hypothermia",
+        "b": "Hypovolemia",
+        "c": "Hypercapnia",
+        "d": "Hyperthermia"
+      },
+      "correct": "c",
+      "explanation": "HYPERCAPNIA (also 'hypercarbia') = elevated CO₂ in blood (PaCO₂ > 45 mmHg / 6 kPa, normal ~40). ETYMOLOGY CHEAT SHEET for the distractors: prefixes — HYPER- (above normal) / HYPO- (below normal); roots — CAPN- (smoke / CO₂) / THERM- (heat) / VOL- (volume) / OXY- (oxygen) / GLYC- (sugar). So: HYPO-THERMIA = low body temp; HYPER-THERMIA = high body temp (overheating); HYPO-VOLEMIA = low blood volume (dehydration, hemorrhage); HYPER-VOLEMIA = excess blood volume; HYPER-CAPNIA = high CO₂ (this question); HYPO-CAPNIA = low CO₂ (from hyperventilation — the freediving danger that causes shallow-water blackout); HYPOXIA = low O₂; HYPEROXIA = high O₂; HYPOGLYCEMIA = low blood sugar. The pattern is consistent — once you learn the prefix/root system, every term is decodable. Diving-relevant set to know cold: hypoxia, hyperoxia, hypercapnia, hypocapnia, hypothermia, hyperthermia, hypovolemia.",
+      "source": "mySSI: SoD Lesson 3.6 Review"
+    },
+    {
+      "id": "mssi-sod-235",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Hypercapnia",
+      "question": "Excessive blood carbon dioxide levels:",
+      "options": {
+        "a": "Make the blood acidic and increase breathing rates",
+        "b": "Make the blood acidic and decrease breathing rates",
+        "c": "Have no effect on blood pH",
+        "d": "Make the blood alkaline and increase breathing rates"
+      },
+      "correct": "a",
+      "explanation": "Two effects, both captured in option (a). (1) ACIDIC BLOOD (RESPIRATORY ACIDOSIS) — chemistry: CO₂ + H₂O ⇌ H₂CO₃ (carbonic acid) ⇌ H⁺ + HCO₃⁻ (bicarbonate + hydrogen ion). More CO₂ → equilibrium shifts right → more H⁺ → lower pH → acidic. Normal arterial pH = 7.35–7.45; respiratory acidosis pulls it below 7.35. (2) INCREASED BREATHING RATE — body's response: CENTRAL CHEMORECEPTORS in the brainstem medulla detect rising H⁺ in cerebrospinal fluid (proxied via CO₂); PERIPHERAL CHEMORECEPTORS in carotid + aortic bodies detect rising arterial PaCO₂; both signal the medulla's respiratory center → INCREASE respiratory rate AND tidal volume → more alveolar ventilation → blow off CO₂ → restore pH. This is why hypercapnia gives the AIR-HUNGER / DYSPNEA sensation — the body is screaming at you to breathe harder. KEY PHYSIOLOGICAL FACT: respiratory drive is primarily CO₂-DRIVEN, not O₂-driven, in normal physiology. The body protects pH first, oxygenation second. This is why HYPERVENTILATING BEFORE FREEDIVING is dangerous (mssi-sod-220) — flushing out CO₂ removes the primary breathing trigger, letting O₂ drop dangerously before the diver feels the need to surface. WHEN THIS COMPENSATION FAILS (mechanical limit on ventilation, dense gas at depth, drug-suppressed breathing, deep narcosis): CO₂ keeps rising → CO₂ narcosis → unconsciousness. (b) Wrong — high CO₂ INCREASES breathing, not decreases. (c) Wrong — pH definitively changes. (d) Wrong — high CO₂ → ACIDIC, not alkaline (alkaline = hypocapnia from hyperventilation).",
+      "source": "mySSI: SoD Lesson 3.6 Review"
+    },
+    {
+      "id": "mssi-sod-236",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Narcosis",
+      "question": "As a diver descends, the narcotic effect of nitrogen becomes:",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Less",
+        "c": "Greater",
+        "d": "It does not change"
+      },
+      "correct": "c",
+      "explanation": "HENRY'S LAW: at higher pressure, more gas dissolves into a liquid (proportional to partial pressure). Deeper diving = higher ambient pressure = higher PpN₂ = more dissolved N₂ in blood and tissues = stronger narcotic effect. QUANTITATIVE: at the surface, PpN₂ = 0.79 × 1 = 0.79 bar; at 30 m / 4 bar, PpN₂ = 0.79 × 4 = 3.16 bar (4× surface); at 60 m / 7 bar, PpN₂ = 5.53 bar (7× surface). So narcosis intensifies linearly-to-non-linearly with depth (perceived effect ramps up faster than the linear PpN₂ rise as cognitive thresholds get crossed). CLASSICAL 'MARTINI LAW' rule of thumb: 10 m ≈ 1 martini's worth of impairment, 20 m ≈ 2 martinis, 30 m ≈ 3 (noticeable for many), 40 m = max recreational ≈ 4 (significant for some), 50–60 m ≈ severely narced on air for most divers, 70 m+ = unsafe on air for ANYONE. WHY TECH DIVERS SWITCH TO TRIMIX: helium replaces some N₂. At 60 m on trimix 18/45 (18% O₂ + 45% He + 37% N₂), PpN₂ = 0.37 × 7 = 2.6 bar (≈ equivalent narcotic depth of 23 m on air). The 'EQUIVALENT NARCOTIC DEPTH (END)' calculation tells you what depth your trimix feels like — keeping END below 30 m is standard tech practice for cognitive function. (a) Wrong — only (c) is correct. (b) Less — opposite of physics, narcosis intensifies with depth. (d) No change — physically impossible per Henry's Law.",
+      "source": "mySSI: SoD Lesson 3.6 Review"
+    },
+    {
+      "id": "mssi-sod-237",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Thermoregulation",
+      "question": "What are physiological responses to increased body temperature?",
+      "options": {
+        "a": "Perspiration",
+        "b": "Metabolic heat reduction",
+        "c": "Behavioral changes",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "All three are textbook thermoregulation responses to HYPERTHERMIA (body too hot). (a) PERSPIRATION (sweating) — sweat glands secrete water onto skin → EVAPORATIVE COOLING (each gram of sweat that evaporates removes ~580 calories of heat). Most powerful body-cooling mechanism. Limited underwater because sweat doesn't evaporate efficiently in water (hence pre-dive overheating risk in wetsuit on hot deck — you produce sweat but it can't cool you, you just dehydrate). (b) METABOLIC HEAT REDUCTION — body downregulates metabolic rate slightly to reduce internal heat production (slows non-essential processes). Less prominent than active cooling responses but real. (c) BEHAVIORAL CHANGES — seek shade, remove layers (unzip wetsuit between dives, get out of direct sun, dive deeper to cooler thermocline water), drink water (hydration), reduce activity, change posture. Often the most EFFECTIVE thermoregulation because it changes the environment, not just the body. OTHER PHYSIOLOGICAL RESPONSES not listed: PERIPHERAL VASODILATION (blood routed to skin surface → radiative heat loss → flushed appearance); INCREASED HEART RATE (supports skin perfusion); TACHYPNEA (faster breathing loses heat via warm exhaled air). DIVING RELEVANCE: pre-dive hyperthermia in wetsuit on tropical boats causes dehydration before entering water → DCS risk increase. Cool down + hydrate between dives. Topside thermal management is part of dive planning in hot climates.",
+      "source": "mySSI: SoD Lesson 3.7 Review"
+    },
+    {
+      "id": "mssi-sod-238",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Thermoregulation",
+      "question": "Which of the following statements about adipose (fatty) tissue is true?",
+      "options": {
+        "a": "It makes a diver more resistant to heat loss",
+        "b": "It acts as a natural layer of insulation",
+        "c": "All answers are correct",
+        "d": "It has detrimental effects on a diver's health"
+      },
+      "correct": "c",
+      "explanation": "All three describe real properties of body fat — adipose is a DOUBLE-EDGED trait for divers. (a) MORE RESISTANT TO HEAT LOSS — fat has lower thermal conductivity (~0.2 W/m·K) than muscle (~0.5 W/m·K), water (~0.6 W/m·K), or skin. A 1 cm subcutaneous fat layer insulates roughly 3× better than the same thickness of muscle. (b) NATURAL INSULATION LAYER — subcutaneous adipose acts as the body's own neoprene wetsuit. Larger/heavier divers with more subQ fat often tolerate cold water better in equivalent exposure suits than lean divers; free-divers, channel swimmers, and Antarctic explorers historically benefit from extra body fat for cold tolerance. (d) DETRIMENTAL HEALTH EFFECTS — the flip side: excess adipose carries real risks: DCS RISK FACTOR (mssi-sod-096) — adipose has ~5× the nitrogen solubility of lean tissue (N₂ is lipid-soluble) and is poorly perfused → loads slowly, unloads even slower → silent reservoir of dissolved gas through ascent; CARDIOVASCULAR RISK — obesity correlates with hypertension, atherosclerosis, increased cardiac work, all bad for diving stress; REDUCED FITNESS — lower aerobic capacity, faster CO₂ buildup at exertion, higher SAC, harder to manage current; BUOYANCY/WEIGHTING — positively-buoyant fat needs more lead to descend, increasing drag and gas consumption; PARADOXICAL HEAT RETENTION in warm water — fat that helps in cold can cause overheating in tropical conditions. So fat is a real insulator BUT also a metabolic and DCS liability — both sides true.",
+      "source": "mySSI: SoD Lesson 3.7 Review"
+    },
+    {
+      "id": "mssi-sod-239",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Thermoregulation",
+      "question": "Why does hypothermia increase the risk of decompression sickness?",
+      "options": {
+        "a": "The dilation of blood vessels reduces circulation",
+        "b": "The constriction of blood vessels increases blood flow",
+        "c": "The dilation of blood vessels increases heat absorption",
+        "d": "The constriction of blood vessels reduces circulation"
+      },
+      "correct": "d",
+      "explanation": "Cold causes PERIPHERAL VASOCONSTRICTION → reduced blood flow to extremities and skin → slower NITROGEN OFF-GASSING during ascent and surface interval → increased DCS risk. THE MECHANISM IN DETAIL: (1) DURING THE DIVE (cold) — peripheral vasoconstriction means less blood flow to fat-rich tissues (limbs, skin); those tissues load N₂ more slowly than they normally would (sounds protective). (2) DURING ASCENT AND SURFACE INTERVAL — still cold, still vasoconstricted → those same tissues now OFF-GAS slowly too → at the moment supersaturation peaks (right after surfacing), the dissolved N₂ in cold/poorly-perfused tissues isn't getting cleared. (3) POST-DIVE RE-WARMING (taking off wetsuit, hot shower, hot tub, hot deck) — peripheral VASODILATION suddenly opens up perfusion to those gas-loaded tissues → released N₂ floods into the blood when ambient pressure is already at minimum → BUBBLE NUCLEATION CASCADE. (4) CLASSIC CLINICAL PATTERN: DCS strikes 30 min – several hours post-surfacing during re-warming. THIS IS WHY post-dive hot showers, hot tubs, sauna are strongly discouraged within ~12–24 h after diving (especially deep/long profiles). Cold during the dive isn't always bad if you stay cold — but the warming TRANSITION is dangerous. Heated drysuits, hot-water suits in commercial diving avoid this by keeping perfusion stable throughout. (a) DILATION INCREASES local blood flow, doesn't reduce. (b) CONSTRICTION DECREASES flow, not increases. (c) Dilation increases heat LOSS to environment, not absorption.",
+      "source": "mySSI: SoD Lesson 3.7 Review"
+    },
+    {
+      "id": "mssi-sod-240",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Thermoregulation",
+      "question": "What actions can divers take to reduce the risks of hypothermia?",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Plan their dive according to the conditions",
+        "c": "Make sure they have appropriate training and experience",
+        "d": "Use the right equipment and have appropriate surface supplies"
+      },
+      "correct": "a",
+      "explanation": "All three are SSI standard practices for cold-water dive safety. (b) PLAN DIVE ACCORDING TO CONDITIONS — match profile to thermal limits: cold water (<15 °C) → drysuit + thick undergarment; limit bottom time as water gets colder (cold + long dive = compounding risk); don't push depth where thermocline drops temperature 5+ °C without thermal contingency; plan surface-interval thermal recovery (warm drinks, dry layer between dives). (c) TRAINING AND EXPERIENCE — drysuit certification, ice diving specialty, cold-water specialty courses; experience with cold-water gear management (frozen regulator handling, gloved-hand drills, drysuit valve operation); recognizing early hypothermia signs in self AND buddy (early signs: shivering, slowed thinking, clumsy hands; later signs paradoxically include shivering STOPPING, which is the dangerous transition to severe hypothermia). (d) RIGHT EQUIPMENT + SURFACE SUPPLIES — IN-WATER: appropriate exposure suit (drysuit + thick undergarment for cold; hood + gloves + booties always for cold), heated vest (Santi BZ-400, Thermalution) for extreme cold, ARGON for drysuit insulation (~30% better than air); TOPSIDE: dry change of clothes, towel, hot drinks (tea, soup), wind shelter, warming blankets, dry bag for wet gear. OTHER PRACTICES: dive in EARLY SHIFT before fatigue, eat carb-rich food before diving (fuel for shivering metabolism), avoid alcohol pre-dive (impairs thermoregulation).",
+      "source": "mySSI: SoD Lesson 3.7 Review"
+    },
+    {
+      "id": "mssi-sod-241",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Thermoregulation",
+      "question": "What actions can divers take to reduce the risks of hyperthermia?",
+      "options": {
+        "a": "Drink plenty of fluids",
+        "b": "Don wetsuits just before the dive",
+        "c": "All answers are correct",
+        "d": "Minimize effort and exertion"
+      },
+      "correct": "c",
+      "explanation": "All three address overheating, particularly in tropical / sun-exposed dive operations. (a) DRINK PLENTY OF FLUIDS — hyperthermia + sweating without evaporation (you're in a wetsuit, sweat can't cool you) = rapid dehydration; dehydration also separately raises DCS risk. Hydrate continuously: water + electrolyte drinks; avoid heavy caffeine and alcohol (diuretics). Practical target: pale yellow urine pre-dive. (b) DON WETSUITS JUST BEFORE THE DIVE — don't suit up 30 min in advance on a hot deck. Wetsuits TRAP heat outside water (especially black neoprene in direct sun → can hit 50 °C+ surface temp). Carry the suit to the entry point and put it on at the last moment, or sit in shade with suit half-on. (d) MINIMIZE EFFORT AND EXERTION topside in heat — let crew load gear, avoid long walks in full kit on tropical sand, avoid carrying heavy doubles to entry, on liveaboards stay in shaded areas between dives. OTHER MEASURES not in this question: GET IN THE WATER for cooling between dives (skin sheds heat to surrounding cooler water); WET DOWN THE WETSUIT with cool water before the dive (pre-cool the diver); SHADE STRUCTURES on dive boats (canopies, umbrellas, awnings); LIGHT-COLORED exposure suit if available (less solar absorption); COOL drinks (hydration + body cooling combined). The cumulative effect: pre-dive hyperthermia → dehydration + elevated metabolic state → significantly higher post-dive DCS risk in tropical waters, sometimes counter-intuitive to the warm-water 'easy diving' assumption.",
+      "source": "mySSI: SoD Lesson 3.7 Review"
+    },
+    {
+      "id": "mssi-sod-242",
+      "area": "science_of_diving",
+      "subarea": "Anatomy & Physiology — Thermoregulation",
+      "question": "Signs and symptoms of mild hypothermia can include:",
+      "options": {
+        "a": "Uncontrollable shivering, slurred speech, and unconsciousness",
+        "b": "Shivering, decreased heart rate, and hallucinations",
+        "c": "Shivering, increased heart rate, and a core temperature of less than 28°C",
+        "d": "Shivering, increased heart rate, and loss of dexterity"
+      },
+      "correct": "d",
+      "explanation": "Hypothermia is staged by CORE BODY TEMPERATURE with distinct symptom patterns. MILD (32–35 °C / 90–95 °F): SHIVERING, INCREASED HR, increased breathing, LOSS OF DEXTERITY, mild confusion, the 'UMBLES' (mumbles, fumbles, stumbles) — body is actively defending core temperature. MODERATE (28–32 °C / 82–90 °F): violent shivering → then SHIVERING STOPS (paradoxical, dangerous transition), slurred speech, slowed reflexes, confusion, uncoordinated movement, possible hallucinations. SEVERE (<28 °C / <82 °F): UNCONSCIOUSNESS, weak/slow pulse, low BP, severe cardiac arrhythmia risk, eventual cardiac arrest — looks dead but can sometimes be revived ('not dead until warm and dead' — cold preserves brain function during arrest). MILD HYPOTHERMIA underwater: increased HR + cardiac output to maintain perfusion against vasoconstriction; shivering generates ~5× resting metabolic rate of heat; LOSS OF FINE MOTOR CONTROL — extremities cool fastest, hands fumble first (hard to fasten BCD straps, struggle with masks, fumble drysuit dump valve). UNDERWATER WARNING SIGNS: buddy hands moving stiffly / dropping things, slow response to signals, misreading dive computer/SPG, shortened attention span, skin cyanosis (blue lips, white extremities). RESPONSE TO ONSET: end dive immediately, surface controlled, dry off + REWARM PASSIVELY (insulating layers, warm shelter, hot drinks if alert). NEVER hot-shower or vigorous-activity rewarming — peripheral vasodilation pulls cold blood from extremities to core, can drop core temp further (AFTERDROP) and trigger arrhythmia. (a) Slurred speech + unconsciousness = MODERATE-TO-SEVERE, not mild. (b) DECREASED HR is wrong direction for mild — HR rises in mild then falls in severe. (c) Core temp <28 °C is SEVERE, not mild — at that temp the diver is unconscious, not just losing dexterity.",
+      "source": "mySSI: SoD Lesson 3.7 Review"
+    },
+    {
       "id": "personal-ait-a-001",
       "area": "instructor",
       "subarea": "AIT — Divemaster",
@@ -26231,6 +26471,1327 @@
       "correct": "a",
       "explanation": "Forceful Valsalva spikes intracranial and middle-ear pressures and can rupture round-window membrane.",
       "source": "compiled_from_dive_theory"
+    },
+    {
+      "id": "sr-review-051",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "Which factor determines whether stress is positive or negative for you?",
+      "options": {
+        "a": "Your sense of choice",
+        "b": "Your ability to anticipate the consequences",
+        "c": "All Answers are correct",
+        "d": "Your degree of control"
+      },
+      "correct": "c",
+      "explanation": "SSI teaches that whether stress is positive (helpful, alerting) or negative (overwhelming) depends on three interrelated factors: your sense of choice, your ability to anticipate consequences, and your degree of control over the situation. When all three are present, the same stimulus produces useful arousal that keeps a diver alert; when they are missing, that arousal becomes a threat to safety. Recognizing this is why SSI emphasizes good planning, training within limits, and the buddy system — they preserve choice, anticipation, and control.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-052",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "The tolerance for stress for everyone is:",
+      "options": {
+        "a": "Equal",
+        "b": "Different",
+        "c": "Less if you are diving",
+        "d": "Higher if you are diving"
+      },
+      "correct": "b",
+      "explanation": "Stress tolerance is individual — it varies from diver to diver and even from day to day for the same diver. Personality, training, experience, fitness, fatigue, and mood all shape how much demand a person can absorb before stress becomes negative. This is why SSI instructors must observe each student individually and not assume that what is comfortable for one diver is comfortable for another. Recognizing differences in tolerance is the foundation for matching buddy teams and adjusting dive plans to the weakest link.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-053",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "If a demand overpowers your ability to maintain control over the situation:",
+      "options": {
+        "a": "You stop breathing",
+        "b": "Stress eases",
+        "c": "You abort the dive immediately",
+        "d": "Stress multiplies"
+      },
+      "correct": "d",
+      "explanation": "When a demand exceeds the diver's capacity to respond, stress does not stay constant — it multiplies. One stressor compounds with another in a cycle that, if unchecked, can escalate toward panic. SSI teaches that the way to break this cycle is to recognize the early signs and act on them: stop, breathe, rest, think, then act. Aborting the dive may eventually be the right call, but the immediate priority is regaining control before stress overwhelms you.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-054",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "Stress can be detected by you or another who is close by at which point?",
+      "options": {
+        "a": "After the dive",
+        "b": "At any point as it develops",
+        "c": "Before diving",
+        "d": "During the dive"
+      },
+      "correct": "b",
+      "explanation": "SSI doctrine is clear: stress can be detected at any point as it develops — before, during, or after the dive. A diver who is unusually quiet at the briefing, who fumbles gear at the entry, who breathes rapidly underwater, or who is shaken on the boat afterward is showing signs that you or a buddy can act on. Because stress can appear at any moment, vigilance is continuous; the buddy system works precisely because there is almost always at least one diver in the team who maintains control and can lend aid.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-055",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "It is easier to respond to stress:",
+      "options": {
+        "a": "the later it is detected",
+        "b": "the earlier it is detected",
+        "c": "anytime during the dive",
+        "d": "deeper than 18 Meters"
+      },
+      "correct": "b",
+      "explanation": "Early detection is the single most important factor in managing stress. While stress is still mild, the diver retains choice, control, and the ability to anticipate — exactly the qualities that keep stress positive. Once stress has multiplied and approached panic, those resources are gone and intervention becomes far harder and riskier. This is why SSI trains divers to know their own early warning signs (rapid heartbeat, shortness of breath, muscle tension) and to watch buddies for the same, so action can be taken at the earliest possible moment.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-056",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "You can consciously recognize a new demand before it arises and respond to it fast. Right or wrong?",
+      "options": {
+        "a": "Right",
+        "b": "Wrong"
+      },
+      "correct": "a",
+      "explanation": "Right. A trained diver who anticipates conditions, rehearses skills, and stays mentally engaged can recognize a developing demand before it becomes a crisis and respond quickly. This is exactly what SSI's emphasis on preparation, dive planning, and skill mastery builds: the ability to see a problem coming — running low on gas, current picking up, a buddy slowing down — and act early while choice and control are still intact. Anticipation is one of the three factors that keeps stress positive rather than negative.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-057",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "The positive stress of diving can turn into negative stress: Right or wrong?",
+      "options": {
+        "a": "Right",
+        "b": "Wrong"
+      },
+      "correct": "a",
+      "explanation": "Right. The same arousal that makes diving exciting and alerting can flip into negative stress if demands begin to outweigh the diver's capacity to respond. A drop in visibility, unexpected current, equipment trouble, or simply accumulating fatigue can push a diver from comfortably alert to overwhelmed. Recognizing this transition early — before it multiplies toward panic — is the diver's job and the buddy's job. Healthy diving stress is a consistent low level; the moment it begins climbing, it is time to act.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-058",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "The sudden stimulus we feel when frightened, startled, or threatened is called?",
+      "options": {
+        "a": "Fight-or-flight syndrome",
+        "b": "Fight and rationalize",
+        "c": "Resign and flight syndrome",
+        "d": "Stay and fight syndrome"
+      },
+      "correct": "a",
+      "explanation": "The fight-or-flight syndrome is the body's automatic response when we are frightened, startled, or threatened. Adrenaline rises, heart rate and breathing accelerate, blood is shunted to large muscles, and senses sharpen — preparing us to either confront or escape the threat. In diving, this primitive reaction can be useful in small doses but dangerous when uncontrolled, because the urge to flee underwater (e.g., bolting to the surface) can cause lung overexpansion injury or DCS. Recognizing the response is the first step to managing it through stop-breathe-think-act.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-059",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "The first step in learning to control stress and respond to it logically is:",
+      "options": {
+        "a": "No diving deeper than 10 Meters",
+        "b": "Localize you alternate air source",
+        "c": "Recognize the signs of stress",
+        "d": "Ignore signs of stress if you are out of the water"
+      },
+      "correct": "c",
+      "explanation": "Recognizing the signs of stress is always the first step. You cannot manage what you cannot see. Once a diver — or a buddy, or an instructor — can identify the early warning signs (rapid heartbeat, shortness of breath, muscle tension, wide eyes, unusual quiet, fumbling gear), logical responses become possible: stop, breathe slowly, rest, assess, alleviate. SSI builds this awareness throughout the Stress & Rescue program because every later skill depends on it.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-060",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "Early warning signs for stress include:",
+      "options": {
+        "a": "Rapid heartbeat, Shortness of breath, Muscle tension",
+        "b": "Pain in the chest, fullness in the neck",
+        "c": "Comfort, relaxed breathing pattern",
+        "d": "Dizziness and slurred speech"
+      },
+      "correct": "a",
+      "explanation": "The classic early warning signs of stress are rapid heartbeat, shortness of breath, and muscle tension. They are the first physiological hints that the fight-or-flight system is engaging and that demand is approaching the diver's tolerance. Catching these signs early — in yourself or a buddy — gives you the widest window to break the stress cycle before it multiplies. Chest pain, slurred speech, and similar symptoms suggest medical emergencies, not early stress; comfort and relaxed breathing are the opposite of warning signs.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-061",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "A big step toward being able to manage stress in a social situation is to realize?",
+      "options": {
+        "a": "That no one is immune to fear",
+        "b": "That everyone is immune to fear",
+        "c": "That stress in social situation cannot be solved.",
+        "d": "To ignore the fears of others and take care of yourself"
+      },
+      "correct": "a",
+      "explanation": "Realizing that no one is immune to fear removes the social pressure to hide stress. Divers — including very experienced ones — feel anxiety, and pretending otherwise (to fit in, to look brave, to avoid letting a buddy down) only drives stress underground where it cannot be addressed. SSI teaches divers to admit anxiety, talk about it, and treat it as useful information rather than weakness. This openness is what allows buddy teams to support each other and what allows instructors to manage classes safely.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-062",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "Scuba diving is an activity that provides pleasure and enjoyment to the participant, therefore it is:",
+      "options": {
+        "a": "A challenge to be won at all costs",
+        "b": "A challenge for all ages to be won",
+        "c": "NOT a challenge to be won or lost",
+        "d": "A challenge to be won or lost"
+      },
+      "correct": "c",
+      "explanation": "Scuba diving is NOT a challenge to be won or lost. It is a recreational activity meant to provide pleasure and enjoyment. Treating a dive as something to be won — pushing through warning signs, refusing to abort, ignoring limits to save face — is one of the surest ways to convert positive stress into negative stress and ultimately into an accident. Any dive can be safely called off at any time, by any diver, for any reason, with no loss of standing. This mindset is central to SSI's safety culture.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-063",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "It is the combinations of stressors that can threaten your control. Right or wrong?",
+      "options": {
+        "a": "Wrong",
+        "b": "Right"
+      },
+      "correct": "b",
+      "explanation": "Right. A single stressor — slight current, mild cold, a sticky inflator — is usually well within a trained diver's tolerance. Danger arises when several minor stressors combine: cold plus current plus low visibility plus a fogging mask plus a slow buddy. Each item alone is trivial; together they can overwhelm. SSI teaches divers to inventory stressors before the dive, watch for accumulation during the dive, and act early when several are stacking up, because it is the combination — not any one factor — that most often threatens control.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-064",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "Stress can be quite useful because:",
+      "options": {
+        "a": "It is a warning sign that you can`t do anything about it.",
+        "b": "It can be a simple warning sign which will alert you to do nothing about a particular demand.",
+        "c": "It can be a simple warning sign which will alert you to do something about a particular demand",
+        "d": "It keeps your heart beating faster"
+      },
+      "correct": "c",
+      "explanation": "Stress is useful precisely because it is a warning sign that alerts you to DO SOMETHING about a particular demand. Healthy stress is a consistent low level that keeps a diver alert and tells you when conditions are changing or capacity is being approached. Treating that signal as information — not as something to suppress or ignore — lets you stop, assess, and take action while you still have control. A diver who never feels any stress is not paying attention; a diver who feels it and acts on it is diving safely.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-065",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "Panic is an overpowering fear caused by?",
+      "options": {
+        "a": "A real or imagined control over a situation",
+        "b": "A real or imagined control over a dive plan",
+        "c": "A real or imagined loss of breathing gas due to a leak",
+        "d": "A real or imagined loss of control over a situation"
+      },
+      "correct": "d",
+      "explanation": "Panic is overpowering fear caused by a real or imagined loss of control over a situation. The trigger does not have to be objectively dangerous — the perception of helplessness is enough. This is why SSI focuses so heavily on building skills and preserving choice, anticipation, and control: a diver who feels capable, even in a difficult situation, is far less likely to panic than one who feels trapped. Once panic begins, rational thought collapses and behavior becomes dangerous (bolting, fighting the regulator, ditching gear), so the entire stress-management chain is built around preventing it.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-066",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "You can begin to understand how stress can multiply into panic and how to stop it, if you are aware of:",
+      "options": {
+        "a": "The air consumption of your Buddy",
+        "b": "The common sequence of events that occurs prior to the onset of panic",
+        "c": "The common depth in which panic occurs",
+        "d": "Your amount of weights"
+      },
+      "correct": "b",
+      "explanation": "Awareness of the common sequence of events leading to panic — minor stressor, accumulation, rising heart rate and breathing, narrowing focus, loss of control — is what allows you to interrupt the chain before it completes. SSI teaches this sequence so divers can spot themselves or a buddy on the path toward panic early, while intervention is still simple. Without this map, the warning signs look random; with it, they look like steps on a recognizable ladder you can step off at any time.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-067",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 1 — Stress",
+      "question": "If you are aware of the cycle of stress you can beat it at any time, by:",
+      "options": {
+        "a": "Relying on your Dive Buddy",
+        "b": "Simply continue, ignore the causes, and take actions to abort the dive",
+        "c": "Swimming as fast as you can to the surface if stress occurs",
+        "d": "Simply stop, rest, assess the causes, and take actions to alleviate them 17 ©"
+      },
+      "correct": "d",
+      "explanation": "The SSI response to mounting stress is: stop, rest, assess the causes, and take actions to alleviate them. Stopping breaks momentum; resting and slow breathing reset the physiology; assessing identifies which stressor is driving the spiral; alleviating addresses it (vent some gas, ditch a weight, signal the buddy, ascend slowly, end the dive). Relying solely on a buddy gives up your own control; ignoring causes lets them grow; bolting to the surface invites lung overexpansion or DCS. The stop-rest-assess-alleviate cycle is the standard answer at any depth, at any time.",
+      "source": "SSI: Stress & Rescue Manual — Section 1 Review"
+    },
+    {
+      "id": "sr-review-068",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "Stress usually originates in divers because of five reasons:",
+      "options": {
+        "a": "Comfort, self-confidence, well maintained equipment, environmental conditions, or lack of skill.",
+        "b": "Dive plan, psychological causes, equipment, environmental conditions, or lack of water",
+        "c": "Physical causes, psychological causes, equipment problems, environmental conditions, or mastering of skills",
+        "d": "Physical causes, psychological causes, equipment problems, environmental conditions, or lack of skill."
+      },
+      "correct": "d",
+      "explanation": "SSI groups the origins of diver stress into five categories: physical causes (fitness, fatigue, cold), psychological causes (lack of mental preparation, fear, overconfidence), equipment problems (misuse, poor fit, poor maintenance), environmental conditions (current, visibility, depth, marine life), and lack of skill (inadequate training or rusty practice). Knowing these categories lets a diver inventory potential stressors before a dive and address each one through preparation. The other answer choices either replace key categories with their opposites (comfort, well-maintained equipment, mastering of skills) or list irrelevant items.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-069",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "As a general rule, a diver should be fit enough to respond to an emergency without becoming:",
+      "options": {
+        "a": "Comfortable",
+        "b": "Uncomfortable",
+        "c": "Exhausted or risking equipment failure.",
+        "d": "Exhausted or risking injury"
+      },
+      "correct": "d",
+      "explanation": "SSI's general fitness standard is that a diver must be fit enough to handle an emergency — towing a buddy, swimming against current, climbing back aboard — without becoming exhausted or risking injury. Diving puts physical demands on the body even on calm dives, and emergencies multiply those demands suddenly. A diver who reaches exhaustion mid-rescue becomes a second victim. Maintaining cardiovascular fitness, strength, and flexibility is therefore a core part of personal preparedness, alongside good skills and well-maintained equipment.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-070",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "Having a buddy and being a buddy are closely related to another major objective of any dive:",
+      "options": {
+        "a": "Being prepared and, consequently, avoiding stress",
+        "b": "Being not alone and, consequently, seeking thrills",
+        "c": "Being unprepared and, consequently, relying on my buddy",
+        "d": "Being dressed in a Total Diving System and, consequently, diving shallow"
+      },
+      "correct": "a",
+      "explanation": "The buddy system is part of being prepared, and being prepared is what avoids stress. A good buddy doubles your eyes, hands, and air supply; checks your gear and is checked by you; and provides reassurance throughout the dive. But the buddy system does not replace personal preparation — it complements it. The wrong attitude is using a buddy as an excuse to be unprepared (option c). The right attitude is two prepared divers who together make a still-safer team and consequently avoid the stressors that come from feeling alone or under-equipped.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-071",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "If you want to dive in a dry suit, it is recommended that you:",
+      "options": {
+        "a": "Try different brands before buying one",
+        "b": "Do at least 100 dives in wetsuit before",
+        "c": "Participate in an SSI Dry Suit specialty program",
+        "d": "Buy the most expensive dry suit, because high price is always high quality"
+      },
+      "correct": "c",
+      "explanation": "Drysuits handle very differently from wetsuits — buoyancy is controlled by adding and venting air through a separate suit valve, and a drysuit can become its own runaway buoyancy device or trap air in the feet. SSI's strong recommendation is therefore to take the SSI Dry Suit specialty program before diving one. The course covers buoyancy, valve use, undergarments, fit, emergency procedures, and maintenance. Trying brands and avoiding cheap suits are reasonable shopping advice, but the safety-critical step is formal training under an instructor.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-072",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "You should be able to avoid stress and have a gratifying experience if:",
+      "options": {
+        "a": "You have a good buddy and can rely on him/her",
+        "b": "You use expensive equipment, dive shallow, and are prepared to abort the dive at any time",
+        "c": "You use good judgment, dive within your limits, and are prepared with the proper equipment",
+        "d": "You use good equipment, dive beyond your limits, and are prepared to abort the dive at any time"
+      },
+      "correct": "c",
+      "explanation": "The SSI recipe for a stress-free, gratifying dive is: good judgment, diving within your limits, and being prepared with the proper equipment. These three pillars cover the psychological, training, and equipment categories of stress in one stroke. Relying solely on a buddy outsources your safety; expensive gear does not substitute for skill; and diving beyond your limits with the intention of bailing out if needed is exactly the mindset that produces accidents. Limits, judgment, and proper gear keep choice, anticipation, and control on your side.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-073",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "A good buddy team depends on proper matching, except for a pair of divers with:",
+      "options": {
+        "a": "Lack of confidence",
+        "b": "Lots of experience",
+        "c": "Cameras",
+        "d": "The same objectives"
+      },
+      "correct": "d",
+      "explanation": "A good buddy team must be matched in skills, fitness, equipment, and air consumption — but the one thing buddies must share, not differ on, is dive objectives. The question asks for the exception to matching, i.e., the one factor that must NOT be different. If one diver wants to photograph a wreck while the other wants to do a high-speed drift, the team will split underwater no matter how well they match in other ways. Differences in confidence, experience, or carrying a camera are workable; differences in objective are not.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-074",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "Which are the basic things buddies can do while diving to assure confidence?",
+      "options": {
+        "a": "Teamwork - constantly communicating",
+        "b": "Providing support when needed.",
+        "c": "Monitoring each other's actions",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "All answers are correct. Confident buddy teams do three things continuously: they work as a team and constantly communicate (signals, eye contact, planning); they provide support when needed (help with gear, share gas, assist with skills); and they monitor each other's actions (gas, depth, body language, positioning). Each behavior reinforces the others, and together they keep both divers in the team aware of the situation and ready to intervene early — which is exactly the moment stress is easiest to manage.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-075",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "Even if a diver may be nervous for a variety of reasons, there is one thing that can make for a safe and enjoyable dive for both parties.",
+      "options": {
+        "a": "Diving beyond the abilities",
+        "b": "The reassurance of a full diving tank",
+        "c": "The absence of a buddy",
+        "d": "The reassurance of a caring buddy"
+      },
+      "correct": "d",
+      "explanation": "The reassurance of a caring buddy is the single biggest factor that can turn a nervous dive into a safe and enjoyable one for both divers. Knowing that another diver is genuinely watching out for you — checking on you, ready to help, willing to call the dive without judgment — restores choice and control, the two ingredients that keep stress positive. This is why SSI emphasizes the human side of the buddy system, not just the procedural side: buddies are not just safety partners but emotional anchors.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-076",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "The use of controlled substances (drugs, medication)is discouraged because of?",
+      "options": {
+        "a": "Their ability to help you relaxing during the dive.",
+        "b": "Their inability to impair judgment and affect alertness.",
+        "c": "Their ability to impair judgment and affect alertness and other mental faculties",
+        "d": "The high price."
+      },
+      "correct": "c",
+      "explanation": "Drugs and medications — including many over-the-counter ones — are discouraged before diving because of their ability to impair judgment, reduce alertness, and affect other mental faculties. The same depth, narcosis, and cold that a sober diver can handle may overwhelm a medicated one, and the interaction of medications with pressure is often unstudied. Divers on prescription medication should consult a diving physician. The principle is simple: scuba demands clear thinking, and anything that clouds it raises stress and risk.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-077",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "Alcohol should be:",
+      "options": {
+        "a": "Not be abused the night before a dive, should not be used between dives, and should be used in moderation at all other times",
+        "b": "Used only if you dive to a maximum depth of 30 meters",
+        "c": "Abused the night before and can be used between dives",
+        "d": "Used between dives to warm up"
+      },
+      "correct": "a",
+      "explanation": "SSI's guidance on alcohol is straightforward: do not abuse it the night before a dive, do not use it between dives, and use it in moderation at all other times. Alcohol dehydrates the body, impairs judgment, disturbs sleep, and increases susceptibility to decompression sickness — all of which compound diving stress. Using it between dives is particularly dangerous because the diver is still off-gassing and has more dives planned. Moderation outside of diving days respects both health and the next time you put a regulator in your mouth.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-078",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "If you should decide to indulge in alcohol the night before, you should:",
+      "options": {
+        "a": "Dive with Nitrox 40 only",
+        "b": "Do deep dives to enjoy the increased nitrogen narcosis",
+        "c": "Avoid diving the following day",
+        "d": "Not dive deeper than 30 meters"
+      },
+      "correct": "c",
+      "explanation": "If you have indulged in alcohol the night before, the SSI recommendation is to avoid diving the following day. Residual dehydration, fatigue, impaired judgment, and increased DCS susceptibility do not vanish overnight, and they combine with the normal physiological load of diving to magnify every stressor. Switching to Nitrox or limiting depth does not address the core problem. Take a surface day, hydrate, rest, and dive when you are fully fit — the dive site will still be there.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-079",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "The single largest contributor to stress , which is a much more common problem than running out of air, is?",
+      "options": {
+        "a": "Equipment misuse",
+        "b": "Diving in buddy teams",
+        "c": "Sharks in the water",
+        "d": "Clear water"
+      },
+      "correct": "a",
+      "explanation": "The single largest contributor to diver stress — and far more common than running out of air — is equipment misuse. This includes ill-fitting gear, gear the diver is not familiar with, gear that is poorly maintained, and gear used outside its design. Each of these creates problems mid-dive that consume attention, raise breathing rate, and stack stressors. The good news is that equipment-related stress is largely preventable: properly selected, well-fitting, well-maintained, and familiar gear virtually eliminates this category. SSI's Equipment Service Program supports this directly.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-080",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "The unexpected loss of equipment during a dive can contribute to a loss of control? Right or wrong?",
+      "options": {
+        "a": "Right",
+        "b": "Wrong"
+      },
+      "correct": "a",
+      "explanation": "Right. Unexpectedly losing a piece of equipment during a dive — a fin slipping off, a mask kicked off, a weight pocket falling out, a regulator knocked from the mouth — is a sudden, unanticipated demand and therefore a textbook trigger for loss of control. The diver loses one of the three factors that keeps stress positive (anticipation), often loses a second (control over the situation), and sometimes a third (sense of choice). This is why SSI drills mask removal, regulator recovery, weight retrieval, and similar skills until they are automatic responses rather than crises.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-081",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "Equipment-related stress can involve:",
+      "options": {
+        "a": "All answers are correct",
+        "b": "Not having the right equipment",
+        "c": "Ill-fitting equipment",
+        "d": "Poorly maintained equipment"
+      },
+      "correct": "a",
+      "explanation": "SSI identifies three main equipment-related stress sources, all of which can compromise comfort and safety. Not having the right equipment for the environment (e.g., insufficient exposure protection) creates physical stress and distraction. Ill-fitting equipment chafes, leaks, restricts movement and continuously demands attention underwater. Poorly maintained gear is unreliable and can fail at the worst moment, triggering acute stress or panic. Because each option describes a legitimate equipment-related stress source, the comprehensive answer is correct: divers prevent these issues by choosing properly sized gear suited to the environment and keeping their Total Diving System on the SSI Equipment Service Program.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-082",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "Simply making sure your equipment fits well, is correctly adjusted, and you know how to use it properly will?",
+      "options": {
+        "a": "Virtually eliminate equipment related stress",
+        "b": "Allows you to dive with Nitrox.",
+        "c": "Allows you to dive in buddy teams.",
+        "d": "Allows you to dive deeper."
+      },
+      "correct": "a",
+      "explanation": "SSI teaches that the simplest and most powerful prevention against equipment-related stress is owning gear that fits, is correctly adjusted, and that the diver knows how to operate confidently. When the Total Diving System feels like a natural extension of the body, the diver can focus on enjoyment, buddy contact and the environment instead of fighting straps, leaks, or unfamiliar buttons. Nitrox, buddy diving and depth privileges depend on training and certification — not on fit and familiarity. Equipment ownership combined with regular use through Scuba Skills Updates and the Equipment Service Program virtually eliminates this category of stress.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-083",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "The Equipment Service Program, which is available through your SSI Training Center, is a complete maintenance program designed to:",
+      "options": {
+        "a": "Keep your regulator working at depth better than in shallow water",
+        "b": "Perform hydrostatic tests on your dive tank every 10 years",
+        "c": "Keep the components of your Total Diving System performing to the best of their potential",
+        "d": "Make complete service and maintenance of all your dive gear by yourself"
+      },
+      "correct": "c",
+      "explanation": "The SSI Equipment Service Program is a comprehensive, manufacturer-aligned maintenance program offered through SSI Training Centers that keeps every component of the diver's Total Diving System (regulator, BC, instruments, exposure suit, cylinder, etc.) performing to the best of its potential. Regulators must function equally well at all depths, not better at depth. Hydrostatic testing is a separate cylinder requirement, not the program's purpose. Self-service is explicitly discouraged because most dive equipment requires factory-trained technicians and proprietary parts. Regular professional service through the Equipment Service Program is the SSI-prescribed route to reliable, stress-free gear.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-084",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "You should cancel, postpone or abort a dive whenever necessary if a dive involves:",
+      "options": {
+        "a": "Current",
+        "b": "Potentially hazardous environmental conditions",
+        "c": "Waves",
+        "d": "Diving in cold water"
+      },
+      "correct": "b",
+      "explanation": "Current, waves and cold water are routine environmental factors that trained divers regularly handle when they have appropriate equipment, training and experience. SSI's no-go criterion is broader: any potentially hazardous environmental condition — meaning conditions that exceed your training, equipment, fitness, or comfort level on that day. This could be excessive current, dangerous surf, very low visibility, electrical storms, or any combination that elevates risk. The decision to cancel, postpone or abort can and should be made at any time without embarrassment. Diving must always be optional; surviving is mandatory.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-085",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "If you are uncomfortable with the conditions:",
+      "options": {
+        "a": "Tell your buddy and continue to dive.",
+        "b": "Don`t tell anyone, the feeling will ease as soon as you are diving",
+        "c": "Choose not to dive, or change your diving location",
+        "d": "Choose to dive with an extra alternate air source"
+      },
+      "correct": "c",
+      "explanation": "SSI doctrine is unambiguous: if you are uncomfortable with the conditions, you choose not to dive or change to a more suitable location. Diving while uncomfortable amplifies stress, narrows attention and dramatically increases the chance of panic underwater. Pushing on hoping the feeling will pass, or hiding it from a buddy, is exactly how preventable accidents happen. Adding redundant gear does not address the psychological source of the discomfort. Any diver, at any experience level, can call a dive at any moment without embarrassment — this principle is fundamental to safe diving and to the Stress & Rescue mindset.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-086",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "To get the chance to practice under supervision of an instructor, break bad habits, and catch up on new skills and pieces of equipment because you dive only once a year you should get?.",
+      "options": {
+        "a": "An annual Scuba Skills Update at your local training center",
+        "b": "A new Open Water Diver program every two years",
+        "c": "A new Total Diving System every year",
+        "d": "Nitrox fills for the first 3 dives"
+      },
+      "correct": "a",
+      "explanation": "SSI prescribes an annual Scuba Skills Update at a local SSI Training Center for any diver whose diving is infrequent — typically once a year on vacation. The session is conducted under instructor supervision, lets the diver rehearse core skills (mask clearing, regulator recovery, weight checks, buoyancy, ascents), break any bad habits that have developed, and become familiar with new equipment or procedures introduced since the last dive. Repeating the Open Water program is unnecessary, replacing the Total Diving System annually is wasteful, and Nitrox fills do not address skill decay. The Scuba Skills Update is the SSI tool for maintaining proficiency.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-087",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "Added buoyancy will increase your rate of ascent as you near 9 meters, and make safety stops at 5 meters more challenging if you use:",
+      "options": {
+        "a": "Full aluminum cylinders on safety stop",
+        "b": "Too much weight on your weight belt",
+        "c": "Aluminum cylinders which are close to empty",
+        "d": "Full steel cylinders"
+      },
+      "correct": "c",
+      "explanation": "Aluminum cylinders become positively buoyant as they approach reserve pressure: the gas mass leaves the tank but the aluminum shell stays the same volume, so the rig gets lighter as the dive ends. Near 9 m the diver is already ascending against expanding wetsuit and BC bubbles, and the now-positive aluminum cylinder adds even more lift, accelerating ascent and making the 5 m safety stop hard to hold. Full aluminum cylinders are negatively buoyant, full steel cylinders even more so, and excess lead always makes the diver sink, not rise. Proper weighting must account for an empty aluminum cylinder so safety stops remain controlled.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-088",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "While diving, a perfectly weighted diver will require only small buoyancy adjustments of the?",
+      "options": {
+        "a": "Weight system",
+        "b": "Buoyancy compensator BC",
+        "c": "Delivery system",
+        "d": "Information system"
+      },
+      "correct": "b",
+      "explanation": "A perfectly weighted diver carries just enough lead to be neutrally buoyant at the safety stop with a near-empty cylinder and a vented BC. During the dive, only small additions or releases of air in the buoyancy compensator (BC) are needed to compensate for depth changes and wetsuit compression. The weight system is set up before the dive, not adjusted underwater. The Delivery System (regulator/cylinder) and the Information System (computer/SPG/compass) are not buoyancy tools. SSI emphasizes correct weighting because it directly reduces gas consumption, exertion and stress while improving trim and control.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-089",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 2 — Causes & Prevention",
+      "question": "Each time you dive you should mentally rehearse:",
+      "options": {
+        "a": "Equipment sales",
+        "b": "Conducting a decompression stop",
+        "c": "Emergency ascent procedures",
+        "d": "Out of Trimix situation 25 ©"
+      },
+      "correct": "c",
+      "explanation": "SSI teaches divers to mentally rehearse emergency ascent procedures before every dive. Visualizing the steps — signal buddy, share air on the alternate air source and ascend together; or, if alone, perform a controlled emergency swimming ascent — keeps the response automatic when stress would otherwise narrow thinking. Recreational sport divers do not plan decompression stops, and Trimix is technical-level diving outside the recreational scope. Mentally walking through what you would do in the unlikely event of a problem is a low-cost, high-value habit that prevents stress from escalating to panic and is one of SSI's core stress-prevention tools.",
+      "source": "SSI: Stress & Rescue Manual — Section 2 Review"
+    },
+    {
+      "id": "sr-review-090",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "There are certain behavioral signs that signal when stress is present in your buddy. These signs can occur:",
+      "options": {
+        "a": "After the dive",
+        "b": "All answers are correct",
+        "c": "During the dive",
+        "d": "Before the dive"
+      },
+      "correct": "b",
+      "explanation": "Stress in a buddy can appear at any of the three SSI-recognized stages: before the dive (Stage 1 — apprehension, equipment fumbling, irritability), during the dive (Stage 2 — rapid breathing, wide eyes, jerky movements, refusal to descend or continue), and after the dive (Stage 3 — failure to establish positive buoyancy, mask off, regulator out, exhaustion, signs of drowning). A good buddy stays observant in all three phases because intervention is much easier and safer the earlier stress is recognized. Therefore the comprehensive answer that covers before, during and after is correct.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-091",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "The key to detect Stress in Stage 1 before the dive, is:",
+      "options": {
+        "a": "Communication",
+        "b": "To check if everyone has high quality , expensive dive gear",
+        "c": "Disregard any problems",
+        "d": "To mind just your own business"
+      },
+      "correct": "a",
+      "explanation": "In Stage 1 — before the dive — the most powerful tool for detecting stress is communication. Talking openly with your buddy about objectives, parameters, conditions, equipment and personal feelings reveals apprehension, fatigue, illness or doubts that would otherwise stay hidden until they become a problem underwater. Expensive gear has nothing to do with detecting stress. Ignoring problems or staying out of a buddy's business directly contradicts the buddy concept and is exactly how Stage 1 stress turns into Stage 2 panic underwater. Honest pre-dive communication is the foundation of a safe dive.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-092",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "Signs for stress in stage 1 before the dive could be:",
+      "options": {
+        "a": "Unusual behaviors",
+        "b": "Irritability and frustration",
+        "c": "Difficulty with equipment",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "All three are classic Stage 1 stress indicators. Unusual behaviors — being unusually quiet, withdrawn, joking nervously, or showing changes from a person's normal pre-dive demeanor — signal something is wrong. Irritability and frustration with normal preparation tasks indicate elevated emotional arousal. Difficulty with equipment a diver normally handles easily (struggling with straps, fins, mask, weights) often reflects nerves rather than mechanical problems. A vigilant buddy or instructor recognizes any of these and uses communication to assess the source and address it before the dive begins, when intervention is safest and easiest.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-093",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "To eliminate fear of the unknown by answering questions up front, it is critical to make a:",
+      "options": {
+        "a": "SSI Specialty Course Navigation",
+        "b": "Buddy check in the water",
+        "c": "Scuba Skills Update before each vacation",
+        "d": "Good dive plan"
+      },
+      "correct": "d",
+      "explanation": "A good dive plan eliminates fear of the unknown by answering all the important questions up front: what is the objective, what are the depth and time parameters, what is the entry and exit, what are the expected conditions, what signals will we use, what is our gas-management rule, what do we do if separated or in an emergency. With these decisions made on land, both buddies enter the water confident and aligned, which dramatically reduces Stage 1 stress. A Navigation specialty, an in-water buddy check or a Scuba Skills Update are useful tools but not the primary answer to pre-dive uncertainty — a thorough dive plan is.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-094",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "Elements of a good dive plan include, that both buddies agree on:",
+      "options": {
+        "a": "Color of equipment",
+        "b": "They will continue the dive even if they get separated and meet at the end",
+        "c": "The objective and Parameters (depth time) of the dive",
+        "d": "Equipment misuse and decompression stop procedures"
+      },
+      "correct": "c",
+      "explanation": "Two of the core elements every dive plan must contain are the objective of the dive (what we are going to do — sightseeing, photography, navigation practice, etc.) and the parameters: maximum depth, maximum bottom time, turnaround pressure, and ascent rate. Both buddies must explicitly agree on these limits so neither feels pressured to exceed them underwater. Equipment color is irrelevant. Continuing solo after separation contradicts the SSI lost-buddy procedure (search for one minute, then surface). Decompression stops and equipment misuse are not part of recreational dive planning. Agreement on objective and parameters is fundamental.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-095",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "A good buddy will create a sense of trust and ease through:",
+      "options": {
+        "a": "Buddy system failure during the dive",
+        "b": "Making a buddy feel intimidated or inferior by boasting about knowledge and experience",
+        "c": "Communication, encouragement, support, and respect",
+        "d": "Pressure a buddy to dive beyond his her limits"
+      },
+      "correct": "c",
+      "explanation": "SSI describes the qualities of a good buddy explicitly: communication, encouragement, support and respect. Open communication keeps both divers informed and aligned; encouragement helps a less confident partner relax; support — physical, mental and logistical — means being there when needed; respect means honoring the other's limits, comfort level and right to call any dive at any time. Boasting, intimidation, abandoning the buddy system or pressuring a partner to exceed personal limits are exactly the behaviors that create stress, undermine trust and lead to accidents. A good buddy makes diving safer and more enjoyable for both.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-096",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "A major source of stress is feeling that you must go ahead with a dive when you know you?",
+      "options": {
+        "a": "Have a high quality Total Dive System",
+        "b": "Aren't able to or do not wish to",
+        "c": "Are able to or wish to",
+        "d": "Have enough breathing gas"
+      },
+      "correct": "b",
+      "explanation": "SSI identifies as a major stress source the feeling that you must dive even though you know you are not able to (illness, fatigue, injury, insufficient training for the conditions, equipment problems) or simply do not wish to. Peer pressure, sunk-cost thinking, fear of disappointing a group or paid trip can all push a diver into the water against their better judgment, which creates immediate, intense stress that often escalates underwater. SSI's principle is unambiguous: a no-go decision can be made at any time without embarrassment. Owning quality gear, having gas, or being capable are not stress sources — being coerced into diving is.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-097",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "Factors that justify a no-go diving decision include?",
+      "options": {
+        "a": "Sickness, fatigued",
+        "b": "Poor environmental conditions or improper training for this conditions",
+        "c": "Equipment missing or equipment problems",
+        "d": "All answers are correct"
+      },
+      "correct": "d",
+      "explanation": "All three categories independently justify calling off a dive. Personal physical state — sickness, fatigue, hangover, dehydration, recent injury — directly increases risk of medical incidents and panic underwater. Environmental factors that exceed the diver's training (strong current, low visibility, cold, surf, depth, overhead environment) push the dive beyond the safety envelope. Equipment that is missing, malfunctioning or unfamiliar removes the redundancy and reliability the Total Diving System is designed to provide. Any one of these alone is enough; together the case is overwhelming. SSI emphasizes that a no-go decision can be made at any time, by any diver, without embarrassment.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-098",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "If anything out-of-the-ordinary happens in the planning phase:",
+      "options": {
+        "a": "Don`t worry if your buddy can handle it",
+        "b": "Reassess your dive decision",
+        "c": "Continue, because you are trained for all conditions",
+        "d": "Exchange you dive cylinder to a bigger one"
+      },
+      "correct": "b",
+      "explanation": "SSI teaches that anything out-of-the-ordinary during planning — unexpected change in conditions, a buddy feeling unwell, missing or malfunctioning equipment, last-minute changes to objective or site, or simply a gut feeling that something is off — should trigger a full reassessment of the dive decision. The reassessment may conclude that the dive can proceed with modifications, that it should be postponed, or that it should be cancelled. Assuming a buddy will cope, pretending all conditions are within training, or swapping to a bigger cylinder all dodge the real question. Honest reassessment when something feels wrong is a hallmark of safe, mature diving.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-099",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "Once you and your buddy are geared up, you should:",
+      "options": {
+        "a": "Make a last minute check of your equipment and your dive plan",
+        "b": "Ditch your weight system",
+        "c": "Rinse you masks with fresh water",
+        "d": "Deflate your BC completely"
+      },
+      "correct": "a",
+      "explanation": "SSI's pre-entry routine is a last-minute check of both equipment and dive plan after the buddy team is fully geared up. The buddy check confirms air on, weight system in place and releasable, releases on the BC located, final equipment check (computer on, SPG reading, alternate air source secured), and a quick verbal review of the agreed objective, depth, time and signals. Ditching weights or fully deflating the BC before entry is dangerous — divers should enter with positive buoyancy. Mask rinsing happens before donning. The geared-up buddy check is the final filter that catches problems while still on the surface.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-100",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "If your buddy feels apprehensive, allow him or her to:",
+      "options": {
+        "a": "Abort the dive",
+        "b": "Dive deeper",
+        "c": "Perform an emergency swimming ascent",
+        "d": "Ditch the weight system"
+      },
+      "correct": "a",
+      "explanation": "If a buddy feels apprehensive at any point, SSI doctrine is to allow them to abort the dive without embarrassment or pressure. Apprehension is Stage 1 or Stage 2 stress; forcing the dive to continue almost guarantees the stress will escalate, often into panic. A genuine buddy supports the no-go decision and surfaces with their partner. Going deeper compounds the problem by adding narcosis, gas density and distance from safety. An emergency swimming ascent and ditching weights are emergency procedures used only in actual emergencies, not as responses to discomfort. The safest, most respectful response is simply: end the dive together.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-101",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "A sign of rapid, shallow breathing is an almost continuous exhalation of a large amount of bubbles. Normal breathing should appear as a:",
+      "options": {
+        "a": "Fast inhalation followed by a fast exhalation.",
+        "b": "Fast deep inhalation followed by a fast deep exhalation.",
+        "c": "Slow, steady inhalation followed by 2 seconds of breath holding and fast deep exhalation.",
+        "d": "Slow, steady inhalation followed by a slow, steady exhalation."
+      },
+      "correct": "d",
+      "explanation": "Normal, relaxed diver breathing is a slow, steady inhalation followed by a slow, steady exhalation, producing distinct, evenly spaced bubble streams. This pattern maximizes gas exchange, minimizes CO2 retention and conserves breathing gas. Fast or shallow breathing produces a near-continuous bubble stream and is one of the earliest, most visible stress indicators. Holding the breath at any point during scuba is dangerous because of pulmonary overexpansion risk and CO2 buildup. Monitoring the breathing pattern of yourself and your buddy is, per SSI, one of the most important observations on every dive — it changes long before other stress signs appear.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-102",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "If your fellow diver is unable to recognize you or react to your presence, beware, it may be caused by:",
+      "options": {
+        "a": "Severe stress may be present and panic could result",
+        "b": "His/her vision might be disturbed by a foggy mask",
+        "c": "Your buddy is relaxed and might fall asleep",
+        "d": "This is the first sign for decompression sickness"
+      },
+      "correct": "a",
+      "explanation": "Tunnel vision and unresponsiveness — a buddy who looks straight through you, fails to acknowledge signals, and seems frozen or detached — are classic signs of severe Stage 2 stress. Adrenaline narrows attention onto a single perceived threat; the diver may genuinely not see or process anything outside that focus. Without intervention this state can rapidly tip into panic, which is the leading precursor to recreational diving fatalities. A foggy mask blocks vision but does not eliminate response to physical signals. Divers do not fall asleep underwater. DCS does not present this way. Recognize the unresponsiveness, get face-to-face contact, calm the diver and end the dive.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-103",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "Throughout your dive occasionally stop, rest, and?",
+      "options": {
+        "a": "Evaluate your physical condition",
+        "b": "Hold your breath to save breathing gas",
+        "c": "Inflate your BC",
+        "d": "watch the corals"
+      },
+      "correct": "a",
+      "explanation": "SSI recommends that throughout every dive divers occasionally stop, rest and honestly evaluate their physical condition: breathing rate, gas remaining, exertion, thermal comfort, any unusual sensations, and overall well-being. These short check-ins catch developing problems — overexertion, cold, equipment niggles, gas-management issues — while they are still small and easy to fix. Breath-holding on scuba is never acceptable because of pulmonary overexpansion risk. Inflating the BC randomly disrupts buoyancy. Watching corals is enjoyable but is not a self-assessment. Brief, deliberate self-checks are a cornerstone of stress prevention during the dive.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-104",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "Never feel the need to rush when diving, but move in a slow, relaxed manner. When diving with a group, move at the pace of?",
+      "options": {
+        "a": "The youngest group member",
+        "b": "The oldest group member",
+        "c": "The strongest group member, because it is called \"sports diving\".",
+        "d": "The slowest group member to keep them from becoming fatigued."
+      },
+      "correct": "d",
+      "explanation": "When diving as a group, SSI's rule is to move at the pace of the slowest member. This prevents fatigue, overexertion, elevated CO2 and the cascade of stress that follows when a struggling diver tries to keep up. Age and physical strength are poor proxies; what matters is the actual swimming pace each diver can sustain comfortably. Calling diving a sport does not justify pushing weaker partners. Slowing the whole group keeps everyone relaxed, reduces gas consumption, extends bottom time, and means everybody enjoys the dive — which is the goal of recreational diving.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-105",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "To keep in constant contact with your buddy you should communicate:",
+      "options": {
+        "a": "With hand signals",
+        "b": "All answers are correct",
+        "c": "Through physical contact",
+        "d": "Through eye contact"
+      },
+      "correct": "b",
+      "explanation": "Constant buddy contact uses every available channel. Hand signals exchange information clearly: OK, problem, low on gas, up, level off, look at this. Eye contact, even without signals, confirms presence, awareness and emotional state — wide eyes or a fixed stare are early stress flags. Physical contact (a touch on the arm, holding hands in low visibility or current, guiding a stressed buddy) communicates reassurance and keeps the team together when other signals are impractical. Each method covers situations where the others fail, so the comprehensive answer is correct. Good buddies cycle through all three throughout the dive.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-106",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "You always have to be alert and observant, but one of the most important things to monitor in yourself and others is:",
+      "options": {
+        "a": "The amount of fish close by",
+        "b": "The distance to the surface",
+        "c": "The breathing pattern",
+        "d": "The amount of weights used"
+      },
+      "correct": "c",
+      "explanation": "Of all the things to watch on a dive, breathing pattern is the single most important indicator of stress in yourself and your buddy. A normal slow, steady inhalation/exhalation cycle reflects calm and good gas exchange. Rapid, shallow breathing — visible as an almost continuous stream of bubbles — is the earliest, most reliable warning that stress is building, gas is being burned faster than expected, and CO2 is climbing. Catching that change early lets you stop, signal, slow down and recover before stress escalates to panic. Fish, surface distance and lead weight are situational; breathing is universal.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-107",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "To avoid and deal with stress as divers enter the water, you should always:",
+      "options": {
+        "a": "Monitor instruments",
+        "b": "All answers are correct",
+        "c": "Use the easiest methods of entry and descent",
+        "d": "Keep in constant contact with your buddy and be aware of physical stress"
+      },
+      "correct": "b",
+      "explanation": "Stress management during entry and descent uses all three SSI tools together. Use the easiest entry and descent method appropriate for the site (controlled seated entry, giant stride, line descent) so the transition into the water environment is smooth and relaxed. Monitor instruments — depth, time, computer, gas — from the start so any issue is caught immediately. Keep constant buddy contact and watch for signs of physical stress (rapid breathing, jerky movement, wide eyes, refusal to descend) so you can intervene early. Each measure independently reduces stress; combined they make the entry phase, statistically a high-risk part of the dive, much safer.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-108",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "The drowning victim usually does not scream for help and wave energetically on the surface, but rather drops silently below the surface unseen and unheard.",
+      "options": {
+        "a": "Right",
+        "b": "Wrong"
+      },
+      "correct": "a",
+      "explanation": "Right. Real drowning almost never resembles the dramatic Hollywood version of screaming and waving for help. The Instinctive Drowning Response described by SSI is silent: the victim's mouth bobs at the waterline, arms press laterally to push the body up, breathing takes priority over speech, the body remains vertical with no kicking, and within 20-60 seconds the victim slips silently below the surface unseen and unheard. This is why surface watch by buddies, instructors and boat crew must be active and continuous — by the time someone yells, it is usually already too late. Recognizing the silent presentation of drowning is fundamental to rescue.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-109",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "Which of the following is not a sign of drowning?",
+      "options": {
+        "a": "Arms attempting to push out of the water",
+        "b": "Able to inflate buoyancy compensator and relax",
+        "c": "Head held back and out of water",
+        "d": "Inability to speak"
+      },
+      "correct": "b",
+      "explanation": "Being able to inflate the BC and relax is the opposite of drowning — it is the controlled response of an aware diver who has solved the problem. The other three are textbook Instinctive Drowning Response signs: arms pressing laterally on the water trying to push the body up (not waving), head tilted back with the mouth fighting to stay above the waterline, and inability to speak because every breath is being used for survival rather than vocalization. Recognizing these silent signs and ruling out the calm, BC-inflated diver lets a rescuer correctly identify who actually needs immediate help on the surface.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-110",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "You should be aware of the following signs of stress at the end of your dive:",
+      "options": {
+        "a": "Mask off, regulator removed, failure to achieve positive buoyancy, shortness of breath, signs of drowning.",
+        "b": "None, because the dive is almost over",
+        "c": "BC inflated, regulator or snorkel in mouth",
+        "d": "Mask on, alternate air source removed, failure to achieve negative buoyancy, breathing normally"
+      },
+      "correct": "a",
+      "explanation": "End-of-dive stress is real and dangerous, often striking exactly when divers think they are safe. SSI lists the warning signs as: mask off (premature, often to gulp air), regulator removed before reliable positive buoyancy is established, failure to achieve positive buoyancy on the surface, shortness of breath, and any signs of drowning. The other choices either describe a safe, controlled diver (BC inflated, regulator/snorkel in mouth) or are nonsensical. Stage 3 — at the surface and exiting — has historically produced many recreational fatalities, so attentive surface watch and quick intervention here are as important as any other phase.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-111",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "Intelligent ascent and surface procedures can help you prevent stress at the end of the dive. These are:",
+      "options": {
+        "a": "Ditch any hand held extra equipment that is creating drag",
+        "b": "All answers are correct",
+        "c": "Plan to end your dive with 50 bar",
+        "d": "Control your ascents and stop at 5 meters for 3 to 5 minutes"
+      },
+      "correct": "b",
+      "explanation": "All listed actions are SSI-recommended end-of-dive procedures to prevent stress. Planning to surface with 50 bar reserve guarantees adequate gas for any unexpected delay. Controlled ascents with a 3–5 minute safety stop at 5 meters reduce DCS risk and let you check the surface before exiting. Ditching hand-held equipment that creates drag conserves energy when you may already be cold or tired. Together these intelligent ascent and surface habits prevent the fatigue-and-low-air combination that leads to incidents.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-112",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "At the end of the dive if you are cold, tired, and low on air -- you could be a prime candidate for:",
+      "options": {
+        "a": "The next dive",
+        "b": "Scuba Skills Update",
+        "c": "Having a relaxed safety stop",
+        "d": "Stress and an incident."
+      },
+      "correct": "d",
+      "explanation": "SSI identifies the combination of cold, fatigue, and low gas at the end of a dive as the classic prime-candidate profile for stress and an incident. Each factor on its own raises workload and reduces reserve capacity; together they overwhelm a diver's ability to manage problems and trigger panic. Recognising this state is the cue to abort, signal for help, or switch to alternate procedures rather than push through. Prevention through intelligent ascent procedures and gas planning is always preferable to reacting once stress has compounded.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-113",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 3 — Detecting & Dealing with Stress",
+      "question": "To rest comfortably on the surface without having to tread water, you always have to:",
+      "options": {
+        "a": "Establish negative buoyancy at the surface",
+        "b": "Establish neutral buoyancy at the surface",
+        "c": "Establish positive buoyancy at the surface",
+        "d": "Ditch your weight system before doing the safety stop 33 ©"
+      },
+      "correct": "c",
+      "explanation": "Positive buoyancy is the only state that lets a diver rest on the surface without expending energy. Neutral buoyancy still requires constant finning to keep the airway clear, and negative buoyancy will pull the diver under. SSI teaches divers to fully inflate the BC (and ditch weights if needed) immediately upon reaching the surface, especially when tired or stressed. This conserves energy, frees the hands for signalling, and prevents the fatigue spiral that leads to surface panic and drowning.",
+      "source": "SSI: Stress & Rescue Manual — Section 3 Review"
+    },
+    {
+      "id": "sr-review-114",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 4 — Accident Management",
+      "question": "What will carry both you and the victim through the incident until professional medical assistance arrives.",
+      "options": {
+        "a": "Mental stamina",
+        "b": "Physical skill",
+        "c": "CPR",
+        "d": "Physical strength"
+      },
+      "correct": "a",
+      "explanation": "SSI emphasises mental stamina as the decisive factor that carries rescuer and victim through an incident until EMS arrives. Physical skill, strength, and CPR are tools, but a rescue may require sustained effort, clear thinking, and emotional control over many minutes — towing, ventilating, coordinating help, and managing bystanders. Without mental stamina the rescuer fatigues, makes errors, or quits. Training, visualisation, and the Stop-Breathe-Think-Act routine build the mental discipline needed to keep functioning under stress until professional medical help takes over.",
+      "source": "SSI: Stress & Rescue Manual — Section 4 Review"
+    },
+    {
+      "id": "sr-review-115",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 4 — Accident Management",
+      "question": "The number one priority when diving will be always:",
+      "options": {
+        "a": "Warm water",
+        "b": "Cold water",
+        "c": "Prevention of stress",
+        "d": "Low price dive gear"
+      },
+      "correct": "c",
+      "explanation": "Prevention of stress is SSI's number-one diving priority because virtually every dive incident is preceded by a stress trigger that went unmanaged. By eliminating or controlling stressors — proper gear, fitness, training, planning, communication, and intelligent ascent procedures — divers prevent the chain of events that leads to panic and accidents. Reacting to a problem in the water is always harder, more dangerous, and more uncertain than preventing it. Water temperature and gear price are conditions of the dive, not safety priorities.",
+      "source": "SSI: Stress & Rescue Manual — Section 4 Review"
+    },
+    {
+      "id": "sr-review-116",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 4 — Accident Management",
+      "question": "If you are ever in a rescue situation by yourself, you will need to weigh?:",
+      "options": {
+        "a": "The benefits against the risks of the rescue attempt",
+        "b": "If the amount of weights to carry is too much",
+        "c": "If you should call for help or not",
+        "d": "If it is ok to drop the expensive camera to help my buddy"
+      },
+      "correct": "a",
+      "explanation": "When rescuing alone, SSI requires the rescuer to weigh the benefits against the risks of the attempt. A solo rescuer who becomes a second victim helps no one and doubles the workload of arriving responders. Factors include conditions, distance, the rescuer's training and fitness, the victim's likely state, and whether help is en route. If risks outweigh benefits, the correct choice is to summon help and stand by rather than attempt heroics. This benefit-versus-risk analysis is the foundation of every rescue decision.",
+      "source": "SSI: Stress & Rescue Manual — Section 4 Review"
+    },
+    {
+      "id": "sr-review-117",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 4 — Accident Management",
+      "question": "The dive team, will be able to justify a certain amount of risk with a potentially high benefit if they are responding in:",
+      "options": {
+        "a": "Search mode",
+        "b": "Recovery mode",
+        "c": "Nitrox mode",
+        "d": "Rescue mode"
+      },
+      "correct": "d",
+      "explanation": "Only in rescue mode — when there is a realistic chance of saving a life — can a dive team justify accepting elevated risk for a potentially high benefit. In search and recovery modes the victim is presumed deceased, so the operation must be conducted with conservative profiles and zero rescuer risk because no benefit can outweigh another casualty. Recognising which mode applies (rescue vs. search vs. recovery) governs the speed, aggressiveness, and risk tolerance of the response, and is a core accident-management decision.",
+      "source": "SSI: Stress & Rescue Manual — Section 4 Review"
+    },
+    {
+      "id": "sr-review-118",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 4 — Accident Management",
+      "question": "Checking vital signs on a victim consists of:",
+      "options": {
+        "a": "Checking the heart for cardiac arrhythmias",
+        "b": "Checking to see if the diver's airways are open, they are breathing, and they have circulation",
+        "c": "Checking the pulse with thick gloves at the legs",
+        "d": "Checking the dive profile"
+      },
+      "correct": "b",
+      "explanation": "Vital-sign assessment in dive accident management follows the ABC sequence: Airway open, Breathing present, Circulation (pulse) detectable. This is a rapid lay-rescuer evaluation that drives the next intervention — open the airway, give rescue breaths if not breathing, start CPR if no pulse. Diagnosing arrhythmias requires medical equipment, pulse checks through thick gloves at the legs are unreliable, and dive-profile review comes later for medical staff. ABC is the universal first-responder standard taught in every SSI rescue and first-aid programme.",
+      "source": "SSI: Stress & Rescue Manual — Section 4 Review"
+    },
+    {
+      "id": "sr-review-119",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 4 — Accident Management",
+      "question": "Decompression sickness symptoms usually appear:",
+      "options": {
+        "a": "As you descend to begin your dive",
+        "b": "15 minutes to 12 hours after surfacing",
+        "c": "5 minutes before surfacing",
+        "d": "24 to 48 hours after surfacing"
+      },
+      "correct": "b",
+      "explanation": "SSI teaches that DCS symptoms typically appear within 15 minutes to 12 hours after surfacing, with the majority manifesting in the first hour. This window is why divers must remain observable and reachable post-dive and why post-dive flying restrictions exist. Symptoms appearing during descent or before surfacing are not DCS, and onset beyond 24 hours is uncommon though possible. Knowing this timeframe lets rescuers correlate post-dive complaints with the recent profile and act fast: vital signs, 100% oxygen, EMS activation, and evacuation.",
+      "source": "SSI: Stress & Rescue Manual — Section 4 Review"
+    },
+    {
+      "id": "sr-review-120",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 4 — Accident Management",
+      "question": "Which is not a sign for Decompression Sickness:",
+      "options": {
+        "a": "Bright red coloration",
+        "b": "Local pain in arms, legs and joints",
+        "c": "Collapse and/or unconsciousness",
+        "d": "Tingling and itching of the skin"
+      },
+      "correct": "a",
+      "explanation": "Bright red (cherry-red) skin coloration is not a DCS sign — it is a classic indicator of carbon monoxide poisoning, often from contaminated breathing gas. True DCS signs include localised joint and limb pain (the bends), skin tingling and itching (skin bends), rashes, fatigue, neurological deficits, and in severe cases collapse or unconsciousness. Recognising the difference matters because CO poisoning requires immediate fresh air and oxygen, while DCS additionally requires recompression. Mistaking one for the other delays correct treatment.",
+      "source": "SSI: Stress & Rescue Manual — Section 4 Review"
+    },
+    {
+      "id": "sr-review-121",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 4 — Accident Management",
+      "question": "Which type of transportation is the most common and the safest in case of a diving incident?",
+      "options": {
+        "a": "Ground",
+        "b": "None of the answers are correct",
+        "c": "Water",
+        "d": "Air"
+      },
+      "correct": "a",
+      "explanation": "Ground transport is the most common and safest evacuation method for dive incidents. It is widely available, can be summoned through standard EMS, allows continuous patient care en route, and avoids the altitude exposure of air evacuation that can worsen DCS by reducing ambient pressure. Water transport is slow, exposed, and limited in care capability. Air transport is reserved for cases where distance or terrain makes ground impossible, and it should be flown low and pressurised when DCS is suspected. Distance and severity guide the final choice.",
+      "source": "SSI: Stress & Rescue Manual — Section 4 Review"
+    },
+    {
+      "id": "sr-review-122",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 4 — Accident Management",
+      "question": "If there are enough people on location, you may want someone to sit with emotional witnesses to keep them:",
+      "options": {
+        "a": "Comforted",
+        "b": "Quiet",
+        "c": "Warm",
+        "d": "Under custody"
+      },
+      "correct": "a",
+      "explanation": "Emotional witnesses should be kept comforted by a dedicated person whenever resources allow. Bystanders distressed by what they have seen can interfere with the rescue, become secondary medical concerns themselves, or spread panic. A calm companion reassures them, keeps them out of the responder's way, and gathers useful information for EMS. The goal is care and support, not silencing or detaining them. Effective accident management treats the scene as a whole, including the psychological wellbeing of everyone present.",
+      "source": "SSI: Stress & Rescue Manual — Section 4 Review"
+    },
+    {
+      "id": "sr-review-123",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 5 — Rescue Skills",
+      "question": "Basically the same skills learned in an Open Water Diver program are needed for:",
+      "options": {
+        "a": "Self aid",
+        "b": "CPR",
+        "c": "Rescue search patterns",
+        "d": "First Aid"
+      },
+      "correct": "a",
+      "explanation": "Self-aid uses essentially the same skills already taught in the Open Water Diver course: alternate-air-source use and regulator retrieval, buoyancy control and emergency ascents, alternate fin kicks, and cramp release. The Stress & Rescue programme reframes those familiar skills as the diver's first line of defence against personal problems underwater. CPR, search patterns, and first aid are additional disciplines requiring separate training. Recognising that OWD competencies already form a self-rescue toolkit reinforces why mastery of the basics matters.",
+      "source": "SSI: Stress & Rescue Manual — Section 5 Review"
+    },
+    {
+      "id": "sr-review-124",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 5 — Rescue Skills",
+      "question": "You should use alternate fin kicks if you:",
+      "options": {
+        "a": "Want to dive deeper",
+        "b": "Are tired",
+        "c": "Want to ascent",
+        "d": "Want to descent"
+      },
+      "correct": "b",
+      "explanation": "Alternate fin kicks (frog kick, modified flutter, etc.) are used when a diver is tired, because they recruit different muscle groups and reduce fatigue compared to the standard flutter kick. Switching kicks lets the diver continue moving while resting overworked muscles, preventing the cramps and exhaustion that often trigger stress at the end of a dive. Kick choice does not change depth direction — that is controlled by buoyancy and body position. Alternate kicks are a self-aid skill every diver should master.",
+      "source": "SSI: Stress & Rescue Manual — Section 5 Review"
+    },
+    {
+      "id": "sr-review-125",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 5 — Rescue Skills",
+      "question": "Before acting in an emergency situation you have to:",
+      "options": {
+        "a": "Inflate your BC",
+        "b": "Locate your alternate air source",
+        "c": "Regain control",
+        "d": "Hold your breath"
+      },
+      "correct": "c",
+      "explanation": "Regaining control is the mandatory first step before any other action in an emergency. A diver acting from panic makes poor decisions, wastes gas, and risks lung overexpansion or rapid ascent. SSI's Stop-Breathe-Think-Act routine restores composure: stop movement, breathe slowly through the regulator, think through the problem, then act with a plan. Inflating the BC, locating the alternate, or other physical responses come only after mental control is established. Holding the breath is never correct underwater.",
+      "source": "SSI: Stress & Rescue Manual — Section 5 Review"
+    },
+    {
+      "id": "sr-review-126",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 5 — Rescue Skills",
+      "question": "The best way to regain control of a situation is to immediately Stop- Breathe- Think-Act!",
+      "options": {
+        "a": "False",
+        "b": "True"
+      },
+      "correct": "b",
+      "explanation": "True. Stop-Breathe-Think-Act is the SSI-endorsed sequence for regaining control in any underwater or surface emergency. Stopping interrupts the panic cycle; slow, deep breathing restores oxygen and calms the nervous system; thinking lets the diver identify the actual problem and the right tool from training; acting then follows with deliberate, measured movements. This four-step routine works for self-aid, buddy assist, and full rescues, and it is the foundation of every other Stress & Rescue skill.",
+      "source": "SSI: Stress & Rescue Manual — Section 5 Review"
+    },
+    {
+      "id": "sr-review-127",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 5 — Rescue Skills",
+      "question": "A Buddy assist is used:",
+      "options": {
+        "a": "If your Buddy is relaxed and comfortable",
+        "b": "If your Buddy is experiencing stress but still under control",
+        "c": "If your Buddy is unconscious",
+        "d": "If your Buddy is experiencing stress and out of control"
+      },
+      "correct": "b",
+      "explanation": "A buddy assist is the appropriate response when a buddy shows signs of stress but is still in control of themselves and able to cooperate. The assisting diver helps solve the problem — sharing gas, signalling, slowing the ascent, calming — before stress escalates to panic. Once control is lost, the situation becomes a rescue with very different procedures. A relaxed buddy needs no assist, and an unconscious buddy requires full rescue protocols. Recognising the early stress signs is what makes the buddy assist possible.",
+      "source": "SSI: Stress & Rescue Manual — Section 5 Review"
+    },
+    {
+      "id": "sr-review-128",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 5 — Rescue Skills",
+      "question": "Always remember to take care of yourself first, because both of your lives become endangered without your:",
+      "options": {
+        "a": "Dive Plan",
+        "b": "Ascent",
+        "c": "Alternate air source",
+        "d": "Own safety"
+      },
+      "correct": "d",
+      "explanation": "Without your own safety, both lives are endangered. SSI's rule is unambiguous: secure yourself first, then help. A rescuer who runs out of gas, loses buoyancy, or panics becomes a second victim and removes the only chance of help. Self-first means controlled breathing, positive buoyancy, awareness of surroundings, and adequate gas before extending aid. Only from a position of personal safety can a diver provide effective buddy assist or rescue. This principle governs every contact with a stressed or impaired diver.",
+      "source": "SSI: Stress & Rescue Manual — Section 5 Review"
+    },
+    {
+      "id": "sr-review-129",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 5 — Rescue Skills",
+      "question": "To dominate the situation when conducting a rescue, it is vital you keep:",
+      "options": {
+        "a": "Distance to the victim",
+        "b": "Distance to the boat",
+        "c": "Your weightbelt",
+        "d": "In mental control"
+      },
+      "correct": "d",
+      "explanation": "Mental control is what lets a rescuer dominate a chaotic, high-stress scene. By staying calm and thinking clearly, the rescuer makes correct sequencing decisions, projects authority that calms the victim and bystanders, and avoids the errors that turn rescues into double tragedies. Physical distance and equipment retention serve specific tactical purposes but neither defines control. Dominating the situation flows from the same Stop-Breathe-Think-Act discipline used in self-aid, scaled up to manage a victim and the surrounding environment.",
+      "source": "SSI: Stress & Rescue Manual — Section 5 Review"
+    },
+    {
+      "id": "sr-review-130",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 5 — Rescue Skills",
+      "question": "Rescue breathing in water:",
+      "options": {
+        "a": "All answers are correct",
+        "b": "May delay your exit",
+        "c": "May force water into the lungs",
+        "d": "Is extremely difficult in water"
+      },
+      "correct": "a",
+      "explanation": "All three statements are accurate. In-water rescue breathing may delay exit because each breath stops forward progress. It may force water into the victim's lungs since waves, technique error, or improper head position can drive water past the airway. And it is extremely difficult — wet faces, masks, regulators, towing, and surface chop all work against an effective seal and rhythm. SSI therefore recommends rescue breaths only when distance to safety is significant and the victim has a pulse but is not breathing.",
+      "source": "SSI: Stress & Rescue Manual — Section 5 Review"
+    },
+    {
+      "id": "sr-review-131",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 5 — Rescue Skills",
+      "question": "If you are separated from your dive buddy, you should:",
+      "options": {
+        "a": "Start searching until your breathing gas gets low, then surface",
+        "b": "Surface immediately",
+        "c": "Continue your dive",
+        "d": "Surface after making two 360 degree visual sweeps (1 Minute)"
+      },
+      "correct": "d",
+      "explanation": "SSI's standard buddy-separation procedure is to make two 360-degree visual sweeps — about one minute total — and then surface. Brief structured search lets buddies reunite at depth if they are nearby, while the one-minute limit prevents prolonged searches that compound the separation and waste gas. Surfacing immediately skips the chance to reunite quickly; continuing the dive abandons the buddy; searching until low on gas creates a low-air emergency. Reunion happens at the surface, where both divers can see and signal each other.",
+      "source": "SSI: Stress & Rescue Manual — Section 5 Review"
+    },
+    {
+      "id": "sr-review-132",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 5 — Rescue Skills",
+      "question": "To help your buddy without endangering yourself, you must be able to:",
+      "options": {
+        "a": "See",
+        "b": "All answers are correct",
+        "c": "Breathe",
+        "d": "Establish positive buoyancy"
+      },
+      "correct": "b",
+      "explanation": "All three conditions must be met simultaneously to assist a buddy safely. Seeing the victim, surroundings, and your own gauges lets you assess and act without surprises. Breathing — meaning a working air supply and a calm, regulated breath cycle — keeps you conscious and capable. Positive buoyancy frees your hands, prevents fatigue, and keeps both heads above water on the surface. If any one of these is missing, helping the buddy turns into a second emergency. Self-safety always precedes assistance.",
+      "source": "SSI: Stress & Rescue Manual — Section 5 Review"
+    },
+    {
+      "id": "sr-review-133",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 5 — Rescue Skills",
+      "question": "When bringing an unconscious buddy to the surface, you need to do it:",
+      "options": {
+        "a": "With a surface marker buoy",
+        "b": "As slow as possible",
+        "c": "In a controlled manner, without endangering yourself",
+        "d": "With your alternate air source"
+      },
+      "correct": "c",
+      "explanation": "An unconscious diver must be brought up in a controlled manner that does not endanger the rescuer. Controlled means a steady ascent rate that minimises lung-overexpansion and DCS risk for the victim while letting the rescuer manage buoyancy, airway position, and equipment. \"As slow as possible\" can be wrong if the victim is not breathing — getting them to surface care quickly matters. The decisive constraint is the rescuer's own safety: a lost rescuer cannot help anyone. SMB and alternate air are tools, not the principle.",
+      "source": "SSI: Stress & Rescue Manual — Section 5 Review"
+    },
+    {
+      "id": "sr-review-134",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 5 — Rescue Skills",
+      "question": "If the victim on the surface has no pulse, you should start in-water resuscitation immediately.",
+      "options": {
+        "a": "False",
+        "b": "True"
+      },
+      "correct": "a",
+      "explanation": "False. Effective CPR — the only intervention for a pulseless victim — requires a firm, flat surface and cannot be delivered in the water. Compressions on a floating body are useless. The correct response is to get the victim out of the water as quickly as possible (boat, shore, platform) and start full CPR there. In-water rescue breathing applies only when the victim has a pulse but is not breathing and shore is far away. Time spent attempting in-water CPR is wasted time the victim cannot afford.",
+      "source": "SSI: Stress & Rescue Manual — Section 5 Review"
+    },
+    {
+      "id": "sr-review-135",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 6 — Conditions Complicating Rescues",
+      "question": "It is important that you have good skills, knowledge, equipment, and experience to perform:",
+      "options": {
+        "a": "Buddy assist",
+        "b": "Self aid",
+        "c": "All answers are correct",
+        "d": "Rescues and recoveries"
+      },
+      "correct": "c",
+      "explanation": "Skills, knowledge, equipment, and experience are required for every level of response — self aid, buddy assist, and full rescues or recoveries. Self-aid demands mastery of basic OWD skills; buddy assist adds communication and shared problem-solving; rescues and recoveries add tow techniques, water exits, CPR, oxygen, and accident management. Underlying all three is the diver's experience and judgement to choose the right action and recognise their own limits. SSI's continuing-education ladder (training, gear, dive logs) is designed to build all four pillars together.",
+      "source": "SSI: Stress & Rescue Manual — Section 6 Review"
+    },
+    {
+      "id": "sr-review-136",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 6 — Conditions Complicating Rescues",
+      "question": "If you are stranded on the surface, which precautions will make you easier to recognize?",
+      "options": {
+        "a": "Bright colored wetsuit and/or BC",
+        "b": "All answers are correct",
+        "c": "Whistle",
+        "d": "Inflatable surface marker buoy"
+      },
+      "correct": "b",
+      "explanation": "All three precautions improve recognition of a stranded surface diver. Brightly coloured wetsuits or BCs (yellow, orange, red) stand out against waves and contrast with grey or blue water. A whistle carries far further than the human voice and works without wind. An inflatable SMB rises three to two metres above the surface, becoming visible at long range and to passing boats. Combined, they cover sight and sound, day and night-into-distance, and form the standard SSI surface-signalling kit every open-water diver should carry.",
+      "source": "SSI: Stress & Rescue Manual — Section 6 Review"
+    },
+    {
+      "id": "sr-review-137",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 6 — Conditions Complicating Rescues",
+      "question": "Environmental conditions, which make rescues more difficult include:",
+      "options": {
+        "a": "Warm Water and good visibility",
+        "b": "Low tide and sandy beach",
+        "c": "Full moon and high tide",
+        "d": "Poor visibility and cold water"
+      },
+      "correct": "d",
+      "explanation": "Poor visibility and cold water are the two environmental conditions SSI flags as principal complicators of any rescue. Poor visibility hides the victim, slows search patterns, and isolates rescuer from buddy. Cold water sucks energy and dexterity from both rescuer and victim, accelerates exhaustion, and raises the risk of hypothermia after the rescue. Warm water with good visibility is ideal for rescues; low tide on a sandy beach actually eases extraction; tide and moon do not by themselves complicate rescues.",
+      "source": "SSI: Stress & Rescue Manual — Section 6 Review"
+    },
+    {
+      "id": "sr-review-138",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 6 — Conditions Complicating Rescues",
+      "question": "SSI does not recommend diving in either ice or caves without:",
+      "options": {
+        "a": "Proper training",
+        "b": "Double Cylinders",
+        "c": "Dry Suit",
+        "d": "Dive light"
+      },
+      "correct": "a",
+      "explanation": "SSI explicitly does not recommend ice or cave diving without proper training. Both environments are overhead environments — direct ascent to the surface is impossible — and entrapment, disorientation, gas-management, and visibility hazards are far beyond recreational open-water skills. Specialist programmes (Ice Diver, Cavern Diver, full Cave training) build the procedures, redundancy, and judgement required. Equipment such as double cylinders, dry suit, and lights is necessary but useless without the training to use them. Training is the prerequisite that gates equipment choices.",
+      "source": "SSI: Stress & Rescue Manual — Section 6 Review"
+    },
+    {
+      "id": "sr-review-139",
+      "area": "diver_stress_rescue",
+      "subarea": "Section 6 — Conditions Complicating Rescues",
+      "question": "If you or any diver is ever experiencing shortness of breath or chest pain on the surface, the dive should be:",
+      "options": {
+        "a": "postponed by one hour",
+        "b": "Cancelled",
+        "c": "Started",
+        "d": "Continued"
+      },
+      "correct": "b",
+      "explanation": "Shortness of breath or chest pain on the surface are red-flag symptoms that mandate cancelling the dive. They can signal cardiac problems, lung overexpansion injury, immersion pulmonary oedema, or significant exertion stress — all of which become far more dangerous underwater where a developing emergency cannot be aborted instantly. Postponing by an hour or starting/continuing the dive ignores a clear warning. The diver should rest, be observed, and seek medical evaluation. Future diving resumes only after a doctor familiar with diving clears the cause.",
+      "source": "SSI: Stress & Rescue Manual — Section 6 Review"
     }
   ]
 }
