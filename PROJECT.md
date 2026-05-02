@@ -75,25 +75,31 @@ Dark (default) ↔ Light toggle 🌙/☀️ v topbaru. Persistence v `ssi.theme`
 
 ## Question bank
 
-### Counts (k 2026-05-01 evening)
+### Counts (k 2026-05-02 noc)
 - Open Water Diver: **100** (Personal exam Form A+B)
-- Science of Diving: **546** (120 compiled + 200 Personal exam Form A+B + **226 mssi-sod Reviews Lesson 1.1–5.6 + 3.5**)
-- Diver Stress & Rescue: **50** (Personal exam Form A+B, 25 q each — PDF Q26-50 missing)
+- Science of Diving: **863** (120 compiled + 200 Personal exam Form A+B + 242 mssi-sod Reviews + **301 SSI Manual reviews z PDF**)
+- Diver Stress & Rescue: **139** (50 Personal exam + **89 SR Manual section reviews z PDF**)
 - React Right: **100** (Personal exam Form A+B)
 - Divemaster: **150** (50 compiled + 100 Personal Dive Guide exam Form A+B)
 - Assistant Instructor: **50**
-- Instructor: **753** (z toho 200 Personal ITC/AIT exam questions, 403 mssi-inst Reviews + Pretest)
-- **Total EN: 1749 | CS: 1749 — full parity ✓** (CS překlad mssi-sod-063..226 dokončen 2026-05-01 přes 7 paralelních překladových agentů)
+- Instructor: **753** (200 Personal ITC/AIT exam, 403 mssi-inst Reviews + Pretest)
+- **Total EN: 2155** | CS: 1749 (částečná parita — manual review PDFs zatím EN-only dle uživatelovy preference)
 
-### SoD Lesson Reviews progress (mssi-sod-NNN)
+### SoD Lesson Reviews progress
+**mssi-sod-NNN (mySSI online quiz, 242 questions):**
 | Section | Range | Lessons covered |
 |---|---|---|
 | 1. Physics & Chemistry | mssi-sod-001..035 | 1.1–1.5 |
 | 2. Decompression Theory | mssi-sod-036..062 | 2.1–2.3 |
-| 3. Anatomy & Physiology | mssi-sod-063..098 + mssi-sod-213..226 | 3.1–3.5 (3.5 dodán dodatečně po Section 5) |
+| 3. Anatomy & Physiology | mssi-sod-063..098 + 213..242 | 3.1–3.7 |
 | 4. Equipment | mssi-sod-099..160 | 4.1–4.9 |
 | 5. Environment | mssi-sod-161..212 | 5.1–5.6 |
-| (zbývá) Section 6+? | — | — |
+
+**sod-manual-NNN (Science of Diving Instructor Manual PDF, 205 NEW):** Lessons 1.1–5.6 covered (308 z 513 PDF otázek byly už v bance, 205 nových)
+
+**ean-manual-NNN (Enriched Air Nitrox Manual PDF, 52 NEW):** Sections 1–4
+**pb-manual-NNN (Perfect Buoyancy Manual PDF, 44 NEW):** Sections 1–4
+**sr-review-NNN (Stress & Rescue Manual PDF, 89 NEW):** Sections 1–6 (24 z 113 PDF otázek byly už v bance)
 
 ### Source kategorie (4-way)
 
@@ -236,6 +242,55 @@ Netlify Functions (`netlify/functions/`):
 - Login screen registers/logs in, stores `ssi.currentUser` in localStorage.
 - Every state change → debounce push to `/api/state?user=<currentUser>`.
 - Dashboard has user dropdown — fetches any user's state via `/api/state?user=X` (read-only view).
+
+## STAV K 2026-05-02 (pozdě večer) — 4 PDF manuály zpracované, bank skok 1749 → 2155
+
+V této session přidáno **406 nových otázek** (1749 → 2155) z **4 SSI Instructor Manual PDFů**:
+
+| PDF | V PDF | Match | Nové | ID prefix |
+|---|---|---|---|---|
+| `SC-SR_English-Metric_IM.pdf` (Stress & Rescue) | 113 | 24 | **89** | `sr-review-051..139` |
+| `SC-SOD_English-Metric_IM.pdf` (Science of Diving) | 513 | 308 | **205** | `sod-manual-001..205` |
+| `SC-EAN_English-Metric_IM.pdf` (Enriched Air Nitrox) | 52 | 0 | **52** | `ean-manual-001..052` |
+| `SC-PB_English-Metric_IM.pdf` (Perfect Buoyancy) | 45 | 1 | **44** | `pb-manual-001..044` |
+| **Total** | 723 | 333 | **390** | |
+
+Plus **16 mySSI SoD Lesson 3.6+3.7 questions** (mssi-sod-227..242 — Hypercapnia, Narcosis, Thermoregulation) → grand total 406 nových.
+
+### Zdroje jasně označené
+- `SSI: Stress & Rescue Manual — Section X Review`
+- `SSI: Science of Diving Manual — Lesson X.Y Review`
+- `SSI: Enriched Air Nitrox Manual — Section X Review`
+- `SSI: Perfect Buoyancy Manual — Section X Review`
+- `mySSI: SoD Lesson X.Y Review` (existující)
+
+### Workflow optimalizace
+- **PDF parsing pipeline** (`pdftotext -layout` + Python regex pro Review Section / Lesson X.Y | Review Key)
+- **Dedup script** (správný handling i krátkých otázek, prefix matching s minimum char threshold)
+- **Parallel agent dispatch** — chunky o ≤22 otázkách (osvědčená velikost; 30 q stalls)
+- **Per-PDF source labels** drží přehled odkud co je
+- 15 paralelních překladových/processing agentů zvládli 301 otázek za <10 min
+
+### NEEDS VERIFICATION (k pozdějšímu ověření při drillu)
+| ID | Důvod |
+|---|---|
+| `sod-manual-028` | Apparent mass formulace divná |
+| `sod-manual-035` | SAC math — agent vypočítal 100 bar, mySSI key může mít 112 bar |
+| `sod-manual-044` | Dive computer rationale — 'simplify planning' vs 'reduce DCS risk' |
+| `sod-manual-091` | Duplicate option v PDF (pravděpodobně OCR chyba) |
+| `sod-manual-146` | Option text corruption v PDF |
+
+Plus dva existující flagy z předchozí session: `mssi-sod-215` (histotoxic), `mssi-sod-223` (hypoxemic).
+
+### CS překlad
+- **mssi-sod-227..242** (16 q) — pending CS překlad (existující CS bank má 1749, EN má 2155 → rozdíl 406)
+- **301 manual review questions** — uživatel explicitně řekl "preklady nemusis delat" — EN-only OK
+- **89 SR review questions** — CS překlad běžel v session, ale pravděpodobně nebyl smerge-nutý (chunky existují v `cs/sr_review_chunks/*.cs.json` — 4 chunky hotové). Pokud potřeba, smerge později.
+
+### Aktivní task při příští session
+Pokračovat s mySSI questions (uživatel diktuje verbatim) — bank position po této session: **mssi-sod-242**, další by byl `mssi-sod-243`. Nebo zpracovat další PDFy/manuály.
+
+---
 
 ## STAV K 2026-05-01 (noc) — Dashboard 2.0 + cross-machine handoff
 
